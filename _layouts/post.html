@@ -17,6 +17,7 @@
 			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />{% endif %}
 			<div class="overlay">
 				<h1>{{page.title}}</h1>
+				<p class="imgattribution">Banner image attribution: {{page.imgattribution}}</p>
 			</div>
 		</div>
 
@@ -31,7 +32,9 @@
 		</section>
 			
 			<section id="books">
-				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1></header>
+				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1>
+					<div class="attribution"><p>Book citations: {{page.bookattribution}}</p></div>
+				</header>
 				<div class="inner booktile">
 					{% for book in site.data[page.person].books %}
 
@@ -56,9 +59,6 @@
 					{% endfor %}
 							
 				</div>
-
-					<p class="attribution">Banner image attribution: {{page.imgattribution}};
-					Book citations: {{page.bookattribution}}</p>
 
 			</section>
 

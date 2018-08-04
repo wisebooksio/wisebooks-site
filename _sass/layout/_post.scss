@@ -30,6 +30,14 @@
 			font-size: 7em;
 			text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
 		}
+
+		.imgattribution {
+			font-size: 10px;
+			position: absolute;
+			bottom: 0;
+			margin: 0 0 1em 1em;
+			color: lightgray;
+		}
 	
 
 	}	
@@ -52,6 +60,14 @@
 #books {
 	background-color: #e6e9ec;
 	height: auto;
+
+	.attribution {
+		font-size: 10px;
+		text-align: center;
+		text-transform: uppercase;
+		margin: 0 auto;
+		font-weight: 800;
+	}
 
 	.booktitle {
 		text-align: center;
@@ -155,12 +171,7 @@
 		}
 	}
 	
-	
-	.attribution {
-		font-size: 10px;
-		margin: 0;
-		padding: 0 0 1em 1em;
-	}
+
 }
 
 .subscribe {
@@ -241,7 +252,7 @@
 		.imgbanner {
 			height: 32vh;
 			img {
-				width: 130%;
+				width: 135%;
 			}
 			.overlay {
 				h1 {
