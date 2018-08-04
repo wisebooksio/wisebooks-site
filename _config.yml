@@ -2,7 +2,7 @@
 title: Wisebooks
 email: wisebooksio@gmail.com
 description: Good books read by smart people.
-baseurl:
+baseurl: www.wisebooks.io
 url: # the base hostname & protocol for your site
 author: Christine & Jenny
 
@@ -22,7 +22,7 @@ twitter_url: https://twitter.com
 mailchimp: https://wisebooks.us19.list-manage.com/subscribe/post?u=353a3edf5a036907ebe71dc44&amp;id=485976f620
 
 # Tracker
-analytics: UA-113700903-1 # Google Analytics
+analytics: UA-123321285-1 # Google Analytics
 
 # build settings
 markdown: kramdown
