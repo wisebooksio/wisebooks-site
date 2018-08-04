@@ -16,10 +16,10 @@
             </header>
             <div class="content">
                 <p class="light">{{ site.description }}</p>
-                <div class="homesubscription">
+                <form class="homesubscription" action="{{ site.mailchimp }}" method="post">
                     <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
                     <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
-                </div>
+                </form>
             </div>
         </div>
     </section>
@@ -28,10 +28,10 @@
 
         {% include tiles.html %}
 
-        <div class="homesubscription2">
+        <form class="homesubscription2" action="{{ site.mailchimp }}" method="post">
             <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
             <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
-        </div>
+        </form>
 
     </div>
 

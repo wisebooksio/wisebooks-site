@@ -17,6 +17,10 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com
 
+
+#mailchimp
+mailchimp: https://wisebooks.us19.list-manage.com/subscribe/post?u=353a3edf5a036907ebe71dc44&amp;id=485976f620
+
 # Tracker
 analytics: UA-113700903-1 # Google Analytics
 

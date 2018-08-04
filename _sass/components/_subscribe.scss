@@ -2,6 +2,8 @@
   display: flex;
   margin-left: 0 !important;
   margin-top: 1em;
+  background-color: rgba(0,0,0,0);
+  box-shadow: none;
 
   .email-input {
     background-color: rgba(212,212,255,0.1) !important;
@@ -14,6 +16,8 @@
   display: flex;
   width: 60%;
   margin: 3em 0 0 3em;
+  background-color: rgba(0,0,0,0);
+  box-shadow: none;
   .email-input {
     background-color: rgba(212,212,255,0.1) !important;
     margin-right: 0.5em;
