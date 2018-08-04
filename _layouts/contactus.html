@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+    <body>
+
+        {% include header.html %}
+
+    
+            <!-- Main -->
+            <section class="contactform" class="alt">
+                
+                <div class="inner">
+
+                    <div class="imgbanner-contact">
+                        <img src="{{ site.baseurl }}/assets/images/contactform.jpg" alt="" />
+                            <div class="overlay-contact">
+                                <h1>Contact Us</h1>
+                            </div>
+                    </div>        
+
+                        <section class="contactus">
+                            <form action="https://formspree.io/{{ site.email }}" method="POST">
+                                <div class="innerform">
+                                        <p>We'd love to hear from you! Reach out to us using this form and we'll get back to you ASAP.</p>
+                                
+                                    <div class="field half first">
+                                        <label for="name">Name</label>
+                                        <input type="text" name="name" id="name" />
+                                    </div>
+                                    <div class="field half" style="padding-left: 0;">
+                                        <label for="email">Email</label>
+                                        <input type="text" name="_replyto" id="email" />
+                                    </div>
+                                    <div class="field">
+                                        <label for="message">Message</label>
+                                        <textarea name="message" id="message" rows="6"></textarea>
+                                    </div>
+                                    <div class="actions">
+                                        <input type="submit" value="Send Message" class="button specialdark" />
+                                        <input type="reset" value="Clear" />
+                                    </div>
+                                </div>
+                            </form>
+                        </section>
+                </div>    
+            </section>
+
+    </body>
+
+    {% include simple_footer.html %}
+
+</html>		

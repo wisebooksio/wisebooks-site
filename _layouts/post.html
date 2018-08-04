@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+	<div id="main" class="alt">
+
+<!-- One -->
+
+		<div class="imgbanner"> <!---class found in _image.scss-->
+			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />{% endif %}
+			<div class="overlay">
+				<h1>{{page.title}}</h1>
+			</div>
+		</div>
+
+		<section id = "bio">
+				<div class="inner">
+					<div class="bio-content">
+						<a href="#books" class="button specialdark books">Skip to Books</a>
+							&nbsp;
+							<p>{{content}}</p>
+					</div>
+				</div>
+		</section>
+			
+			<section id="books">
+				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1></header>
+				<div class="inner booktile">
+					{% for book in site.data[page.person].books %}
+
+					<div class = "book-card">
+						<span class="bookimage"><img src="{{book.book_cover}}"/></span>
+						<span class="descriptionbuy">
+						<p>{{book.description}}</p>
+						</span>
+							<div class="bookbuttons">
+								<details>
+									<summary class="button small yellow readmore">Read More</summary>
+										<div class="expanded">
+											<p>{{book.full_description}}</p>
+										</div>	
+
+								</details>
+								<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
+							</div>	
+						<div class="border"></div>
+					</div>
+					
+					{% endfor %}
+							
+				</div>
+
+					<p class="attribution">Banner image attribution: {{page.imgattribution}};
+					Book citations: {{page.bookattribution}}</p>
+
+			</section>
+
+			<section class="subscribe" id="mc-embed-signup">
+				<header class="major center"><h2>SUBSCRIBE & READ MORE</h2></header>
+				<div class="form-container">
+				<form action="{{ site.mailchimp }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<p>Want more books? Sign up for our newsletters.</p>
+					<div class="newsletter-box" id="mc_embed_signup_scroll">
+					<input type="email" name="EMAIL" class="email-input" id="mce-EMAIL" value="Email address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+					<input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+					</div>
+				</form>
+				</div>
+			</section>
+
+
+			{% include simple_footer.html %}
+
+	</div>
+
+</body>
+
+</html>

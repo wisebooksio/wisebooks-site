@@ -1,0 +1,21 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/transformation of the world.jpg",
+    "description": "The Transformation of the World sheds important new light on this momentous epoch, showing how the nineteenth century paved the way for the global catastrophes of the twentieth century, yet how it also gave rise to pacifism, liberalism, the trade union, and a host of other crucial developments.",
+    "full_description": "Jürgen Osterhammel, an eminent scholar who has been called the Braudel of the nineteenth century, moves beyond conventional Eurocentric and chronological accounts of the era, presenting instead a truly global history of breathtaking scope and towering erudition. He examines the powerful and complex forces that drove global change during the 'long nineteenth century,' taking readers from New York to New Delhi, from the Latin American revolutions to the Taiping Rebellion, from the perils and promise of Europe's transatlantic labor markets to the hardships endured by nomadic, tribal peoples across the planet. Osterhammel describes a world increasingly networked by the telegraph, the steamship, and the railways. He explores the changing relationship between human beings and nature, looks at the importance of cities, explains the role slavery and its abolition played in the emergence of new nations, challenges the widely held belief that the nineteenth century witnessed the triumph of the nation-state, and much more.",
+    "amazon_link": "https://amzn.to/2ODaZhB"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/history of germany since 1789_golo mann.jpg",
+        "description": "'At times,' writes Golo Mann, 'the Germans seem a philosophical people, at others the most practical and most materialistic at times the most peaceful, at others the most domineering and brutal. Time after time they have surprised the world by things least expected of them.'",
+        "full_description": "It is this quality of paradox, even of mystery, in the German nation that the distinguished historian renders with such subtlety and penetration in this celebrated study. It traces the whole sweep of intellectual development in Germany since the French Revolution. As well as chronicling historic events, the book deals in detail with the contributions of philosophers, poets and novelists alongside those of parliamentarians and generals.",
+        "amazon_link": "https://amzn.to/2O5IRCG"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/madam curie_biography_eve curie.jpg",
+        "description": "Written by Curie's daughter, the renowned international activist Eve Curie, this biography chronicles Curie's legendary achievements in science, including her pioneering efforts in the study of radioactivity and her two Nobel Prizes in Physics and Chemistry.",
+        "full_description": "It also spotlights her remarkable life, from her childhood in Poland, to her storybook Parisian marriage to fellow scientist Pierre Curie, to her tragic death from the very radium that brought her fame. Now updated with an eloquent, rousing introduction by best-selling author Natalie Angier, this timeless biography celebrates an astonishing mind and a extraordinary woman's life.",
+        "amazon_link": "https://amzn.to/2vb23rp"   
+    },
+
+]

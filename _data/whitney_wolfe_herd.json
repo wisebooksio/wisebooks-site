@@ -1,0 +1,15 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/Shantaram_Gregory David Roberts.jpg",
+    "description": "Shantaram is narrated by Lin, an escaped convict with a false passport who flees maximum security prison in Australia for the teeming streets of a city where he can disappear. Accompanied by his guide and faithful friend, Prabaker, the two enter Bombay's hidden society of beggars and gangsters, prostitutes and holy men, soldiers and actors, and Indians and exiles from other countries.",
+    "full_description": "As a hunted man without a home, family, or identity, Lin searches for love and meaning while running a clinic in one of the city's poorest slums, and serving his apprenticeship in the dark arts of the Bombay mafia. The search leads him to war, prison torture, murder, and a series of enigmatic and bloody betrayals. The keys to unlock the mysteries and intrigues that bind Lin are held by two people. The first is Khader Khan: mafia godfather, criminal-philosopher-saint, and mentor to Lin in the underworld of the Golden City. The second is Karla: elusive, dangerous, and beautiful, whose passions are driven by secrets that torment her and yet give her a terrible power. Burning slums and five-star hotels, romantic love and prison agonies, criminal wars and Bollywood films, spiritual gurus and mujaheddin guerrillas---this huge novel has the world of human experience in its reach, and a passionate love for India at its heart. Based on the life of the author, it is by any measure the debut of an extraordinary voice in literature.",     
+    "amazon_link": "https://amzn.to/2v515x3",
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the plant paradox.jpg",
+        "description": "In The Plant Paradox, renowned cardiologist Dr. Steven Gundry reveals that gluten is just one variety of a common, and highly toxic, plant-based protein called lectin.With a full list of lectin-containing foods and simple substitutes for each, a step-by-step detox and eating plan, and delicious lectin-free recipes, The Plant Paradox illuminates the hidden dangers lurking in your salad bowl—and shows you how to eat whole foods in a whole new way.",     
+        "full_description": "Lectins are found not only in grains like wheat but also in the “gluten-free” foods most of us commonly regard as healthy, including many fruits, vegetables, nuts, beans, and conventional dairy products. These proteins, which are found in the seeds, grains, skins, rinds, and leaves of plants, are designed by nature to protect them from predators (including humans). Once ingested, they incite a kind of chemical warfare in our bodies, causing inflammatory reactions that can lead to weight gain and serious health conditions.",
+        "amazon_link": "https://amzn.to/2mYe6nx",
+        },
+    
+] 

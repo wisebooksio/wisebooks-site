@@ -1,0 +1,51 @@
+.about {
+    width: 100%;
+    display: flex;
+    border-bottom: 10px solid _palette(mainyellow);
+    .aboutimg {
+        width: 40%;
+        margin-right: 1em;
+
+        img {
+            width: 80%;
+        }
+    }
+    .abouttext {
+        width: 50%;
+    }
+    .aboutimg2 {
+        width: 21%;
+    }
+}
+
+@include breakpoint(medium) {
+    header {
+        margin-bottom: 0 !important;
+    }
+    .about {
+        flex-wrap: wrap-reverse;
+        .abouttext {
+            width: 100%;
+        }
+        .aboutimg {
+            width: 60%;
+            margin: 0 auto;
+        }
+        .aboutimg2 {
+            visibility: hidden;
+        }
+    }
+}
+
+@include breakpoint(small) {
+
+    .about {
+
+        .aboutimg {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+    }
+
+}

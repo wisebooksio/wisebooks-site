@@ -1,0 +1,48 @@
+
+/* allposts */
+
+	.innerpeople {
+		display: flex;
+		flex-wrap: wrap;
+		.box {
+			width: 48%;
+            margin-left: 1em;
+            .box-description {
+                width: 55%;
+                float: right;
+            }
+
+		}
+    }
+
+	@include breakpoint(medium) {
+		.innerpeople {
+			.box {
+				width: 100%;
+                margin-left: 0;
+                margin-top: 2em;
+			}
+		}	
+    }
+    
+    @include breakpoint(small) {
+        .innerpeople {
+            .box {
+                display: flex;
+                flex-direction: column;
+                .image {
+                    margin: 0 auto;
+                    max-width: 90% !important;
+                    margin-bottom: 1em;
+                    height: auto;
+                    
+                }
+                .box-description {
+                    width: 100%;
+                    float: none;
+                    text-align: center;
+                }
+            }
+
+        }
+    }

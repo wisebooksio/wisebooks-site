@@ -1,0 +1,22 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/the transformed cell.jpg",
+    "description": "The story of the new scientific breakthroughs that have revolutionized the treatment of cancer and other terminal illnesses. The author is a world authority on cancer and its treatment. His quest for a cure began in 1968 when a patient of his with inoperable cancer recovered spontaneously. Had the man's immune system somehow killed the tumour? And if so, can the body rid itself of cancer?",
+    "full_description": "From this moment on, Dr Rosenberg seized upon immunotherapy as the most promising path towards a cure for the disease. Most recently he has pioneered gene therapy, a technique in which a patient's own genes are altered in the laboratory and then reintroduced into the bloodstream to attack tumours. So far, his efforts have been profoundly encouraging. The narrative has the power and pace of a thriller - a thriller in search of the keys to life itself.",     
+    "amazon_link": "https://amzn.to/2v1LDBO",
+    },
+    {
+        "book_cover":"/assets/images/bookpics/mistakes were made.jpg",
+        "description": "Backed by years of research, Mistakes Were Made (But Not by Me ) offers a fascinating explanation of self-justification - how it works, the damage it can cause, and how we can overcome it. This updated edition features new examples and concludes with an extended discussion of how we can live with dissonance, learn from it, and perhaps, eventually, forgive ourselves.",
+        "full_description": "Why is it so hard to say 'I made a mistake' - and really believe it? When we make mistakes, cling to outdated attitudes, or mistreat other people, we must calm the cognitive dissonance that jars our feelings of self-worth. And so, unconsciously, we create fictions that absolve us of responsibility, restoring our belief that we are smart, moral, and right-a belief that often keeps us on a course that is dumb, immoral, and wrong.",     
+        "amazon_link": "https://amzn.to/2LSsb3V",
+        },
+    
+            {
+                "book_cover":"/assets/images/bookpics/surely you_re joking mr feyman.jpg",
+                "description": "Richard Feynman, winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; accompanying a ballet on his bongo drums; painting a naked female toreador.",
+                "full_description": "In short, here is Feynman's life in all its eccentric―a combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah.",     
+                "amazon_link": "https://amzn.to/2KbxxlP",
+                }
+
+] 

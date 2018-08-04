@@ -1,0 +1,21 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/the singularity is near.jpg",
+    "description": "A radical and optimistic view of the future course of human development from the bestselling author of How to Create a Mind and The Age of Spiritual Machines who Bill Gates calls 'the best person I know at predicting the future of artificial intelligence'.",
+    "full_description": "For over three decades, Ray Kurzweil has been one of the most respected and provocative advocates of the role of technology in our future. In his classic The Age of Spiritual Machines, he argued that computers would soon rival the full range of human intelligence at its best. Now he examines the next step in this inexorable evolutionary process: the union of human and machine, in which the knowledge and skills embedded in our brains will be combined with the vastly greater capacity, speed, and knowledge-sharing ability of our creations.",
+    "amazon_link": "https://amzn.to/2O6obKz"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/ending aging.jpg",
+        "description": "In Ending Aging, Dr. de Grey and his research assistant Michael Rae describe the details of this biotechnology. They explain that the aging of the human body, just like the aging of man-made machines, results from an accumulation of various types of damage.",
+        "full_description": "Nearly all scientists who study the biology of aging agree that we will someday be able to substantially slow down the aging process, extending our productive, youthful lives. Dr. Aubrey de Grey is perhaps the most bullish of all such researchers. As has been reported in media outlets ranging from 60 Minutes to The New York Times, Dr. de Grey believes that the key biomedical technology required to eliminate aging-derived debilitation and death entirely―technology that would not only slow but periodically reverse age-related physiological decay, leaving us biologically young into an indefinite future―is now within reach. As with man-made machines, this damage can periodically be repaired, leading to indefinite extension of the machine's fully functional lifetime, just as is routinely done with classic cars. We already know what types of damage accumulate in the human body, and we are moving rapidly toward the comprehensive development of technologies to remove that -damage. By demystifying aging and its postponement for the nonspecialist reader, de Grey and Rae systematically dismantle the fatalist presumption that aging will forever defeat the efforts of medical science.",
+        "amazon_link": "https://amzn.to/2O6JkEF"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/malcolm x.jpg",
+        "description": "In the searing pages of this classic autobiography, originally published in 1964, Malcolm X, the Muslim leader, firebrand, and anti-integrationist, tells the extraordinary story of his life and the growth of the Black Muslim movement.",
+        "full_description": "His fascinating perspective on the lies and limitations of the American Dream, and the inherent racism in a society that denies its nonwhite citizens the opportunity to dream, gives extraordinary insight into the most urgent issues of our own time. The Autobiography of Malcolm X stands as the definitive statement of a movement and a man whose work was never completed but whose message is timeless. It is essential reading for anyone who wants to understand America.",
+        "amazon_link": "https://amzn.to/2Klzyfn"   
+    },
+
+]

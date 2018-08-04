@@ -1,0 +1,28 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/the dance of anger_harriet lerner.jpg",
+    "description": " In this engaging and eminently wise book, Dr. Lerner teaches both women and men to identify the true sources of anger and to use it as a powerful vehicle for creating lasting change.",
+    "full_description": "'Anger is a signal and one worth listening to,' writes Dr. Harriet Lerner in her renowned classic that has transformed the lives of millions of readers. While anger deserves our attention and respect, women still learn to silence our anger, to deny it entirely, or to vent it in a way that leaves us feeling helpless and powerless. For decades, this book has helped millions of readers learn how to turn their anger into a constructive force for reshaping their lives. Anger is something we feel. It exists for a reason and always deserves our respect and attention. We all have a right to everything we feel—and certainly our anger is no exception.",
+    "amazon_link": "https://amzn.to/2Km8o81"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/why won_t you apologives_harriet lerner phd.jpg",
+        "description": "Dr. Harriet Lerner has been studying apologies—and why some people won’t give them—for more than two decades. Now she offers compelling stories and solid theory that bring home how much the simple apology matters and what is required for healing when the hurt we’ve inflicted (or received) is far from simple.",
+        "full_description": "Readers will learn how to craft a deeply meaningful “I’m sorry” and avoid apologies that only deepen the original injury. Why Won’t You Apologize? also addresses the compelling needs of the injured party—the one who has been hurt by someone who won’t apologize, tell the truth, or feel remorse. Lerner explains what drives both the non-apologizer and the over-apologizer, as well as why the people who do the worst things are the least able to own up. She helps the injured person resist pressure to forgive too easily and challenges the popular notion that forgiveness is the only path to peace of mind. With her trademark humor and wit, Lerner offers a joyful and sanity-saving guide to setting things right.",
+        "amazon_link": "https://amzn.to/2LRhaA3"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/Stretch_Scott Sonenshein.jpg",
+        "description": "Using captivating stories to illustrate research in psychology and management, Rice University professor Scott Sonenshein examines why some people and organizations succeed with so little, while others fail with so much. Drawing from examples in business, education, sports, medicine, and history, Scott Sonenshein advocates a powerful framework of resourcefulness that allows anybody to work and live better.",
+        "full_description": "People and organizations approach resources in two different ways: “chasing” and “stretching.” When chasing, we exhaust ourselves in the pursuit of more. When stretching, we embrace the resources we already have. This frees us to find creative and productive ways to solve problems, innovate, and engage our work and lives more fully. Stretch shows why everyone—from executives to entrepreneurs, professionals to parents, athletes to artists—performs better with constraints; why seeking too many resources undermines our work and well-being; and why even those with a lot benefit from making the most out of a little.",
+        "amazon_link": "https://amzn.to/2KnsSxo"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/Lead yourself first_Kethledge and Erwin.jpg",
+        "description": "Through gripping historical accounts and firsthand interviews with a wide range of contemporary leaders, Raymond Kethledge (a federal court of appeals judge) and Michael Erwin (a West Pointer and three-tour combat veteran) show how solitude can enhance clarity, spur creativity, sustain emotional balance, and generate the moral courage necessary to overcome adversity and criticism.",
+        "full_description": "Throughout history, leaders have used solitude as a matter of course. Eisenhower wrote memoranda to himself during World War II as a way to think through complex problems. Martin Luther King found moral courage while sitting alone at his kitchen table one night during the Montgomery bus boycott. Jane Goodall used her intuition in the jungles of Central Africa while learning how to approach chimps. Solitude is a state of mind, a space where you can focus on your own thoughts without distraction, with a power to bring mind and soul together in clear-eyed conviction. Like a great wave that saturates everything in its path, however, handheld devices and other media now leave us awash with the thoughts of others. We are losing solitude without even realizing it. Anyone who leads anyone-including oneself-can benefit from solitude. With a foreword by Jim Collins (author of the bestseller Good to Great), Lead Yourself First is a rallying cry to reclaim solitude-and all the benefits, both practical and sublime, that come with it.",
+        "amazon_link": "https://amzn.to/2OCY3rK"   
+    },
+
+
+]

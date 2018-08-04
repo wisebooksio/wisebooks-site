@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+	<div id="main" class="alt">
+        <div class="inner">
+
+            <header class="major-yellow"><h1>About Us</h1></header>
+
+            <div class="about">
+                <span class="aboutimg">
+                    <img src="{{ site.baseurl }}/assets/images/about-01.svg"/>
+                </span>
+                <div class="abouttext">{{content}}</div>
+            </div>                    
+        
+        </div>
+			{% include simple_footer.html %}
+
+	</div>
+
+</body>
+
+</html>

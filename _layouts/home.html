@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1 class="light align-center">{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p class="light">{{ site.description }}</p>
+                <div class="homesubscription">
+                    <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
+                    <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div id="main">
+
+        {% include tiles.html %}
+
+        <div class="homesubscription2">
+            <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
+            <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+        </div>
+
+    </div>
+
+    {% include simple_footer.html %}
+
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/rotman_on_design.png",
+    "description": "This collection features Rotman magazine’s best articles on design thinking and business design. Insights are drawn from the people on the frontlines of bringing design into modern organizations, as well as from the leading academics who are teaching design thinking to a new generation of global leaders.",
+    "full_description": "Rotman on Design is divided into three sections, each of which features an all-new introduction by a prominent thought leader. The selections cover a variety of practical topics, focusing on why design methodologies are so important today and how they can be introduced into organizations that have never before considered design thinking. They also illustrate the particular skills that promote great design – whether it be of a new business plan, a user experience, a health care system, or an economic policy.  Together, the articles in this collection will help managers to thrive and prepare for future challenges. Anyone who is interested in fostering creativity and innovation in their organization will benefit from this engaging book.",     
+    "amazon_link": "https://amzn.to/2OucYol",
+    },
+    {
+        "book_cover":"/assets/images/bookpics/conscious_capitalism.jpg",
+        "description": "Whole Foods Market co-founder John Mackey and professor and Conscious Capitalism, Inc. co-founder Raj Sisodia argue that both business and capitalism are inherently good, and they use some of today’s best-known and most successful companies to illustrate their point.",
+        "full_description": "From Southwest Airlines, UPS, and Tata to Costco, Panera, Google, and Amazon, today’s organizations are creating value for all stakeholders—including customers, employees, suppliers, investors, society, and the environment. At once a bold defense and reimagining of capitalism and a blueprint for a new system for doing business, Conscious Capitalism is for anyone hoping to build a more cooperative, humane, and positive future. Read this book and you’ll better understand how four specific tenets—higher purpose, stakeholder integration, conscious leadership, and conscious culture and management—can help build strong businesses, move capitalism closer to its highest potential, and foster a more positive environment for all of us.",     
+        "amazon_link": "https://www.amazon.com/gp/product/1625271751/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wisebooks0b-20&creative=9325&linkCode=as2&creativeASIN=1625271751&linkId=7974e52408bda8cd140eef222d6795b4",
+        },
+    
+        {
+            "book_cover":"/assets/images/bookpics/48_laws_of_power.png",
+            "description": "In the book that People magazine proclaimed “beguiling” and “fascinating,” Robert Greene and Joost Elffers have distilled three thousand years of the history of power into 48 essential laws by drawing from the philosophies of Machiavelli, Sun Tzu, and Carl Von Clausewitz and also from the lives of figures ranging from Henry Kissinger to P.T. Barnum.",
+            "full_description": "Some laws teach the need for prudence (“Law 1: Never Outshine the Master”), others teach the value of confidence (“Law 28: Enter Action with Boldness”), and many recommend absolute self-preservation (“Law 15: Crush Your Enemy Totally”). Every law, though, has one thing in common: an interest in total domination. In a bold and arresting two-color package, The 48 Laws of Power is ideal whether your aim is conquest, self-defense, or simply to understand the rules of the game.",     
+            "amazon_link": "https://www.amazon.com/gp/product/0140280197/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wisebooks0b-20&creative=9325&linkCode=as2&creativeASIN=0140280197&linkId=03bcf368d3ec77baea19aa99b9e8e60b",
+            },
+    
+            {
+                "book_cover":"/assets/images/bookpics/The Richest Man in Bablyon_George S Clason.jpg",
+                "description": "The ancient Babylonians were the first people to discover the universal laws of prosperity. In his classic bestseller, The Richest Man in Babylon, George S. Clason reveals their secrets for creating, growing, and preserving wealth.",
+                "full_description": "Through these entertaining tales of merchants, tradesmen, and herdsmen, you'll learn how to keep more out what you earn; get out of debt; put your money to work; attract good luck; choose wise investments; and safeguard a lasting fortune. This is a beautifully-designed edition of the complete, classic work. (A simplified version is also available: The Richest Man in Babylon: Six Laws of Wealth by Charles Conrad.)",     
+                "amazon_link": "https://www.amazon.com/gp/product/0451205367/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=wisebooks0b-20&creative=9325&linkCode=as2&creativeASIN=0451205367&linkId=537862da86c3cd30b0276acd356196fb",
+                },
+
+] 

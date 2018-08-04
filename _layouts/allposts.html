@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %} 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major-yellow"><h1>All People</h1></header>
+		<div class="innerpeople">
+					{% for post in site.posts %}
+			<div class="box">
+				<h2 class="underline">{{post.title}}</h2>
+				{% if post.allpeoplepics %}<span class="image left"><img src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="" /></span>{% endif %}
+				<div class="box-description">
+					<p>{{ post.description }}</p>
+					<a href="{{ post.url | relative_url  }}" class="button small align-right">Read more</a>
+				</div>
+			</div>
+					{% endfor %}
+		</div>
+	</div>
+</section>
+
+</div>
+
+    {% include simple_footer.html %}
+
+</body>
+
+</html>
