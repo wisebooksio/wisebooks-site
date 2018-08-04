@@ -1,6 +1,6 @@
 books: [
     {
-    "book_cover":"assets/images/bookpics/rotman_on_design.png",
+    "book_cover":"/assets/images/bookpics/rotman_on_design.png",
     "description": "This collection features Rotman magazine’s best articles on design thinking and business design. Insights are drawn from the people on the frontlines of bringing design into modern organizations, as well as from the leading academics who are teaching design thinking to a new generation of global leaders.",
     "full_description": "Rotman on Design is divided into three sections, each of which features an all-new introduction by a prominent thought leader. The selections cover a variety of practical topics, focusing on why design methodologies are so important today and how they can be introduced into organizations that have never before considered design thinking. They also illustrate the particular skills that promote great design – whether it be of a new business plan, a user experience, a health care system, or an economic policy.  Together, the articles in this collection will help managers to thrive and prepare for future challenges. Anyone who is interested in fostering creativity and innovation in their organization will benefit from this engaging book.",     
     "amazon_link": "https://amzn.to/2OucYol",
