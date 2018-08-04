@@ -11,11 +11,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url:  https://facebook.com
-instagram_url: https://instagram.com
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com
+facebook_url:  https://www.facebook.com/wisebooksio/
 
 
 #mailchimp
