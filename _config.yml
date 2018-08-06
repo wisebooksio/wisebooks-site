@@ -3,7 +3,7 @@ title: Wisebooks
 email: wisebooksio@gmail.com
 description: Good books read by smart people.
 baseurl:
-url: # the base hostname & protocol for your site
+url: wisebooks.io # the base hostname & protocol for your site
 author: Christine & Jenny
 
 # homepage tiles
