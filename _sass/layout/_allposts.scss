@@ -30,6 +30,9 @@
             .box {
                 display: flex;
                 flex-direction: column;
+                h2 {
+                    text-align: center;
+                }
                 .image {
                     margin: 0 auto;
                     max-width: 90% !important;
