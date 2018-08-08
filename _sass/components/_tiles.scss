@@ -190,3 +190,9 @@
 		height: 25vh;
 	}
 }
+
+@include breakpoint(small) {
+	#seemore {
+		height: 35vh;
+	}
+}
