@@ -182,4 +182,10 @@
 			text-align: center;
 		}
 	}
+
+	@include breakpoint(medium) {
+		#seemore {
+			height: 25vh;
+		}
+	}
 }
