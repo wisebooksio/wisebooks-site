@@ -173,7 +173,7 @@
 
 #seemore {
 	background-color: _palette(mainyellow);
-	height: 50vh;
+	height: 45vh;
 	.inner {
 		display: flex;
 		flex-direction: column;
@@ -183,9 +183,10 @@
 		}
 	}
 
-	@include breakpoint(medium) {
-		#seemore {
-			height: 25vh;
-		}
+}
+
+@include breakpoint(medium) {
+	#seemore {
+		height: 25vh;
 	}
 }
