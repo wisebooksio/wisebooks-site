@@ -33,7 +33,11 @@
 			
 			<section id="books">
 				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1>
-					<div class="attribution"><p>Book citations: {{page.bookattribution}}</p></div>
+					<details class="attribution">
+						<summary>Book sources</summary>
+						{{page.bookattribution}}
+					</details>
+
 				</header>
 				<div class="inner booktile">
 					{% for book in site.data[page.person].books %}
