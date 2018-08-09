@@ -13,8 +13,7 @@ Aoki is a two-time Grammy nominated DJ and producer, founder of Dim Mak Records,
 
 His larger-than-life dad frowned upon Steve’s early work in music and discouraged it, never providing support financially or emotionally, other than providing Steve a place to cut onions in the restaurant and earn minimum wage. Father Aoki divorced Steve’s Mom in 1981, moving on to marry two other women and having a total of seven children. He died in 2008, before seeing his son’s rise to stardom.
 
-Although Steve gets a lot of adrenaline addiction and crazy acts at his shows to his father, his heart and compassion all come from his mother who was there to support him in every decision he made. 
-
+Steve has grown up in the shadow of his father, from whom he has inherited his addiction to adrenaline and wildness. But his heart, and all of his compassion come from his mother.
 
 
 
