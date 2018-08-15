@@ -1,33 +1,45 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="inner">
-		<section class="split">
+		<div class="inner">
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Subscribe for Updates</h3>
-					<a href="#">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<h3>Follow us</h3>
-					<ul class="icons">
-							{% if site.twitter_url %}
-							<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-							{% endif %}
-							{% if site.facebook_url %}
-							<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-							{% endif %}
-							{% if site.instagram_url %}
-							<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-							{% endif %}
+				<form action="https://formspree.io/{{ site.email }}" method="POST">
+					<div class="field">
+						<label for="message">Send us suggestions for people:</label>
+						<textarea name="message" id="message" rows="4"></textarea>
+					</div>
+					<ul class="actions">
+						<li><input type="submit" value="Send Message" /></li>
+						<li><input type="reset" value="Clear" class="specialdark" /></li>
 					</ul>
-				</div>
+				</form>
 			</section>
-		</section>
-	</div>
-</section>
+			<section class="split">
+				<section>
+						<form class="homesubscription2" action="{{ site.mailchimp }}" method="post">
+								<label>Subscribe for weekly newsletters:</label>
+								<div class="field-alt">
+									<input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
+									<input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+								</div>
+						</form>
+					
+				</section>
+				<section>
+					<div class="contact-method">
+						<label>Follow us:</label>
+							<ul class="icons">
+								{% if site.twitter_url %}
+								<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+								{% endif %}
+								{% if site.facebook_url %}
+								<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+								{% endif %}
+							</ul>
+					</div>
+				</section>
+			</section>
+		</div>
+	</section>
 
 <!-- Footer -->
 	<footer id="footer">

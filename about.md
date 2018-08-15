@@ -4,8 +4,6 @@ title: about
 nav-menu: true
 ---
 
-Hey! Thanks for checking out our site.
-
 If you look at the successful people we admire - CEOs, actors, athletes, doctors, politicians, artists (etc.) - many of them are voracious readers. 
 
 Mark Zuckerberg is a huge advocate of reading, inhaling a book every two weeks in his 2015 challenge to himself. Winston Churchill won his Nobel prize in literature, not peace. Bill Gates, one of the busiest people in the world, finds the time to read a book a week. 

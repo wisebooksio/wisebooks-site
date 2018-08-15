@@ -1,10 +1,6 @@
 
 /* Image */
 
-img {
-	width: 200px;
-}
-
 .image {
 		border: 0;
 		display: inline-block;
@@ -12,8 +8,8 @@ img {
 
 		&.left,
 		&.right {
-			width: 200px;
-			height: 200px;
+			width: 35%;
+			height: 35%;
 
 		}
 
@@ -21,6 +17,7 @@ img {
 			float: left;
 			margin: 0 1.5em 1.25em 0;
 			top: 0.25em;
+
 		}
 
 		&.right {
