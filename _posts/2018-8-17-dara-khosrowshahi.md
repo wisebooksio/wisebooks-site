@@ -11,7 +11,7 @@ bookattribution: personal email from Dara
 
 Dara Khosrowshahi is Uber’s current CEO. He is an Iranian-American businessman who has formerly served as the CEO of Expedia group (notably one of the highest rated CEOs on Glassdoor), a member of the board of directors for BET.com, Hotels.com, and the New York Times Company. 
 
-The method of most companies is to fail quickly, fail often, and iterate. However, under Kalanick’s leadership, Uber was failing too much, too quickly, and absolutely everywhere in its culture, products, and brand. The company grew preposterously under Kalanick. 
+The method of most companies is to fail quickly, fail often, and iterate. However, under Uber's former CEO and founder, Kalanick, Uber was failing too much, too quickly, and absolutely everywhere in its culture, products, and brand. The company grew preposterously under Kalanick. 
 
 Khosrowshahi has been more deliberate in his leadership, putting forward good products and safe services before anything else; which might be exactly what Uber needs. 
 
