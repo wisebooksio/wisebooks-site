@@ -39,28 +39,30 @@
 					</details>
 
 				</header>
-				<div class="inner booktile">
-					{% for book in site.data[page.person].books %}
+				<div class="inner">
+					<div class="booktile">
+						{% for book in site.data[page.person].books %}
 
-					<div class = "book-card">
-						<span class="bookimage"><img src="{{book.book_cover}}"/></span>
-						<span class="descriptionbuy">
-						<p>{{book.description}}</p>
-						</span>
-							<div class="bookbuttons">
-								<details>
-									<summary class="button small yellow readmore">Read More</summary>
-										<div class="expanded">
-											<p>{{book.full_description}}</p>
-										</div>	
+						<div class = "book-card">
+							<span class="bookimage"><img src="{{book.book_cover}}"/></span>
+							<span class="descriptionbuy">
+							<p>{{book.description}}</p>
+							</span>
+								<div class="bookbuttons">
+									<details>
+										<summary class="button small yellow readmore">Read More</summary>
+											<div class="expanded">
+												<p>{{book.full_description}}</p>
+											</div>	
 
-								</details>
-								<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
-							</div>	
-						<div class="border"></div>
-					</div>
+									</details>
+									<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
+								</div>	
+							<div class="border"></div>
+						</div>
 					
 					{% endfor %}
+					</div>
 							
 				</div>
 

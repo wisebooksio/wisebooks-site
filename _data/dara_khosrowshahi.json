@@ -1,0 +1,33 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/undoingproject.jpg",
+    "description": "'A great story of friendship and incredible view into how the mind works.' (Dara's Note) \n Forty years ago, Israeli psychologists Daniel Kahneman and Amos Tversky wrote a series of breathtakingly original studies undoing our assumptions about the decision-making process. Their papers showed the ways in which the human mind erred, systematically, when forced to make judgments in uncertain situations.",
+    "full_description": "Their work created the field of behavioral economics, revolutionized Big Data studies, advanced evidence-based medicine, led to a new approach to government regulation, and made much of Michael Lewis’s own work possible. Kahneman and Tversky are more responsible than anybody for the powerful trend to mistrust human intuition and defer to algorithms.",
+    "amazon_link": "https://amzn.to/2Mi3lvo"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/einstein his life and unvierse.jpg",
+        "description": "'An inspirational/incredible story of genius told by one of the best biographers.' (Dara's Note) How did his mind work? What made him a genius? Isaacson’s biography shows how his scientific imagination sprang from the rebellious nature of his personality. His fascinating story is a testament to the connection between creativity and freedom.",
+        "full_description": "Based on newly released personal letters of Einstein, this book explores how an imaginative, impertinent patent clerk—a struggling father in a difficult marriage who couldn’t get a teaching job or a doctorate—became the mind reader of the creator of the cosmos, the locksmith of the mysteries of the atom, and the universe. His success came from questioning conventional wisdom and marveling at mysteries that struck others as mundane. This led him to embrace a morality and politics based on respect for free minds, free spirits, and free individuals. These traits are just as vital for this new century of globalization, in which our success will depend on our creativity, as they were for the beginning of the last century, when Einstein helped usher in the modern age.",
+        "amazon_link": "https://amzn.to/2ODK4Sq"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/sapiens.jpg",
+        "description": "In Sapiens, Dr. Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical -- and sometimes devastating -- breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions.",
+        "full_description": "Drawing on insights from biology, anthropology, palaeontology, and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power...and our future.",
+        "amazon_link": "https://amzn.to/2vP3n3J "   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/principlesray.jpg",
+        "description": "'How one of the greatest and most independent minded investors of our generation thinks.' (Dara's Note) Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.",
+        "full_description": "In 1975, Ray Dalio founded an investment firm, Bridgewater Associates, out of his two-bedroom apartment in New York City. Forty years later, Bridgewater has made more money for its clients than any other hedge fund in history and grown into the fifth most important private company in the United States, according to Fortune magazine.",
+        "amazon_link": "https://amzn.to/2vOSBdu "   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/american_gods.jpg",
+        "description": "'Because you should always have some fun and, well, Neil Gaiman rocks.' (Dara's Note) It has been a decade since #1 New York Times bestselling author Neil Gaiman (Sandman, Anansi Boys, The Graveyard Book) rocked the literary world with American Gods—his breathtaking tale of the war on Earth between old gods and new.",
+        "full_description": "For those who have yet to experience Gaiman’s bestselling tour de force—a novel USA Today called “a powerful, searing force that makes readers confront what is real and what is not”—and for those eager to enter this astonishing world again, comes the Author’s Preferred Text 10th Anniversary Edition. Winner of the Hugo, Nebula, Locus, and Bram Stoker Awards, with a special introduction by the author, this is American Gods as Neil Gaiman always meant it to be.",
+        "amazon_link": "https://amzn.to/2vP3E6L"   
+    },
+
+]
