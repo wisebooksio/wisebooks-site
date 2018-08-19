@@ -1,0 +1,14 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/to-kill-a-mockingbird.jpg",
+    "description": "'I remember reading this book and then going to class and not being able to shut up about it,I read it in eighth or ninth grade, and I was trying to push the book off on other kids. So it makes sense to me that now I have a book club, because I have been doing that since probably this book.' (Oprah quoted in Business Insider, 2014)",
+    "amazon_link": "https://amzn.to/2vWRJ71"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the-seat-of-the-soul.jpg",
+        "description": "'In it, [Zukav] talks about how every action is followed by a reaction, which we all know is the third law of motion in physics. But he also said, before there's even a thought or an action, there is an intention. Something struck me about that. That an intention precedes every thought and every action, and the outcome of your experiences is determined by the intention.,",
+        "full_description": "I used to be the kind of woman who wanted to do everything people wanted me to do. I had problems saying no, so this principle of intention is literally what saved and changed the trajectory of my living. I started to make my decisions on what I intended, not just on what someone else wanted me to do or what I thought would please them. But what do I really intend to happen from the outcome of this decision or this choice?' (Oprah as quoted in CNBC, 2017)", 
+        "amazon_link": "https://amzn.to/2wfszzQ"   
+    },
+
+]
