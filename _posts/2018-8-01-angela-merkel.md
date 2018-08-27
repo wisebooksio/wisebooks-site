@@ -5,6 +5,7 @@ description: Chancellor of Germany, world’s most powerful woman, de facto lead
 image: assets/images/profilepics/angela_merkel.jpg
 allpeoplepics: assets/images/allpeoplepics/angela_merkel.jpg
 person: angela_merkel
+category: Politician
 imgattribution: Cicero
 bookattribution: https://www.theguardian.com/world/2016/dec/29/angela-merkel-jurgen-osterhammel-the-transformation-of-the-world-book-germany; http://poweroftheword.americanwritersmuseum.org/leaders/angela-merkel/; https://www.bloombergquint.com/pursuits/2017/06/10/libraries-of-leaders-on-the-bookshelves-of-europes-most-powerful-women
 ---

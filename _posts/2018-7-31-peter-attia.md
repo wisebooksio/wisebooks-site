@@ -5,6 +5,7 @@ description: Former ultra endurance athlete, relentless self-experimenter, and f
 image: assets/images/profilepics/peter_attia.jpg
 allpeoplepics: assets/images/allpeoplepics/peter_attia.jpg
 person: peter_attia
+category: Doctor
 imgattribution: TEDMED 2013
 bookattribution: Tribe of Mentors by Tim Ferriss
 ---

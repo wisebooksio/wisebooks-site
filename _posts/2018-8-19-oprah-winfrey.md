@@ -5,6 +5,7 @@ description: TV Personality, Founder of Oprah Winfrey Network, Oprah's Book Club
 image: assets/images/profilepics/oprah_winfrey.jpeg
 allpeoplepics: assets/images/allpeoplepics/oprah_winfrey.jpeg
 person: oprah_winfrey
+category: Entrepreneur
 imgattribution: cnbc.com
 bookattribution: https://www.cnbc.com/2017/06/15/the-one-book-that-changed-oprah-winfreys-life-and-business.html, https://www.businessinsider.com/warren-buffett-oprah-winfrey-mark-zuckerberg-ceos-favorite-books-2014-9 
 ---

@@ -5,6 +5,7 @@ description: Founder of Microsoft, Bill & Melinda Gates Foundation
 image: assets/images/profilepics/bill_gates.jpg
 allpeoplepics: assets/images/allpeoplepics/bill_gates.jpg
 person: bill_gates
+category: Entrepreneur
 imgattribution: CNBC.com
 bookattribution: Gatesnotes
 ---

@@ -1,0 +1,21 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/The beginnings of infinity.jpg",
+    "description": "It’s a remarkable argument for the power of knowledge—as not just a human capability but as a force that shapes the universe. (Chris' Notes)",
+    "full_description":"In our search for truth, how far have we advanced? This uniquely human quest for good explanations has driven amazing improvements in everything from scientific understanding and technology to politics, moral values and human welfare. But will progress end, either in catastrophe or completion - or will it continue indefinitely? In this profound and seminal book, David Deutsch explores the furthest reaches of our current understanding, taking in the Infinity Hotel, supernovae and the nature of optimism, to instill in all of us a wonder at what we have achieved - and the fact that this is only the beginning of humanity's infinite possibility.",
+    "amazon_link": " https://amzn.to/2P8DVgP"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the language instinct.jpg",
+        "description": "We just chose Steve Pinker's best seller, but Chris Anderson says: Anything by Steve Pinker. He’s one of the clearest thinkers and communicators of our time. Among many other things, he convinced me that I could never understand myself without understanding how humans evolved.",
+        "full_description":"In this classic, the world's expert on language and mind lucidly explains everything you always wanted to know about language: how it works, how children learn it, how it changes, how the brain computes it, and how it evolved. With deft use of examples of humor and wordplay, Steven Pinker weaves our vast knowledge of language into a compelling story: language is a human instinct, wired into our brains by evolution. The Language Instinct received the William James Book Prize from the American Psychological Association and the Public Interest Award from the Linguistics Society of America.",
+        "amazon_link": "https://amzn.to/2BNfpzU"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/the chronicles of narnia.jpg",
+            "description": "As a child, they exploded my imagination. (Chris' Notes)",
+            "full_description":"C. S. Lewis's The Chronicles of Narnia has captivated readers of all ages for over sixty years, enchanting them with fantastical talking creatures, epic battles between good and evil, and magical doorways into new lands.",
+            "amazon_link": "https://amzn.to/2LunmJM"
+            },    
+
+]

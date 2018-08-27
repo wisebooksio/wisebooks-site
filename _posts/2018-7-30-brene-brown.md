@@ -5,6 +5,7 @@ description: NY Times Best selling Author, Viral TED Speaker, Research professor
 image: assets/images/profilepics/brene_brown.jpg
 allpeoplepics: assets/images/allpeoplepics/brene_brown.jpg
 person: brene_brown
+category: Researcher
 imgattribution: TED talks
 bookattribution: Tribe of Mentors by Tim Ferriss
 ---

@@ -5,6 +5,7 @@ description: Author of best-sellers Sapiens and Homo Deus, Professor of History 
 image: assets/images/profilepics/yuval_harari.jpg
 allpeoplepics: assets/images/allpeoplepics/yuval_harari.jpg
 person: yuval_harari
+category: Author
 imgattribution: TED.com
 bookattribution: http://berggruen.org/activities/109, Tools of Titans by Tim Ferriss
 ---

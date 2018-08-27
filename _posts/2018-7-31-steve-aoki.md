@@ -5,6 +5,7 @@ description: Two-time Grammy nominated producer/DJ, entrepreneur, Founder of Dim
 image: assets/images/profilepics/steve_aoki.jpg
 allpeoplepics: assets/images/allpeoplepics/steve_aoki.jpg
 person: steve_aoki
+category: Artist
 imgattribution: EDMtunes
 bookattribution: Tribe of Mentors by Tim Ferriss
 ---

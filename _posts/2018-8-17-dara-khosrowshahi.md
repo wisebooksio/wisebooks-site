@@ -5,6 +5,7 @@ description: Current CEO of Uber, Former CEO of Expedia Group
 image: assets/images/profilepics/dara_khosrowshahi.jpg
 allpeoplepics: assets/images/allpeoplepics/dara_khosrowshahi.jpg
 person: dara_khosrowshahi
+Category: CEO
 imgattribution: Raconteur
 bookattribution: personal email from Dara
 ---

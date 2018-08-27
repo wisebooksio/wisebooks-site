@@ -5,6 +5,7 @@ description: Women’s rights activist, best-selling author, and former politici
 image: assets/images/profilepics/ayaan_ali.jpg
 allpeoplepics: assets/images/allpeoplepics/ayaan_ali.jpg
 person: ayaan_ali
+category: Activist
 imgattribution: Chicago Tribune
 bookattribution: https://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html, Tools of Titans by Tim Ferriss
 ---
