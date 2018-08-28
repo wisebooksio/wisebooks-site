@@ -17,8 +17,8 @@
 		<header class="major-yellow"><h1>All People</h1></header>
 
 		<div class="innerpeople">
-				{% for post in site.posts %}
-				<div class="box {{post.category}}">
+				{% for post in site.posts limit: 6 %}
+				<div class="box">
 						<h2 class="underline">{{post.title}}</h2>
 						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="" /></span>{% endif %}
 						<div class="box-description">
