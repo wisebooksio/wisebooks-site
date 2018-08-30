@@ -5,7 +5,7 @@ description: Former NFL defenseman, actor, author, father, grandfather, artist, 
 image: assets/images/profilepics/terry_crews.jpg
 allpeoplepics: assets/images/allpeoplepics/terry_crews.jpg
 person: terry_crews
-category: Artist
+category: Actor
 imgattribution: Hollywood Reporter
 bookattribution: Tribe of Mentors by Tim Ferriss
 ---

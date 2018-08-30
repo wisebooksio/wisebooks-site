@@ -1,6 +1,17 @@
 
 /* allposts */
 
+#filters {
+    margin-bottom: 2em;
+
+    .button-group {
+    
+        .button {
+            margin: 0.5em;
+        }
+    }
+}
+
 	.innerpeople {
 		display: flex;
 		flex-wrap: wrap;
@@ -29,6 +40,9 @@
     }
     
     @include breakpoint(small) {
+        #filters {
+            margin-bottom: 0;
+        }
         .innerpeople {
             .box {
                 display: flex;
