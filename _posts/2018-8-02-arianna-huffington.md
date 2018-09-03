@@ -5,7 +5,7 @@ description: Founder and Editor-in-Chief of Huffington Post, Author, Journalist
 image: assets/images/profilepics/arianna_huffington.jpeg
 allpeoplepics: assets/images/allpeoplepics/arianna_huffington.jpeg
 person: arianna_huffington
-category: Journalist
+category: Editor-in-Chief
 imgattribution: Medium
 bookattribution: https://www.scribd.com/reading-list/4/Arianna-Huffington-s-Reading-List
 ---

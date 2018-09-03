@@ -95,11 +95,11 @@
 	}
 
     .book-card {
-		width: 550px;
+		width: 510px;
 		height: 340px;
         background-color: _palette(fg);
 		border-radius: 15px;
-		margin: 0 0 1.5em 1.5em;
+		margin: 0 0 1.5em 3.5em;
 		box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 		position: relative;
 
@@ -298,9 +298,15 @@
 				}
 			}
 
-			.booktile {
-				width: 60%;
-				margin: 0 auto;
+			#books {
+				.booktile {
+					width: 60%;
+					margin: 0 auto;
+					.book-card {
+						width: 550px;
+						margin: 0 0 1.5em 1.5em;
+					}
+				}
 			}
 
 

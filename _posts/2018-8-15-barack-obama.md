@@ -5,7 +5,7 @@ description: Former U.S. President
 image: assets/images/profilepics/barack_obama.jpg
 allpeoplepics: assets/images/allpeoplepics/barack_obama.jpg
 person: barack_obama
-Category: Politician
+category: Politician
 imgattribution: Time.com
 bookattribution: WIRED's 2016 Interview
 ---
