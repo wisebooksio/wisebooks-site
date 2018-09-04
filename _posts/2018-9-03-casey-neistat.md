@@ -3,7 +3,7 @@ layout: post
 title: Casey Neistat
 description: Youtube Influencer, Filmmaker, Entrepreneur, Vlogger  
 image: assets/images/profilepics/casey_neistat.png
-allpeoplepics: assets/images/allpeoplepics/casey_neistat.jpg
+allpeoplepics: assets/images/allpeoplepics/casey_neistat.png
 person: casey_neistat
 category: Filmmaker
 bioattribution: https://www.indiewire.com/2014/03/from-teen-welfare-dad-to-youtube-icon-casey-neistat-tells-sxsw-how-he-did-it-29103/ ; https://en.wikipedia.org/wiki/Casey_Neistat
