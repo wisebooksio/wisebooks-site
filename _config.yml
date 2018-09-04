@@ -1,6 +1,6 @@
 # site settings
 title: Wisebooks
-email: wisebooksio@gmail.com
+email: hello@wisebooks.io
 description: Subscribe for weekly bite-sized book recommendations.
 baseurl:
 url: # the base hostname & protocol for your site
