@@ -3,7 +3,7 @@ title: Wisebooks
 email: hello@wisebooks.io
 description: Subscribe for weekly bite-sized book recommendations.
 baseurl:
-url: # the base hostname & protocol for your site
+url: wisebooks.io # the base hostname & protocol for your site
 author: Christine & Jenny
 
 # homepage tiles
