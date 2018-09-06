@@ -14,7 +14,7 @@
 <!-- One -->
 
 		<div class="imgbanner"> <!---class found in _image.scss-->
-			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />{% endif %}
+			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="{{page.title}}" />{% endif %}
 			<div class="overlay">
 				<h1>{{page.title}}</h1>
 				<p class="imgattribution">Banner image attribution: {{page.imgattribution}}</p>
