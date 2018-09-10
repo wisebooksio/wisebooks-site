@@ -14,7 +14,7 @@ resources: and Resources
 
 Keean is 21 years old, currently studying pharmacy at the University of Waterloo (as one of the 20 students who were accepted), and is the co-founder of <a href="https://www.avrolifesci.com/">Avro Life Science</a>, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 
 
-Avro develops skin patches for generic drug delivery whose technology is catered towards the young and the elderly but have plans to reach millions in the pharmaceutical market. 
+Avro develops skin patches for generic drug delivery. Their technology is catered towards the young and the elderly but they have plans to reach millions in the pharmaceutical market. 
 
 “When you deliver drugs transdermally, you significantly reduce liver toxicity and boost bio-availability. This means pharma can rescue drugs that just barely failed in Phase III. Pharma will pay a lot for this,” <a href="https://techcrunch.com/2018/06/29/replacing-pills-with-a-band-aid-avro-life-sciences-thinks-theres-a-patch-for-that/">said Seth Bannon</a> who is another <a href="https://www.fifty.vc/team/seth-bannon/">big deal</a> in tech venture capital).
 
@@ -33,7 +33,7 @@ I think that being a young founder is a very common trait in YC but also being y
 
 The biggest thing though, was the growth that we showed between applications. We had applied before, and that was kind of a spur of the moment application. It was super late at night, we crammed the essay and applied. For our second application, there was a section saying, "If you’ve applied before, how have you grown?" and we were able to completely fill up that section. During the five months, we had grown a lot from our team winning several grants, achieving actual business development, having a real game plan, beefing up our IP portfolio by filing a provisional, hiring co-ops, and winning the Velocity $25K. We did a lot in that time- we even started working on early-stage animal trials. 
 
-So I think, showing that growth was a big thing for YC. Because if you start and end YC and your business has not changed at all, you’ve totally wasted those three months. Even the funding is useless. The whole point is to show hyper growth between day one of Y-Combinator and Demo Day. 
+I think showing that growth was a big thing for YC. Because if you start and end YC and your business has not changed at all, you’ve totally wasted those three months. Even the funding is useless. The whole point is to show hyper growth between day one of Y-Combinator and Demo Day. 
 
 <b>Tell us more about your YC experience! How did the program help your startup?</b>
 
@@ -49,11 +49,11 @@ The amount of deals flowing around the room, risks being taken, from VCs, from s
 
 We had a lot of Canadian investors that we were talking to three months before YC, hoping that by Demo Day, we’d procure investment from them, but ended up not going through. But people we met at YC for an hour on Demo Day were some of our investors and biggest helps to date. 
 
-<b>So from all of these people that you met at YC and the environment that you were put in, what would you say were some of the most important learnings?</b>
+<b>From all of these people that you met at YC and the environment that you were put in, what would you say were some of the most important learnings?</b>
 
 One of the biggest things was that Shak and I were pretty young. We were quite nervous because we didn't know what to expect in YC where people are running their second, third, fourth businesses. The average age is between 28 to 37. Someone in our batch founded "Boosted Boards" and had moved onto their next business. Soylent too, those guys were onto their second business in our batch and I thought, “Soylent’s here, I use Soylent!” And we’re on the same playing field. We were definitely nervous going into that but there is zero age judgement in Silicon Valley which was bizarre to me. 
 
-I remember cold calling around for an internship in Toronto and they’d ask, “How old are you?” I’d respond 20, and they’d just say, “Okay cool, see you in 5 years.” 
+I remember cold-calling around for an internship in Toronto and they’d ask, “How old are you?” I’d respond 20, and they’d just say, “Okay cool, see you in 5 years.” 
 
 Nothing of that sort happens in the Valley which is very cool. 
 
