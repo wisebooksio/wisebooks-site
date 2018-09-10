@@ -2,7 +2,7 @@
 layout: post
 title: Keean Sarani
 subtitle: Interview&#58; From College Dorm Room to Y-Combinator at 21
-description: Y-Combinator Alumni, Co-Founder of Avro Life Sciences 
+description: (Exclusive Interview) Y-Combinator Alumni, Co-Founder of Avro Life Sciences 
 image: assets/images/profilepics/keean_sarani.jpg
 allpeoplepics: assets/images/allpeoplepics/keean_sarani.jpg
 person: keean_sarani
