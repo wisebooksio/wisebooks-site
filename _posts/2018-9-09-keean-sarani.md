@@ -12,7 +12,7 @@ bookattribution: Keean Sarani
 resources: and Resources
 ---
 
-Keean is 21 years old, currently studying pharmacy at the University of Waterloo (as one of the 20 students who were accepted), and is the co-founder of Avro life sciences, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 
+Keean is 21 years old, currently studying pharmacy at the University of Waterloo (as one of the 20 students who were accepted), and is the co-founder of <a href="https://www.avrolifesci.com/">Avro Life Science</a>, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 
 
 Avro develops skin patches for generic drug delivery whose technology is catered towards the young and the elderly but have plans to reach millions in the pharmaceutical market. 
 
