@@ -1,0 +1,48 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/100 plus.jpg",
+    "description": "Humanity is on the cusp of an exciting longevity revolution. The first person to live to 150 years has probably already been born. What will your life look like when you live to be over 100? Will the world become overpopulated? How will living longer affect your finances, your family life, and your views on religion and the afterlife?",
+    "full_description":"In 100 Plus, futurist Sonia Arrison brings together over a decade of experience researching and writing about cutting-edge advances in science and technology to paint a vivid picture of a future that only recently seemed like science fiction, but is now very real. The first book to give readers a comprehensive understanding of how life-extending discoveries will change our social and economic worlds, 100 Plus is an illuminating and indispensable text that will help us navigate the thrilling journey of life beyond 100 years.",
+    "amazon_link": "https://amzn.to/2wXIqDb"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/bloodlands.jpg",
+        "description": "Americans call the Second World War “The Good War.” But before it even began, America's wartime ally Josef Stalin had killed millions of his own citizens—and kept killing them during and after the war. Before Hitler was finally defeated, he had murdered six million Jews and nearly as many other Europeans. At war's end, both the German and the Soviet killing sites fell behind the iron curtain, leaving the history of mass killing in darkness.",
+        "full_description":"Bloodlands is a new kind of European history, presenting the mass murders committed by the Nazi and Stalinist regimes as two aspects of a single history, in the time and place where they occurred: between Germany and Russia, when Hitler and Stalin both held power. Assiduously researched, deeply humane, and utterly definitive, Bloodlands will be required reading for anyone seeking to understand the central tragedy of modern history.",
+        "amazon_link": "https://amzn.to/2N14yrq"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/resurrection from the underground.jpg",
+            "description": "In a fascinating analysis of critical themes in Feodor Dostoevsky’s work, René Girard explores the implications of the Russian author’s “underground,” a site of isolation, alienation, and resentment. Brilliantly translated, this book is a testament to Girard’s remarkable engagement with Dostoevsky’s work, through which he discusses numerous aspects of the human condition, including desire, which Girard argues is “triangular” or “mimetic”―copied from models or mediators whose objects of desire become our own.",
+            "full_description":" Girard’s interdisciplinary approach allows him to shed new light on religion, spirituality, and redemption in Dostoevsky’s writing, culminating in a revelatory discussion of the author’s spiritual understanding and personal integration. Resurrection is an essential and thought-provoking companion to Dostoevsky’s Notes from the Underground.",
+            "amazon_link": "https://amzn.to/2wVF8Aw"
+            },
+            {
+                "book_cover":"/assets/images/bookpics/new atlantis.jpg",
+                "description": "Thomas More: Utopia/ Francis Bacon: New Atlantis/Henry Neville: The Isle of Pines With the publication of Utopia (1516), Thomas More introduced into the English language not only a new word, but a new way of thinking about the gulf between what ought to be and what is. His Utopia is at once a scathing analysis of the shortcomings of his own society, a realistic suggestion for an alternative mode of social organization, and a satire on unrealistic idealism. Enormously influential, it remains a challenging as well as a playful text.",
+                "full_description":"This edition reprints Ralph Robinson's 1556 translation from More's original Latin together with letters and illustrations that accompanied early editions of Utopia. Utopia was only one of many early modern treatments of other worlds. This edition also includes two other, hitherto less accessible, utopian narratives. New Atlantis (1627) offers a fictional illustration of Francis Bacon's visionary ideal of the role that science should play in the modern society. Henry Neville's The Isle of Pines (1668), a precursor of Defoe's Robinson Crusoe, engages with some of the sexual, racial, and colonialist anxieties of the end of the early modern period. Together these texts illustrate the diversity of the early modern utopian imagination, as well as the different purposes to which it could be put.",
+                "amazon_link": "https://amzn.to/2oTS9a4"
+                },    
+
+                {
+                    "book_cover":"/assets/images/bookpics/american challenge.jpg",
+                    "description": "“The signs and instruments of power are no longer armed legions or raw materials or capital… The wealth we seek does not lie in the earth or in numbers of men or in machines, but in the human spirit. And particularly in the ability of men to think and to create.” -- Jean-Jacques Servan-Schreiber in his international bestseller, The American Challenge.",
+                    "full_description":"The American Challenge was 50 years ahead of its time in its appraisal of Europe, industrialization, the global economy and digital future, and the sclerosis of French politics. The youth of the world can now rediscover this landmark book, and take measure of all that still remains to be accomplished to bring to fruition the dreams of post-war generation.",
+                    "amazon_link": "https://amzn.to/2MZyKTR "
+                    },    
+
+                    {
+                        "book_cover":"/assets/images/bookpics/the great illusion.jpg",
+                        "description": "In The Great Illusion, Angell's primary thesis was, in the words of historian James Joll, that 'the economic cost of war was so great that no one could possibly hope to gain by starting a war the consequences of which would be so disastrous.'",
+                        "full_description":"For that reason, a general European war was very unlikely to start, and if it did, it would not last long. He argued that war was economically and socially irrational and that war between industrial countries was futile because conquest did not pay. J. D. B. Miller writes: 'The 'Great Illusion' was that nations gained by armed confrontation, militarism, war, or conquest.'",
+                        "amazon_link": "https://amzn.to/2oSL3T9"
+                        },    
+
+                        {
+                            "book_cover":"/assets/images/bookpics/the diamond age.jpg",
+                            "description": "In Snow Crash, Neal Stephenson took science fiction to dazzling new levels. Now, in The Diamond Age, he delivers another stunning tale. Set in twenty-first century Shanghai, it is the story of what happens when a state-of-the-art interactive device falls in the hands of a street urchin named Nell. Her life—and the entire future of humanity—is about to be decoded and reprogrammed… ",
+                            "amazon_link": "https://amzn.to/2N3jsxi"
+                            },    
+                
+
+]

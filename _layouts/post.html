@@ -17,6 +17,9 @@
 			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="{{page.title}}" />{% endif %}
 			<div class="overlay">
 				<h1>{{page.title}}</h1>
+				{% if page.subtitle %}
+				<h3>{{page.subtitle}}</h3>
+				{% endif %}
 				<p class="imgattribution">Banner image attribution: {{page.imgattribution}}</p>
 			</div>
 		</div>
@@ -27,18 +30,20 @@
 						<a href="#books" class="button specialdark books">Skip to Books</a>
 							&nbsp;
 							<p>{{content}}</p>
-							<!--details class="attribution">
+							{% if page.bioattribution %}
+							<details class="attribution">
 								<summary>Biography sources</summary>
 									{{page.bioattribution}}
-							</details-->
+							</details>
+							{% endif %}
 					</div>
 				</div>
 		</section>
 			
 			<section id="books">
-				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1>
+				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books {% if page.resources %}{{page.resources}}{% endif %}</h1>
 					<details class="attribution">
-						<summary>Book sources</summary>
+						<summary>Sources</summary>
 						{{page.bookattribution}}
 					</details>
 

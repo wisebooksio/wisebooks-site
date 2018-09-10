@@ -1,0 +1,40 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/gunsgermssteel.jpg",
+    "description": "Guns, germs, and steel is a phenomenal book, I loved it. It gave me a very broad look on the world as a whole and very, very macro analysis of the world. In context, and startups, looking at what the world could be like in the next thousand years, in the next hundred years, in the next 50 years, and not focussed on what are we going to do to further our business in the next six months. I started looking at the business, with a very long-term approach. (Keean's Notes)",
+    "full_description":"Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had had a head start in food production advanced beyond the hunter-gatherer stage, and then developed religion --as well as nasty germs and potent weapons of war --and adventured on sea and land to conquer and decimate preliterate cultures. A major advance in our understanding of human societies, Guns, Germs, and Steel chronicles the way that the modern world came to be and stunningly dismantles racially based theories of human history.",
+    "amazon_link": "https://amzn.to/2N3RYaZ"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the selfish gene.jpg",
+        "description": "I’m a science kid, right, or STEM but obviously, you go in and out of phases where you’re super into what you’re studying, and then… and then you’re not. You feel like there’s no light at the end of the tunnel and it’s just dragging on but I think this book got me back into synthetic biology, chemistry, looking at evolution from a gene-specific point-of-view. It kind of re-sparked my interest in pharmacy and STEM. (Keean's Notes)",
+        "full_description":"Professor Dawkins articulates a gene's eye view of evolution - a view giving centre stage to these persistent units of information, and in which organisms can be seen as vehicles for their replication. This imaginative, powerful, and stylistically brilliant work not only brought the insights of Neo-Darwinism to a wide audience, but galvanized the biology community, generating much debate and stimulating whole new areas of research. Forty years later, its insights remain as relevant today as on the day it was published.",
+        "amazon_link": "https://amzn.to/2Nw12oj"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/outliers.jpg",
+            "description": "This book is about how different successful people were outliers; the specific environmental parameters that helped them become where they were, maybe it was the month they were born in, or the culture they were brought up in. It focuses on all these different factors that can influence a person’s success. That book was actually recommended to me by one of our founders who’s no longer with us, Tom Chong. So that book also has personal meaning to me. (Keean's Notes)",
+            "full_description":"In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of 'outliers'--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different? His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.",
+            "amazon_link": "https://amzn.to/2x1GOs8"
+            },
+            {
+                "book_cover":"/assets/images/bookpics/why mortals sleep.jpg",
+                "description": "I have awful time management and don’t have much time for pleasure reading, but this book is full of really good short stories. They’re called mousetrap stories because you know where the story is going and you know what’s going to happen, but the way he tells the tale is so thought-provoking and interesting, and every story is such a bizarre concept. You don’t know how Vonnegut conjured this up. I actually just got the sequel for that called Look at the Baby so that’s what I’m reading now. (Keean's Notes)",
+                "full_description":"These previously unpublished, beautifully rendered works of fiction are a testament to Kurt Vonnegut’s unique blend of observation and imagination. Here are stories of men and machines, art and artifice, and how ideals of fortune, fame, and love take curious twists in ordinary lives. An ambitious builder of roads fritters away his free time with miniature trains—until the women in his life crash his fantasy land. Trapped in a stenography pool, a young dreamer receives a call from a robber on the run, who presents her with a strange proposition. A crusty newspaperman is forced onto a committee to judge Christmas displays—a job that leads him to a suspiciously ostentatious ex-con and then a miracle. Featuring a Foreword by Dave Eggers, While Mortals Sleep is a poignant reflection of our world as it is and as it could be.",
+                "amazon_link": "https://amzn.to/2wZLFtZ"
+                },
+                {
+                    "book_cover":"/assets/images/bookpics/morning_brew.jpg",
+                    "description": "I’ll start by telling you, I’m awful with time management so Morning Brew is one really good thing that helps me because I just don’t read the newspaper. The news that I’m interested in is politics and tech, and Morning Brew just condenses those two topics every single morning into my inbox. It’s very bite-sized so I know exactly what’s going on, and if I want to learn more, I can just click into the hyperlinks. (Keean's Notes)",
+                    "amazon_link": "https://www.morningbrew.com/"
+                    },
+                    {
+                        "book_cover":"/assets/images/bookpics/paul_graham_essays.jpg",
+                        "description": "Paul Graham, one of the founders of Y-Combinator, is notorious for his essays. I feel like every famous person in the startup world will reference his essays. I remember reading “How to get startup ideas” in first year. That kind of helped me start thinking about startup ideas and throwing ideas around with my friends. We’d meet up on Sundays and imagine if we could make like, X, Y, or Z. Just super far-out there ideas and eventually we funneled it down and landed on transdermal patches. (Keean's Notes)",
+                        "full_description": "Another essay was “What startups are really like,” that was kind of a slap in the face and a real wake-up call, coming to this realization that the whole world of small business is not glamorous and awesome like the giants make it sound like. In the early days, it’s super time consuming, it’s not rewarding, you don’t want to do any work. You have so much work to do and you don’t see the light at the end of the tunnel. This essay really laid it out saying, if you’re serious about something like this, this is the real world. With all of PG’s experience, and him founding YC, he took all this information from other founders and gave people a real world look at HR culture in startups’ early days of 1-5 employees. So I guess those two essays, “How to get startup ideas” and “What startups are really like,” are super important to me. (Keean's Notes)",
+                        "amazon_link": "https://www.morningbrew.com/"
+                        },        
+                    
+        
+
+]

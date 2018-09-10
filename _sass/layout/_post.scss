@@ -8,8 +8,6 @@
 
 	img {
 		width: 100%;
-		position: relative;
-		bottom: 3em;
 		@include breakpoint(large) {
 			bottom: 0;
 		}
@@ -25,16 +23,23 @@
 		right: 0;
 		background-color: rgba(0,0,0,0.4) !important;
 
-		h1 {
-			position: absolute;
-			top: 22vh;
-			width: 100%;
-			text-align: center;
-			color: _palette(mainyellow);
-			text-transform: uppercase;
-			font-size: 7em;
-			text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
-		}
+	
+			h1 {
+				padding-top: 1em;
+				width: 90%;
+				margin: 0 auto;
+				text-align: center;
+				color: _palette(mainyellow);
+				text-transform: uppercase;
+				font-size: 7em;
+				text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
+				line-height: 1;
+			}
+
+			h3 {
+				color: _palette(mainyellow);
+				text-align: center;
+			}
 
 		.imgattribution {
 			font-size: 10px;
@@ -294,13 +299,16 @@
 
 	@media only screen and (max-width: 1024px) {
 			.imgbanner {
-				height: 35vh;
-			
+				height: 55vh;
+
 				.overlay {
+
 					h1 {
-						top: 0;
+						padding-top: 0.5em;
 					}
+
 				}
+
 			}
 
 			#books {
@@ -326,9 +334,8 @@
 			}
 			.overlay {
 				h1 {
-					top: 10vh;
 					font-size: 6em;
-					line-height: 1.2;
+					line-height: 1;
 				}
 			}
 		}
@@ -429,12 +436,16 @@
 
 	@include breakpoint(small) {
 		.imgbanner {
-			height: 32vh !important;
+			height: 25vh !important;
 			.overlay {
 				h1 {
 					font-size: 3.2em;
-					line-height: 1.2;
-					top: 5vh;
+					padding-top: 0.5em;
+				}
+				h3 {
+					font-size: 1em;
+					width: 90%;
+					margin: 0 auto;
 				}
 			}
 		}
