@@ -17,7 +17,7 @@ Andreessen co-founded Netscape, which became the de facto web browser in early 1
 
 Although Andreessen was a natural computer prodigy as a child, he wasn’t very interested in pursuing computer science as a career during his college years. At that time, he was pretty much the model slacker, doing only enough work for him to get by. "I'm a big fan of work avoidance," he revealed in a Rolling Stone interview.
 
-Check out the books that Andreessen has recently recommended from his twitter:
+Check out the books that Andreessen has recently recommended from his <a href="https://twitter.com/pmarca/status/1014987920304832512?lang=en">Twitter</a>:
 
 
 
