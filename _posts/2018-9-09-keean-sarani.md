@@ -21,7 +21,7 @@ Avro develops skin patches for generic drug delivery. Their technology is catere
 <p style="text-align: center;"><img src="{{site.baseurl}}/assets/images/avro.jpg" style="height: 400px; display: flex; margin: 0 auto;" alt="Avro Life Science"/>Avro Life Science's transdermal patch. Picture from TechCrunch.</p>
 
 
-<b>So you met Shak [co-founder] in first year? And you were related but didn’t know?</b>
+<b>So you met Shak [co-founder, 2018 Thiel Fellow] in first year? And you were related but didn’t know?</b>
 
 Yeah, so I met Shak in first year through mutual friends and he was in chemical engineering. We were talking and I found out he had the same religious background as me and we're a part of a very small community. So everyone knows everyone. 
 
@@ -41,7 +41,7 @@ YC hands-down lives up to the hype that it’s been made out to be. Any problems
 
 For example, we’re in a niche market for YC companies with transdermal drug delivery patches. The new YC bio partner, Diego Rey, is experienced in pharma, he sold his diagnostics therapeutics company for like half a billion dollars to Roche [Molecular Systems]. So he has pharma experience but he doesn’t have transdermal experience. He reached out to his entire network personally, to find someone with transdermal tech experience to help us out with that.
 
-Another thing that stands out is probably Paul Buchheit’s workshops [founder of Gmail, serial angel investor]. I’m pretty sure he’s a YC partner and he’s one of our investors; super, hyper intelligent guy. He held office hours around the topic of “Building a Billion Dollar company”. That really forced founders to think about their very long-term strategy and work backwards from that billion dollar valuation to figure out how to get there. He worked with individual companies to help them roadmap their own trajectory, so <b>that</b> was phenomenal. 
+Another thing that stands out is probably Paul Buchheit’s workshops [founder of Gmail, serial angel investor, and YC partner]. He’s one of our investors; super, hyper intelligent guy. He held office hours around the topic of “Building a Billion Dollar company”. That really forced founders to think about their very long-term strategy and work backwards from that billion dollar valuation to figure out how to get there. He worked with individual companies to help them roadmap their own trajectory, so <b>that</b> was phenomenal. 
 
 The last thing is, it’s single-handedly the best raising vehicle in the entire world. There is no better mechanism to raise money than YC. We were fortunate enough to raise a little amount of capital before Demo Day and we went into Demo Day with half a million dollars. On that day, our partners were absolutely rooting for us. Our YC partners would tell us, “Hey, I might have a handshake deal for you over there, go talk to this guy.” That’s so different from the startup world in Canada. But at the YC Demo Day, people will literally shake your hand for a half a million dollar deal and that handshake is equivalent to a signed piece of paper. For YC, handshake deals are everything and you don’t break those. 
 
@@ -51,7 +51,7 @@ We had a lot of Canadian investors that we were talking to three months before Y
 
 <b>From all of these people that you met at YC and the environment that you were put in, what would you say were some of the most important learnings?</b>
 
-One of the biggest things was that Shak and I were pretty young. We were quite nervous because we didn't know what to expect in YC where people are running their second, third, fourth businesses. The average age is between 28 to 37. Someone in our batch founded "Boosted Boards" and had moved onto their next business. Soylent too, those guys were onto their second business in our batch and I thought, “Soylent’s here, I use Soylent!” And we’re on the same playing field. We were definitely nervous going into that but there is zero age judgement in Silicon Valley which was bizarre to me. 
+One of the biggest things was that Shak and I were pretty young. We were quite nervous because we didn't know what to expect in YC where people are running their second, third, fourth businesses. The average age is 29.5. Someone in our batch founded "Boosted Boards" and had moved onto their next business. Soylent too, those guys were onto their second business in our batch and I thought, “Soylent’s here, I use Soylent!” And we’re on the same playing field. We were definitely nervous going into that but there is zero age judgement in Silicon Valley which was bizarre to me. 
 
 I remember cold-calling around for an internship in Toronto and they’d ask, “How old are you?” I’d respond 20, and they’d just say, “Okay cool, see you in 5 years.” 
 
@@ -75,11 +75,11 @@ So those 6-months in, what I think was 2016, were awful. I will say though, this
 
 I’m the type of person that likes to be throw in the deep end, so I really enjoyed that. It’s almost fun for me, it’s like picking up a new skill or a new sport so I think that’s kind of what YC was. Shak is totally the same type of person so he feeds off that environment, being around all these hyper intelligent people. It definitely was a huge change going from a super lackadaisical summer to coming back in the school year, moving into the Velocity garage, and stepping it up a notch. Luckily, because of the support system we had at Velocity, we had all these people that had gone through YC. 
 
-Jay Shaw, the director of Velocity has been a very close personal mentor to us and steered us in the right direction during that time, while still allowing us to make our own mistakes and decisions.
+Jay Shah, the director of Velocity has been a very close personal mentor to us and steered us in the right direction during that time, while still allowing us to make our own mistakes and decisions.
 
 <b>The last question we have for you is since you’ve had so many mentors and people that you’ve met in the space, talked to, received advice from, etc. What is the best and worst piece of advice you’ve received?</b>
 
-The best, I’m pretty sure, is from Eric at ExVivo which is based in Waterloo. He's been super helpful, a huge inspiration, and what he told us was at the end of the day, this is still your company. You started it, to run your own business. The culture is how you always dreamed a company culture should be, the way you interact with your employees is how you wish your former employer interacted with you. Don't let other people come in and try to mix it all up and make it theirs. At the end of the day, this is how you want to do things. If you don't want to take money from investor A, because you don't believe in his morals, or his ethics, don't do it. At the end of the day, you have that ultimate decision. That piece of advice has really stuck with me.
+The best, I’m pretty sure, is from Eric at ExVivo which is based in Waterloo (YC alumni, Velocity, alumni). He's been super helpful, a huge inspiration, and what he told us was at the end of the day, this is still your company. You started it, to run your own business. The culture is how you always dreamed a company culture should be, the way you interact with your employees is how you wish your former employer interacted with you. Don't let other people come in and try to mix it all up and make it theirs. At the end of the day, this is how you want to do things. If you don't want to take money from investor A, because you don't believe in his morals, or his ethics, don't do it. At the end of the day, you have that ultimate decision. That piece of advice has really stuck with me.
 
 The worst piece of advice would be the flip side of that where you have to follow X, Y, and Z to be successful. It's like Facebook did X, Y, & Z, you should do that too and you will be successful. Businesses are not a recipe by any means, there isn't a formula and you will fail if you do that. If you follow someone else's company structure and the steps they took for them to be successful, you're totally disregarding all the other factors and outliers that happened in their world. 
 
