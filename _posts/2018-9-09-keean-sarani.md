@@ -12,7 +12,7 @@ bookattribution: Keean Sarani
 resources: and Resources
 ---
 
-Keean is 21 years old, currently studying pharmacy at the University of Waterloo (as one of the 20 students who were accepted), and is the co-founder of <a href="https://www.avrolifesci.com/">Avro Life Science</a>, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 
+Keean is 21 years old, currently studying pharmacy at the University of Waterloo, and is the co-founder of <a href="https://www.avrolifesci.com/">Avro Life Science</a>, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 
 
 Avro develops skin patches for generic drug delivery. Their technology is catered towards the young and the elderly but they have plans to reach millions in the pharmaceutical market. 
 
@@ -79,13 +79,13 @@ Jay Shaw, the director of Velocity has been a very close personal mentor to us a
 
 <b>The last question we have for you is since you’ve had so many mentors and people that you’ve met in the space, talked to, received advice from, etc. What is the best and worst piece of advice you’ve received?</b>
 
-The best, I’m pretty sure, is from Eric at Accidental Labs, which is an early company in Boston that is doing their Series A now. They’ve been super helpful, a huge inspiration, and what they told us was at the end of the day, this is still your company. You started it, to run your own business. The culture is how you always dreamed a company culture should be, the way you interact with your employees is how you wish your former employer interacted with you. Don't let other people come in and try to mix it all up and make it theirs. At the end of the day, this is how you want to do things. If you don't want to take money from investor A, because you don't believe in his morals, or his ethics, don't do it. At the end of the day, you have that ultimate decision. That piece of advice has really stuck with me.
+The best, I’m pretty sure, is from Eric at ExVivo which is based in Waterloo. He's been super helpful, a huge inspiration, and what he told us was at the end of the day, this is still your company. You started it, to run your own business. The culture is how you always dreamed a company culture should be, the way you interact with your employees is how you wish your former employer interacted with you. Don't let other people come in and try to mix it all up and make it theirs. At the end of the day, this is how you want to do things. If you don't want to take money from investor A, because you don't believe in his morals, or his ethics, don't do it. At the end of the day, you have that ultimate decision. That piece of advice has really stuck with me.
 
 The worst piece of advice would be the flip side of that where you have to follow X, Y, and Z to be successful. It's like Facebook did X, Y, & Z, you should do that too and you will be successful. Businesses are not a recipe by any means, there isn't a formula and you will fail if you do that. If you follow someone else's company structure and the steps they took for them to be successful, you're totally disregarding all the other factors and outliers that happened in their world. 
 
 <b>Best purchase in the past year of less than 100 bucks give or take?</b>
 
-Waterproof bluetooth speakers for showers, the beach, everywhere. I’ve used it every single day for the past 2 years. I have the UE Boom waterproof speakers. 
+Waterproof bluetooth speakers for showers, the beach, everywhere. I’ve used it every single day for the past 2 years. I have the <a href="https://amzn.to/2CIi0eT">UE Boom waterproof speakers</a>. 
 
 
 
