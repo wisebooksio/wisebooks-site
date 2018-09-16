@@ -61,6 +61,8 @@ p {
 #bio {
     .bio-content {
 		padding: 2em;
+		width: 80%;
+		margin: 0 auto;
 		.books {
 			display: block;
 			width: 40%;
@@ -351,6 +353,7 @@ p {
 						display: flex;
 						flex-direction: column;
 						align-items: center;
+						width: 100%;
 
 						.books {
 							width: 70%;
