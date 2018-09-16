@@ -19,7 +19,8 @@ books: [
             },
             {
                 "book_cover":"/assets/images/bookpics/women fire and dangerous things.jpg",
-                "description": "&quot;Its publication should be a major event for cognitive linguistics and should pose a major challenge for cognitive science. In addition, it should have repercussions in a variety of disciplines, ranging from anthropology and psychology to epistemology and the philosophy of science. . . . Lakoff asks: What do categories of language and thought reveal about the human mind? Offering both general theory and minute details, Lakoff shows that categories reveal a great deal.&quot;—David E. Leary, American Scientist",
+                "description": "&quot;Its publication should be a major event for cognitive linguistics and should pose a major challenge for cognitive science. In addition, it should have repercussions in a variety of disciplines, ranging from anthropology and psychology to epistemology and the philosophy of science. Lakoff asks: What do categories of language and thought reveal about the human mind?",
+                "full_description": "Offering both general theory and minute details, Lakoff shows that categories reveal a great deal.&quot;—David E. Leary, American Scientist",
                 "amazon_link": "https://amzn.to/2CVlJFY"
                 },    
         
