@@ -5,7 +5,7 @@ description: Award-winning American Football Coach, International Director of Ba
 image: assets/images/profilepics/george_raveling.jpg
 allpeoplepics: assets/images/allpeoplepics/george_raveling.jpg
 person: george_raveling
-category: Sports_Coach
+category: Sports
 imgattribution: tim.blog
 bookattribution: https://tim.blog/2018/08/09/george-raveling/
 ---

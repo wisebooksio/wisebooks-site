@@ -5,7 +5,7 @@ description: 2013 Spartan Race world champion, three-time champion of the Worldâ
 image: assets/images/profilepics/amelia_boone.jpg
 allpeoplepics: assets/images/allpeoplepics/amelia_boone.jpg
 person: amelia_boone
-category: Athlete
+category: Sports
 imgattribution: Newsweek
 bookattribution: Tools of Titans by Tim Ferriss
 ---
