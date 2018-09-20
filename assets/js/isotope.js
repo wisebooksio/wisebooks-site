@@ -1,9 +1,11 @@
 // init Isotope
-  var $grid = $('.innerpeople').isotope();
 
-  $grid.imagesLoaded().progress( function() {
-    $grid.isotope('layout');
+var $grid = $('.innerpeople').imagesLoaded( function() {
+  // init Isotope after all images have loaded
+  $grid.isotope({
+    // options...
   });
+});
   
   // filter items on button click
   $('.filter-button-group').on( 'click', 'a', function() {
