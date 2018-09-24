@@ -2,7 +2,7 @@
 layout: post
 title: Keean Sarani
 subtitle: Interview&#58; From College Dorm Room to Y-Combinator at 21
-description: (Exclusive Interview) Y-Combinator Alumni, Co-Founder of Avro Life Sciences 
+description: (Exclusive Interview) From College Dorm Room to Y-Combinator at 21 with Co-Founder of Avro Life Sciences 
 image: assets/images/profilepics/keean_sarani.jpg
 allpeoplepics: assets/images/allpeoplepics/keean_sarani.jpg
 person: keean_sarani
@@ -18,7 +18,7 @@ Avro develops skin patches for generic drug delivery. Their technology is catere
 
 “When you deliver drugs transdermally, you significantly reduce liver toxicity and boost bio-availability. This means pharma can rescue drugs that just barely failed in Phase III. Pharma will pay a lot for this,” <a href="https://techcrunch.com/2018/06/29/replacing-pills-with-a-band-aid-avro-life-sciences-thinks-theres-a-patch-for-that/">said Seth Bannon</a> who is another <a href="https://www.fifty.vc/team/seth-bannon/">big deal</a> in tech venture capital).
 
-<p style="text-align: center;"><img src="{{site.baseurl}}/assets/images/avro.jpg" style="height: 400px; display: flex; margin: 0 auto;" alt="Avro Life Science"/>Avro Life Science's transdermal patch. Picture from TechCrunch.</p>
+<p style="text-align: center;"><img src="{{site.baseurl}}/assets/images/avro.jpg" style="width: 90%; display: flex; margin: 0 auto;" alt="Avro Life Science"/>Avro Life Science's transdermal patch. Picture from TechCrunch.</p>
 
 
 <b>So you met Shak [co-founder, 2018 Thiel Fellow] in first year? And you were related but didn’t know?</b>

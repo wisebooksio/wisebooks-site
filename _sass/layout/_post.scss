@@ -29,13 +29,13 @@ p {
 
 	
 			h1 {
-				padding-top: 1em;
+				padding-top: 1.4em;
 				width: 90%;
 				margin: 0 auto;
 				text-align: center;
 				color: _palette(mainyellow);
 				text-transform: uppercase;
-				font-size: 7em;
+				font-size: 6.5em;
 				text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
 				line-height: 1;
 			}
@@ -61,7 +61,7 @@ p {
 #bio {
     .bio-content {
 		padding: 2em;
-		width: 80%;
+		width: 70%;
 		margin: 0 auto;
 		.books {
 			display: block;
@@ -101,6 +101,7 @@ p {
 		margin-top: 2em;
 		font-weight: 800;
 		text-transform: uppercase;
+		font-size: 2em !important;
 
 	}
 
@@ -303,7 +304,10 @@ p {
 		
 	}
 
-	@media only screen and (max-width: 1024px) {
+	@media only screen and (max-width: 1250px) {
+
+		@media only screen and (max-width: 1024px) {
+
 			.imgbanner {
 				height: 55vh;
 
@@ -316,6 +320,7 @@ p {
 				}
 
 			}
+		}
 
 			#books {
 				.booktile {
@@ -329,7 +334,7 @@ p {
 			}
 
 
-		}
+	}
 
 	
 	@include breakpoint(medium) {
@@ -394,6 +399,11 @@ p {
 							position: relative;
 							max-width: 100%;
 							right: 0;
+
+							p {
+								width: 80%;
+								margin: 0 auto;
+							}
 						}
 
 						.bookbuttons {

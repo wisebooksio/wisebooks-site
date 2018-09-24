@@ -17,7 +17,7 @@ books: [
             "amazon_link": "http://www.paulgraham.com/articles.html"
             },
             {
-                "book_cover":"/assets/images/bookpics/your_company_is_not_family.jpg",
+                "book_cover":"/assets/images/bookpics/hbr.jpg",
                 "description": "Consider another metaphor—one that Reed Hastings, the CEO of Netflix, introduced in a famous presentation on his company’s culture. Hastings stated, “We’re a team, not a family.” (excerpt from article)",
                 "amazon_link": "https://hbr.org/2014/06/your-company-is-not-a-family"
                 },
@@ -26,11 +26,6 @@ books: [
                     "description": "&quot;The Man in the Arena&quot; tells us that the man we should praise is the man who’s out there fighting the big battles, even if those battles end in defeat. In our day, when cynicism and aloof detachment are considered hip and cool, TR reminds us that glory and honor come to those “who spend themselves in a worthy cause.” (The Art of Manliness)",
                     "amazon_link": "http://www.theodore-roosevelt.com/trsorbonnespeech.html"
                     },
-                    {
-                        "book_cover":"/assets/images/bookpics/theodore_roosevelt.jpg",
-                        "description": "&quot;The Man in the Arena&quot; tells us that the man we should praise is the man who’s out there fighting the big battles, even if those battles end in defeat. In our day, when cynicism and aloof detachment are considered hip and cool, TR reminds us that glory and honor come to those “who spend themselves in a worthy cause.” (The Art of Manliness)",
-                        "amazon_link": "http://www.theodore-roosevelt.com/trsorbonnespeech.html"
-                        },
                         {
                             "book_cover":"/assets/images/bookpics/daring_greatly.jpg",
                             "description": "Daring Greatly is not about winning or losing. It’s about courage. In a world where “never enough” dominates and feeling afraid has become second nature, vulnerability is subversive. Uncomfortable. It’s even a little dangerous at times. And, without question, putting ourselves out there means there’s a far greater risk of getting criticized or feeling hurt.",
