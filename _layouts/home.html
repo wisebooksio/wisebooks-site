@@ -16,10 +16,11 @@
             </header>
             <div class="content">
                 <p class="light">{{ page.landing-description }}</p>
-                <form class="homesubscription" action="{{ site.mailchimp }}" method="post">
-                    <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
-                    <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+                <form class="homesubscription">
+                    <input type="email" name="email" placeholder="Email address" class="email-input"/>                 
+                    <input type="submit" name="submit" class="submit button"/>
                 </form>
+                <div class="results_display"></div>
             </div>
         </div>
     </section>

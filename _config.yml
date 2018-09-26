@@ -15,7 +15,6 @@ facebook_url:  https://www.facebook.com/wisebooksio/
 twitter_url: https://twitter.com/wisebooksio
 
 #mailchimp
-mailchimp: https://wisebooks.us19.list-manage.com/subscribe/post?u=353a3edf5a036907ebe71dc44&amp;id=485976f620
 
 # Tracker
 analytics: UA-123321285-1 # Google Analytics
@@ -30,5 +29,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - liquid
+  - jekyll-admin
+
 
 
