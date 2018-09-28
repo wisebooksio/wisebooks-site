@@ -3,14 +3,14 @@ title: Wisebooks
 email: hello@wisebooks.io
 description: Free database of books recommended by world-class people. Subscribe for weekly bite-sized book recommendations.
 baseurl:
-url: # the base hostname & protocol for your site
+url:
 author: Christine & Jenny
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings
+#social settings
 facebook_url:  https://www.facebook.com/wisebooksio/
 twitter_url: https://twitter.com/wisebooksio
 
