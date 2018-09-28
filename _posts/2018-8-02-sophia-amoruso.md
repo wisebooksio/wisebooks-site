@@ -5,7 +5,8 @@ description: Founder of Nasty Girl Vintage and &num;Girlboss, Forbe's List of Am
 image: assets/images/profilepics/sophia_amoruso.jpeg
 allpeoplepics: assets/images/allpeoplepics/sophia_amoruso.jpg 
 imgattribution: Glamour.com
-bookattribution: https://www.goodreads.com/interviews/show/946.Sophia_Amoruso 
+category: Entrepreneur
+bookattribution: goodreads.com/interviews/show/946.Sophia_Amoruso 
 person: sophia_amoruso
 ---
 

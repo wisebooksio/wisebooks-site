@@ -5,6 +5,7 @@ description: Founder of Tesla, SpaceX, OpenAI, Neuralink, the Boring Company, Ex
 image: assets/images/profilepics/elon_musk.jpg
 allpeoplepics: assets/images/allpeoplepics/elon_musk.jpg
 person: elon_musk
+category: Entrepreneur
 imgattribution: Inc.com
 bookattribution: https://www.businessinsider.com/elon-musk-favorite-books-2015-10
 ---

@@ -1,0 +1,21 @@
+books: [
+    {
+        "book_cover":"/assets/images/bookpics/being mortal.jpg",
+        "description": "In Being Mortal, Gawande explores the implications (and importance) of reframing our relationship with old age and mortality from &quot;what it means to fight&quot; to understanding what we're fighting for. Reading his books as a patient and technologist has made me realize that I am not alone in my experiences… (Yasyf and Joe's Notes)",
+        "full_description":"that I am not alone in wanting to shape the healthcare system for everyone, and that there is deep opportunity to make a difference. (Yasyf and Joe's Notes)",
+        "amazon_link": "https://amzn.to/2NsNquN"
+        },
+    {
+        "book_cover":"/assets/images/bookpics/leadership and self deception.jpg",
+        "description": "Leading about self-deception and how to be more self-aware is a fascinating rabbit-hole, and this book provides a compelling yet simple introduction to this school of thought. This was one of those reads that get you going on a million different paths you never even considered. Plus my girlfriend Alice is very poetic about it! (Yasyf's Notes)",
+        "full_description":"Leadership and Self-Deception uses an entertaining story everyone can relate to about a man facing challenges at work and at home to expose the fascinating ways that we blind ourselves to our true motivations and unwittingly sabotage the effectiveness of our own efforts to achieve happiness and increase happiness. We trap ourselves in a &quot;box&quot; of endless self-justification. Most importantly, the book shows us the way out. Readers will discover what millions already have learned--how to consistently tap into and act on their innate sense of what's right, dramatically improving all of their relationships.",
+        "amazon_link": "https://amzn.to/2MRgdE1"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/born a crime.jpg",
+            "description": "My parents were both anti-Apartheid activists in South Africa. Through their stories, I've been able to build an understanding of what life was like, but no matter how close they were to the struggle, they were always just observers to an unjust system; never victims... (Joe's Notes)",
+            "full_description":"Reading Trevor Noah's memoir has given me access to a totally new perspective in ways that none of the other autobiographies or history books I've read have been able to. There is something about his voice -- his unique ability to blend comedy, absurdity, and history -- that makes the stories we've all heard about Apartheid easier to relate to. That makes them more personal, and impactful, and emotionally engaging. (Joe's Notes)",
+            "amazon_link": "https://amzn.to/2MNYuxr"
+            },
+
+]

@@ -4,13 +4,16 @@
 .contactform {
 	background-color: _palette(mainyellow);
 	.imgbanner-contact {
-		height: 40vh;
+		height: 32vh;
 		box-shadow: 2px 0 10px rgba(0, 0, 0, .5);
 		position: relative;
 		overflow: hidden;
 		width: 100%;
 		img {
 			width: 100%;
+			@include breakpoint(small) {
+				width: 180%;
+			}
 		}
 	}
 		.overlay-contact { 
@@ -52,6 +55,9 @@
 
 	.contactus {
 		margin-bottom: 3em;
+		form {
+			padding-bottom: 5em;
+		}
 		.innerform {
 			width: 70%;
 			margin: 0 auto;
@@ -70,7 +76,6 @@
 
 	form {
 		margin: 0 0 _size(element-margin) 0;
-		padding-bottom: 5em;
 		background-color: rgba(255, 255, 255, 0.9);
 		box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 
@@ -90,12 +95,15 @@
 			float: right;
 			padding-right: 2em;
 			
+			li {
+				padding: 0 !important;
+			}
 		}
 		
 		@include breakpoint(small) {
 
 			.field {
-				margin: 0;
+				margin: 2em 0 0 0;
 				padding: 0;
 
 				.half {

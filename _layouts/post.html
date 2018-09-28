@@ -14,23 +14,34 @@
 <!-- One -->
 
 		<div class="imgbanner"> <!---class found in _image.scss-->
-			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />{% endif %}
+			{% if page.image %}<img src="{{ site.baseurl }}/{{ page.image }}" alt="{{page.title}}" />{% endif %}
 			<div class="overlay">
 				<h1>{{page.title}}</h1>
+				{% if page.subtitle %}
+				<h3>{{page.subtitle}}</h3>
+				{% endif %}
+				<p class="imgattribution">Banner image attribution: {{page.imgattribution}}</p>
 			</div>
 		</div>
-
+		
 		<section id = "bio">
 				<div class="inner">
 					<div class="bio-content">
 						<a href="#books" class="button specialdark books">Skip to Books</a>
 							&nbsp;
 							<p>{{content}}</p>
+							{% if page.bioattribution %}
+							<details class="attribution">
+								<summary>Biography sources</summary>
+									{{page.bioattribution}}
+							</details>
+							{% endif %}
 					</div>
 				</div>
 		</section>
 			
 			<section id="books">
+<<<<<<< HEAD
 				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books</h1></header>
 				<div class="inner booktile">
 					{% for book in site.data[page.person].books %}
@@ -46,19 +57,41 @@
 										<div class="expanded">
 											<p>{{book.full_description}}</p>
 										</div>	
+=======
+				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books {% if page.resources %}{{page.resources}}{% endif %}</h1>
+					<details class="attribution">
+						<summary>Sources</summary>
+						{{page.bookattribution}}
+					</details>
+>>>>>>> gh-pages
 
-								</details>
-								<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
-							</div>	
-						<div class="border"></div>
-					</div>
+				</header>
+				<div class="inner">
+					<div class="booktile">
+						{% for book in site.data[page.person].books %}
+
+						<div class = "book-card">
+							<span class="bookimage"><img src="{{book.book_cover}}"/></span>
+							<span class="descriptionbuy">
+							<p>{{book.description}}</p>
+							</span>
+								<div class="bookbuttons">
+									<details>
+										<summary class="button small yellow readmore">Read More</summary>
+											<div class="expanded">
+												<p>{{book.full_description}}</p>
+											</div>	
+
+									</details>
+									<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
+								</div>	
+							<div class="border"></div>
+						</div>
 					
 					{% endfor %}
+					</div>
 							
 				</div>
-
-					<p class="attribution">Banner image attribution: {{page.imgattribution}};
-					Book citations: {{page.bookattribution}}</p>
 
 			</section>
 

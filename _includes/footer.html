@@ -1,33 +1,45 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="inner">
-		<section class="split">
+		<div class="inner">
 			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Subscribe for Updates</h3>
-					<a href="#">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<h3>Follow us</h3>
-					<ul class="icons">
-							{% if site.twitter_url %}
-							<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-							{% endif %}
-							{% if site.facebook_url %}
-							<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-							{% endif %}
-							{% if site.instagram_url %}
-							<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-							{% endif %}
+				<form action="https://formspree.io/{{ site.email }}" method="POST">
+					<div class="field">
+						<label for="message">Send us suggestions for people:</label>
+						<textarea name="message" id="message" rows="4"></textarea>
+					</div>
+					<ul class="actions">
+						<li><input type="submit" value="Send Message" /></li>
+						<li><input type="reset" value="Clear" class="specialdark" /></li>
 					</ul>
-				</div>
+				</form>
 			</section>
-		</section>
-	</div>
-</section>
+			<section class="split">
+				<section>
+						<form class="homesubscription2" action="{{ site.mailchimp }}" method="post">
+								<label>Subscribe for weekly newsletters:</label>
+								<div class="field-alt">
+									<input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
+									<input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
+								</div>
+						</form>
+					
+				</section>
+				<section>
+					<div class="contact-method">
+						<label>Follow us:</label>
+							<ul class="icons">
+								{% if site.twitter_url %}
+								<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+								{% endif %}
+								{% if site.facebook_url %}
+								<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+								{% endif %}
+							</ul>
+					</div>
+				</section>
+			</section>
+		</div>
+	</section>
 
 <!-- Footer -->
 	<footer id="footer">
@@ -35,6 +47,7 @@
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<p style="color: white;"> Subscribe using <a href="http://www.wisebooks.io/feed.xml">RSS</a></p>
 
 			</ul>
 		</div>
@@ -43,10 +56,15 @@
 </div>
 
 <!-- Scripts -->
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.details.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="{{ "assets/js/isotope.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+

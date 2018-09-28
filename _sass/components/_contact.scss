@@ -1,0 +1,137 @@
+/* Contact */
+
+	#contact {
+		border-bottom: solid 1px _palette(border);
+        overflow-x: hidden;
+        background-color: _palette(maingray);
+
+		> .inner {
+			@include vendor('display', 'flex');
+            padding: 0 !important;
+            
+            label{
+                color: white;
+            }
+            
+            form {
+                background-color: _palette(maingray);
+                box-shadow: none;
+                    label {
+                        color: white;
+                    }
+                    textarea {
+                        background-color: rgba(212,212,255,0.1);
+                        color: white;
+
+                    }
+                    .field-alt {
+                        display: flex;
+                        flex-direction: row;
+                    }
+            }
+
+            .homesubscription2{
+                display: flex;
+				flex-direction: column;
+				align-items: center;
+                width: 100%;
+                background-color: rgba(0,0,0,0);
+                box-shadow: none;
+                .email-input {
+                  background-color: rgba(212,212,255,0.1) !important;
+                  margin-right: 0.5em;
+                  color: white !important;
+                }
+                .button {
+                  display: flex;
+                }
+              
+			  }
+			  
+			  .contact-method {
+				  width: 40%;
+				  margin: 0 auto;
+				  text-align: center;
+			  }
+
+			> :nth-child(2n - 1) {
+                padding-right: 1em;
+				border-right: solid 1px _palette(border);
+				width: 60%;
+			}
+
+			> :nth-child(2n) {
+				padding-left: 3em;
+				width: 40%;
+			}
+
+			> .split {
+				padding: 0;
+
+				> * {
+					@include padding(3em, 0, (0, 0, 0, 3em));
+					position: relative;
+
+					&:before {
+						border-top: solid 1px _palette(border);
+						content: '';
+						display: block;
+						margin-left: -3em;
+						position: absolute;
+						top: 0;
+						width: calc(100vw + 3em);
+					}
+				}
+
+				> :first-child {
+					&:before {
+						display: none;
+					}
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			> .inner {
+				display: block;
+
+				.homesubscription2 {
+					width: 100%;
+					input[type="email"] {
+						width: 150px;
+					}
+
+
+				}
+
+
+
+				> :nth-child(2n - 1) {
+					@include padding(4em, 0, (0, 0, 0, 0));
+					border-right: 0;
+					margin-bottom: 4em;
+					width: 100%;
+				}
+
+				> :nth-child(2n) {
+					padding-left: 0;
+					width: 100%;
+				}
+
+				> .split {
+					> * {
+						@include padding(3em, 0, (0, 0, 0, 0));
+
+						&:before {
+						}
+					}
+
+					> :first-child {
+						&:before {
+							display: block;
+						}
+					}
+				}
+			}
+		}
+	}

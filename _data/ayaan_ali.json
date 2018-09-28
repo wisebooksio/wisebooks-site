@@ -1,0 +1,38 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/theopensociety.jpg",
+    "description": "( Excerpt From: Timothy Ferriss. “Tribe of Mentors: Short Life Advice from the Best in the World.”) “I’d often give this to my politician friends when I was in politics, and now I give it to students. One of the biggest lessons for me from this book is that so many bad ideas that lead to authoritarian consequences begin with good intentions. This is timeless wisdom...",
+    "full_description": "When I was in politics in the Netherlands, I was surrounded by politicians with wonderful intentions. They wanted to do good and involve the government in every aspect of life by expanding programs, yet these good intentions would lead to controlling more and more of people’s lives. One example was childcare. We debated whether the government should provide free childcare. It sounds great and came from good intentions to support parents continuing their careers. But in practice it would mean the government replaces the spouse or partner. It would require parents to divulge personal information to the state, it would dictate how people’s money was spent and how children should be raised. The price of ceding the authority of parents to government was simply too high. That’s just one small example but it illustrates how government loves control.”",
+    "amazon_link": " https://amzn.to/2PodqoC"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/whostolefeminism.jpg",
+        "description": "Challenging currently accepted beliefs that have spurred the feminist movement, a heated examination focuses on the integrity of feminist efforts and cites flaws in the common arguments that are used in the struggle for female equality.",
+        "amazon_link": "https://amzn.to/2wd0JnM"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/freedomfeminism.jpg",
+        "description": "Women’s equality is one of the great achievements of Western civilization. Yet most American women today do not consider themselves “feminists.” Why is the term that describes one of the great chapters in the history of freedom in such disrepute?",
+        "full_description": "In Freedom Feminism: Its Surprising History and Why It Matters Today, Christina Hoff Sommers seeks to recover the lost history of American feminism by introducing readers to conservative feminism’s forgotten heroines. More importantly, she demonstrates that a modern version of conservative feminism ― in which women are free to employ their equal status to pursue happiness in their own distinctive ways ― holds the key to a feminist renaissance. 'Freedom Feminism' is a primer in the Values & Capitalism series intended for college students.",
+        "amazon_link": "https://amzn.to/2ONyALt"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/empire.jpg",
+        "description": "The British Empire was the largest in all history: the nearest thing to world domination ever achieved. By the eve of World War II, around a quarter of the world's land surface was under some form of British rule. Yet for today's generation, the British Empire seems a Victorian irrelevance.",
+        "full_description": "Empire argues that the world we know today is in large measure the product of Britain's Age of Empire. The spread of capitalism, the communications revolution, the notion of humanitarianism, and the institutions of parliamentary democracy-all these can be traced back to the extraordinary expansion of Britain's economy, population, and culture from the seventeenth century until the mid-twentieth. On a vast and vividly colored canvas, Empire shows how the British Empire acted as midwife to modernity. Ferguson shows that the story of the Empire is pregnant with lessons for today-in particular for the United States as it stands on the brink of a new era of imperial power, based once again on economic and military supremacy.",
+        "amazon_link": "https://amzn.to/2MYONNA"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/extraordinarypopular.jpg",
+        "description": "The text concentrates on a wide variety of phenomena which had occurred over the centuries prior to this book's publication in 1841. Mackay begins by examining various economic bubbles, such as the infamous Tulipomania - wherein Dutch tulips rocketed in value amid claims they could be substituted for actual currency - and various follies spread by word of mouth in urban areas.",
+        "full_description": "As we progress further, the scope of the book broadens into several more exotic fields of mass self-deception. Mackay turns his attention to the witch hunts of the 17th and 18th centuries, the practice of alchemy, the phenomena of haunted houses, the vast and varied practices of fortune telling and the search for the philosopher's stone, to name but a handful of subjects. Informed by personal research, and exhaustive in detail, it is with an evocative conviction that the author excoriates mankind's numerous delusions.",
+        "amazon_link": "https://amzn.to/2MD5UaC"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/thewomaninwhite.jpg",
+        "description": "Heroes and heroines are boring and forgettable, villains are much more interesting. Count Fosco in “The Woman in White,” by Wilkie Collins, is a clever villain; evil but likable. (Ayaan as quoted in the New York Times)",
+        "full_description": "The story is sometimes considered an early example of detective fiction with the hero, Walter Hartright, employing many of the sleuthing techniques of later private detectives. The use of multiple narrators draws on Collins's legal training, and as he points out in his Preamble: 'the story here presented will be told by more than one pen, as the story of an offence against the laws is told in Court by more than one witness'. In 2003, Robert McCrum writing for The Observer listed The Woman in White number 23 in 'the top 100 greatest novels of all time', and the novel was listed at number 77 on the BBC's survey The Big Read.",
+        "amazon_link": "https://amzn.to/2MD5UaC"   
+    },
+
+]

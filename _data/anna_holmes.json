@@ -1,0 +1,70 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/handmaids_tale.jpg",
+    "description": "Margaret Atwood's classic of dystopian fiction may be some 30 years old but its depiction of a society driven apart by terrorism and reconstituted as an ultra-conservative Christian theocracy where women have little to no rights at all feels as relevant today as it did when it was published back in 1985, and a sobering reminder that the war on women is...",
+    "full_description":" as characteristic of the future as the past and present. (Holme's Notes, Esquire) Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the days before, when she lived and made love with her husband Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now…",
+    "amazon_link": "https://amzn.to/2CE7CFb"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/liars_club.jpg",
+        "description": "This book was a bestseller for a reason. One of the most brutal, elegant, and yes, funniest memoirs of the late 20th century, Mary Karr's The Liars Club is an important work that is at turns personal and political, the story of a Texas childhood marked by anguish, adventure, and a potent combination of toxic masculinity, alcoholism and thwarted artistic ambitions. (Holme's Notes, Esquire)",
+        "full_description":"The Liars’ Club took the world by storm and raised the art of the memoir to an entirely new level, bringing about a dramatic revival of the form. Karr’s comic childhood in an east Texas oil town brings us characters as darkly hilarious as any of J. D. Salinger’s—a hard-drinking daddy, a sister who can talk down the sheriff at age twelve, and an oft-married mother whose accumulated secrets threaten to destroy them all. This unsentimental and profoundly moving account of an apocalyptic childhood is as “funny, lively, and un-put-downable” (USA Today) today as it ever was.",
+        "amazon_link": "https://amzn.to/2oSimWD"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/song_of_solomon.jpg",
+            "description": "My favorite of Toni Morrison's books, and better than Beloved, this 1977 masterpiece is possibly the most powerful and moving contemporary American meditation on family, grace, masculinity, and humiliations of American history. (Holme's Notes, Esquire)",
+            "full_description":"Milkman Dead was born shortly after a neighborhood eccentric hurled himself off a rooftop in a vain attempt at flight. For the rest of his life he, too, will be trying to fly. With this brilliantly imagined novel, Toni Morrison transfigures the coming-of-age story as audaciously as Saul Bellow or Gabriel García Márquez. As she follows Milkman from his rustbelt city to the place of his family’s origins, Morrison introduces an entire cast of strivers and seeresses, liars and assassins, the inhabitants of a fully realized black world.",
+            "amazon_link": "https://amzn.to/2QnstPQ"
+            },
+            
+            {
+                "book_cover":"/assets/images/bookpics/parting_the_waters.jpg",
+                "description": "The Civil Rights Movement was much more than just boycotts of buses and lunch counters and confrontations with white supremacists. The first in Taylor Branch's 3 volumes on the life and work Martin Luther King, the 1,000+ page Parting the Waters marries the seriousness of scholarship...",
+                "full_description":"with the power of great storytelling to tell the tale of a group of principled and courageous men and women who make one proud to be an American. (Holme's Notes, Esquire) Hailed as the most masterful story ever told of the American civil rights movement, Parting the Waters is destined to endure for generations. Moving from the fiery political baptism of Martin Luther King, Jr., to the corridors of Camelot where the Kennedy brothers weighed demands for justice against the deceptions of J. Edgar Hoover, here is a vivid tapestry of America, torn and finally transformed by a revolutionary struggle unequaled since the Civil War. Taylor Branch provides an unsurpassed portrait of King's rise to greatness and illuminates the stunning courage and private conflict, the deals, maneuvers, betrayals, and rivalries that determined history behind closed doors, at boycotts and sit-ins, on bloody freedom rides, and through siege and murder.",
+                "amazon_link": "https://amzn.to/2wZRN5w"
+                },
+
+                {
+                    "book_cover":"/assets/images/bookpics/ragtime.jpg",
+                    "description": "Past becomes present in E.L. Doctorow's 1975 work of historical fiction set in and around the corridors of power, corruption and domestic politics in early 20th century New York City. Love, sex, class, race, gender, immigration, war, economic mobility... Doctorow's ambitions with this work are no less than explaining the very idea of America to itself. (Holme's Notes, Esquire)",
+                    "full_description":"The story opens in 1906 in New Rochelle, New York, at the home of an affluent American family. One lazy Sunday afternoon, the famous escape artist Harry Houdini swerves his car into a telephone pole outside their house. And almost magically, the line between fantasy and historical fact, between real and imaginary characters, disappears. Henry Ford, Emma Goldman, J. P. Morgan, Evelyn Nesbit, Sigmund Freud, and Emiliano Zapata slip in and out of the tale, crossing paths with Doctorow's imagined family and other fictional characters, including an immigrant peddler and a ragtime musician from Harlem whose insistence on a point of justice drives him to revolutionary violence.",
+                    "amazon_link": "https://amzn.to/2CEgDOg"
+                    },
+
+                    {
+                        "book_cover":"/assets/images/bookpics/the white album.jpg",
+                        "description": "Though less-celebrated than 1968's Slouching Towards Bethlehem, The White Album harnesses Didion's skill...",
+                        "full_description":" at capturing the tensions and obsessions of mid-to-late 20th century California and amps up the existential ennui another notch as she tries to make sense of the chaos of everything from politics to contemporary consumer culture. 'The center cannot hold,' Didion wrote, quoting Yeats, in 'Bethlehem.' In 'Album,' the essayist and critic chronicles what life felt like after the center fell apart. (Holme's Notes, Esquire) First published in 1979, The White Album records indelibly the upheavals and aftermaths of the 1960s. Examining key events, figures, and trends of the era―including Charles Manson, the Black Panthers, and the shopping mall―through the lens of her own spiritual confusion, Joan Didion helped to define mass culture as we now understand it. Written with a commanding sureness of tone and linguistic precision, The White Album is a central text of American reportage and a classic of American autobiography.",
+                        "amazon_link": "https://amzn.to/2Qk5RiS"
+                        },
+
+                        {
+                            "book_cover":"/assets/images/bookpics/yellow_wallpaper.jpg",
+                            "description": "Charlotte Perkins Gilman's 1892 classic is less book than short story...",
+                            "full_description": "but it remains a devastating must-read, not least for the way in which it outlines the spiritual, artistic, economic, emotional, political and physical restraints imposed on women in the late 19th and early 20th centuries. And also for the manner in which it depicts the ways in which mental illness so often goes hand in hand with lack of liberty. (Holme's Notes, Esquire)",
+                            "amazon_link": "https://amzn.to/2QgO0JV"
+                            },
+
+                            {
+                                "book_cover":"/assets/images/bookpics/sense_and_sensibility.jpg",
+                                "description": "Austen's best book, and like so many of her others, an exploration of gender politics and female independence at a time in which the freedoms of women were intimately, and often tragically, constrained by the ways in which they depended on males for economic assistance and security. Sounds like sad stuff, but Austen, as always, approaches these and other issues with an acute sensitivity...",
+                                "full_description":" and ear for comedy that elevates an explication of the frustrating social and economic constraints of one half of the population to a work of art. (Holme's Notes, Esquire) Elinor is as prudent as her sister Marianne is impetuous. Each must learn from the other after they are they are forced by their father's death to leave their home and enter into the contests of polite society. The charms of unsuitable men and the schemes of rival ladies mean that their paths to success are thwart with disappointment but together they attempt to find a way to happiness.",
+                                "amazon_link": "https://amzn.to/2oViIeU"
+                                },
+
+                                {
+                                    "book_cover":"/assets/images/bookpics/the warmth of other suns.jpg",
+                                    "description": "One of the finest works of American history published in the 21st century, Isabel Wilkerson's 600+ page book chronicles the massive migration of African-Americans out of the American south and into the Northeast, Midwest and and Western states over the course of about six decades of the 20th century. (Holme's Notes, Esquire)",
+                                    "full_description":"Told through the stories of three Southerners who left the Jim Crow South to make new lives elsewhere, it is a sweeping, meticulously researched and beautifully-written epic that should be on the shelf of anyone who loves, and wants to further understand, the American spirit.",
+                                    "amazon_link": "https://amzn.to/2MYaXDu"
+                                    },
+
+                                    {
+                                        "book_cover":"/assets/images/bookpics/harriet the spy.jpg",
+                                        "description": "Children's books are not just for children, and this, the greatest chapter book about a young girl ever written, anticipates and reflects second wave feminism with its loving depiction of a loud, opinionated, curious, tomboy living on New York's Upper East Side who rejects the performance of femininity in favor of an authentic—and, admittedly, sometimes off-putting—self. (Holme's Notes, Esquire)",
+                                        "full_description":"Harriet M. Welsch is a spy. In her notebook, she writes down everything she knows about everyone, even her classmates and her best friends. Then Harriet loses track of her notebook, and it ends up in the wrong hands. Before she can stop them, her friends have read the always truthful, sometimes awful things she’s written about each of them. Will Harriet find a way to put her life and her friendships back together?",
+                                        "amazon_link": "https://amzn.to/2QfysG9"
+                                        },
+
+]

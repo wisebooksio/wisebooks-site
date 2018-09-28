@@ -1,0 +1,44 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/radical_candor.jpg",
+    "description": "Radical Candor offers a guide to those bewildered or exhausted by management, written for bosses and those who manage bosses. Taken from years of the author’s experience, and distilled clearly giving actionable lessons to the reader; it shows managers how to be successful while retaining their humanity, finding meaning in their job, and creating an environment...",
+    "full_description":"where people both love their work and their colleagues. From the time we learn to speak, we’re told that if you don’t have anything nice to say, don’t say anything at all. When you become a manager, it’s your job to say it--and your obligation. Author Kim Scott was an executive at Google and then at Apple, where she worked with a team to develop a class on how to be a good boss. She has earned growing fame in recent years with her vital new approach to effective management, Radical Candor. Radical Candor is a simple idea: to be a good boss, you have to Care Personally at the same time that you Challenge Directly. When you challenge without caring it’s obnoxious aggression; when you care without challenging it’s ruinous empathy. When you do neither it’s manipulative insincerity. This simple framework can help you build better relationships at work, and fulfill your three key responsibilities as a leader: creating a culture of feedback (praise and criticism), building a cohesive team, and achieving results you’re all proud of.",
+    "amazon_link": "https://amzn.to/2MCai5G"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/ego is the enemy.jpg",
+        "description": "Ego Is the Enemy draws on a vast array of stories and examples, from literature to philosophy to his­tory. We meet fascinating figures such as George Marshall, Jackie Robinson, Katharine Graham, Bill Belichick, and Eleanor Roosevelt, who all reached the highest levels of power and success by con­quering their own egos. Their strategies and tactics can be ours as well.",
+        "full_description":"Many of us insist the main impediment to a full, successful life is the outside world. In fact, the most common enemy lies within: our ego. Early in our careers, it impedes learning and the cultivation of talent. With success, it can blind us to our faults and sow future problems. In failure, it magnifies each blow and makes recovery more difficult. At every stage, ego holds us back. In an era that glorifies social media, reality TV, and other forms of shameless self-promotion, the battle against ego must be fought on many fronts. Armed with the lessons in this book, as Holiday writes, “you will be less invested in the story you tell about your own specialness, and as a result, you will be liberated to accomplish the world-changing work you’ve set out to achieve.”",
+        "amazon_link": "https://amzn.to/2xgUpNb"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/paul_graham_essays.jpg",
+            "description": "The essays that Berg recommends are &quot;How to Get Startup Ideas&quot; and &quot;What We Look for in Founders&quot;.",
+            "amazon_link": "http://www.paulgraham.com/articles.html"
+            },
+            {
+                "book_cover":"/assets/images/bookpics/hbr.jpg",
+                "description": "Consider another metaphor—one that Reed Hastings, the CEO of Netflix, introduced in a famous presentation on his company’s culture. Hastings stated, “We’re a team, not a family.” (excerpt from article)",
+                "amazon_link": "https://hbr.org/2014/06/your-company-is-not-a-family"
+                },
+                {
+                    "book_cover":"/assets/images/bookpics/theodore_roosevelt.jpg",
+                    "description": "&quot;The Man in the Arena&quot; tells us that the man we should praise is the man who’s out there fighting the big battles, even if those battles end in defeat. In our day, when cynicism and aloof detachment are considered hip and cool, TR reminds us that glory and honor come to those “who spend themselves in a worthy cause.” (The Art of Manliness)",
+                    "amazon_link": "http://www.theodore-roosevelt.com/trsorbonnespeech.html"
+                    },
+                        {
+                            "book_cover":"/assets/images/bookpics/daring_greatly.jpg",
+                            "description": "Daring Greatly is not about winning or losing. It’s about courage. In a world where “never enough” dominates and feeling afraid has become second nature, vulnerability is subversive. Uncomfortable. It’s even a little dangerous at times. And, without question, putting ourselves out there means there’s a far greater risk of getting criticized or feeling hurt.",
+                            "full_description":"But when we step back and examine our lives, we will find that nothing is as uncomfortable, dangerous, and hurtful as standing on the outside of our lives looking in and wondering what it would be like if we had the courage to step into the arena—whether it’s a new relationship, an important meeting, the creative process, or a difficult family conversation. Daring Greatly is a practice and a powerful new vision for letting ourselves be seen.",
+                            "amazon_link": "https://amzn.to/2xpdI6m"
+                            },
+                            {
+                                "book_cover":"/assets/images/bookpics/delivering_happiness.jpg",
+                                "description": "I read this book when I was working a cubicle job- I wasn’t thinking about being an entrepreneur at that time and it really pushed me in that direction. It’s largely about company culture: how to retain and develop talent, think about people’s happiness and their motivations, etc. Hsei’s company, Zappos, has really high retention and a highly engaged workforce...",
+                                "full_description":"and it was really cool to read about that overall. My biggest practical takeaway was companies shouldn’t outsource their customer facing roles as long as customer success is a competitive advantage. When someone calls customer service, they should talk to someone in head office and that's what we’ve also done at Shoelace. (Berg's Notes)",
+                                "amazon_link": "https://amzn.to/2xr0QMO"
+                                },
+                        
+                
+
+]

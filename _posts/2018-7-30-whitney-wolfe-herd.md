@@ -5,6 +5,7 @@ description: Co-founder of Tinder, Bumble
 image: assets/images/profilepics/whitney_wolfe.jpg
 allpeoplepics: assets/images/allpeoplepics/whitney_wolfe.jpg
 person: whitney_wolfe_herd
+category: Entrepreneur
 imgattribution: partyheadphones.com
 bookattribution: Tim Ferriss Blog
 ---

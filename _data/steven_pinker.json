@@ -1,0 +1,54 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/36 arguments for the existence of god .jpg",
+    "description": "“(full disclosure: I am married to her, but that puts me even more firmly on the hook, because my judgment would be even more discredited if this turned out to be an unworthy recommendation). It’s the best examination of the arguments about God’s existence, laid out as a nonfiction Appendix written by the protagonist, a psychologist of religion. (Pinker’s Notes, Tribe of Mentors)",
+    "full_description": "It’s also funny, moving, and a dead-on satire of the foibles of academic and intellectual life today.” (Pinker’s Notes, Tribe of Mentors)",     
+    "amazon_link": "https://amzn.to/2I6WO1e",
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the strategy of conflict thomas c. shelling.jpg",
+        "description": "A series of closely interrelated essays on game theory, this book deals with an area in which progress has been least satisfactory―the situations where there is a common interest as well as conflict between adversaries: negotiations, war and threats of war, criminal deterrence, extortion, tacit bargaining.",
+        "full_description": "It proposes enlightening similarities between, for instance, maneuvering in limited war and in a traffic jam; deterring the Russians and one’s own children; the modern strategy of terror and the ancient institution of hostages.",     
+        "amazon_link": "https://amzn.to/2xN0eSe",
+        },
+    
+            {
+                "book_cover":"/assets/images/bookpics/the science of words george a miller.jpg",
+                "description": "This text entertains and enlightens readers about the relations between words, languages, thought, and the human brain.",
+                "amazon_link": "https://amzn.to/2DmIHpO",
+                },
+                    
+            {
+                "book_cover":"/assets/images/bookpics/retreat from doomsday by john mueller.jpg",
+                "description": "Despite large stockpiles of deadly arms and some significant ideological differences, the developed world has been at peace for a longer continuous period than ever before. Arguing that this state of affairs is no accident, this book offers a detailed history of public policies and attitudes to war in modern times...",
+                "full_description": "The author sets out to show that, in spite of two 20th-century world wars, major war as a policy option among developed nations has gradually passed out of favour. He also contends that nuclear weapons have not had an important impact on this trend, neither making a crucial contribution to nor severely threatening post-war stability. Tracing the major Cold War crises - Korea, Cuba, Vietnam - the book concludes that, despite their revolutionary and expansionist ideology, former Soviet leaders never visualized major war as a sensible tactic. Only in the Third World does war remain endemic, and even here the author is cautiously optimistic that the developed world's aversion to war might prove infectious.",     
+                "amazon_link": "https://amzn.to/2MWkztM",
+                },
+                {
+                    "book_cover":"/assets/images/bookpics/the nurture assumption.jpg",
+                    "description": "This groundbreaking book, a Pulitzer Prize finalist and New York Times notable pick, rattled the psychological establishment when it was first published in 1998 by claiming that parents have little impact on their children's development. In this tenth anniversary edition of The Nurture Assumption, Judith Harris has updated material throughout and provided a fresh introduction...",
+                    "full_description": "Combining insights from psychology, sociology, anthropology, primatology, and evolutionary biology, she explains how and why the tendency of children to take cues from their peers works to their evolutionary advantage. This electrifying book explodes many of our unquestioned beliefs about children and parents and gives us a radically new view of childhood.",     
+                    "amazon_link": "https://amzn.to/2MWkztM",
+                    },
+                    {
+                        "book_cover":"/assets/images/bookpics/the evoluation of human sexuality by donald symons.jpg",
+                        "description": "Author Donald Symonds examines the differences between men and women in sexual behavior and attitudes, concluding that these differences are innate and that it is impossible to achieve identical sexualities in males and females...",
+                        "full_description": "Combining insights from psychology, sociology, anthropology, primatology, and evolutionary biology, she explains how and why the tendency of children to take cues from their peers works to their evolutionary advantage. This electrifying book explodes many of our unquestioned beliefs about children and parents and gives us a radically new view of childhood.",     
+                        "amazon_link": "https://amzn.to/2xJd8jW",
+                        },
+                        {
+                            "book_cover":"/assets/images/bookpics/knowledge and decisions by thomas sowell.jpg",
+                            "description": "Sowell describes in concrete detail how knowledge is shared and disseminated throughout modern society. He warns that society suffers from an ever-widening gap between firsthand knowledge and decision making—a gap that threatens not only our economic and political efficiency, but our very freedom because actual knowledge gets replaced by assumptions based on an abstract and elitist social vision of what ought to be.",
+                            "full_description": "Knowledge and Decisions, a winner of the 1980 Law and Economics Center Prize, was heralded as a ”landmark work” and selected for this prize ”because of its cogent contribution to our understanding of the differences between the market process and the process of government.” In announcing the award, the center acclaimed Sowell, whose ”contribution to our understanding of the process of regulation alone would make the book important, but in reemphasizing the diversity and efficiency that the market makes possible, [his] work goes deeper and becomes even more significant.”",     
+                            "amazon_link": "https://amzn.to/2DnaBlJ",
+                            },
+                            {
+                                "book_cover":"/assets/images/bookpics/clear_and_simple.jpg",
+                                "description": " For more than a decade, Clear and Simple as the Truth has guided readers to consider style not as an elegant accessory of effective prose but as its very heart. Francis-Noël Thomas and Mark Turner present writing as an intellectual activity, not a passive application of verbal skills. In classic style, the motive is truth, the purpose is presentation, the reader and writer are intellectual equals, and the occasion is informal.",
+                                "full_description": "This general style of presentation is at home everywhere, from business memos to personal letters and from magazine articles to student essays. Everyone talks about style, but no one explains it. The authors of this book do; and in doing so, they provoke the reader to consider style, not as an elegant accessory of effective prose, but as its very heart. At a time when writing skills have virtually disappeared, what can be done? If only people learned the principles of verbal correctness, the essential rules, wouldn't good prose simply fall into place? Thomas and Turner say no. Attending to rules of grammar, sense, and sentence structure will no more lead to effective prose than knowing the mechanics of a golf swing will lead to a hole-in-one. Furthermore, ten-step programs to better writing exacerbate the problem by failing to recognize, as Thomas and Turner point out, that there are many styles with different standards.",     
+                                "amazon_link": "https://amzn.to/2DoMz9I ",
+                                },
+        
+    
+
+] 

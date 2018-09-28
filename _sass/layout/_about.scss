@@ -5,16 +5,16 @@
     .aboutimg {
         width: 40%;
         margin-right: 1em;
+        display: flex;
 
         img {
-            width: 80%;
+            width: 100%;
+            display: flex;
+            align-self: flex-end;
         }
     }
     .abouttext {
-        width: 50%;
-    }
-    .aboutimg2 {
-        width: 21%;
+        width: 60%;
     }
 }
 

@@ -1,0 +1,27 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/brave_new_world.jpg",
+    "description": "Harari LOVES this book. “I think it is the most prophetic book in the 20th century, and the most profound discussion of happiness in modern Western philosophy. And since, for me, the relationship between power and happiness is the most important question in history, Brave New World has also reshaped my understanding of history” (Harari as quoted in Tim Ferriss’s Tools of Titans)",
+    "full_description":"Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone in feeling discontent",
+    "amazon_link": "https://amzn.to/2L3TGms"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/discourses_of_buddha.jpg",
+        "description": "“A very profound collection of texts with a lot of influence on my thinking.” (Harari as quoted in Berggruen Institute) This book offers a complete translation of the Digha Nikaya, the long discourses of the Buddha, one of the major collections of texts in the Pali Canon, the authorized scriptures of Theravada Buddhism.",
+        "full_description": "This collection--among the oldest records of the historical Buddha's original teachings, given in India two and a half thousand years ago--consists of thirty-four longer-length suttas, or discourses, distinguished as such from the middle-length and shorter suttas of the other collections",
+        "amazon_link": "https://amzn.to/2L35UMv"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/chimpanzee_politics.jpg",
+        "description": "“It not only completely changed the way I understand chimpanzees, but above all, humans” (Harari as quoted in Berggruen Institute) The first edition of Frans de Waal's Chimpanzee Politics was acclaimed not only by primatologists for its scientific achievement but also by politicians, business leaders, and social psychologists for its remarkable insights into the most basic human needs and behaviors.",
+        "full_description": "Twenty-five years later, this book is considered a classic. Featuring a new preface that includes recent insights from the author, this anniversary edition is a detailed and thoroughly engrossing account of rivalries and coalitions & actions governed by intelligence rather than instinct. As we watch the chimpanzees of Arnhem behave in ways we recognize from Machiavelli (and from the nightly news), de Waal reminds us again that the roots of politics are older than humanity.",
+        "amazon_link": "https://amzn.to/2OMttLH"   
+    },
+    {
+        "book_cover":"/assets/images/bookpics/gunsgermssteel.jpg",
+        "description": "“It was kind of an epiphany in my academic career. I realized that I could actually write such books.” (Harari as quoted in Berggruen Institute) Jared Diamond convincingly argues that geographical and environmental factors shaped the modern world. Societies that had had a head start in food production advanced beyond the hunter-gatherer stage, and then developed religion --as well as nasty germs and potent weapons of war --and adventured on sea and land to conquer and decimate preliterate cultures.",
+        "full_description": "A major advance in our understanding of human societies, Guns, Germs, and Steel chronicles the way that the modern world came to be and stunningly dismantles racially based theories of human history.",
+        "amazon_link": "https://amzn.to/2OOHrNd"   
+    },
+
+]

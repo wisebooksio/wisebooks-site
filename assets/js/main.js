@@ -247,6 +247,9 @@
 
 			});
 
+		// Polyfill a given set of elements
+			$('details').details();
+
 		// Menu.
 			var $menu = $('#menu'),
 				$menuInner;

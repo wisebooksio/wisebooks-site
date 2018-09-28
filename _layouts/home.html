@@ -15,11 +15,11 @@
                 <h1 class="light align-center">{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p class="light">{{ site.description }}</p>
-                <div class="homesubscription">
+                <p class="light">{{ page.landing-description }}</p>
+                <form class="homesubscription" action="{{ site.mailchimp }}" method="post">
                     <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
                     <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
-                </div>
+                </form>
             </div>
         </div>
     </section>
@@ -28,14 +28,9 @@
 
         {% include tiles.html %}
 
-        <div class="homesubscription2">
-            <input type="email" name="EMAIL" placeholder="Email address" class="email-input" id="mce-EMAIL"/>                 
-            <input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
-        </div>
-
     </div>
 
-    {% include simple_footer.html %}
+    {% include footer.html %}
 
 </body>
 

@@ -1,14 +1,14 @@
 books: [
     {
     "book_cover":"/assets/images/bookpics/transformation of the world.jpg",
-    "description": "The Transformation of the World sheds important new light on this momentous epoch, showing how the nineteenth century paved the way for the global catastrophes of the twentieth century, yet how it also gave rise to pacifism, liberalism, the trade union, and a host of other crucial developments.",
-    "full_description": "Jürgen Osterhammel, an eminent scholar who has been called the Braudel of the nineteenth century, moves beyond conventional Eurocentric and chronological accounts of the era, presenting instead a truly global history of breathtaking scope and towering erudition. He examines the powerful and complex forces that drove global change during the 'long nineteenth century,' taking readers from New York to New Delhi, from the Latin American revolutions to the Taiping Rebellion, from the perils and promise of Europe's transatlantic labor markets to the hardships endured by nomadic, tribal peoples across the planet. Osterhammel describes a world increasingly networked by the telegraph, the steamship, and the railways. He explores the changing relationship between human beings and nature, looks at the importance of cities, explains the role slavery and its abolition played in the emergence of new nations, challenges the widely held belief that the nineteenth century witnessed the triumph of the nation-state, and much more.",
-    "amazon_link": "https://amzn.to/2ODaZhB"
+    "description": "Ranging from finely honed legal argument to wry and some sometimes savage humor to private correspondence and political rhetoric of unsurpassed grandeur, the writings collected in this volume are at once a literary testament of the greatest writer ever to occupy the White House and a documentary history of America in Abraham Lincoln’s time.",
+    "full_description": "They record Lincoln’s campaigns for public office; the evolution of his stand against slavery; his electrifying debates with Stephen Douglas; his conduct of the Civil War; and the great public utterances of his presidency, including the Emancipation Proclamation and the Gettysburg Address.",
+    "amazon_link": "https://amzn.to/2MNfdll"
     },
     {
         "book_cover":"/assets/images/bookpics/history of germany since 1789_golo mann.jpg",
-        "description": "'At times,' writes Golo Mann, 'the Germans seem a philosophical people, at others the most practical and most materialistic at times the most peaceful, at others the most domineering and brutal. Time after time they have surprised the world by things least expected of them.'",
-        "full_description": "It is this quality of paradox, even of mystery, in the German nation that the distinguished historian renders with such subtlety and penetration in this celebrated study. It traces the whole sweep of intellectual development in Germany since the French Revolution. As well as chronicling historic events, the book deals in detail with the contributions of philosophers, poets and novelists alongside those of parliamentarians and generals.",
+        "description": "In volume one of his America in the King Years, Pulitzer Prize winner Taylor Branch gives a masterly account of the American civil rights movement. It is hailed as the most masterful story ever told of the American civil rights movement, Parting the Waters is destined to endure for generations.",
+        "full_description": "Taylor Branch provides an unsurpassed portrait of King's rise to greatness and illuminates the stunning courage and private conflict, the deals, maneuvers, betrayals, and rivalries that determined history behind closed doors, at boycotts and sit-ins, on bloody freedom rides, and through siege and murder.",
         "amazon_link": "https://amzn.to/2O5IRCG"   
     },
     {

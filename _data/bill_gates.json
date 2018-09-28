@@ -14,7 +14,7 @@ books: [
     
             {
                 "book_cover":"/assets/images/bookpics/the sympathizer.jpg",
-                "description": "With the pace and suspense of a thriller and prose that has been compared to Graham Greene and Saul Bellow, The Sympathizer is a sweeping epic of love and betrayal. The narrator, a communist double agent, is a “man of two minds,” a half-French, half-Vietnamese army captain who arranges to come to America after the Fall of Saigon, and while building a new life with other Vietnamese refugees in Los Angeles is secretly reporting back to his communist superiors in Vietnam.",
+                "description": "The Sympathizer is a sweeping epic of love and betrayal. The narrator, a communist double agent, is a “man of two minds,” a half-French, half-Vietnamese army captain who arranges to come to America after the Fall of Saigon, and while building a new life with other Vietnamese refugees in Los Angeles is secretly reporting back to his communist superiors in Vietnam.",
                 "full_description": "The winner of the 2016 Pulitzer Prize for Fiction, as well as six other awards, The Sympathizer is the breakthrough novel of the year. The Sympathizer is a blistering exploration of identity and America, a gripping espionage novel, and a powerful story of love and friendship.",     
                 "amazon_link": "https://amzn.to/2OAUK4y",
                 },

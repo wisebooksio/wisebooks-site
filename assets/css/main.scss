@@ -50,6 +50,7 @@
 // Component.
 
 	@import 'components/section';
+	@import 'components/contact';
 	@import 'components/form';
 	@import 'components/box';
 	@import 'components/icon';
@@ -58,7 +59,6 @@
 	@import 'components/table';
 	@import 'components/button';
 	@import 'components/tiles';
-	@import 'components/contact-method';
 	@import 'components/spotlights';
 	@import 'components/subscribe';
 	@import 'components/animations';
@@ -66,11 +66,9 @@
 // Layout.
 
 	@import 'layout/header';
-	@import 'layout/header-light';
 	@import 'layout/banner';
 	@import 'layout/post';
 	@import 'layout/main';
-	@import 'layout/contact';
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
