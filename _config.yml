@@ -1,16 +1,9 @@
 # site settings
 title: Wisebooks
-<<<<<<< HEAD
-email: wisebooksio@gmail.com
-description: Good books read by smart people.
-baseurl: www.wisebooks.io
-url: www.wisebooks.io # the base hostname & protocol for your site
-=======
 email: hello@wisebooks.io
 description: Free database of books recommended by world-class people. Subscribe for weekly bite-sized book recommendations.
 baseurl:
-url:  # the base hostname & protocol for your site
->>>>>>> gh-pages
+url: # the base hostname & protocol for your site
 author: Christine & Jenny
 
 # homepage tiles
@@ -18,16 +11,11 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-<<<<<<< HEAD
-facebook_url:  https://facebook.com
-instagram_url: https://instagram.com
-=======
 facebook_url:  https://www.facebook.com/wisebooksio/
 twitter_url: https://twitter.com/wisebooksio
 
 #mailchimp
 mailchimp: https://wisebooks.us19.list-manage.com/subscribe/post?u=353a3edf5a036907ebe71dc44&amp;id=485976f620
->>>>>>> gh-pages
 
 # Tracker
 analytics: UA-123321285-1 # Google Analytics
