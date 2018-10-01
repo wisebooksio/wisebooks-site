@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Eric Tarczynski
-subtitle: Interview&#58; A VC Firm Investing $200k in Student Startups (with Backers from Twitch, Facebook, & Reddit)
-description: (Exclusive Interview) A VC Firm Investing $200k in Student Startups (with Backers from Twitch, Facebook, & Reddit)
+subtitle: Interview&#58; A VC Firm's Roadtrip to Invest in Student Startups (with Backers from Twitch, Facebook, & Reddit)
+description: (Exclusive Interview) A VC Firm's Roadtrip to Invest in Student Startups (with Backers from Twitch, Facebook, & Reddit)
 image: assets/images/profilepics/eric_tarczynski.jpg
 allpeoplepics: assets/images/allpeoplepics/eric_tarczynski.jpg
 person: eric_tarcyznski
