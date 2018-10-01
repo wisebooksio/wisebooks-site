@@ -1,0 +1,21 @@
+books: [
+    {
+    "book_cover":"/assets/images/bookpics/the hero with a thousand faces_joseph campbell.jpg",
+    "description": "Since its release in 1949, The Hero with a Thousand Faces has influenced millions of readers by combining the insights of modern psychology with Joseph Campbell’s revolutionary understanding of comparative mythology. In these pages, Campbell outlines the Hero’s Journey, a universal motif of adventure and transformation that runs through virtually all of the world’s mythic traditions. He also explores the Cosmogonic Cycle, the mythic pattern of world creation and destruction.",
+    "full_description":"As part of the Joseph Campbell Foundation’s Collected Works of Joseph Campbell, this third edition features expanded illustrations, a comprehensive bibliography, and more accessible sidebars. As relevant today as when it was first published, The Hero with a Thousand Faces continues to find new audiences in fields ranging from religion and anthropology to literature and film studies. The book has also profoundly influenced creative artists—including authors, songwriters, game designers, and filmmakers—and continues to inspire all those interested in the inherent human need to tell stories.",
+    "amazon_link": "https://amzn.to/2Oj557J"
+    },
+    {
+        "book_cover":"/assets/images/bookpics/the lessons of history.jpg",
+        "description": "A concise survey of the culture and civilization of mankind, The Lessons of History is the result of a lifetime of research from Pulitzer Prize–winning historians Will and Ariel Durant.",
+        "full_description":"With their accessible compendium of philosophy and social progress, the Durants take us on a journey through history, exploring the possibilities and limitations of humanity over time. Juxtaposing the great lives, ideas, and accomplishments with cycles of war and conquest, the Durants reveal the towering themes of history and give meaning to our own.",
+        "amazon_link": "https://amzn.to/2Oes587"
+        },
+        {
+            "book_cover":"/assets/images/bookpics/river out of eden_a darwinian view of life_dawkins.jpg",
+            "description": "How did the replication bomb we call ”life” begin and where in the world, or rather, in the universe, is it heading?",
+            "full_description":"Writing with characteristic wit and an ability to clarify complex phenomena (the New York Times described his style as ”the sort of science writing that makes the reader feel like a genius”), Richard Dawkins confronts this ancient mystery.",
+            "amazon_link": "https://amzn.to/2OXNcsi"
+            },    
+
+]

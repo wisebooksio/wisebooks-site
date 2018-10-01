@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: about_wisebooks
+title: About Wisebooks
 nav-menu: true
 ---
 

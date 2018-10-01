@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Yasyf and Joe
-subtitle: Interview&#58;  From Founding to $1.2M in Funding in Three Months
-description: (Exclusive Interview) From Founding to $1.2M in Funding in Three Months with Co-Founders of Karuna Health
-image: assets/images/profilepics/yasf_joe.jpg
-allpeoplepics: assets/images/allpeoplepics/yasf_joe.jpg
-person: yasyf_joe
-category: Entrepreneur
-imgattribution: Karuna Health
-bioattribution: https://www.f6s.com/karunahealth, https://www.healthcatalyst.com/three-must-haves-of-an-effective-care-management-system ,https://www.americaninno.com/boston/boston-startup/lost-in-the-healthcare-labyrinth-karuna-health-will-find-you-a-guide/, https://www.seas.harvard.edu/audiences/alumni/stories/2018/09/alumni-profile-joe-kahn-ab-18 
-bookattribution: Yasyf Mohamedali and Joe Kahn  
-resources: and Resources
+title: Eric Tarczynski
+subtitle: Interview&#58; A VC Firm Investing $200k in Student Startups (with Backers from Twitch, Facebook, & Reddit)
+description: (Exclusive Interview) A VC Firm Investing $200k in Student Startups (with Backers from Twitch, Facebook, & Reddit)
+image: assets/images/profilepics/eric_tarczynski.jpg
+allpeoplepics: assets/images/allpeoplepics/eric_tarczynski.jpg
+person: eric_tarcyznski
+category: Venture_Capitalist
+imgattribution: The Daily Texan
+bioattribution: https://www.forbes.com/sites/alexkonrad/2017/09/18/this-25-year-old-just-launched-a-university-focused-vc-firm-out-of-a-rental-car/#4aaa31af5db2, https://impulse.coreatcu.com/eric-tarczynski-life-of-a-vc-startup-87a1b501b9a4 
+bookattribution: Eric Tarcynski
 ---
 
 Eric Tarczynski is the co-founder of Contrary, a venture fund that is solely focussed on backing the best startups and technologies coming out of universities across the USA. Some of their limited partners include the co-founder of Twitch, co-founder of Tesla (the one that’s not Elon Musk), founding engineer of Facebook, and co-founder of Reddit among others. They are working with 100+ Venture Partners across the nation like Stanford, Brown, Columbia University, Harvard, MIT among 95 others. 
@@ -39,7 +38,7 @@ Whereas, once you get out of school, the bar is a lot higher. All of a sudden, y
 
 If they’re working at Google or whatever, it’s like “Wow, honestly making $200,000 a year and working 10AM-5PM… I’m okay with that. I don’t know if I want to start going on the ramen diet.” 
 
-So those are some of the core differences and just things that we see. The ability and the opportunity to at least test and work on projects in school, is unparalleled. Whereas, once you get out into the real world, you really, really need to want to start something because all of a sudden, you have all these opportunity costs. Then, as you get older, the opportunity costs only increase; you have a family, or mortgage. At least in your early 20s, your opportunity cost is probably just saving. 
+So those are some of the core differences and just things that we see. The ability and the opportunity to at least test and work on projects in school, is unparalleled. Whereas, once you get out into the real world, you really, really <i>need</i> to want to start something because all of a sudden, you have all these opportunity costs. Then, as you get older, the opportunity costs only increase; you have a family, or mortgage. At least in your early 20s, your opportunity cost is probably just saving. 
 
 <b>Since you’re focusing on university students, what do you think about the notion of the split attention span with university founders. Like saying, maybe they’re not so committed because they have these academics to focus on as well. What is your perspective on that?</b>
 
