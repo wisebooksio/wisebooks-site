@@ -1,0 +1,48 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+    <body>
+
+        {% include header.html %}
+
+    
+            <!-- Main -->
+            <section class="contactform" class="alt">
+                
+                <div class="unsubscribe">
+
+                    <div class="imgbanner-contact">
+                        <img src="{{ site.baseurl }}/assets/images/contactform.jpg" alt="" />
+                            <div class="overlay-contact">
+                                <h1>Unsubscribe</h1>
+                            </div>
+                    </div>        
+
+                        <section class="contactus">
+                            <form action="https://formspree.io/{{ site.email }}" method="POST">
+                                <p>We're sorry to see you go! We're always trying to improve & would love to know how we can do better.</p>
+
+                                <label name="reason_for_unsubscribing">Please let us know the reason you're leaving:</label>
+                                <input type="checkbox" name="people" value="no_value"/>The content in the newsletters isn't interesting/valuable.<br>
+                                <input type="checkbox" name="people" value="not_what_was_expected"/>The newsletters were not what I was expecting.<br>
+                                <input type="checkbox" name="people" value="too_long"/>The newsletters are too long.<br>
+                                <input type="checkbox" name="people" value="better_option"/>I found a better alternative for book recommendations.<br>
+                                <input type="checkbox" name="people" value="too_many_emails"/>You send me too many emails!<br>
+                                Other<input type="text" name="other" id="other" style="width: 50%;"/>
+
+                            </form>
+                        </section>
+                </div>    
+            </section>
+
+        
+        {% include simple_footer.html %}      
+
+    </body>
+
+</html>		

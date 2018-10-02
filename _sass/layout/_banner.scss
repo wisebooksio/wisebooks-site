@@ -100,6 +100,14 @@
 			}
 		}
 
+		&.survey {
+			height: auto;
+			max-height: 80em;
+			@include breakpoint(small) {
+				max-height: 100em;
+			}
+		}
+
 		&.style1 { &:after { background-color: _palette(accent1); } }
 		&.style2 { &:after { background-color: _palette(accent2); } }
 		&.style3 { &:after { background-color: _palette(accent3); } }
@@ -127,7 +135,7 @@
 			@include padding(3em, 0, (2em, 0, 0, 0));
 			height: auto;
 			margin-bottom: -2.75em;
-			max-height: none;
+			max-height: 100em;
 			min-height: 0;
 			top: -2.75em;
 
@@ -181,6 +189,6 @@
 
 	@include breakpoint(small) {
 		#banner {
-			background-size: 170% !important;
+			background-size: 200% !important;
 		}
 	}

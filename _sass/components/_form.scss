@@ -3,12 +3,33 @@
 
 .contactform {
 	background-color: _palette(mainyellow);
+
+	.unsubscribe {
+		width: 50%;
+		margin: 0 auto;
+
+		h1 {
+			font-size: 5em;
+		}
+	}
+
+
 	.imgbanner-contact {
-		height: 32vh;
+		height: 30vh;
 		box-shadow: 2px 0 10px rgba(0, 0, 0, .5);
 		position: relative;
 		overflow: hidden;
 		width: 100%;
+
+		@include breakpoint(medium) {
+			height: 20vh;
+		}
+
+		@include breakpoint(small) {
+			height: 15vh;
+
+		}
+
 		img {
 			width: 100%;
 			@include breakpoint(small) {
@@ -26,7 +47,7 @@
 			background-color: rgba(0,0,0,0.4) !important;
 		
 			h1 {
-			top: 8vh;
+			top: 3vh;
 			position: absolute;
 			width: 100%;
 			text-align: center;
@@ -34,117 +55,100 @@
 			text-transform: uppercase;
 			font-size: 7em;
 			text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
-			
-			}
-		}
 
-	@include breakpoint(small) {
-		.imgbanner-contact {
-			height: 20vh !important;
-		
-			.overlay-contact {
-				h1 {
-					font-size: 3em !important;
+				@include breakpoint(medium) {
+					top: 0;
 				}
 
+				@include breakpoint(small) {
+					top: 0.5em;
+					font-size: 3em !important;
+				}
 			}
-		
-		}		
-	}	
+		}
 }
 
 	.contactus {
 		margin-bottom: 3em;
+
+		p {
+			text-align: center;
+		}
+
 		form {
-			padding-bottom: 5em;
-		}
-		.innerform {
-			width: 70%;
-			margin: 0 auto;
-			padding-top: 3em;
-
-			p {
-				text-align: center;
-			}
-		}
-		@include breakpoint (small) {
-			.innerform {
-				width: 90%;
-			}
-		}
-	}
-
-	form {
-		margin: 0 0 _size(element-margin) 0;
-		background-color: rgba(255, 255, 255, 0.9);
-		box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
-
-		.field {
-			margin: 0 0 (_size(element-margin) * 1) 0;
-			padding: 2em;
-
-			&.half {
-				width: 50%;
-				float: left;
-
-			}
-		}
-
-		.actions {
-
-			float: right;
-			padding-right: 2em;
-			
-			li {
-				padding: 0 !important;
-			}
-		}
-		
-		@include breakpoint(small) {
+			padding: 2em 2em 5em 2em;
+			margin: 0 0 _size(element-margin) 0;
+			background-color: rgba(255, 255, 255, 0.9);
+			box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
 
 			.field {
-				margin: 2em 0 0 0;
-				padding: 0;
+				margin: 0 0 (_size(element-margin) * 1) 0;
+				padding: 2em;
 
-				.half {
-					padding: 0.5em;
-					.first {
-						padding: 0.5em;
-						margin: 0;
-					}
+				&.half {
+					width: 50%;
+					float: left;
+
 				}
 			}
 
 			.actions {
-				margin: 3em; 
-				float: none;
-				padding: 0;
-				display: flex;
-				flex-direction: column;
-				align-items: center;
 
-				input[type="submit"] {
-					margin-bottom: 3em;
+				float: right;
+				padding-right: 2em;
+				
+				li {
+					padding: 0 !important;
+				}
+			}
+			
+			@include breakpoint(small) {
 
+				.field {
+					margin: 2em 0 0 0;
+					padding: 0;
+
+					.half {
+						padding: 0.5em;
+						.first {
+							padding: 0.5em;
+							margin: 0;
+						}
+					}
 				}
 
-			}
-		}
-
-		@include breakpoint(xsmall) {
-
-			.field {
-				&.half {
-					width: 100%;
+				.actions {
+					margin: 3em; 
 					float: none;
-					padding-top: 0.5em;
+					padding: 0;
+					display: flex;
+					flex-direction: column;
+					align-items: center;
 
-					&.first {
+					input[type="submit"] {
+						margin-bottom: 3em;
+
+					}
+
+				}
+			}	
+
+			@include breakpoint(xsmall) {
+
+				.field {
+					&.half {
+						width: 100%;
+						float: none;
 						padding-top: 0.5em;
+
+						&.first {
+							padding-top: 0.5em;
+						}
 					}
 				}
 			}
 		}
+
 	}
 
 	label {

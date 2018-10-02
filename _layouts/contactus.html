@@ -9,7 +9,7 @@
 
     
             <!-- Main -->
-            <section class="contactform" class="alt">
+            <section class="contactform" class="alt"> <!--under form.scss-->
                 
                 <div class="inner">
 
@@ -22,33 +22,31 @@
 
                         <section class="contactus">
                             <form action="https://formspree.io/{{ site.email }}" method="POST">
-                                <div class="innerform">
-                                        <p>We'd love to hear from you! Reach out to us using this form and we'll get back to you ASAP.</p>
-                                
-                                    <div class="field half first">
-                                        <label for="name">Name</label>
-                                        <input type="text" name="name" id="name" />
-                                    </div>
-                                    <div class="field half" style="padding-left: 0;">
-                                        <label for="email">Email</label>
-                                        <input type="text" name="_replyto" id="email" />
-                                    </div>
-                                    <div class="field">
-                                        <label for="message">Message</label>
-                                        <textarea name="message" id="message" rows="6"></textarea>
-                                    </div>
-                                    <div class="actions">
-                                        <input type="submit" value="Send Message" class="button specialdark" />
-                                        <input type="reset" value="Clear" />
-                                    </div>
+                                <p>We'd love to hear from you! Reach out to us using this form and we'll get back to you ASAP.</p>
+                            
+                                <div class="field half first">
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" id="name" />
+                                </div>
+                                <div class="field half" style="padding-left: 0;">
+                                    <label for="email">Email</label>
+                                    <input type="text" name="_replyto" id="email" />
+                                </div>
+                                <div class="field">
+                                    <label for="message">Message</label>
+                                    <textarea name="message" id="message" rows="6"></textarea>
+                                </div>
+                                <div class="actions">
+                                    <input type="submit" value="Send Message" class="button specialdark" />
+                                    <input type="reset" value="Clear" />
                                 </div>
                             </form>
                         </section>
                 </div>    
             </section>
 
-    </body>
+        {% include simple_footer.html %}
 
-    {% include simple_footer.html %}
+    </body>
 
 </html>		
