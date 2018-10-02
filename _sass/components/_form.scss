@@ -4,6 +4,8 @@
 .contactform {
 	background-color: _palette(mainyellow);
 
+	/* unsubscribe form */
+
 	.unsubscribe {
 		width: 50%;
 		margin: 0 auto;
@@ -22,9 +24,14 @@
 		.overlay-contact {
 
 			h1 {
-				font-size: 5em;
+				font-size: 4em;
+
+				@include breakpoint(small) {
+					font-size: 2.5em;
+				}
 			}
 		}
+		
 
 		.contactus {
 			margin-bottom: 0;
@@ -52,9 +59,12 @@
 		}
 	}
 
+	/* contact us form */
+
 
 	.imgbanner-contact {
-		height: 30vh;
+		height: auto;
+		max-height: 25vh;
 		box-shadow: 2px 0 10px rgba(0, 0, 0, .5);
 		position: relative;
 		overflow: hidden;
@@ -101,7 +111,7 @@
 
 				@include breakpoint(small) {
 					top: 0.5em;
-					font-size: 3em !important;
+					font-size: 2.5em !important;
 				}
 			}
 		}
