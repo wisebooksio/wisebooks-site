@@ -9,6 +9,7 @@ category: Investor
 imgattribution: TED talk
 bioattribution: https://en.wikipedia.org/wiki/Ray_Dalio, https://www.valuewalk.com/ray-dalio-bridgewater/, https://www.newyorker.com/magazine/2011/07/25/mastering-the-machine 
 bookattribution: Tribe of Mentors by Tim Ferriss
+redirect_from: /investor/2018/09/30/ray-dalio.html
 ---
 
 Ray Dalio is the world’s billionaire investor, founder of Bridgewater Associates (one of the world’s largest hedge funds managing something like $160 billion… cool cool cool….), author of <i>Principles of Life and Work</i> (a.k.a the book on everybody’s favourites list), and Bloomberg said that he’s one of the world’s 100 wealthiest people in January 2018. 

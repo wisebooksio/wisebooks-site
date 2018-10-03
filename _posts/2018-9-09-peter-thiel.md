@@ -9,6 +9,7 @@ category: Entrepreneur
 imgattribution: Digg
 bioattribution: https://en.wikipedia.org/wiki/Peter_Thiel, https://www.businessinsider.com/peter-thiel-facebook-trump-biography-2018-2?utm_source=copy-link, utm_medium=referral&utm_content=topbar&utm_term=desktop, https://www.inc.com/jeff-bercovici/peter-thiel-young-blood.html
 bookattribution: https://fs.blog/2014/11/peter-thiel-favorite-reads/, https://www.reddit.com/r/IAmA/comments/2g4g95/peter_thiel_technology_entrepreneur_and_investor/ckfj4j5/
+redirect_from: /entrepreneur/2018/09/09/peter-thiel.html
 ---
 
 Peter Thiel is the co-founder of PayPal and Palantir, first investor in Facebook, venture capitalist at Founders Fund, and author of startup bible, Zero to One.

@@ -11,6 +11,7 @@ imgattribution: Karuna Health
 bioattribution: https://www.f6s.com/karunahealth, https://www.healthcatalyst.com/three-must-haves-of-an-effective-care-management-system ,https://www.americaninno.com/boston/boston-startup/lost-in-the-healthcare-labyrinth-karuna-health-will-find-you-a-guide/, https://www.seas.harvard.edu/audiences/alumni/stories/2018/09/alumni-profile-joe-kahn-ab-18 
 bookattribution: Yasyf Mohamedali and Joe Kahn  
 resources: and Resources
+redirect_from: /entrepreneur/2018/09/23/yasyf-joe.html
 ---
 
 Eric Tarczynski is the co-founder of Contrary, a venture fund that is solely focussed on backing the best startups and technologies coming out of universities across the USA. Some of their limited partners include the co-founder of Twitch, co-founder of Tesla (the one that’s not Elon Musk), founding engineer of Facebook, and co-founder of Reddit among others. They are working with 100+ Venture Partners across the nation like Stanford, Brown, Columbia University, Harvard, MIT among 95 others. 

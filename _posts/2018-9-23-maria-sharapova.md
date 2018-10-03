@@ -10,6 +10,7 @@ imgattribution: Sporting News
 bioattribution: https://www.thestreet.com/lifestyle/sports/maria-sharapova-net-worth-14692594, https://www.theguardian.com/sport/2017/mar/29/maria-sharapova-tennis-fought-for-truth-doping-ban, https://www.businesswire.com/news/home/20180801005243/en/Hudson-Group-Announces-Exclusive-Agreement-Maria-Sharapova%E2%80%99s, http://www.mariasharapova.com/bio/, https://en.wikipedia.org/wiki/Maria_Sharapova https://www.vogue.com/article/maria-sharapova-meldonium-suspension-returns-to-tennis 
 
 bookattribution: Tribe of Mentors by Tim Ferriss, https://twitter.com/mariasharapova/status/643645008470372353?lang=en 
+redirect_from: /sports/2018/09/23/maria-sharapova.html
 
 ---
 

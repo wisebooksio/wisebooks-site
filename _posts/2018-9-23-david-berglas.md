@@ -10,6 +10,7 @@ category: Entrepreneur
 imgattribution: Shoelace's TeamTalk Vimeo
 bookattribution: David Berglas
 resources: and Resources
+redirect_from: /entrepreneur/2018/09/23/david-berglas.html
 ---
 
 David (or known to everyone as Berg) is Co-Founder and COO at <a href="https://shoelace.com/">Shoelace</a>, an automated ad retargeting platform for e-commerce stores. In 3.5 years, Shoelace has gone through two accelerators (<a href="https://boomtownaccelerators.com/">Boomtown</a> and <a href="https://500.co/">500 Startups</a>) and grown their business to 6,000+ customers. They’ve worked with renowned brands like the Ellen Degeneres Shop, Kidrobot, 100% Pure, and more.
