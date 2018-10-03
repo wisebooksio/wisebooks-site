@@ -22,7 +22,7 @@ analytics: UA-123321285-1 # Google Analytics
 
 #permalink
 
-permalink: /:title/
+permalink: :title/
 
 # build settings
 markdown: kramdown
