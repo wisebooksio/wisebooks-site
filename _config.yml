@@ -3,7 +3,7 @@ title: Wisebooks
 email: hello@wisebooks.io
 description: Free database of books recommended by world-class people. Subscribe for weekly bite-sized book recommendations.
 baseurl:
-url: www.wisebooks.io
+url:
 author: Christine & Jenny
 
 # homepage tiles
@@ -32,5 +32,6 @@ plugins:
   - jekyll-paginate
   - liquid
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 
