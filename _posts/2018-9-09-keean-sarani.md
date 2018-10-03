@@ -10,6 +10,7 @@ category: Entrepreneur
 imgattribution: Keean's personal facebook
 bookattribution: Keean Sarani
 resources: and Resources
+redirect_from: /entrepreneur/2018/09/09/keean-sarani.html
 ---
 
 Keean is 21 years old, currently studying pharmacy at the University of Waterloo, and is the co-founder of <a href="https://www.avrolifesci.com/">Avro Life Science</a>, which has thus far raised over <a href="https://www.crunchbase.com/organization/avro-life-science#section-related-hubs">$2.5M</a>, and graduated from the Y-Combinator W2018 cohort this year. Just to reiterate, he’s 21 years old. 

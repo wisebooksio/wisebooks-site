@@ -8,7 +8,8 @@ person: keegan_key
 category: Actor
 imgattribution: ora.tv
 bioattribution: https://www.buzzfeednews.com/article/kelleylcarter/keegan-michael-key-is-the-comedian-we-need-right-now
-bookattribution: https://www.vanityfair.com/style/2017/11/keegan-michael-key-on-the-books-movies-and-foods-that-energize-him, http://www.latimes.com/entertainment/tv/la-et-st-key-peele-impact-20150909-column.html#   
+bookattribution: https://www.vanityfair.com/style/2017/11/keegan-michael-key-on-the-books-movies-and-foods-that-energize-him, http://www.latimes.com/entertainment/tv/la-et-st-key-peele-impact-20150909-column.html#
+redirect_from: /actor/2018/09/16/keegan-michael-key.html   
 ---
 
 Keegan-Michael Keele of the too-funny <i>Key & Peele</i> comedy show is not just wildly entertaining, but seriously important. Frequently adopting high-risk social topics into their skits such as slavery, police brutality, racial dynamics, and so much more, to make their audience laugh nervously and think a little. 

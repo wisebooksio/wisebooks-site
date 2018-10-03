@@ -9,6 +9,7 @@ category: Entrepreneur
 imgattribution: Wired
 bioattribution: https://ma.tt/, https://audrey.co/  
 bookattribution: Tim Ferriss, Tools of Titans (202-210) 
+redirect_from: /entrepreneur/2018/09/16/matt-mullenweg.html
 ---
 
 Matt Mullenweg is the co-founder of Wordpress, a website builder that powers sites like TIME, Forbes, Wall Street Journal, oh, also the other <a href="https://ma.tt/about/">31%+ of the sites on the internet</a>. Wordpress is owned by Automattic which is valued at over $1 billion… also founded by Mullenweg. 

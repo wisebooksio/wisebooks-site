@@ -11,6 +11,7 @@ imgattribution: Karuna Health
 bioattribution: https://www.f6s.com/karunahealth, https://www.healthcatalyst.com/three-must-haves-of-an-effective-care-management-system ,https://www.americaninno.com/boston/boston-startup/lost-in-the-healthcare-labyrinth-karuna-health-will-find-you-a-guide/, https://www.seas.harvard.edu/audiences/alumni/stories/2018/09/alumni-profile-joe-kahn-ab-18 
 bookattribution: Yasyf Mohamedali and Joe Kahn  
 resources: and Resources
+redirect_from: /entrepreneur/2018/09/23/yasyf-joe.html
 ---
 
 Yasyf Mohamedali from MIT and Joe Kahn from Harvard are the co-founders of Karuna Health. Launched in March of 2018 and in just two months after the date of their founding, the company announced their $1.2M raise in seed funding from investors including First Round Capital, SV Angel, Founder Collective, and Rough Draft Ventures. 

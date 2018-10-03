@@ -9,6 +9,7 @@ category: Social_Cause
 imgattribution: The Guardian Nigeria
 bioattribution: http://fortune.com/2018/01/23/diversity-aspect-ventures-melinda-gates/
 bookattribution: https://www.vox.com/2018/3/19/17130570/melinda-gates-book-recommendations-sxsw-ezra-klein-show-amazon 
+redirect_from: /social_cause/2018/09/16/melinda-gates.html
 ---
 
 Melinda Gates is known as the most powerful woman in philanthropy, co-chairing the Bill and Melinda Gates Foundation in another industry that is largely dominated by men. With only <a href="https://www.forbes.com/sites/carolinehoward/2017/11/01/most-powerful-women-in-philanthropy-and-nonprofits-2017/#796d723d45a9">33% of leaders of charitable funds worth $10 billion or more are led by women,</a> Melinda Gates continues to lead by example chairing the foundation for over 15 years. 

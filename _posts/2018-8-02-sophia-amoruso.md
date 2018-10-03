@@ -8,6 +8,7 @@ imgattribution: Glamour.com
 category: Entrepreneur
 bookattribution: goodreads.com/interviews/show/946.Sophia_Amoruso 
 person: sophia_amoruso
+redirect_from: /entrepreneur/2018/08/02/sophia-amoruso.html
 ---
 
 An American businesswoman, Sophia Amoruso began her entrepreneurial journey at 22 years old with the brand Nasty Girl Vintage on eBay. The success of Nasty Girl’s eBay store led to its expansion into fashion retail. Her company made large strides and in six years made it onto Inc Magazine’s list of fastest growing companies in 2012 and reached $300 million in sales in 2016. She has been featured on many power lists such as Forbe’s list of America’s Richest Self-Made Women, and even made it to onto Vanity Fair’s list of best dressed. 

@@ -8,7 +8,8 @@ person: constance_wu
 category: Actor
 imgattribution: Heightline
 bioattribution: http://time.com/longform/crazy-rich-asians/ https://www.nytimes.com/2018/08/26/arts/crazy-rich-asians-tops-box-office-again.html https://twitter.com/ConstanceWu  
-bookattribution: https://www.instagram.com/constancewu/ https://www.nbcnews.com/news/asian-america/worthy-exciting-novel-constance-wu-wants-you-read-fall-n655676  
+bookattribution: https://www.instagram.com/constancewu/ https://www.nbcnews.com/news/asian-america/worthy-exciting-novel-constance-wu-wants-you-read-fall-n655676
+redirect_from: /actor/2018/09/16/constance-wu.html  
 ---
 
 If you have seen daylight in the last month or so, then you know that everyone and their mother has watched <i>Crazy Rich Asians</i>, starring the phenomenal and inspiring, Constance Wu. 

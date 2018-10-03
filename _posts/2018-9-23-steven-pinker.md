@@ -9,6 +9,7 @@ category: Author
 imgattribution: Financial Times
 bioattribution: https://www.britannica.com/biography/Steven-Pinker, https://psychology.fas.harvard.edu/people/steven-pinker 
 bookattribution: Tribe of Mentors by Tim Ferriss
+redirect_from: /author/2018/09/23/steven-pinker.html
 
 ---
 

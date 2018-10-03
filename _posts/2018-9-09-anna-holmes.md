@@ -9,6 +9,7 @@ category: Journalist
 imgattribution: WBUR
 bioattribution: https://en.wikipedia.org/wiki/Anna_Holmes, https://www.motherjones.com/media/2013/10/anna-holmes-book-jezebel-interview/
 bookattribution: https://www.esquire.com/lifestyle/news/gmp2544/80-books-every-person-should-read/
+redirect_from: /journalist/2018/09/09/anna-holmes.html
 ---
 
 Anna Holmes is a writer and founder of Jezebel, a liberal blog geared towards women.

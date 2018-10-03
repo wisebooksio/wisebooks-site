@@ -8,6 +8,7 @@ person: dara_khosrowshahi
 category: CEO
 imgattribution: Raconteur
 bookattribution: personal email from Dara
+redirect_from: /ceo/2018/08/17/dara-khosrowshahi.html
 ---
 
 Dara Khosrowshahi is Uber’s current CEO. He is an Iranian-American businessman who has formerly served as the CEO of Expedia group (notably one of the highest rated CEOs on Glassdoor), a member of the board of directors for BET.com, Hotels.com, and the New York Times Company. 
