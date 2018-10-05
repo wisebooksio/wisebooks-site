@@ -1,3 +1,4 @@
 ---
 layout: search
+sitemap: false
 ---
