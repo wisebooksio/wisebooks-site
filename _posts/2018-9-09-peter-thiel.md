@@ -12,7 +12,7 @@ bookattribution: https://fs.blog/2014/11/peter-thiel-favorite-reads/, https://ww
 redirect_from: /entrepreneur/2018/09/09/peter-thiel.html
 ---
 
-Peter Thiel is the co-founder of PayPal and Palantir, first investor in Facebook, venture capitalist at Founders Fund, and author of startup bible, Zero to One.
+Peter is the co-founder of PayPal and Palantir, first investor in Facebook, venture capitalist at Founders Fund, and author of startup bible, Zero to One.
 
 Thiel was incredibly bright from a young age – he was reportedly once one of the highest ranked under-21 chess players in the US. He attended Stanford where he studied philosophy, got his JD law degree and worked as a lawyer for a while. That is, until, he co-founded Paypal with the intention of making money transactions easier. Paypal was sold to eBay in 2002 for $1.5bn and he went on to launch Clarium Capital, a global macro hedge fund, as well as Palantir Technologies, he CIA-backed big data analysis company. As if the laws of time don’t apply to him, over the years Thiel has been able to co-found three VC firms (Founders Fund, Valar Ventures, and Mithril Capital), serve as a partner at Y-Combinator, create the Thiel Foundation, and publish 2 books.
 
