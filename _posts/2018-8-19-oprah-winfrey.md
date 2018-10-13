@@ -8,6 +8,7 @@ person: oprah_winfrey
 category: Entrepreneur
 imgattribution: cnbc.com
 bookattribution: https://www.cnbc.com/2017/06/15/the-one-book-that-changed-oprah-winfreys-life-and-business.html, https://www.businessinsider.com/warren-buffett-oprah-winfrey-mark-zuckerberg-ceos-favorite-books-2014-9 
+redirect_from: /2018/08/19/oprah-winfrey.html
 ---
 
 Oprah Winfrey was born in a small town before she started her career in media and earning her spot as the most watched daytime show host on TV. Her style of interviewing, personality, and ability to open up her guests in front of audiences of millions merited her success. 

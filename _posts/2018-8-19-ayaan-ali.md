@@ -8,6 +8,7 @@ person: ayaan_ali
 category: Social_Cause
 imgattribution: Chicago Tribune
 bookattribution: https://www.nytimes.com/2015/03/22/books/review/ayaan-hirsi-ali-by-the-book.html, Tools of Titans by Tim Ferriss
+redirect_from: /2018/08/19/ayaan-ali.html
 ---
 
 Ayaan Hirsi Ali is a controversial Somali-born American women’s rights activist, best-selling author, and former politician. She was born in Somalia in 1969 and was a devout Muslim in her youth but questioned the authority that limited women’s rights around her; today she is a devout atheist. As a young girl, she was subjected to Female Genital Mutilation (FGM). When she was told by her father that she was to marry a distant cousin, she fled the country to claim asylum in Holland. 

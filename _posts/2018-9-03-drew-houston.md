@@ -8,6 +8,7 @@ person: drew_houston
 category: Entrepreneur
 imgattribution: The Telegraph
 bookattribution: https://tim.blog/2018/08/27/drew-houston/ 
+redirect_from: /entrepreneur/2018/09/03/drew-houston
 ---
 
 Okay, everyone on this site is impressive, but try keeping your cool as you read this massive mic-drop intro: Drew Houston is the American internet billionaire who founded Dropbox, which was estimated to be worth a full $3 billion before the company IPO’d in 2013, and is often touted as Y Combinator’s most successful investment ever (also the first to IPO), among the likes of Airbnb, Twitter, Stripe, Coinbase, and more. He was listed as a top 30-under-30 entrepreneur on Inc.com and Dropbox was named one of the best 20 Silicon Valley startups. 

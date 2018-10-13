@@ -8,6 +8,7 @@ person: george_raveling
 category: Sports
 imgattribution: tim.blog
 bookattribution: https://tim.blog/2018/08/09/george-raveling/
+redirect_from: /sports_coach/2018/09/02/george-raveling
 ---
 
 Coach George Raveling was a pioneer and innovator in American sports, living many lives as a college basketball player and coach, Fox News Sports and CBS broadcaster, and at the request of Phil Knight himself, joined Nike. He started out as Director of Grass Roots Basketball, Director of Global Marketing, and at 70 years old, promoted again to the international director of basketball at Nike (instrumental in signing the former Adidas-man, Michael Jordan). He’s in several Halls of Fame, has a lot of awards, but if you’re not into sports (like us), just know that he’s the big deal in basketball. 

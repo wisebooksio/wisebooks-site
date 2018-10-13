@@ -9,6 +9,7 @@ category: Author
 bioattribution: https://www.businessinsider.com/the-rags-to-riches-story-of-jk-rowling-2015-5, https://www.ft.com/content/a24a70a6-55a9-11e7-9fed-c19e2700005f
 imgattribution: slate
 bookattribution: https://www.nytimes.com/2012/10/14/books/review/j-k-rowling-by-the-book.html, http://www.oprah.com/oprahsbookclub/jk-rowlings-favorite-books/all
+redirect_from: /author/2018/09/02/jk-rowling
 
 ---
 

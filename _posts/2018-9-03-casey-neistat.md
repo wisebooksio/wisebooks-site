@@ -9,6 +9,7 @@ category: Filmmaker
 bioattribution: https://www.indiewire.com/2014/03/from-teen-welfare-dad-to-youtube-icon-casey-neistat-tells-sxsw-how-he-did-it-29103/ ; https://en.wikipedia.org/wiki/Casey_Neistat
 imgattribution: Casey Neistat's Youtube Channel
 bookattribution: https://caseysbookclub.com/casey-neistats-favorite-books/
+redirect_from: /filmmaker/2018/09/03/casey-neistat
 ---
 
 Casey Neistat is a filmmaker, entrepreneur, vlogger (unbelievably talented at that), and an influential American YouTube personality with a whopping 10.3 million subscribers (to date). He has made short films for Nike, produced a successful HBO show called “The Neistat Brothers” as well as an indie film called “Daddy Longlegs”.
