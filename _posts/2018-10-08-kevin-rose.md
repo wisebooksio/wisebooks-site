@@ -23,6 +23,8 @@ He also has a free meditation app called Oak in the app store.
 
 What does he do now? Podcasting, raise a kid with his wife, and probably a host of other random things. 
 
+Here are his most recommended books.
+
 
 
 
