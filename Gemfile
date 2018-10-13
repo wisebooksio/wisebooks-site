@@ -8,4 +8,5 @@ gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-admin', group: :jekyll_plugins
+gem 'jekyll-compress-images'
 gemspec

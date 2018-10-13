@@ -37,5 +37,6 @@ plugins:
   - liquid
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-compress-images
 
 
