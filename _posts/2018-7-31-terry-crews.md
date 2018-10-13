@@ -8,6 +8,7 @@ person: terry_crews
 category: Actor
 imgattribution: Hollywood Reporter
 bookattribution: Tribe of Mentors by Tim Ferriss
+redirect_from: /2018/07/31/terry-crews.html
 ---
 
 “In order to ‘have’ you must ‘do,’ and in order to ‘do’ you must ‘be’.”

@@ -8,6 +8,7 @@ person: angela_merkel
 category: Politician
 imgattribution: Cicero
 bookattribution: https://www.theguardian.com/world/2016/dec/29/angela-merkel-jurgen-osterhammel-the-transformation-of-the-world-book-germany; http://poweroftheword.americanwritersmuseum.org/leaders/angela-merkel/; https://www.bloombergquint.com/pursuits/2017/06/10/libraries-of-leaders-on-the-bookshelves-of-europes-most-powerful-women
+redirect_from: /politician/2018/08/01/angela-merkel.html
 ---
 
 Angela Merkel is a powerhouse in Germany, often called the world’s most powerful woman, the de facto leader of the European Union, and the leader of the Free World. Merkel is a German politician that has been serving as the country’s chancellor since 2005, leading the Christian Democratic Union since 2000, and navigating the complex political landscape we see today. 
