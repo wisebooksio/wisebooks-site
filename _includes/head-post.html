@@ -19,7 +19,7 @@
     <meta name="description" content="{{site.description}}">
     <meta prefix="og: http://ogp.me/ns#" property="og:description" content="{{page.description}}">
 	<meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{page.image}}">
-	<meta prefix="og: http://ogp.me/ns#" property="og:title" content="{{page.title}}">
+	<meta prefix="og: http://ogp.me/ns#" property="og:title" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.title}}{% endif %}">
 
 	{% seo %}
 
