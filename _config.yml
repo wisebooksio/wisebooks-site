@@ -13,7 +13,7 @@ tiles-count: 6
 #collections
 collections_dir: content
 collections:
-  - YC_founders
+  - yc_founders
 
 #social settings
 facebook_url:  https://www.facebook.com/wisebooksio/
