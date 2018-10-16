@@ -7,8 +7,13 @@ url: https://www.wisebooks.io
 author: Christine & Jenny
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: posts
 tiles-count: 6
+
+#collections
+collections_dir: content
+collections:
+  - yc_founders
 
 #social settings
 facebook_url:  https://www.facebook.com/wisebooksio/

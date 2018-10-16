@@ -1,85 +1,82 @@
-/*Post*/
+/* listicle */
 
-p {
-	margin: 0 0 1.25em 0;
-}
+#listicle {
 
-.imgbanner {
-	width: 100%;
-	height: 65vh;
-	position: relative;
-	overflow: hidden;
-
-	img {
-		width: 100%;
-		@include breakpoint(large) {
-			bottom: 0;
-		}
-		
-	}
-
-	.overlay {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0; 
-		left: 0;
-		right: 0;
-		background-color: rgba(0,0,0,0.4) !important;
-
-	
-			h1 {
-				padding-top: 1.4em;
-				width: 90%;
-				margin: 0 auto;
-				text-align: center;
-				color: _palette(mainyellow);
-				text-transform: uppercase;
-				font-size: 6.5em;
-				text-shadow: 4px 3px 0px rgba(247, 206, 60, 0.5), 9px 8px 0px rgba(0,0,0,0.3);
-				line-height: 1;
-			}
-
-			h3 {
-				color: _palette(mainyellow);
-				text-align: center;
-			}
-
-		.imgattribution {
-			font-size: 10px;
-			position: absolute;
-			bottom: 0;
-			margin: 0 0 1em 1em;
-			color: lightgray;
-		}
-	
-
-	}	
-
-}
-
-#bio {
-    .bio-content {
-		padding: 2em;
+	#listicle-intro {
+		padding-top: 5em;
 		width: 70%;
 		margin: 0 auto;
-		.books {
-			display: block;
-			width: 40%;
-			margin: 0 auto;
-			text-align: center;
+
+    .imgbanner {
+        height: 40vh;
+    }
+
+    h1 {
+        padding: 1em 0 1em 0;
+        margin: 0 auto;
+        text-align: center;
+        color: _palette(mainyellow);
+        text-transform: uppercase;
+        font-size: 3em;
+        line-height: 1;
+        border: 1.5px solid;
+	}
+	
+	
+	}
+
+}
+
+#listicle-bio {
+    .bio-content {
+		padding: 4em 0 0 0;
+		width: 70%;
+        margin: 0 auto;
+
+        p {
+            margin: 1em 0 0 0;
 		}
-		.attribution {
-			text-align: center;
+		
+		.profile {
+			display: flex;
+			flex-direction: row;
+			margin: 5em 0 2em 0;
+			align-items: center;
+			justify-content: center;
+		
+			.profilepic {
+				border-radius: 50%; 
+				width: 15%; 
+				height: 15%;
+				img {
+					width: 100%;
+					border-radius: 50%;
+				}
+			}
+		
+			.profilebio {
+				margin: 0 0 0 1em;
+				h3 {
+					margin: 0;
+				}
+		
+				h4 {
+					margin: 0 0 0.5em 0;
+				}
+		
+				.icon.alt:before {
+					background-color: _palette(mainyellow);
+					color: white;
+				}
+			}
 		}
 
-		
     }    
 
 }
 
-#books {
-	background-color: #e6e9ec;
+#listicle-books {
+	background-color: none;
 	height: auto;
 
 	.attribution {
@@ -96,29 +93,21 @@ p {
 		}
 	}
 
-	.booktitle {
-		text-align: center;
-		margin-top: 2em;
-		font-weight: 800;
-		text-transform: uppercase;
-		font-size: 2em !important;
-
-	}
-
 	.booktile {
 		display: flex;
 		flex-wrap: wrap;
-		margin-top: 4em !important;
-		justify-content: center;
+        margin-top: 4em !important;
+        margin: 0 auto;
+        width: 85%;
+        
 	}
 
     .book-card {
-		width: 510px;
+		width: 47%;
 		height: 340px;
         background-color: _palette(fg);
 		border-radius: 15px;
-		margin: 0 0 1.5em 3.5em;
-		box-shadow: 0 5px 10px rgba(0, 0, 0, .5);
+		margin: 0 0 1.5em 1.5em;
 		position: relative;
 
 
@@ -280,7 +269,7 @@ p {
 	
 	@media only screen and (min-width: 1681px) {
 		
-		#books {
+		#listicle-books {
 			.booktile {
 				width: 80%;
 				margin: 0 auto;
@@ -303,54 +292,10 @@ p {
 		
 	}
 
-	@media only screen and (max-width: 1250px) {
-
-		@media only screen and (max-width: 1024px) {
-
-			.imgbanner {
-				height: 55vh;
-
-				.overlay {
-
-					h1 {
-						padding-top: 0.5em;
-					}
-
-				}
-
-			}
-		}
-
-			#books {
-				.booktile {
-					width: 100%;
-					margin: 0 auto;
-					.book-card {
-						width: 550px;
-						margin: 0 0 1.5em 1.5em;
-					}
-				}
-			}
-
-
-	}
-
 	
 	@include breakpoint(medium) {
-		.imgbanner {
-			height: 32vh;
-			img {
-				width: 135%;
-			}
-			.overlay {
-				h1 {
-					font-size: 6em;
-					line-height: 1;
-				}
-			}
-		}
 
-			#bio {
+			#listicle-bio {
 				.inner {
 					.bio-content {
 						padding: 0 !important;
@@ -367,7 +312,7 @@ p {
 				}
 			}
 
-			#books {
+			#listicle-books {
 				.booktile {
 					width: 100%;
 					.book-card {
@@ -382,6 +327,7 @@ p {
 							position: relative;
 							float: none;
 							max-width: 30%;
+							margin-right: 0;
 
 							@include breakpoint(small) {
 
@@ -389,9 +335,6 @@ p {
 							}
 
 							bottom: 0;
-							img {
-								box-shadow: 30px -10px #f7ce3c;
-							}
 						}
 
 						.descriptionbuy {
@@ -451,24 +394,38 @@ p {
 	}
 
 	@include breakpoint(small) {
-		.imgbanner {
-			height: 25vh !important;
-			.overlay {
-				h1 {
-					font-size: 3.2em;
-					padding-top: 0.5em;
-				}
-				h3 {
-					font-size: 1em;
-					width: 90%;
-					margin: 0 auto;
-				}
+
+	#listicle {
+
+		#listicle-intro {
+
+			width: 90%;
+
+			h1 {
+				font-size: 2em;
 			}
 		}
-		#bio {
+	}
+    
+		#listicle-bio {
 
 			.bio-content {
-				width: 100%;
+
+			width: 90%;
+
+				.profile {
+					flex-direction: column;
+
+					.profilepic {
+						width: 60% !important;
+					}
+
+					.profilebio {
+						text-align: center;
+					}
+
+				}
+			
 			}
 
 			.books {
@@ -476,7 +433,7 @@ p {
 			}
 		}
 
-		#books {
+		#listicle-books {
 			.booktile {
 				width: 100%;
 				.bookbuttons {
@@ -502,5 +459,4 @@ p {
 			}
 		}
 
-	}
-
+	}   

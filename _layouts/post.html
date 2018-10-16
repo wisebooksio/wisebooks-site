@@ -25,18 +25,16 @@
 		</div>
 		
 		<section id = "bio">
-				<div class="inner">
-					<div class="bio-content">
-						<a href="#books" class="button specialdark books">Skip to Books</a>
-							&nbsp;
-							<p>{{content}}</p>
-							{% if page.bioattribution %}
-							<details class="attribution">
-								<summary>Biography sources</summary>
-									{{page.bioattribution}}
-							</details>
-							{% endif %}
-					</div>
+				<div class="bio-content">
+					<a href="#books" class="button specialdark books">Skip to Books</a>
+						&nbsp;
+						<p>{{content}}</p>
+						{% if page.bioattribution %}
+						<details class="attribution">
+							<summary>Biography sources</summary>
+								{{page.bioattribution}}
+						</details>
+						{% endif %}
 				</div>
 		</section>
 			
@@ -48,7 +46,6 @@
 					</details>
 
 				</header>
-				<div class="inner">
 					<div class="booktile">
 						{% for book in site.data[page.person].books %}
 
@@ -73,7 +70,6 @@
 					{% endfor %}
 					</div>
 							
-				</div>
 
 			</section>
 
@@ -90,10 +86,11 @@
 				</div>
 			</section>
 
-
-			{% include simple_footer.html %}
-
 	</div>
+
+
+	{% include simple_footer.html %}
+
 
 </body>
 
