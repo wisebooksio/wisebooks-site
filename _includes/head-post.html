@@ -21,10 +21,15 @@
 	<meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{site.baseurl}}/{{page.image}}">
 	<meta prefix="og: http://ogp.me/ns#" property="og:title" content="{% if page.subtitle %}{{page.subtitle}}{% else %}{{page.title}}{% endif %}">
 
-	{% seo %}
-
 	<meta name="keywords" content="books, book, book recommendations, {{page.title}}">
 
-	{% feed_meta %}
+    <meta name="generator" content="Jekyll v3.7.4">
+    <meta property="og:title" content="Fave Startup Books and Resources by YC Founders">
+    <meta name="og:description" content="Y Combinator Founders give advice and their top startup books and resources.">
+    <link rel="canonical" href="https://www.wisebooks.io/YC-founders/">
+    <meta property="og:type" content="article">
+    <script type="application/ld+json">
+        {"description":"Y Combinator Founders give advice and their top startup books and resources.","author":{"@type":"Person","name":"Christine & Jenny"},"@type":"BlogPosting","url":"https://www.wisebooks.io/YC-founders/","image":"https://www.wisebooks.io/assets/images/profilepics/ycombinator.png","headline":"Fave Startup Books and Resources by YC Founders","dateModified":"2018-10-15T00:00:00+00:00","datePublished":"2018-10-15T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.wisebooks.io/YC-founders/"},"@context":"http://schema.org"}</script>
+    {% feed_meta %}
 
 </head>
