@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/dylanbfox
 image: ../assets/images/listicle/dylan_fox.jpg
 ---
 
-<a href="https://www.assemblyai.com/">AssemblyAI</a> is a startup building a speech-to-text API that will help developers build customized chat interfaces quickly. They use the latest deep learning technology to build practical products that bring futuristic ideas to life. At AssemblyAI, they believe that cutting edge artificial intelligence technology should not be limited to only those with the funding or resources to invest in it. Their goal is to help make creative, new ideas possible by making AI technology accessible to everyone through easy to use products, whether you are an independent developer, startup, or global company.
+<a href="https://www.assemblyai.com/" target="_blank">AssemblyAI</a> is a startup building a speech-to-text API that will help developers build customized chat interfaces quickly. They use the latest deep learning technology to build practical products that bring futuristic ideas to life. At AssemblyAI, they believe that cutting edge artificial intelligence technology should not be limited to only those with the funding or resources to invest in it. Their goal is to help make creative, new ideas possible by making AI technology accessible to everyone through easy to use products, whether you are an independent developer, startup, or global company.
 
 <b>What's the best and/or worst piece of advice you've received while building AssemblyAI?</b>
 
