@@ -6,10 +6,6 @@
                         <img src="{{ post.image }}" alt="{{ post.title}}" />
                 </span>
                 <header class="major">
-                        {% if post.collection == 'True' %}
-                        <h3 class="light"><a href="{{ post.redirect  | relative_url }}" class="link">{{ post.title }}</a></h3>
-                        {% endif %}
-
                         <h3 class="light"><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
                         <p class="light">{{ post.description }}</p>
                 </header>

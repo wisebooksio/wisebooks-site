@@ -38,6 +38,7 @@
 		<div class="innerpeople">
 				{% for post in site.posts %}
 				<div class="box {{ post.category }}">
+
 						<h2 class="underline">{{post.title}}</h2>
 						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
 						<div class="box-description">
