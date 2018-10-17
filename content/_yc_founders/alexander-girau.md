@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/in/alexandergirau/
 image: ../assets/images/listicle/alexander_girau.jpg
 ---
 
-<a href="http://www.advanotech.com/" target="_blank">Advano</a> combines nanotechnology with fundamental chemical engineering principles to accelerate the renewable energy revolution. Advano's silicon nanoparticles dramatically increase the energy density lithium-ion batteries 30-40% without sacrificing battery life or increasing the battery cost. Better batteries for ioT, consumer electronics, and EVs.
+<a href="http://www.advanotech.com/" target="_blank">Advano</a> combines nanotechnology with fundamental chemical engineering principles to accelerate the renewable energy revolution. Advano engineered materials enable the practical increase of energy density for lithium-ion batteries by 30-40% without sacrificing battery life or increasing the battery cost. Better batteries for ioT, consumer electronics, and EVs.
 
 <b>What kind of challenges have you faced while building Advano & how did you overcome them?</b>
 
