@@ -1,7 +1,7 @@
 <head>
-	<meta name="title" property="og:title" content="Fave Startup Books and Resources by YC Founders">
-	<meta name="image" property="og:image" content="	https://d33wubrfki0l68.cloudfront.net/50e3ffe6e3bf40781560c642eb214401dd168008/421bf/assets/images/profilepics/ycombinator.png">
-	<meta name="description" property="og:description" content="Y Combinator Founders give advice and their top startup books and resources.">
+	<meta name="title" property="og:title" content="Fave Startup Books and Resources by YC Founders"/>
+	<meta name="image" property="og:image" content="https://d33wubrfki0l68.cloudfront.net/50e3ffe6e3bf40781560c642eb214401dd168008/421bf/assets/images/profilepics/ycombinator.png"/>
+	<meta name="description" property="og:description" content="Y Combinator Founders give advice and their top startup books and resources."/>
 	
 	<title>{{ site.title }}</title>
 	<meta charset="utf-8" />
@@ -16,18 +16,18 @@
 	{% if site.tags != "" %}
   		{% include collecttags.html %}
 	{% endif %}
-	
-	{% include analytics.html %}
 
+    <meta name="description" content="{{site.description}}"/>
 
-    <meta name="description" content="{{site.description}}">
+	<meta name="keywords" content="books, book, book recommendations, {{page.title}}"/>
 
-	<meta name="keywords" content="books, book, book recommendations, {{page.title}}">
-
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="article"/>
     <script type="application/ld+json">
         {"description":"Y Combinator Founders give advice and their top startup books and resources.","author":{"@type":"Person","name":"Christine & Jenny"},"@type":"BlogPosting","url":"https://www.wisebooks.io/YC-founders/","image":"https://www.wisebooks.io/assets/images/profilepics/ycombinator.png","headline":"Fave Startup Books and Resources by YC Founders","dateModified":"2018-10-15T00:00:00+00:00","datePublished":"2018-10-15T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.wisebooks.io/YC-founders/"},"@context":"http://schema.org"}</script>
 	
 		{% feed_meta %}
+
+		
+		{% include analytics.html %}
 
 </head>
