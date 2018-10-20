@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Y Combinator Founders
 allpeoplepics: assets/images/allpeoplepics/ycombinator.png
 image: /assets/images/listicle/ycombinator.jpg
