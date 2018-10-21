@@ -8,7 +8,8 @@ person: steve_aoki
 category: Artist
 imgattribution: EDMtunes
 bookattribution: Tribe of Mentors by Tim Ferriss
-redirect_from: /artist/2018/07/31/steve-aoki.html
+redirect_from: 
+- /artist/2018/07/31/steve-aoki.html
 ---
 
 Aoki is a two-time Grammy nominated DJ and producer, founder of Dim Mak Records, founder of Steve Aoki Charitable Fund, and designer of the contemporary menswear line Dim Mak Collection. He is the third child of Rocky Aoki, the former wrestler, adrenaline-junkie, and founder of the restaurant chain, Benihana. 

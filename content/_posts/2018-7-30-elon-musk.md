@@ -8,6 +8,9 @@ person: elon_musk
 category: Entrepreneur
 imgattribution: Inc.com
 bookattribution: https://www.businessinsider.com/elon-musk-favorite-books-2015-10
+redirect_from: 
+- /2018/07/30/elon-musk.html
+- /entrepreneur/2018/07/30/elon-musk.html
 ---
 
 Elon Reeve Musk: businessman, investor, engineer, father. Everyone and their mother knows Musk, all with varying opinions. 

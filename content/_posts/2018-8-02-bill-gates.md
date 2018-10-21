@@ -8,6 +8,9 @@ person: bill_gates
 category: Entrepreneur
 imgattribution: CNBC.com
 bookattribution: Gatesnotes
+redirect_from: 
+- /2018/08/02/bill-gates.html
+- /entrepreneur/2018/08/02/bill-gates.html
 ---
 
 Founder of the world’s largest software company, Bill Gates has long retired but has long been listed as the richest man in the world until some time in 2017. 

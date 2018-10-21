@@ -8,6 +8,9 @@ person: brene_brown
 category: Researcher
 imgattribution: TED talks
 bookattribution: Tribe of Mentors by Tim Ferriss
+redirect_from: 
+- /researcher/2018/07/30/brene-brown.html
+- /2018/07/30/brene-brown.html
 ---
 
 Dr. Brown is a research professor at the University of Houston who has spent the last 16 years of her life studying courage, vulnerability, shame, and empathy. She has used this research to write four #1 NY Times best sellers. Her TED Talk, the Power of Vulnerability, is one of the top 5 viewed talks boasting over 30M views. She is now somewhat of a celebrity professor commonly coined “the vulnerability woman”, the “shame academic”, the “self-help queen”, and she resents it. 

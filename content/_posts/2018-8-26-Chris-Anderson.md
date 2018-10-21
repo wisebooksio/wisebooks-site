@@ -8,7 +8,7 @@ person: chris_anderson
 category: Entrepreneur
 imgattribution: James Duncan Davidson/TED
 bookattribution: Tools of Titans by Tim Ferriss
-redirect_from: /entrepreneur/2018/08/26/Chris-Anderson
+redirect_from: /entrepreneur/2018/08/26/chris-anderson
 ---
 
 > “Let's give Einstein the last word. His dictum is our guide. And we give both its sentences equal weight. "Things should be made as simple as possible. But no simpler."” - Chris Anderson, the Guardian 2014

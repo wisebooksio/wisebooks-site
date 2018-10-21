@@ -8,7 +8,9 @@ person: amelia_boone
 category: Sports
 imgattribution: Newsweek
 bookattribution: Tools of Titans by Tim Ferriss
-redirect_from: /athlete/2018/08/26/amelia-boone
+redirect_from: 
+- /sports/2018/08/26/amelia-boone.html
+- /athlete/2018/08/26/amelia-boone.html
 ---
 
 She has collected four obstacle racing championship titles and stood on over 50 podiums in five years, while ALSO working as a full-time corporate attorney at Apple Inc. Amelia Boone is an inspiration with unparalleled grit and grace, often dubbed as the Queen of Pain and the Michael Jordan of Obstacle Course racing. 

@@ -8,6 +8,9 @@ person: whitney_wolfe_herd
 category: Entrepreneur
 imgattribution: partyheadphones.com
 bookattribution: Tim Ferriss Blog
+redirect_from: 
+- /entrepreneur/2018/07/30/whitney-wolfe-herd.html 
+- /2018/07/30/whitney-wolfe-herd.html
 ---
 
 Herd moved to LA in early 2012, becoming an early co-founder of Tinder but left due to allegations of another founder’s acts of sexual harassment and discrimination towards her. Once she left, settled the suit for a reported $1M, she never wanted to work in the dating industry again. She had an idea for a supportive women’s social network called Merci. 

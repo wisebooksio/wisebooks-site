@@ -8,6 +8,9 @@ person: peter_attia
 category: Doctor
 imgattribution: TEDMED 2013
 bookattribution: Tribe of Mentors by Tim Ferriss
+redirect_from: 
+- /doctor/2018/07/31/peter-attia.html
+- /2018/07/31/peter-attia.html
 ---
 
 Dr. Attia is a former ultra endurance athlete and a relentless self-experimenter. With a Bachelor of Science in mechanical engineering from Queen’s University and an M.D. from Stanford, he is Tim Ferriss’s (a popular author and podcaster) go-to doctor on all things performance or longevity-related. Attia worked as a surgeon, putting in years of study before switching into consultancy at McKinsey & Co. modelling credit risk. 
