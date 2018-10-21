@@ -19,9 +19,9 @@ Not only does she write all thing happiness, she is also an avid podcaster on th
  
 The goal of Rubin’s content in her books, podcast, blog, and speeches is that she want to help audiences develop behaviours to live happier and healthier lives. Now Rubin is the happiness lady. 
 
-“I love giving books as gifts -- during the holiday season, and throughout the year. I constantly recommend a million books, but there is a handful of books that I find myself giving over and over, because they've had such an influence on me. Here are the seven that I most often give as gifts:”
+“I love giving books as gifts -- during the holiday season, and throughout the year. I constantly recommend a million books, but there is a handful of books that I find myself giving over and over, because they've had such an influence on me.”
 
-
+Here are Gretchen Rubin's favorite books.
 
 
 
