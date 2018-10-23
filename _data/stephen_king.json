@@ -1,0 +1,72 @@
+books: [
+    {
+    "info": "Lord of the flies - William Golding",
+    "book_cover":"/assets/images/bookpics/lord of the flies.jpg",
+    "description": "Golding’s iconic 1954 novel, remains one of the greatest books ever written for young adults and an unforgettable classic for readers of any age. At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys.",
+    "full_description": " At first, with no adult supervision, their freedom is something to celebrate. This far from civilization they can do anything they want. Anything. But as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far removed from reality as the hope of being rescued.",
+    "amazon_link": "https://amzn.to/2PHoXyV"
+    },
+    {
+        "info": "Ship of Fools - Katherine Anne Porter",
+        "book_cover":"/assets/images/bookpics/ship of fools.jpg",
+        "description": "This “dazzling” National Book Award finalist set aboard an ocean liner in 1931 reflects the passions and prejudices that sparked World War II (San Francisco Chronicle). August 1931. An ocean liner bound for Germany sets out from the Mexican port city of Veracruz. The ship’s first-class passengers include an idealistic young American painter and her lover; a Spanish dance troupe with a sideline in larceny; an elderly German couple and their fat, seasick bulldog; and a boisterous band of Cuban medical students.",
+        "full_description": "As the Vera journeys across the Atlantic, the incidents and intrigues of several dozen passengers and crew members come into razor-sharp focus. The result is a richly drawn portrait of the human condition in all its complexity and a mesmerizing snapshot of a world drifting toward disaster. Written over a span of twenty years and based on the diary Katherine Anne Porter kept during a similar ocean voyage, Ship of Fools was the bestselling novel of 1962 and the inspiration for an Academy Award–winning film starring Vivien Leigh. It is a masterpiece of American literature as captivating today as when it was first published more than a half century ago.",
+        "amazon_link": "https://amzn.to/2PSttKQ"   
+    },
+    {
+        "info": "Watership Down - Richard Adams",
+        "book_cover":"/assets/images/bookpics/watership down.jpg",
+        "description": "Watership Down is the compelling tale of a group of wild rabbits struggling to hold onto their place in the world—soon to be a BBC and Netflix animated miniseries starring James McAvoy, Nicholas Hoult, and Oscar and Grammy award-winning Sir Ben Kingsley.",
+        "full_description": "A phenomenal worldwide bestseller for more than forty years, Richard Adams's Watership Down is a timeless classic and one of the most beloved novels of all time. Set in England's Downs, a once idyllic rural landscape, this stirring tale of adventure, courage and survival follows a band of very special creatures on their flight from the intrusion of man and the certain destruction of their home. Led by a stouthearted pair of brothers, they journey forth from their native Sandleford Warren through the harrowing trials posed by predators and adversaries, to a mysterious promised land and a more perfect society.",
+        "amazon_link": "https://amzn.to/2PLfLJK"   
+    },
+    {
+        "info": "The Orphan Master’s Son - Adam Johnson",
+        "book_cover":"/assets/images/bookpics/orphan masters son.jpg",
+        "description": "The Pulitzer Prize–winning, New York Times bestselling novel of North Korea: an epic journey into the heart of the world’s most mysterious dictatorship. Pak Jun Do is the haunted son of a lost mother—a singer “stolen” to Pyongyang—and an influential father who runs a work camp for orphans. Superiors in the North Korean state soon recognize the boy’s loyalty and keen instincts.",
+        "full_description": "Considering himself “a humble citizen of the greatest nation in the world,” Jun Do rises in the ranks. He becomes a professional kidnapper who must navigate the shifting rules, arbitrary violence, and baffling demands of his overlords in order to stay alive. Driven to the absolute limit of what any human being could endure, he boldly takes on the treacherous role of rival to Kim Jong Il in an attempt to save the woman he loves, Sun Moon, a legendary actress “so pure, she didn’t know what starving people looked like.” Part breathless thriller, part story of innocence lost, part story of romantic love, The Orphan Master’s Son is also a riveting portrait of a world heretofore hidden from view: a North Korea rife with hunger, corruption, and casual cruelty but also camaraderie, stolen moments of beauty, and love.",
+        "amazon_link": "https://amzn.to/2EAyR4r"   
+    },
+    {
+        "info": "The Hair of Harold Roux - Thomas Williams",
+        "book_cover":"/assets/images/bookpics/hair of harold roux.jpg",
+        "description": "In 1975 the National Book Award Fiction Prize was awarded to two writers: Robert Stone and Thomas Williams. Yet only Stone's Dog Soldiers is still remembered today. That oversight is startling when considering the literary impact of The Hair of Harold Roux. A dazzlingly crafted novel-within-a-novel hailed as a masterpiece, it deserves a new generation of readers.",
+        "full_description": " In The Hair of Harold Roux, we are introduced to Aaron Benham: college professor, writer, husband, and father. Aaron-when he can focus-is at work on a novel, The Hair of Harold Roux, a thinly disguised autobiographical account of his college days. In Aaron's novel, his alter ego, Allard Benson, courts a young woman, despite the efforts of his rival, the earnest and balding Harold Roux-a GI recently returned from World War II with an unfortunate hairpiece. What unfolds through Aaron's mind, his past and present, and his nested narratives is a fascinating exploration of sex and friendship, responsibility and regret, youth and middle age, and the essential fictions that see us through.",
+        "amazon_link": "https://amzn.to/2yqvSWy"   
+    },
+    {
+        "info": "Invisible Man - Ralph Ellison",
+        "book_cover":"/assets/images/bookpics/invisible man.jpg",
+        "description": "A first novel by an unknown writer, it remained on the bestseller list for sixteen weeks, won the National Book Award for fiction, and established Ralph Ellison as one of the key writers of the century. The nameless narrator of the novel describes growing up in a black community in the South, attending a Negro college from which he is expelled, moving to New York and becoming the chief spokesman of the Harlem branch of 'the Brotherhood'... ",
+        "full_description": "...and retreating amid violence and confusion to the basement lair of the Invisible Man he imagines himself to be. The book is a passionate and witty tour de force of style, strongly influenced by T.S. Eliot's The Waste Land, Joyce, and Dostoevsky.",
+        "amazon_link": "https://amzn.to/2S6A8Tf"   
+    },
+    {
+        "info": "Blood Meridian, or the Evening Redness in the West - Cormac McCarthy",
+        "book_cover":"/assets/images/bookpics/blood meridian.jpg",
+        "description": "An epic novel of the violence and depravity that attended America's westward expansion, Blood Meridian brilliantly subverts the conventions of the Western novel and the mythology of the 'wild west.' Based on historical events that took place on the Texas-Mexico border in the 1850s, it traces the fortunes of the Kid, a fourteen-year-old Tennessean who stumbles into the nightmarish world where Indians are being murdered and the market for their scalps is thriving.",
+        "amazon_link": "https://amzn.to/2PLG8j1"   
+    },
+    {
+        "info": "1984 - George Orwell",
+        "book_cover":"/assets/images/bookpics/1984.jpg",
+        "description": "Written in 1948, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever… Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes.",
+        "full_description": "But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching... A startling and haunting vision of the world, 1984 is so powerful that it is completely convincing from start to finish. No one can deny the influence of this novel, its hold on the imaginations of multiple generations of readers, or the resiliency of its admonitions—a legacy that seems only to grow with the passage of time.",
+        "amazon_link": "https://amzn.to/2q57XaJ"   
+    },
+    {
+        "info": "American Pastoral - Philip Roth",
+        "book_cover":"/assets/images/bookpics/american pastoral.jpg",
+        "description": "Here is Philip Roth's masterpiece—an elegy for the American century's promises of prosperity, civic order, and domestic bliss. Roth's protagonist is Swede Levov, a legendary athlete at his Newark high school, who grows up in the booming postwar years to marry a former Miss New Jersey, inherit his father's glove factory, and move into a stone house in the idyllic hamlet of Old Rimrock. And then one day in 1968, Swede's beautiful American luck deserts him.",
+        "full_description": "For Swede's adored daughter, Merry, has grown from a loving, quick-witted girl into a sullen, fanatical teenager—a teenager capable of an outlandishly savage act of political terrorism. And overnight Swede is wrenched out of the longed-for American pastoral and into the indigenous American berserk. Compulsively readable, propelled by sorrow, rage, and a deep compassion for its characters, American Pastoral gives us Philip Roth at the height of his powers.",
+        "amazon_link": "https://amzn.to/2yuGm7g"   
+    },
+    {
+        "info": "The Lord of the Rings - J.R.R Tolkien",
+        "book_cover":"/assets/images/bookpics/the fellowship of the rings.jpg",
+        "description": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them. In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him.",
+        "full_description": "After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit. In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+        "amazon_link": "https://amzn.to/2CWG6BM"   
+    },
+
+]

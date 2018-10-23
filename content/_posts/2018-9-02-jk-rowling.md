@@ -12,7 +12,6 @@ bookattribution: https://www.nytimes.com/2012/10/14/books/review/j-k-rowling-by-
 redirect_from: 
 - /author/2018/09/02/jk-rowling
 - /author/2018/09/02/jk-rowling.html
-
 ---
 
 The woman, the legend... the creator (or mother, if you will) of Harry Potter. 

@@ -1,0 +1,23 @@
+books: [
+
+    {
+        "info": "The Elements of Style (4th Edition) - William Strunk, E. B. White, Roger Angell (Foreword)",
+        "book_cover":"/assets/images/bookpics/elements of style.jpg",
+        "description": "You know the authors' names. You recognize the title. You've probably used this book yourself. This is The Elements of Style, the classic style manual, now in a fourth edition. A new Foreword by Roger Angell reminds readers that the advice of Strunk & White is as valuable today as when it was first offered.This book's unique tone, wit and charm have conveyed the principles of English style to millions of readers.",
+        "amazon_link": "https://amzn.to/2ywrfdB"   
+    },
+    {
+        "info": "Slouching Towards Bethlehem: Essays (FSG Classics) - Joan Didion",
+        "book_cover":"/assets/images/bookpics/slouching towards bethlehem.jpg",
+        "description": "The first nonfiction work by one of the most distinctive prose stylists of our era, Joan Didion's Slouching Towards Bethlehem remains, decades after its first publication, the essential portrait of America―particularly California―in the sixties. It focuses on such subjects as John Wayne and Howard Hughes, growing up a girl in California, ruminating on the nature of good and evil in a Death Valley motel room, and, especially, the essence of San Francisco's Haight-Ashbury, the heart of the counterculture.",
+        "amazon_link": "https://amzn.to/2yu8iIB"   
+    },
+    {
+        "info": "The White Album: Essays (FSG Classics) - Joan Didion",
+        "book_cover":"/assets/images/bookpics/the white album.jpg",
+        "description": "First published in 1979, The White Album records indelibly the upheavals and aftermaths of the 1960s. Examining key events, figures, and trends of the era―including Charles Manson, the Black Panthers, and the shopping mall―through the lens of her own spiritual confusion, Joan Didion helped to define mass culture as we now understand it.",
+        "full_description": "Written with a commanding sureness of tone and linguistic precision, The White Album is a central text of American reportage and a classic of American autobiography.",
+        "amazon_link": "https://amzn.to/2q5wkVy"   
+    },
+
+]

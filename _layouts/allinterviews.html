@@ -24,25 +24,14 @@
 		  </form>
 		</section-->
 
-		<section id="filters">
-				<div class="button-group filter-button-group">
-					{% assign sorted = site.categories | sort %}
-						{% for category in sorted %}
-							<a class="button" data-filter=".{{category | first }}">{{ category | first | remove_first:"_" }}</a>
-						{% endfor %}
-							<a class="button active" id="all" data-filter="*">All</a>
-				</div>
-
-		</section>
-
 		<div class="innerpeople">
-				{% for post in site.posts %}
-				<div class="box {{ post.category }}">
-						<h2 class="underline">{{post.title}}</h2>
-						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
+				{% for interview in site.interviews %}
+				<div class="box">
+						<h2 class="underline">{{interview.title}}</h2>
+						{% if interview.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ interview.allpeoplepics }}" alt="{{interview.title}}" /></span>{% endif %}
 						<div class="box-description">
-							<p>{{ post.description }}</p>
-							<a href="{{ post.url | relative_url  }}" class="button small align-right">Read more</a>
+							<p>{{ interview.description }}</p>
+							<a href="{{ interview.redirect_to }}" class="button small align-right">Read more</a>
 						</div>
 				</div>
 

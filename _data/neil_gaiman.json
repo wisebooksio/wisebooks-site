@@ -1,0 +1,72 @@
+books: [
+    {
+    "info": "The Book of the New Sun - Gene Wolfe",
+    "book_cover":"/assets/images/bookpics/book of the new sun.jpg",
+    "description": "The Book of the New Sun is unanimously acclaimed as Gene Wolfe’s most remarkable work, hailed as “a masterpiece of science fantasy comparable in importance to the major works of Tolkien and Lewis” by Publishers Weekly, and “one of the most ambitious works of speculative fiction in the twentieth century” by The Magazine of Fantasy and Science Fiction.",
+    "full_description": "Young Severian, an apprentice in the Guild of Torturers on the world called Urth, has been exiled for committing the ultimate sin of his profession—showing mercy toward his victim.",
+    "amazon_link": "https://amzn.to/2CWGlga"
+    },
+    {
+        "info": "Lud in the Mist - Hope Mirrlees",
+        "book_cover":"/assets/images/bookpics/lud in the mist.jpg",
+        "description": "&quot;The single most beautiful, solid, unearthly, and unjustifiably forgotten novel of the twentieth century ... a little golden miracle of a book.&quot; - Neil Gaiman ",
+        "full_description": "Hope Mirrlees penned Lud-in-the-Mist--a classic fantasy, and her only fantasy novel--in 1926. When the town of Lud severs its ties to a Faerie land, an illegal trade in fairy fruit develops. But eating the fruit has horrible and wondrous effects. Helen Hope Mirrlees was born in England in 1887. ",
+        "amazon_link": "https://amzn.to/2PLA7To"   
+    },
+    {
+        "info": "Archer’s Goon - Diana Wynne Jones",
+        "book_cover":"/assets/images/bookpics/archers goon.jpg",
+        "description": "Fact: A Goon is a being who melts into the foreground and sticks there…When the Goon turns up demanding 'Archer’s two thousand', life turns upside-down. As Howard desperately tries to get to the bottom of this peculiar demand, he discovers that the town is run by seven crazy wizards (not all of whom live in the present!) and someone is trying to take over the world!",
+        "amazon_link": "https://amzn.to/2RatSZH"   
+    },
+    {
+        "info": "Jonathan Strange and Mr. Norrell - Susanna Clarke",
+        "book_cover":"/assets/images/bookpics/jonathan strange.jpg",
+        "description": "At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England-until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.",
+        "full_description": "Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.",
+        "amazon_link": "https://amzn.to/2CWOph0"   
+    },
+    {
+        "info": "London Labour and the London Poor - Henry Mayhew",
+        "book_cover":"/assets/images/bookpics/london labour.jpg",
+        "description": "An extraordinary work of investigative journalism, literature, and sociology, London Labour and the London Poor originated in a series of articles for a local newspaper and grew into a massive record of the daily life of Victorian London's underclass. By turns alarming, touching, and funny, the pages of London Labour and the London Poor exposed a previously hidden world.",
+        "full_description": "Henry Mayhew conducted hundreds of interviews that provided a first-hand account of costermongers and street-sellers, of sewer-scavengers and chimney-sweeps, creating an intimate and detailed portrait that offered unprecedented insight into their day-to-day struggle for survival. Combined with Mayhew's comprehensive data gathering, these stories have an immediacy that owes much to his sympathetic understanding and effective literary style. This new selection offers a cross-section of the original volumes and their evocative illustrations, including among other features an introduction by Robert Douglas-Fairhurst that illuminates Mayhew's life and career, the genesis and development of the book, and its influence on contemporaries such as Dickens and Kingsley.",
+        "amazon_link": "https://amzn.to/2CX8ELB"   
+    },
+    {
+        "info": "Horns - Joe Hill",
+        "book_cover":"/assets/images/bookpics/horns.jpg",
+        "description": "Joe Hill's critically acclaimed, New York Times bestselling, Bram Stoker Award-winning debut chiller, Heart-Shaped Box, heralded the arrival of new royalty onto the dark fantasy scene.",
+        "full_description": "With Horns, he polishes his well-deserved crown. A twisted, terrifying new novel of psychological and supernatural suspense, Horns is a devilishly original triumph for the Ray Bradbury Fellowship recipient whose story collection, 20th Century Ghosts, was also honored with a Bram Stoker Award—and whose emotionally powerful and macabre work has been praised by the New York Times as, &quot;wild, mesmerizing, perversely witty…a Valentine from hell.&quot;",
+        "amazon_link": "https://amzn.to/2q3Dg5R"   
+    },
+    {
+        "info": "Alec ‘the Years Have Pants’ - Eddie Campbell",
+        "book_cover":"/assets/images/bookpics/alec.jpg",
+        "description": "Brilliantly observed and profoundly expressed, the ALEC stories present a version of Campbell's own life, filtered through the alter ego of 'Alec MacGarry.' Over many years, we witness Alec's (and Eddie's) progression 'from beer to wine' — wild nights at the pub, existential despair, the hunt for love, the quest for art, becoming a 'responsible breadwinner,' feeling lost at his own movie premiere, and much more! ",
+        "full_description": "Eddie's outlandish fantasies and metafictional tricks convert life into art, while staying fully grounded in his own absurdity.",
+        "amazon_link": "https://amzn.to/2CWGBMa"   
+    },
+    {
+        "info": "Bleak House - Charles Dickens",
+        "book_cover":"/assets/images/bookpics/bleak house.jpg",
+        "description": "With an Introduction and Notes by Doreen Roberts, University of Kent at Canterbury Bleak House is one of Dickens' finest achievements, establishing his reputation as a serious and mature novelist, as well as a brilliant comic writer. It is at once a complex mystery story that fully engages the reader in the work of detection, and an unforgettable indictment of an indifferent society. ",
+        "full_description": "Its representations of a great city's underworld, and of the law's corruption and delay, draw upon the author's personal knowledge and experience. But it is his symbolic art that projects these things in a vision that embraces black comedy, cosmic farce, and tragic ruin. In a unique creative experiment, Dickens divides the narrative between his heroine, Esther Summerson, who is psychologically interesting in her own right, and an unnamed narrator whose perspective both complements and challenges hers.",
+        "amazon_link": "https://amzn.to/2CWYKtw"   
+    },
+    {
+        "info": "Lord of Light - Roger Zelazny",
+        "book_cover":"/assets/images/bookpics/lord of light.jpg",
+        "description": "“Funny, wise, and infused with a sense of wonder and knowledge….Nobody else made myths real and valuable in the way Roger Zelazny could.” —Neil Gaiman",
+        "full_description": "Lord of Light is a classic tale of the far future from the incomparable Roger Zelazny. Winner of the Hugo Award—one of six Zelazny received over the course of his legendary career, as well as three Nebula Awards and numerous other honors—Lord of Light stands with Joe Haldeman’s The Forever War and Frank Herbert’s Dune as one of the seminal novels that changed the way readers looked at science fiction. Experience it and you will understand why New York Times bestselling sf author Greg Bear says, “Reading Zelazny is like dropping into a Mozart string quartet as played by Thelonius Monk.”",
+        "amazon_link": "https://amzn.to/2CWG6BM"   
+    },
+    {
+        "info": "The Man Who Was Thursday - GK Chesterton",
+        "book_cover":"/assets/images/bookpics/man who was thursday.jpg",
+        "description": "The Man Who Was Thursday: A Nightmare is a metaphysical thriller that was first published by G.K Chesterton in 1908. The plot begins when Gabriel Syme first gets recruited to a secret anarchist division of Scotland Yard. ",
+        "full_description": "Heavy with both Christian and religious allegories, the book then follows Syme during his time spent in the division. Rife with optimism, The Man Who Was Thursday is a larger story strung together by solid writing and themes of faith. In this way, the book serves as a great, thrilling tale of transformation, which explores the notion of poetry, the written word and finding light in the dark.",
+        "amazon_link": "https://amzn.to/2J88cKS"   
+    },
+
+]
