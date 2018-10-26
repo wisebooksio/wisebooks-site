@@ -8,20 +8,16 @@
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
-
+	{% if page.description == False %}<meta name="description" content="{{site.description}}">{% endif %}
+	<meta name="keywords" content="books, book, book recommendations, {{page.title}}">
+	<title>{{page.title}}'s Favorite Books</title>
+	{% seo title=false %}
+	
 	{% if site.tags != "" %}
   		{% include collecttags.html %}
 	{% endif %}
-	
+
 	{% include analytics.html %}
-
-
-	<meta name="description" content="{{site.description}}">
-
-	{% seo %}
-
-	<meta name="keywords" content="books, book, book recommendations, {{page.title}}">
-
 	{% feed_meta %}
 
 </head>
