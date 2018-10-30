@@ -60,8 +60,19 @@
 <script src="{{ "assets/js/jquery.details.js" | absolute_url }}"></script>
 <script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
 <script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-<script src="  {{ "assets/js/search.js" | absolute_url }}"></script>
+<script src="{{ "assets/js/jekyll-search.js" | absolute_url }}"></script>
+<script>
+	SimpleJekyllSearch({
+	  searchInput: document.getElementById('search-input'),
+	  resultsContainer: document.getElementById('results-container'),
+	  json: '{{site.baseurl}}/search.json',
+	  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+	  noResultsText: 'No results found',
+	  fuzzy: false,
+	  exclude: ['Welcome']
+	});
+  </script>
+<script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="{{ "assets/js/isotope.js" | absolute_url }}"></script>

@@ -1,0 +1,95 @@
+books: [
+    {
+    "info": "Swipe to Unlock: A Primer on Technology and Business Strategy by Mehta, Detroja, Agashe",
+    "book_cover":"/assets/images/bookpics/swipe to unlock.jpg",
+    "description": "Authored by Product Managers at Google, Microsoft, and Facebook, Swipe to Unlock is a guide which enables anyone to understand the core concepts of tech and the business strategy behind it. It is a must-read for anyone interested in product management, marketing, business strategy, or sales roles in the tech industry.",
+    "full_description": "You probably search on Google every day. But have you ever wondered how Google makes billions of dollars while providing search, email, and maps for free? How do they figure out which ads perfectly capture your interests? And how do they search the entire internet so quickly, anyway? By answering real-world questions like this, Swipe to Unlock gives you a peek under the hood of the technology you use every day, decodes technologists' weirdest buzzwords, and shows you how technology is changing the society we live in for better or for worse. Unlock the answers you need to become a better-educated consumer, digital citizen, or technology professional.",
+    "amazon_link": "https://amzn.to/2Su2Xt1"
+    },
+    {
+        "info": "High Output Management by Andrew S. Grove",
+        "book_cover":"/assets/images/bookpics/high output management.jpg",
+        "description": "Important to understand what good management looks like and understand your managers so you can help them achieve their goals. (Alex's Notes)",
+        "full_description": "The essential skill of creating and maintaining new businesses—the art of the entrepreneur—can be summed up in a single word: managing. Born of Grove’s experiences at one of America’s leading technology companies, High Output Management is equally appropriate for sales managers, accountants, consultants, and teachers, as well as CEOs and startup founders. Grove covers techniques for creating highly productive teams, demonstrating methods of motivation that lead to peak performance—throughout, High Output Management is a practical handbook for navigating real-life business scenarios and a powerful management manifesto with the ability to revolutionize the way we work.",
+        "amazon_link": "https://amzn.to/2qksdoV"   
+    },
+    {
+        "info": "Phoenix Project by Gene Kim and Kevin Behr" ,
+        "book_cover":"/assets/images/bookpics/the phoenix project.jpg",
+        "description": "Great narrative that teaches you about IT Operations and the people behind them. (Alex's Notes) **He also mentions that this is a great book to listen in audioform.",
+        "full_description": "Five years after this sleeper hit took on the world of IT and flipped it on it's head, the 5th Anniversary Edition of The Phoenix Project continues to guide IT in the DevOps revolution. In this newly updated and expanded edition of the bestselling The Phoenix Project, co-author Gene Kim includes a new afterword and a deeper delve into the Three Ways as described in The DevOps Handbook. Bill, an IT manager at Parts Unlimited, has been tasked with taking on a project critical to the future of the business, code named Phoenix Project. But the project is massively over budget and behind schedule. The CEO demands Bill must fix the mess in ninety days or else Bill's entire department will be outsourced.",
+        "amazon_link": "https://amzn.to/2AzLcSr"   
+    },
+    {
+        "info": "Zero to One by Peter Thiel",
+        "book_cover":"/assets/images/bookpics/zero to one.jpg",
+        "description": "The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.",
+        "full_description": "Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.",
+        "amazon_link": "https://amzn.to/2JoOo5Y"   
+    },
+    {
+        "info": "Hard Thing about Hard Things by Ben Horowitz",
+        "book_cover":"/assets/images/bookpics/the hard thing about hard things.jpg",
+        "description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog.",
+        "full_description": "While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in. Filled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
+        "amazon_link": "https://amzn.to/2DaRfiC"   
+    },
+    {
+        "info": "Decode and Conquer : Answers to Product Management Interview by Lewis C. Lin",
+        "book_cover":"/assets/images/bookpics/decode and conquer.png",
+        "description": "Seeking a product management position? Get Decode and Conquer , the world's first book on preparing you for the product management (PM) interview. Author and professional interview coach, Lewis C. Lin provides you with an industry insider's perspective on how to conquer the most difficult PM interview questions.",
+        "amazon_link": "https://amzn.to/2DepOEw"   
+    },
+    {
+        "info": "Cracking the PM Interview by Gayle Laakmann McDowell and Jackie Bavaro",
+        "book_cover":"/assets/images/bookpics/cracking the pm interview.jpg",
+        "description": "How many pizzas are delivered in Manhattan? How do you design an alarm clock for the blind? What is your favorite piece of software and why? How would you launch a video rental service in India? This book will teach you how to answer these questions and more. ",
+        "full_description": "Cracking the PM Interview is a comprehensive book about landing a product management role in a startup or bigger tech company. Learn how the ambiguously-named 'PM' (product manager / program manager) role varies across companies, what experience you need, how to make your existing experience translate, what a great PM resume and cover letter look like, and finally, how to master the PM interview questions (estimation questions, behavioral questions, case questions, product questions, technical questions, and the super important 'pitch').",
+        "amazon_link": "https://amzn.to/2StdsNp"   
+    },
+    {
+        "info": "Stratechery by Ben Thompson",
+        "book_cover":"/assets/images/bookpics/stratechery.jpg",
+        "description": "Stratechery provides analysis of the strategy and business side of technology and media, and the impact of technology on society. Weekly Articles are free, while three Daily Updates a week are for subscribers only.",
+        "full_description": "Recommended by The New York Times as “one of the most interesting sources of analysis on any subject”, Stratechery has subscribers from over 85 different countries, including executives in both technology and industries impacted by technology, venture capitalists and investors, and thousands of other people interested in understanding how and why the Internet is changing everything.",
+        "amazon_link": "https://stratechery.com/"   
+    },
+    {
+        "info": "qz.com",
+        "book_cover":"/assets/images/bookpics/quartz.jpg",
+        "description": "Quartz was founded in 2012 to serve a new kind of business leader with bracingly creative and intelligent journalism that’s built for users first. We help our audience see around corners, navigate disruption in their industries, build fulfilling careers, broaden their views of the world, and enjoy lives rich with culture. Our coverage of the global economy is organized around core obsessions—topics and questions of seismic importance to business professionals.",
+        "amazon_link": "https://qz.com/"   
+    },
+    {
+        "info": "hackernews",
+        "book_cover":"/assets/images/bookpics/hackernews.png",
+        "description": "Link aggregator Reddit-style for tech things",
+        "amazon_link": "https://news.ycombinator.com/"
+        },
+        {
+            "info": "acquired",
+            "book_cover":"/assets/images/bookpics/acquired podcast.jpg",
+            "description": "Startup acquisitions and IPOs have always been reported with great fanfare, but few sources examined the deeper reasons behind their success — until Acquired. We tell the stories behind the deals: how was the company started and what twists did it navigate along the way? What forces propelled its growth and ultimate outcome? Can the magic endure within a larger organization? And most importantly, what lessons can we learn from its journey and apply to our own organizations and careers?",
+            "amazon_link": "http://www.acquired.fm/"
+            },
+            {
+                "info": "Techmeme Ridehome",
+                "book_cover":"/assets/images/bookpics/techmeme ridehome.jpg",
+                "description": "The day's tech news, every day at 5pm. From Techmeme.com, Silicon Valley's most-read news source. 15 minutes and you're up to date.",
+                "amazon_link": "https://itunes.apple.com/us/podcast/techmeme-ride-home/id1355212895?mt=2"
+                },
+                {
+                    "info": "YouTube: Flux by Ran Segall",
+                    "book_cover":"/assets/images/bookpics/flux.jpg",
+                    "description": "Flux is the personal vlog of Ran Segall, a designer and entrepreneur. On the show I'm sharing my journey, struggles and lessons I learn as I build my career as a designer and a business owner.",
+                    "amazon_link": "https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q"
+                    },
+                    {
+                        "info": "YouTube: Futur",
+                        "book_cover":"/assets/images/bookpics/futur.jpg",
+                        "description": "Welcome to the Futur! The Futur of what? The Futur of education, design, business, learning... The Futur You! This is the future of online education for creative entrepreneurs. ",
+                        "amazon_link": "https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog"
+                        },
+    
+
+]

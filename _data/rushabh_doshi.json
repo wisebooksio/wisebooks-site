@@ -1,0 +1,30 @@
+books: [
+    {
+    "info": "History: The Making Of The Atomic Bomb by Richard Rhodes",
+    "book_cover":"/assets/images/bookpics/making of the atomic bomb.jpg",
+    "description": "One of my favorites that goes through the entire history of nuclear physics, intermixed with real humanity of all the people that fought in the wars, different thoughts on world orders, as well as how hard they struggled to build the first nuclear bomb. The writing makes you feel like you were there and one cannot but be awed and amazed at the geniuses who got us the ability to split the atom. (Rushabh's Notes)",
+    "full_description": "Twenty-five years after its initial publication, The Making of the Atomic Bomb remains the definitive history of nuclear weapons and the Manhattan Project. From the turn-of-the-century discovery of nuclear energy to the dropping of the first bombs on Japan, Richard Rhodes’s Pulitzer Prize-winning book details the science, the people, and the socio-political realities that led to the development of the atomic bomb. This sweeping account begins in the 19th century, with the discovery of nuclear fission, and continues to World War Two and the Americans’ race to beat Hitler’s Nazis. That competition launched the Manhattan Project and the nearly overnight construction of a vast military-industrial complex that culminated in the fateful dropping of the first bombs on Hiroshima and Nagasaki. Reading like a character-driven suspense novel, the book introduces the players in this saga of physics, politics, and human psychology—from FDR and Einstein to the visionary scientists who pioneered quantum theory and the application of thermonuclear fission, including Planck, Szilard, Bohr, Oppenheimer, Fermi, Teller, Meitner, von Neumann, and Lawrence.",
+    "amazon_link": "https://amzn.to/2Of6LuZ"
+    },
+    {
+        "info": "Good Strategy/Bad Strategy: The difference and why it matters by Richard Rumelt",
+        "book_cover":"/assets/images/bookpics/good strategy bad strategy.jpg",
+        "description": "One of the most articulate books about good and bad strategy, what strategy is and isn’t. We often cast things as 'strategy' that simply aren't; this book brings out those differences and goes into numerous examples of how to frame strategic choice. (Rushabh's Notes)",
+        "amazon_link": "https://amzn.to/2SuBbws"   
+    },
+    {
+        "info": "High Output Management by Andrew S. Grove",
+        "book_cover":"/assets/images/bookpics/high output management.jpg",
+        "description": "Andy Grove's bible on how to be an effective manager. This is referenced in &quot;The Hard Thing About Hard Things&quot; which is another one of my favorites, where Ben Horowitz combines some of Andy's wisdom with his war stories from his startup. (Rushabh's Notes)",
+        "full_description": "The essential skill of creating and maintaining new businesses—the art of the entrepreneur—can be summed up in a single word: managing. Born of Grove’s experiences at one of America’s leading technology companies, High Output Management is equally appropriate for sales managers, accountants, consultants, and teachers, as well as CEOs and startup founders. Grove covers techniques for creating highly productive teams, demonstrating methods of motivation that lead to peak performance—throughout, High Output Management is a practical handbook for navigating real-life business scenarios and a powerful management manifesto with the ability to revolutionize the way we work.",
+        "amazon_link": "https://amzn.to/2qksdoV"   
+    },
+    {
+        "info": "A Deepness In The Sky by Vernor Vinge",
+        "book_cover":"/assets/images/bookpics/deepness in the sky.jpg",
+        "description": "One of the best books exploring culture clashes when an advanced civilization meets one that isn't, as well as conflicts in between. (Rushabh's Notes)",
+        "full_description": "After thousands of years searching, humans stand on the verge of first contact with an alien race. Two human groups: the Qeng Ho, a culture of free traders, and the Emergents, a ruthless society based on the technological enslavement of minds. The group that opens trade with the aliens will reap unimaginable riches. But first, both groups must wait at the aliens' very doorstep for their strange star to relight and for their planet to reawaken, as it does every two hundred and fifty years… Then, following terrible treachery, the Qeng Ho must fight for their freedom and for the lives of the unsuspecting innocents on the planet below, while the aliens themselves play a role unsuspected by the Qeng Ho and Emergents alike.",
+        "amazon_link": "https://amzn.to/2CWOph0"   
+    },
+   
+]

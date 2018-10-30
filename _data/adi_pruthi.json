@@ -1,0 +1,24 @@
+books: [
+    {
+    "info": "Storytelling with Data by Cole Nussbaumer Knaflic",
+    "book_cover":"/assets/images/bookpics/storytelling with data.jpg",
+    "description": "Storytelling with Data teaches you the fundamentals of data visualization and how to communicate effectively with data. You'll discover the power of storytelling and the way to make data a pivotal point in your story. The lessons in this illuminative text are grounded in theory, but made accessible through numerous real-world examples—ready for immediate application to your next graph or presentation.",
+    "full_description": "Storytelling is not an inherent skill, especially when it comes to data visualization, and the tools at our disposal don't make it any easier. This book demonstrates how to go beyond conventional tools to reach the root of your data, and how to use your data to create an engaging, informative, compelling story. Specifically, you'll learn how to: understand the importance of context and audience, determine the appropriate type of graph for your situation, recognize and eliminate the clutter clouding your information, direct your audience's attention to the most important parts of your data, think like a designer and utilize concepts of design in data visualization, and leverage the power of storytelling to help your message resonate with your audience. Together, the lessons in this book will help you turn your data into high impact visual stories that stick with your audience. Rid your world of ineffective graphs, one exploding 3D pie chart at a time. There is a story in your data—Storytelling with Data will give you the skills and power to tell it!",
+    "amazon_link": "https://amzn.to/2OdqxXV"
+    },
+    {
+        "info": "Design of Everyday Things by Don Norman",
+        "book_cover":"/assets/images/bookpics/design of everyday things.jpg",
+        "description": "The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time.",
+        "full_description": "Even the smartest among us can feel inept as we fail to figure out which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this ingenious-even liberating-book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization.",
+        "amazon_link": "https://amzn.to/2F2WMK7"   
+    },
+    {
+        "info": "Universal Design Methods by Bruce Hanington",
+        "book_cover":"/assets/images/bookpics/universal methods of design.jpg",
+        "description": "This comprehensive reference provides a thorough and critical presentation of 100 research methods, synthesis/analysis techniques, and research deliverables for human centered design, delivered in a concise and accessible format perfect for designers, educators, and students. ",
+        "full_description": "Whether research is already an integral part of a practice or curriculum, or whether it has been unfortunately avoided due to perceived limitations of time, knowledge, or resources, Universal Methods of Design serves as an invaluable compendium of methods that can be easily referenced and utilized by cross-disciplinary teams in nearly any design project.",
+        "amazon_link": "https://amzn.to/2DaM2HG"   
+    },
+
+]

@@ -16,14 +16,11 @@
 	<div class="inner">
 		<header class="major-yellow"><h1>All People</h1></header>
 
-		<!--section id="search">
-		<form action="/search.html" method="get">
-			<label for="search-box">Search</label>
-			<input type="text" id="search-box" name="query">
-			<input type="submit" value="search">
-		  </form>
-		</section-->
-
+		<div id="search-container">
+			<input type="text" id="search-input" placeholder="search...">
+			<ul id="results-container"></ul>
+		</div>
+			
 		<section id="filters">
 				<div class="button-group filter-button-group">
 					{% assign sorted = site.categories | sort %}

@@ -1,0 +1,44 @@
+books: [
+    {
+    "info": "Org Design for Design Orgs by Peter Merholz and Kristin Skinner",
+    "book_cover":"/assets/images/bookpics/org design for design orgs.jpg",
+    "description": "Meta on meta, it’s for designers who are now hiring a team. This book was really helpful in figuring out how to hire and identify skill levels, how to vet candidates, which type of model we wanted to follow for the organization. It was a really excellent read...(Natalie's Notes)",
+    "full_description": "...It lead me to ask lots of questions in the hiring process. What is their expert skill? What is their secondary skill? What skill do they want to learn? These questions definitely help in getting a better read of how somebody will thrive in a startup environment. (Natalie's Notes)",
+    "amazon_link": "https://amzn.to/2Q9bSPj"
+    },
+    {
+        "info": "Lean Analytics by Alistair Croll and Benjamin Yoskovitz by Alistair Croll and Benjamin Yoskovitz",
+        "book_cover":"/assets/images/bookpics/lean analytics.jpg",
+        "description": "Lean Analytics is a good read for new founders learning how to properly time and execute their ideas. You reach a point where it’s no longer just about this massive original idea or innovation; but more so analyzing results, and quickly iterating. (Natalie's Notes)",
+        "full_description": "Marc Andreesen once said that &quot;markets that don't exist don't care how smart you are.&quot; Whether you're a startup founder trying to disrupt an industry, or an intrapreneur trying to provoke change from within, your biggest risk is building something nobody wants. Lean Analytics can help. By measuring and analyzing as you grow, you can validate whether a problem is real, find the right customers, and decide what to build, how to monetize it, and how to spread the word. Focusing on the One Metric That Matters to your business right now gives you the focus you need to move ahead--and the discipline to know when to change course.",
+        "amazon_link": "https://amzn.to/2CQHnK7"   
+    },
+    {
+        "info": "The Great CEO Within",
+        "book_cover":"/assets/images/bookpics/great_ceo_within.jpg",
+        "description": "Written by a very prominent startup and CEO coach, it’s an excellent summary going over everything that you would need to know from establishing HR to scaling a team, improving personal productivity and cultivating office culture. (Natalie's Notes)",
+        "amazon_link": "https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#"
+        },
+    {
+        "info": "Dune by Frank Herbert",
+        "book_cover":"/assets/images/bookpics/dune.jpg",
+        "description": "Be warned: this is some hardcore science fiction but it was also an excellent book for leadership, communication styles, and personal growth.",
+        "full_description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides—who would become known as Muad’Dib—and of a great family’s ambition to bring to fruition humankind’s most ancient and unattainable dream. A stunning blend of adventure and mysticism, environmentalism and politics, Dune won the first Nebula Award, shared the Hugo Award, and formed the basis of what is undoubtedly the grandest epic in science fiction.",
+        "amazon_link": "https://amzn.to/2Rj5qVQ"   
+    },
+    {
+        "info": "Zen and the Art of Motorcycle Maintenance by Robert M Pirsig",
+        "book_cover":"/assets/images/bookpics/zen_and_the_art_of_motorcycle_maintenance.jpg",
+        "description": "This book had a bunch of simple pieces of advice that I’ve used to help me solve problems day-to-day. It does get pretty philosophical (and sometimes melodramatic) but it was a worthwhile read, for sure.",
+        "full_description": "One of the most important and influential books written in the past half-century, Robert M. Pirsig's Zen and the Art of Motorcycle Maintenance is a powerful, moving, and penetrating examination of how we live . . . and a breathtaking meditation on how to live better. Here is the book that transformed a generation: an unforgettable narration of a summer motorcycle trip across America's Northwest, undertaken by a father and his young son. A story of love and fear -- of growth, discovery, and acceptance -- that becomes a profound personal and philosophical odyssey into life's fundamental questions, this uniquely exhilarating modern classic is both touching and transcendent, resonant with the myriad confusions of existence . . . and the small, essential triumphs that propel us forward.",
+        "amazon_link": "https://amzn.to/2Rj5qVQ"   
+    },
+    {
+        "info": "To Kill a Mockingbird by Harper Lee",
+        "book_cover":"/assets/images/bookpics/to kill a mockingbird.jpg",
+        "description": "Lastly, To Kill a Mockingbird. I just love this book. It’s such a classic and I think it teaches a lot about compassion and leadership during a very formative time in the US.",
+        "full_description": "One of the most cherished stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father—a crusading local lawyer—risks everything to defend a black man unjustly accused of a terrible crime.",
+        "amazon_link": "https://amzn.to/2JpDFrQ"   
+    },
+
+]

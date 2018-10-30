@@ -1,0 +1,24 @@
+books: [
+    {
+    "info": "Hooked: How to Build Habit-Forming Products by Nir Eyal",
+    "book_cover":"/assets/images/bookpics/hooked.jpg",
+    "description": "Hooked is based on Eyal’s years of research, consulting, and practical experience. He wrote the book he wished had been available to him as a start-up founder—not abstract theory, but a how-to guide for building better products. Hooked is written for product managers, designers, marketers, start-up founders, and anyone who seeks to understand how products influence our behavior.",
+    "full_description": "Why do some products capture widespread attention while others flop? What makes us engage with certain products out of sheer habit? Is there a pattern underlying how technologies hook us? Nir Eyal answers these questions (and many more) by explaining the Hook Model—a four-step process embedded into the products of many successful companies to subtly encourage customer behavior. Through consecutive “hook cycles,” these products reach their ultimate goal of bringing users back again and again without depending on costly advertising or aggressive messaging.",
+    "amazon_link": "https://amzn.to/2AzsA52"
+    },
+    {
+        "info": "The Checklist Manifesto: How to Get Things Right by Atul Gawande ",
+        "book_cover":"/assets/images/bookpics/checklist manifesto.jpg",
+        "description": "In his latest bestseller, Atul Gawande shows what the simple idea of the checklist reveals about the complexity of our lives and how we can deal with it.",
+        "full_description": "The modern world has given us stupendous know-how. Yet avoidable failures continue to plague us in health care, government, the law, the financial industry—in almost every realm of organized activity. And the reason is simple: the volume and complexity of knowledge today has exceeded our ability as individuals to properly deliver it to people—consistently, correctly, safely. We train longer, specialize more, use ever-advancing technologies, and still we fail. Atul Gawande makes a compelling argument that we can do better, using the simplest of methods: the checklist. In riveting stories, he reveals what checklists can do, what they can’t, and how they could bring about striking improvements in a variety of fields, from medicine and disaster recovery to professions and businesses of all kinds. And the insights are making a difference. Already, a simple surgical checklist from the World Health Organization designed by following the ideas described here has been adopted in more than twenty countries as a standard for care and has been heralded as “the biggest clinical invention in thirty years” (The Independent).",
+        "amazon_link": "https://amzn.to/2qhu3H1"   
+    },
+    {
+        "info": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative by Auston Kleon",
+        "book_cover":"/assets/images/bookpics/steal like an artist.jpg",
+        "description": "You don’t need to be a genius, you just need to be yourself. That’s the message from Austin Kleon, a young writer and artist who knows that creativity is everywhere, creativity is for everyone. A manifesto for the digital age, Steal Like an Artist is a guide whose positive message, graphic look and illustrations, exercises, and examples will put readers directly in touch with their artistic side.",
+        "full_description": "When Mr. Kleon was asked to address college students in upstate New York, he shaped his speech around the ten things he wished someone had told him when he was starting out. The talk went viral, and its author dug deeper into his own ideas to create Steal Like an Artist, the book. The result is inspiring, hip, original, practical, and entertaining. And filled with new truths about creativity: Nothing is original, so embrace influence, collect ideas, and remix and re-imagine to discover your own path. Follow your interests wherever they take you. Stay smart, stay out of debt, and risk being boring—the creative you will need to make room to be wild and daring in your imagination.",
+        "amazon_link": "https://amzn.to/2yFY1cf"   
+    },
+
+]
