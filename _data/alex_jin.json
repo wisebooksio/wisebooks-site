@@ -69,7 +69,8 @@ books: [
         {
             "info": "acquired",
             "book_cover":"/assets/images/bookpics/acquired podcast.jpg",
-            "description": "Startup acquisitions and IPOs have always been reported with great fanfare, but few sources examined the deeper reasons behind their success — until Acquired. We tell the stories behind the deals: how was the company started and what twists did it navigate along the way? What forces propelled its growth and ultimate outcome? Can the magic endure within a larger organization? And most importantly, what lessons can we learn from its journey and apply to our own organizations and careers?",
+            "description": "Startup acquisitions and IPOs have always been reported with great fanfare, but few sources examined the deeper reasons behind their success — until Acquired.",
+            "full_description": "We tell the stories behind the deals: how was the company started and what twists did it navigate along the way? What forces propelled its growth and ultimate outcome? Can the magic endure within a larger organization? And most importantly, what lessons can we learn from its journey and apply to our own organizations and careers?",
             "amazon_link": "http://www.acquired.fm/"
             },
             {
