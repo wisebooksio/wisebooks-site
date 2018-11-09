@@ -66,3 +66,32 @@
 
         }
     }
+
+.peopleimg {
+    max-width: 210px;
+    height: auto;
+    border-radius: 3px;
+}
+
+#search-container {
+    position: relative;
+
+    .fa-search {
+        position: absolute;
+        right: 1rem;
+        top: .6rem;
+    }
+    input::placeholder {
+        color: #1a2930 !important;
+    }
+}
+
+#results-container, #all-results {
+    display: flex;
+    flex-wrap: wrap;
+    .search-result {
+        flex: 1 0 30%;
+        margin: 5px;
+        height: auto;
+    }
+}

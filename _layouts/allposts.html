@@ -16,12 +16,10 @@
 	<div class="inner">
 		<header class="major-yellow"><h1>All People</h1></header>
 
-		<!--div id="search-container">
-			<input type="text" id="search-input" placeholder="search...">
-			<ul id="results-container"></ul>
-		</div-->
-			
-		<section id="filters">
+		<div id="search-container">
+			<span class="icon fa-search"></span>
+			<input type="text" id="search-input" label="Search" placeholder="Search for people...">
+			<section id="filters">
 				<div class="button-group filter-button-group">
 					{% assign sorted = site.categories | sort %}
 						{% for category in sorted %}
@@ -30,14 +28,16 @@
 							<a class="button active" id="all" data-filter="*">All</a>
 				</div>
 
-		</section>
-
-		<div class="innerpeople">
+			</section>
+			<div id="results-container" class="search-results"></div>
+		</div>
+			
+		<div class="search-results" id="all-results">
 				{% for post in site.posts %}
-				<div class="box {{ post.category }}">
+				<div class="search-result box {{ post.category }}">
 
 						<h2 class="underline">{{post.title}}</h2>
-						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
+						{% if post.allpeoplepics %}<span class="image-container"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
 						<div class="box-description">
 							<p>{{ post.description }}</p>
 							<a href="{{ post.url | relative_url  }}" class="button small align-right">Read more</a>
@@ -46,6 +46,8 @@
 
 				{% endfor %}
 		</div> 
+
+	
 		
 	</div>
 </section>
