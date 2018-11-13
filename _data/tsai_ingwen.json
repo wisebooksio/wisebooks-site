@@ -2,11 +2,13 @@ books: [
     {
     "info": "Macht in der Mitte: Die neuen Aufgaben Deutschlands in Europa by Herfried Münkler",
     "book_cover":"/assets/images/bookpics/macht in der mitte.jpg",
+    "description": "No description :(",
     "amazon_link": "https://amzn.to/2JTc1E0"
     },
     {
         "info": "Si j’étais ministre de la culture by Carole Frechette",
         "book_cover":"/assets/images/bookpics/si jetais ministre.jpg",
+        "description": "No description :(",
         "amazon_link": "https://amzn.to/2JXtCLe"   
     },
     {
