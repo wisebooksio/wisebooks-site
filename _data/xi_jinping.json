@@ -1,0 +1,92 @@
+books: [
+    {
+    "info": "The Story of Yue Fei",
+    "book_cover":"/assets/images/bookpics/story of yue fei.jpg",
+    "description": "“Xi read more literature when he was a teenager, and more political books as he grew older. Two books he read in his childhood tell the story of Yue Fei, a national hero from the Song Dynasty (960-1279). The books were bought for him by his mother. One story that particularly impressed Xi is the story of Yue’s mother tattooing Yue with a reminder to serve his country… (People.cn, 2016)",
+    "full_description": "...This way, his mother told him, those words would always be embedded deeply in Yue’s mind.” (People.cn, 2016)",
+    "amazon_link": "https://amzn.to/2DB9w8U"
+    },
+    {
+        "info": "Historical records (Shiji by Qian Sima)",
+        "book_cover":"/assets/images/bookpics/historical records.jpg",
+        "description": "Sima Qian (145?-90? BCE) was the first major Chinese historian. His Shiji, or Records of the Grand Historian, documents the history of China and its neighboring countries from the ancient past to his own time. These three volumes cover the Qin and Han dynasties.",
+        "amazon_link": "https://amzn.to/2FdvvnZ"   
+    },
+    {
+        "info": "Classics of poetry (Shijing by Confucius)",
+        "book_cover":"/assets/images/bookpics/book of odes.jpg",
+        "description": "The Book of Odes, also known as the Classic of Poetry, is the oldest existing collection of Chinese poetry, comprising 305 works dating from the 11th to 7th centuries BC. It is one of the 'Five Classics' traditionally said to have been compiled by Confucius, and has been studied and memorized by scholars in China and neighboring countries over two millennia. Since the Qing dynasty, its rhyme patterns have also been analysed in the study of Old Chinese phonology.",
+        "amazon_link": "https://amzn.to/2FdNjzm"   
+    },
+    {
+        "info": "Book of Rites (Liji) by Confucius",
+        "book_cover":"/assets/images/bookpics/book of rites.jpg",
+        "description": "The Book of Rites or Liji, literally the Record of Rites, is a collection of texts describing the social forms, administration, and ceremonial rites of the Zhou dynasty as they were understood in the Warring States and the early Han periods.",
+        "full_description": "The Book of Rites, along with the Rites of Zhou (Zhouli) and the Book of Etiquette and Rites (Yili), which are together known as the &quot;Three Li (San li),&quot; constitute the ritual (li) section of the Five Classics which lay at the core of the traditional Confucian canon. As a core text of the Confucian canon, it is also known as the Classic of Rites (Lijing), which some scholars believe was the original title. Some sections consist of definitions of ritual terms, particularly those found in the Etiquette and Ceremonial, while others contain details of the life and teachings of Confucius.",
+        "amazon_link": "https://amzn.to/2z2KICO"   
+    },
+    {
+        "info": "The Red and the Black by Stendhal",
+        "book_cover":"/assets/images/bookpics/the red and the black.jpg",
+        "description": "First published in 1830, “The Red and the Black,” is widely considered the masterpiece of 19th century French author Marie-Henri Beyle, known more commonly by his pen name, Stendahl. It follows the ambitions of Julien Sorel, a young man raised in the French countryside who wishes to rise above his provincial station by climbing the social ranks of Parisian society.",
+        "full_description": "Through a series of events, Julien’s talent and hard work give way to deception and hypocrisy when he realizes the limitations for advancement of a sincere and honest man of humble origins. Although Julien achieves much which he aspires to, ultimately his pride gets the better of him when he commits a violent crime of passion, leading to his tragic downfall. Through the deep psychological introspection of Julien we see Stendhal’s unique literary genius, the remarkable way in which he allows readers to live in the minds of his characters. Set against the backdrop of the July Revolution of 1830, “The Red and the Black” is a narrative which embodies the rich social conflict of that time. This edition is printed on premium acid-free paper and is translated with an introduction by Horace B. Samuel.",
+        "amazon_link": "https://amzn.to/2DyBqCA"   
+    },
+    {
+        "info": "War and Peace by Leo Tolstoy",
+        "book_cover":"/assets/images/bookpics/war and peace.jpg",
+        "description": "Hailed as one of the greatest novels of all time and a classic of world literature, War and Peace unfolds in the early nineteenth century during the turbulent years of the Napoleonic invasion of Russia. Tolstoy's epic ranges from stirring depictions of historical events to intimate portraits of family life, moving between public spectacles and private lives to offer a tale of both panoramic scope and closely observed detail.",
+        "full_description": "From the breathless excitement of 16-year-old Natasha Rostov's first ball, to Prince Andrei Bolkonsky's epiphany on the battlefield at Austerlitz, the novel abounds in memorable incidents, particularly those involving Pierre Bezukhov. A seeker after moral and spiritual truths, Pierre and his search for life's deeper meaning stand at the heart of this monumental book. A tale of strivers in a world fraught with conflict, social and political change, and spiritual confusion, Tolstoy's magnificent work continues to entertain, enlighten, and inspire readers around the world.",
+        "amazon_link": "https://amzn.to/2RMuxR0"   
+    },
+    {
+        "info": "Three Stories by Feng Menglong",
+        "book_cover":"/assets/images/bookpics/three stories.jpg",
+        "description": "“The books written by Feng Menglong, a Chinese vernacular writer and poet of the late Ming Dynasty, also left a deep impression on Xi, even inspiring him to memorize some passages. Feng was the magistrate of the remote Shouning County in Fujian province. Shouning County is subordinate to the city of Ningde, where Xi once worked. With personal experience of the hard life there, Xi was very impressed by Feng’s spirit and has often quoted his words later in life.” (People.cn, 2016)",
+        "amazon_link": "https://amzn.to/2Dy5QVw"   
+    },
+    {
+        "info": "Long March by Wang Shuzeng",
+        "book_cover":"/assets/images/bookpics/long march.jpg",
+        "description": "With solemn sense of historical responsibility, significant narrative structure and delicate writing style, the book depicts Long March, the magnificent feat of human history which panoramically re-appears this spectacular history of revolution, makes out heroic saga to the world and promotes teenagers' understanding about the spirit of the Long March.",
+        "amazon_link": "https://amzn.to/2DyXQ6C"   
+    },
+    {
+        "info": "The sorrows of young werther by Johann Goethe",
+        "book_cover":"/assets/images/bookpics/sorrows of young werther.jpg",
+        "description": "First published in 1774, “The Sorrows of Young Werther” is the loosely autobiographical epistolary novel by German author Johann Wolfgang von Goethe. This classically tragic story is one of unrequited love. During a stay in the fictional village of Wahlheim, Werther becomes enamored with the simple ways of the peasantry there. He meets and falls in love with the beautiful young Lotte, despite her engagement to Albert.",
+        "full_description": "The highly emotional Werther is overcome with grief over the fact that the one that he loves will marry another. Despite this fact, he develops a friendship with the couple over the next few months. Eventually his pain becomes so great that he must take his leave. After a time he returns, but seeing the couple now married brings his grief to an extreme that he can no longer bare, which leads to the novel’s epically tragic conclusion. Cited as a major work from the “Sturm und Drang” period of German literature, which would be highly influential of the Romantic period to come, “The Sorrows of Young Werther” was Goethe’s most famous work during his lifetime, one which would bring him instant international fame. This edition is printed on premium acid-free paper and follows the translation of R. D. Boylan.",
+        "amazon_link": "https://amzn.to/2DB9TQQ"   
+    },
+    {
+        "info": "What is to be done? By Nikolai Chernyshevsky",
+        "book_cover":"/assets/images/bookpics/what is to be done.jpg",
+        "description": "Almost from the moment of its publication in 1863, Nikolai Chernyshevsky's novel, What Is to Be Done?, had a profound impact on the course of Russian literature and politics. The idealized image it offered of dedicated and self-sacrificing intellectuals transforming society by means of scientific knowledge served as a model of inspiration for Russia's revolutionary intelligentsia.",
+        "full_description": "On the one hand, the novel's condemnation of moderate reform helped to bring about the irrevocable break between radical intellectuals and liberal reformers; on the other, Chernyshevsky's socialist vision polarized conservatives' opposition to institutional reform. Lenin himself called Chernyshevsky 'the greatest and most talented representative of socialism before Marx'; and the controversy surrounding What Is to Be Done? exacerbated the conflicts that eventually led to the Russian Revolution. Michael R. Katz's readable and compelling translation is now the definitive unabridged English-language version, brilliantly capturing the extraordinary qualities of the original. William G. Wagner has provided full annotations to Chernyshevsky's allusions and references and to the, sources of his ideas, and has appended a critical bibliography. An introduction by Katz and Wagner places the novel in the context of nineteenth-century Russian social, political, and intellectual history and literature, and explores its importance for several generations of Russian radicals.",
+        "amazon_link": "https://amzn.to/2Dx3Pch"   
+    },
+    {
+        "info": "The Old man and the sea by Ernest Hemingway",
+        "book_cover":"/assets/images/bookpics/old man and the sea.jpg",
+        "description": "The Old Man and the Sea is one of Hemingway's most enduring works. Told in language of great simplicity and power, it is the story of an old Cuban fisherman, down on his luck, and his supreme ordeal -- a relentless, agonizing battle with a giant marlin far out in the Gulf Stream.",
+        "full_description": "Here Hemingway recasts, in strikingly contemporary style, the classic theme of courage in the face of defeat, of personal triumph won from loss. Written in 1952, this hugely successful novella confirmed his power and presence in the literary world and played a large part in his winning the 1954 Nobel Prize for Literature.",
+        "amazon_link": "https://amzn.to/2Dy1VIl"   
+    },
+    {
+        "info": "Les Miserables by Victor Hugo",
+        "book_cover":"/assets/images/bookpics/les miserables.jpg",
+        "description": "Introducing one of the most famous characters in literature, Jean Valjean—the noble peasant imprisoned for stealing a loaf of bread—Les Misérables ranks among the greatest novels of all time. In it, Victor Hugo takes readers deep into the Parisian underworld, immerses them in a battle between good and evil, and carries them to the barricades during the uprising of 1832 with a breathtaking realism that is unsurpassed in modern prose.",
+        "full_description": "Within his dramatic story are themes that capture the intellect and the emotions: crime and punishment, the relentless persecution of Valjean by Inspector Javert, the desperation of the prostitute Fantine, the amorality of the rogue Thénardier, and the universal desire to escape the prisons of our own minds. Les Misérables gave Victor Hugo a canvas upon which he portrayed his criticism of the French political and judicial systems, but the portrait that resulted is larger than life, epic in scope—an extravagant spectacle that dazzles the senses even as it touches the heart.",
+        "amazon_link": "https://amzn.to/2DyvtWn"   
+    },
+    {
+        "info": "Leaves of grass by walt whitman",
+        "book_cover":"/assets/images/bookpics/leaves of grass.jpg",
+        "description": "When Walt Whitman self-published Leaves of Grass in 1855, he rocked the literary world and forever changed the course of poetry. In subsequent editions, Whitman continued to revise and expand his poems--but none matched the raw power and immediacy of the first edition.",
+        "full_description": "This beautifully-designed volume presents the original edition Leaves of Grass in its entirety, along with Ralph Waldo Emerson's famous letter to Whitman.",
+        "amazon_link": "https://amzn.to/2Fdwq7V"   
+    },
+
+
+
+]

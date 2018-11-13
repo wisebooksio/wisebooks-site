@@ -2,7 +2,7 @@
 layout: post
 title: Natalie Gray
 subtitle: Interview&#58; How to Build & Design Successful Products
-description: (Exclusive Interview) Building & Designing Products Users Want with Head of Product & Co-Founde r of Cover
+description: (Exclusive Interview) Building & Designing Products Users Want with Head of Product & Co-Founder of Cover
 image: assets/images/profilepics/natalie_gray.jpg
 allpeoplepics: assets/images/allpeoplepics/natalie_gray.jpg
 person: natalie_gray

@@ -1,5 +1,5 @@
 ---
 layout: about_us
-title: About Us
+title: The Team
 nav-menu: true
 ---

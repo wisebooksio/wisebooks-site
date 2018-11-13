@@ -1,0 +1,31 @@
+books: [
+    {
+    "info": "Ready Player One by Ernest Cline",
+    "book_cover":"/assets/images/bookpics/ready player one.jpg",
+    "description": "In the year 2045, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines—puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them.",
+    "full_description": "But when Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.",
+    "amazon_link": "https://amzn.to/2DhD0rM"
+    },
+    {
+        "info": "La Part de L’autre by Eric-Emmanuel Schmitt",
+        "book_cover":"/assets/images/bookpics/la part de l'autre.jpg",
+        "description": "October 8, 1908: Adolf Hitler recalibrated What would have happened if the Vienna School of Fine Arts had decided otherwise? What would have happened if, this minute, the jury had accepted and not refused Adolf Hitler, flattered and then fulfilled his ambitions as an artist This minute would have changed the course of a life, that of the young, shy and passionate Adolf Hitler, but it would also have changed the course of the world...",
+        "amazon_link": "https://amzn.to/2PUd8ZE"   
+    },
+    {
+        "info": "Gardens of Democracy by Eric Liu and Nick Hanauer",
+        "book_cover":"/assets/images/bookpics/gardens of democracy.jpg",
+        "description": "In The Gardens of Democracy, Eric Liu and Nick Hanauer outline an argument for why our most basic assumptions about these topics need updating for the 21st century. For those finding their voice for the first time, this book offers a conceptual roadmap for a way forward—for what they are resisting, why they resist, and for the better democracy they want to grow.",
+        "full_description": "Liu and Hanauer’s ideas are simple but revolutionary: true “self-interest” is incomplete without tending to the shared best interests of the national community. They illustrate that to model positivity, good citizenship, and ensure liberty and justice for all, we must achieve compromise by reaching across the aisle and putting the power to execute programs back in the hands of individuals, not big government. True freedom does not live in isolation, and we must redefine how we view prosperity in order to move from a dog-eat-dog mentality that perpetuates the top 1 percent to a communal and inclusive movement that illustrates that we’re all better off when we’re all better off.",
+        "amazon_link": "https://amzn.to/2DB8PfO"   
+    },
+    {
+        "info": "Champlain’s Dream by David Hackett Fischer",
+        "book_cover":"/assets/images/bookpics/champlain's dream.jpg",
+        "description": "In this sweeping, enthralling biography, acclaimed historian David Hackett Fischer brings to life the remarkable Samuel de Champlain -- soldier, spy, master mariner, explorer, cartographer, artist, and Father of New France.",
+        "full_description": "Born on France's Atlantic coast, Champlain grew to manhood in a country riven by religious warfare. The historical record is unclear on whether Champlain was baptized Protestant or Catholic, but he fought in France's religious wars for the man who would become Henri IV, one of France's greatest kings, and like Henri, he was religiously tolerant in an age of murderous sectarianism. Champlain was also a brilliant navigator. He went to sea as a boy and over time acquired the skills that allowed him to make twenty-seven Atlantic crossings without losing a ship.",
+        "amazon_link": "https://amzn.to/2OEav9p"   
+    },
+
+
+]

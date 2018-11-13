@@ -1,0 +1,36 @@
+books: [
+    {
+    "info": "The Sun Also Rises by Ernest Hemingway ",
+    "book_cover":"/assets/images/bookpics/the sun also rises.jpg",
+    "description": "The quintessential novel of the Lost Generation, The Sun Also Rises is one of Ernest Hemingway's masterpieces and a classic example of his spare but powerful writing style. A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley.",
+    "full_description": "The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions. First published in 1926, The Sun Also Rises helped to establish Hemingway as one of the greatest writers of the twentieth century.",
+    "amazon_link": "https://amzn.to/2DyoYmb"
+    },
+    {
+        "info": "A Sportsman’s Sketches by Ivan Sergeevich Turgenev",
+        "book_cover":"/assets/images/bookpics/sportsman sketches.jpg",
+        "description": "A Sportsman's Sketches was an 1852 collection of short stories by Ivan Turgenev. It was the first major writing that gained him recognition. He wrote this collection of short stories based on his own observations while hunting at his mother’s estate at Spasskoye, where he learned of the abuse of the peasants and the injustices of the Russian system that constrained them.",
+        "full_description": "The frequent abuse of Turgenev by his mother certainly had an effect on this work. He was about to give up writing when the first story, &quot;Khor and Khalinich,&quot; was well received. This work is part of the Russian realist tradition in that the narrator is usually an uncommitted observer of the people he meets. The work as a whole actually led to Turgenev’s house arrest (part of the reason, the other being his epitaph to Nikolai Gogol) at Spasskoye. It was also partially responsible for the abolishment of serfdom in Russia.",
+        "amazon_link": "https://amzn.to/2FhfptK"   
+    },
+    {
+        "info": "Short Stories by Mikhail Prishvin",
+        "book_cover":"/assets/images/bookpics/black arab.jpg",
+        "description": "This is moreso a place to start among Prishvin’s number of short stories. This is a collection of short stories translated from Russian to English by David Magarshack.",
+        "amazon_link": "https://amzn.to/2DhaAOB"   
+    },
+    {
+        "info": "War and Peace by Leo Tolstoy",
+        "book_cover":"/assets/images/bookpics/war and peace.jpg",
+        "description": "Hailed as one of the greatest novels of all time and a classic of world literature, War and Peace unfolds in the early nineteenth century during the turbulent years of the Napoleonic invasion of Russia. Tolstoy's epic ranges from stirring depictions of historical events to intimate portraits of family life, moving between public spectacles and private lives to offer a tale of both panoramic scope and closely observed detail.",
+        "full_description": "From the breathless excitement of 16-year-old Natasha Rostov's first ball, to Prince Andrei Bolkonsky's epiphany on the battlefield at Austerlitz, the novel abounds in memorable incidents, particularly those involving Pierre Bezukhov. A seeker after moral and spiritual truths, Pierre and his search for life's deeper meaning stand at the heart of this monumental book. A tale of strivers in a world fraught with conflict, social and political change, and spiritual confusion, Tolstoy's magnificent work continues to entertain, enlighten, and inspire readers around the world.",
+        "amazon_link": "https://amzn.to/2RMuxR0"   
+    },
+    {
+        "info": "The Garnet Bracelet by Alexander Kuprin",
+        "book_cover":"/assets/images/bookpics/the garnet bracelet.jpg",
+        "description": "From Ancient Jerusalem to a Russian sea resort, from a royal palace to a traveling circus by way of a bullfight . Join the Russian writer, pilot and explorer Alexander Kuprin on a fascinating journey to a multitude of places in space and time.",
+        "amazon_link": "https://amzn.to/2RMuzIC"   
+    },
+
+]

@@ -1,11 +1,11 @@
 ---
 layout: listicle
-title: Writers Edition
-subtitle: Books Recommended by Powerhouse Authors & Journalists
+title: Political Leaders
+subtitle: Books Recommended by Powerful Political Leaders  
 allpeoplepics:
-image: /assets/images/listicle/powerhouse-writers.jpg
-description: Writers Stephen King, Neil Gaiman, Susan Cain, and Kara Swisher
-category: Author
+image: 
+description: Political leaders Vladimir Putin, Justin Trudeau, Xi Jinping, Hillary Clinton, Tsai Ing-wen
+category: Politician
 ---
     
 <!-- Main -->
@@ -14,13 +14,13 @@ category: Author
 <!-- One -->
 
 		<section id = "listicle-intro">
-			<h1>Books Recommended by Powerhouse Writers</h1>
+			<h1>Books Recommended by Powerful Political Leaders</h1>
 			<br>
 			<br>
-			<p>We've been getting a lot of feedback from our readers asking for lists of writers and their favorite books. So here it is! Whether you're looking for some writing inspiration or just another good book to read, here's our first list of books recommended by powerhouse writers.</p>
+			<p>Here are the favorite books of leaders from all across the world!</p>
 		</section>
 
-		{% for author in site.authors %}
+		{% for politician in site.politicians %}
 
 		<section id = "listicle-bio">
 							
@@ -28,19 +28,19 @@ category: Author
 
 					<div class="profile">
 							<div class="profilepic">
-							<img src="{{author.image}}"/>
+							<img src="{{politician.image}}"/>
 							</div>
 							<div class="profilebio">
-								<h3>{{author.name}}</h3>
-								<h4>{{author.title}}</h4>
+								<h3>{{politician.name}}</h3>
+								<h4>{{politician.title}}</h4>
 							</div>
 					</div>
-                                <p>{{ author.content | markdownify }}</p>
+                                <p>{{ politician.content | markdownify }}</p>
                                 <details class="attribution">
                                     <summary>Sources</summary>
-                                        Bio: {{author.bioattribution}}
-                                        Books: {{ author.bookattribution }}
-                                        Images: {{author.imageattribution}}
+                                        Bio: {{politician.bioattribution}}
+                                        Books: {{ politician.bookattribution }}
+                                        Images: {{politician.imageattribution}}
                                 </details>
 				</div>
 
@@ -49,7 +49,7 @@ category: Author
 		<section id="listicle-books">
 			<div class="booktile">
 
-				{% for book in site.data[author.person].books %}
+				{% for book in site.data[politician.person].books %}
 
 					<div class = "book-card">
 						<span class="bookimage"><img src="{{book.book_cover}}" alt="{{ book.info}}"/></span>
