@@ -1,8 +1,7 @@
 ---
 name: Angela Merkel
 title: Chancellor of Germany
-image: assets/images/profilepics/angela_merkel.jpg
-allpeoplepics: assets/images/allpeoplepics/angela_merkel.jpg
+image: assets/images/allpeoplepics/angela_merkel.jpg
 person: angela_merkel
 category: Politician
 imgattribution: Cicero
