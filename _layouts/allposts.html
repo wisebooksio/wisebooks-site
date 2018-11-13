@@ -37,7 +37,7 @@
 				<div class="search-result box {{ post.category }}">
 
 						<h2 class="underline">{{post.title}}</h2>
-						{% if post.allpeoplepics %}<span class="image-container"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
+						{% if post.allpeoplepics %}<div class="image-container"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></div>{% endif %}
 						<div class="box-description">
 							<p>{{ post.description }}</p>
 							<a href="{{ post.url | relative_url  }}" class="button small align-right">Read more</a>

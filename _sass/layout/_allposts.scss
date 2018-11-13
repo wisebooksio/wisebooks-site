@@ -1,97 +1,91 @@
 
 /* allposts */
 
-#filters {
-    margin-bottom: 2em;
+#allposts {
 
-    .button-group {
-    
-        .button {
-            margin: 0.5em;
+    header.major-yellow {
+        margin: 0 auto;
+
+        h1 {
+            text-align: center;
         }
     }
-}
 
-	.innerpeople {
-		display: flex;
-		flex-wrap: wrap;
-		.box {
-			width: 48%;
-            margin-left: 1em;
-            .peopleimg {
-                width: 100%;
-            }
-            .box-description {
-                width: 55%;
-                float: right;
-            }
+    #search-container {
+        position: relative;
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 3em;
 
-		}
+        .fa-search {
+            position: absolute;
+            right: 1rem;
+            top: .6rem;
+        }
+        input::placeholder {
+            color: #1a2930 !important;
+        }
     }
 
-	@include breakpoint(medium) {
-		.innerpeople {
-			.box {
-				width: 100%;
-                margin-left: 0;
-                margin-top: 2em;
-			}
-		}	
+
+    #filters {
+        margin: 2em 0 2em 0;
+
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+
+
+        
+            .button {
+                margin: 0.5em;
+            }
+        }
     }
-    
+
+    .search-result {
+        .image-container {
+            width: 100%;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .peopleimg {
+            max-width: 210px;
+            height: auto;
+            border-radius: 3px;
+            display: flex;
+            margin: 0 auto;
+        }
+
+        .box-description {
+            text-align: center;
+            margin: 1em 0 0 0;
+
+        }
+
+    }
+
+    #results-container, #all-results {
+        display: flex;
+        flex-wrap: wrap;
+        .search-result {
+            flex: 1 0 30%;
+            margin: 5px;
+            height: auto;
+        }
+    }
+
+    @include breakpoint(medium) {
+
+    }
+
     @include breakpoint(small) {
         #filters {
             margin-bottom: 0;
         }
-        .innerpeople {
-            .box {
-                display: flex;
-                flex-direction: column;
-                h2 {
-                    text-align: center;
-                }
-                .image {
-                    margin: 0 auto;
-                    width: 90% !important;
-                    margin-bottom: 1em;
-                    height: auto;
-                    
-                }
-                .box-description {
-                    width: 100%;
-                    float: none;
-                    text-align: center;
-                }
-            }
 
-        }
-    }
-
-.peopleimg {
-    max-width: 210px;
-    height: auto;
-    border-radius: 3px;
-}
-
-#search-container {
-    position: relative;
-
-    .fa-search {
-        position: absolute;
-        right: 1rem;
-        top: .6rem;
-    }
-    input::placeholder {
-        color: #1a2930 !important;
-    }
-}
-
-#results-container, #all-results {
-    display: flex;
-    flex-wrap: wrap;
-    .search-result {
-        flex: 1 0 30%;
-        margin: 5px;
-        height: auto;
     }
 }
