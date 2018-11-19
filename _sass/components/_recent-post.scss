@@ -1,5 +1,6 @@
 #recent-post {
-    margin: 2em;
+    padding: 2em 0 2em 0;
+    background-color: white;
     .innerpeople {
         .box {
             width: 30%;
@@ -15,7 +16,7 @@
                 }
             }
 
-            h2 {
+            h3 {
                 text-align: center;
             }
         }
