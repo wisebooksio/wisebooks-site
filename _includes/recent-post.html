@@ -1,0 +1,26 @@
+
+    
+  <section id="recent-post">
+    <header class="major-yellow center"><h2>OTHER POSTS YOU'LL LIKE</h2></header>
+
+    <div class="innerpeople">   
+
+        {% for post in site.posts offset:0 limit:3 %} 
+          {% if post.url != page.url %}
+
+        <div class="box">
+						<h2 class="underline">{{post.title}}</h2>
+						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
+						<div class="box-description">
+							<p>{{ post.description }}</p>
+							<a href="{{ post.redirect_to }}" class="button small align-right">Read more</a>
+						</div>
+        </div>
+        
+          {% endif %}
+            
+        {% endfor %}
+
+    </div>
+
+  </section>
