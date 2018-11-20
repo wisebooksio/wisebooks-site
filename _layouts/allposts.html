@@ -36,7 +36,7 @@
 				{% for post in site.posts %}
 				<div class="search-result box {{ post.category }}">
 
-						<h2 class="underline">{{post.title}}</h2>
+						<h3 class="underline">{{post.title}}</h3>
 						{% if post.allpeoplepics %}<div class="image-container"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></div>{% endif %}
 						<div class="box-description">
 							<p>{{ post.description }}</p>
