@@ -1,7 +1,7 @@
 var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
-    searchResultTemplate: '<div class="search-result box { category }"><h2 class="underline">{title}</h2><div class="img-container"><img class="peopleimg" src="{allpeoplepics}" alt="{title}" /></div><div class="box-description"><p>{description}</p><a href="{url}" class="button small align-right">Read more</a></div></div>',
+    searchResultTemplate: '<div class="search-result box { category }"><h3 class="underline">{title}</h3><div class="img-container"><img class="peopleimg" src="{allpeoplepics}" alt="{title}" /></div><div class="box-description"><p>{description}</p><a href="{url}" class="button small align-right">Read more</a></div></div>',
     json: '/search.json',
     exclude: ['Welcome']
 })

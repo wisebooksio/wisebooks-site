@@ -1,17 +1,20 @@
 books: [
     {
+    "info": "Atlas Shrugged by Ayn Rand",
     "book_cover":"/assets/images/bookpics/atlas shrugged.jpg",
     "description": "Beliefs and feelings on objectivism aside, when I read the book in my teens, Dagny Taggart’s character spoke to me on a level I’d never experienced with any other novel. It was life-changing for me during my formative years in figuring out who I was and what I wanted in life (granted, I’m still figuring that out). (Amelia's Notes)",
     "full_description":"Set in a near-future U.S.A. whose economy is collapsing as a result of the mysterious disappearance of leading innovators and industrialists, this novel presents an astounding panorama of human life-from the productive genius who becomes a worthless playboy...to the great steel industrialist who does not know that he is working for his own destruction...to the philosopher who becomes a pirate...to the woman who runs a transcontinental railroad...to the lowest track worker in her train tunnels. Peopled by larger-than-life heroes and villains, charged with towering questions of good and evil, Atlas Shrugged is a philosophical revolution told in the form of an action thriller.",
     "amazon_link": "https://amzn.to/2Pajz6X"
     },
     {
+        "info": "A Tale of Two Cities by Charles Dickens",
         "book_cover":"/assets/images/bookpics/a tale of two cities.jpg",
         "description": "It was the time of the French Revolution — a time of great change and great danger. It was a time when injustice was met by a lust for vengeance, and rarely was a distinction made between the innocent and the guilty. Against this tumultuous historical backdrop, Dickens' great story of unsurpassed adventure and courage unfolds.",
         "full_description":"Unjustly imprisoned for 18 years in the Bastille, Dr. Alexandre Manette is reunited with his daughter, Lucie, and safely transported from France to England. It would seem that they could take up the threads of their lives in peace. As fate would have it though, the pair are summoned to the Old Bailey to testify against a young Frenchman — Charles Darnay — falsely accused of treason. Strangely enough, Darnay bears an uncanny resemblance to another man in the courtroom, the dissolute lawyer's clerk Sydney Carton. It is a coincidence that saves Darnay from certain doom more than once. Brilliantly plotted, the novel is rich in drama, romance, and heroics that culminate in a daring prison escape in the shadow of the guillotine.",
         "amazon_link": "https://amzn.to/2PAWXNH"
         },
         {
+            "info": "Brave Enough by Cheryl Strayed",
             "book_cover":"/assets/images/bookpics/brave enough.jpg",
             "description": "I’ve kept collections of quotes since I was a  young child. The beauty of quotes is that they can speak to you outside of the original context at different times in your life. I picked this up during a tough period in my life, and many of the quotes are still pinned to my bathroom mirror. (Amelia's Notes)",
             "full_description":"Cheryl Strayed has shared with an ardently devoted audience the many twists and trials of her remarkable life, offering much-needed truths, as well as laughter, to millions of readers. Her honesty, spirit, and ample supply of tough love have enabled many of us, even in the darkest hours, to somehow put one foot in front of the other--and be brave enough. Whether humorous or wise (and often both at once) Strayed's words are anthems that remind us that we may inevitably make mistakes, but we can also do better, both for ourselves and for others.",

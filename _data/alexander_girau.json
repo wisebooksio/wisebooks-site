@@ -1,16 +1,19 @@
 books: [
     {
+        "info": "The Great CEO Within by Matt Mochary",
         "book_cover":"/assets/images/bookpics/great_ceo_within.jpg",
         "description": "How to build a category-killing company from the ground up! The buy button leads you to its google doc.",
         "amazon_link": "https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#"
         },
     {
+    "info": "Man's Search for Meaning by Viktor E. Frankl",
     "book_cover":"/assets/images/bookpics/man_s search for meaning.jpg",
     "description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished.",
     "full_description": "Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos ('meaning')-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.",
     "amazon_link": "https://amzn.to/2CkCs3T"
     },
     {
+        "info": "Hacker News",
         "book_cover":"/assets/images/bookpics/hackernews.png",
         "description": "Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as 'anything that gratifies one's intellectual curiosity'. (Wikipedia)",
         "amazon_link": "https://news.ycombinator.com/"

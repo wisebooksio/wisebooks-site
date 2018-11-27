@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/expert_political_judgment.jpg",
+        "info": "Expert Political Judgment by Philip Tetlock",
+        "book_cover":"/assets/images/bookpics/expert_political_judgment.jpg",
     "description": "Is the future knowable, and by whom? All pundits and commentators should publish their prediction track records, yet don't. What to pay attention to and what to ignore. (Andreessen's Twitter)",
     "full_description":"Tetlock first discusses arguments about whether the world is too complex for people to find the tools to understand political phenomena, let alone predict the future. He evaluates predictions from experts in different fields, comparing them to predictions by well-informed laity or those based on simple extrapolation from current trends. He goes on to analyze which styles of thinking are more successful in forecasting. Classifying thinking styles using Isaiah Berlin's prototypes of the fox and the hedgehog, Tetlock contends that the fox--the thinker who knows many little things, draws from an eclectic array of traditions, and is better able to improvise in response to changing events--is more successful in predicting the future than the hedgehog, who knows one big thing, toils devotedly within one tradition, and imposes formulaic solutions on ill-defined problems. He notes a perversely inverse relationship between the best scientific indicators of good judgement and the qualities that the media most prizes in pundits--the single-minded determination required to prevail in ideological combat.",
     "amazon_link": "https://amzn.to/2QhJ8Ej"
     },
     {
+        "info": "Thinking Fast and Slow by Daniel Kahneman",
         "book_cover":"/assets/images/bookpics/thinking_fast.jpg",
         "description": "Captivating dive into human decision making, marred by inclusion of several/many? psychology studies that fail to replicate. Will stand as a cautionary tale? (Andreessen's Twitter)",
         "full_description":"Engaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives―and how we can use different techniques to guard against the mental glitches that often get us into trouble. Winner of the National Academy of Sciences Best Book Award and the Los Angeles Times Book Prize and selected by The New York Times Book Review as one of the ten best books of 2011, Thinking, Fast and Slow is destined to be a classic.",
         "amazon_link": "https://amzn.to/2PYztT8"
         },
         {
+            "info": "Thinking in Bets by Annie Duke",
             "book_cover":"/assets/images/bookpics/thinking_in_bets.jpg",
             "description": "Compact guide to probabilistic domains like poker, or venture capital. Best articulation of 'resulting', drawing bad conclusions from confusing process and outcome. Recommend for people operating in the real world. (Andreessen's Twitter)",
             "full_description": "Annie Duke, a former World Series of Poker champion turned business consultant, draws on examples from business, sports, politics, and (of course) poker to share tools anyone can use to embrace uncertainty and make better decisions. For most people, it's difficult to say 'I'm not sure' in a world that values and, even, rewards the appearance of certainty. But professional poker players are comfortable with the fact that great decisions don't always lead to great outcomes and bad decisions don't always lead to bad outcomes. By shifting your thinking from a need for certainty to a goal of accurately assessing what you know and what you don't, you'll be less vulnerable to reactive emotions, knee-jerk biases, and destructive habits in your decision making. You'll become more confident, calm, compassionate and successful in the long run.",
@@ -19,6 +22,7 @@ books: [
             },
         
             {
+                "info": "The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History Book by David Enrich",
                 "book_cover":"/assets/images/bookpics/the_spider_network.jpg",
                 "description": " ‘Billions’-esque saga of global financial market manipulation, at mind-boggling scale and hiding in plain sight, by a small cabal of bankers in London. (Andreessen's Twitter)",
                 "full_description": "In 2006, an oddball group of bankers, traders and brokers from some of the world’s largest financial institutions made a startling realization: Libor—the London interbank offered rate, which determines interest rates on trillions in loans worldwide—was set daily by a small group of easily manipulated functionaries. Tom Hayes, a brilliant but troubled mathematician, became the lynchpin of shadowy team that used hook and crook to take over the process and set rates that made them a fortune, no matter the cost to others. Among the motley crew was a French trader nicknamed “Gollum”; the broker “Abbo,” who liked to publicly strip naked when drinking; a Kazakh chicken farmer turned something short of financial whiz kid; an executive called “Clumpy” because of his patchwork hair loss; and a broker uncreatively nicknamed “Big Nose.” Eventually known as the “Spider Network,” Hayes’s circle generated untold riches —until it all unraveled in spectacularly vicious, backstabbing fashion.",
@@ -26,13 +30,15 @@ books: [
                 },
             
                 {
-                "book_cover":"/assets/images/bookpics/guide_to_good_life.jpg",
+                    "info": "A Guide to the Good Life by William B. Irvine",
+                    "book_cover":"/assets/images/bookpics/guide_to_good_life.jpg",
                 "description": "Best (?) walk through the ancient/current philosophy of Stoicism. You can't control other people but you can control yourself, so do that. (Andreessen's Twitter)",
                 "full_description": "In A Guide to the Good Life, Irvine offers a refreshing presentation of Stoicism, showing how this ancient philosophy can still direct us toward a better life. Using the psychological insights and the practical techniques of the Stoics, Irvine offers a roadmap for anyone seeking to avoid the feelings of chronic dissatisfaction that plague so many of us. Irvine looks at various Stoic techniques for attaining tranquility and shows how to put these techniques to work in our own life. As he does so, he describes his own experiences practicing Stoicism and offers valuable first-hand advice for anyone wishing to live better by following in the footsteps of these ancient philosophers. Readers learn how to minimize worry, how to let go of the past and focus our efforts on the things we can control, and how to deal with insults, grief, old age, and the distracting temptations of fame and fortune. We learn from Marcus Aurelius the importance of prizing only things of true value, and from Epictetus we learn how to be more content with what we have.",
                 "amazon_link": "https://amzn.to/2wYm6cV"
                 },
 
                 {
+                    "info": "Courage to be Disliked Book by Fumitake Koga and Ichiro Kishimi",
                     "book_cover":"/assets/images/bookpics/courage_to_be_disliked.jpg",
                     "description": "Smash hit in Japan, and easy to see why. Adlerian psychology meets Stoic philosophy in Socratic dialogue. Compelling from front to back. Highly recommend. (Andreessen's Twitter)",
                     "full_description": "Is happiness something you choose for yourself? The Courage to Be Disliked presents a simple and straightforward answer. Using the theories of Alfred Adler, one of the three giants of nineteenth-century psychology alongside Freud and Jung, this book follows an illuminating dialogue between a philosopher and a young man. Over the course of five conversations, the philosopher helps his student to understand how each of us is able to determine the direction of our own life, free from the shackles of past traumas and the expectations of others.",
@@ -40,6 +46,7 @@ books: [
                     },
 
                     {
+                        "info": "All Out War: The Full Story of Brexit by Tim Shipman",
                         "book_cover":"/assets/images/bookpics/all_out_war.jpg",
                         "description": "Inside story of how Britain decided to exit the EU. Economic self-destruction or national liberation? Repercussions to play out for decades. (Andreessen's Twitter)",
                         "full_description": "This is the acclaimed inside story of the EU referendum in 2016 that takes you behind the scenes of the most extraordinary episode in British politics since the Second World War. With unparalleled access to all key players, this is a story of calculation, attempted coups and people torn between principles and loyalty. It is a book about our leaders and their closest aides, the decisions they make, how and why they make them and how they feel when they turn out to be so wrong. In All Out War, Tim Shipman has written a political history that reads like a thriller, exploring how and why David Cameron chose to take the biggest political gamble of his life, and why he lost.",
@@ -47,6 +54,7 @@ books: [
                         },
 
                         {
+                            "info": "When the Wolves Bite by Scott Wapner",
                             "book_cover":"/assets/images/bookpics/when_the_wolves_bite.jpg",
                             "description": "‘Wall Street’-esque battle between Bill Ackman and Carl Icahn over unlikely target Herbalife. Sip a delicious Herbal Aloe Shake while reading. (Andreessen's Twitter)",
                             "full_description": "This fast-paced book tells the story of the clash of these two titans over Herbalife, a nutritional supplement company whose business model Ackman questioned. Icahn decided to vouch for them, and the dispute became a years-long feud, complete with secret backroom deals, public accusations, billions of dollars in stock trades, and one dramatic insult war on live television. Wapner, who hosted that memorable TV show, has gained unprecedented access to all the players and unravels this remarkable war of egos, showing the extreme measures the participants were willing to take.",
@@ -54,6 +62,7 @@ books: [
                             },
 
                             {
+                                "info": "But What If We're Wrong?: Thinking About the Present As If It Were the Past Book by Chuck Klosterman",
                                 "book_cover":"/assets/images/bookpics/but_what_if_were_wrong.jpg",
                                 "description": "Wide-ranging meditation on how to think about the reality that we're probably wrong about most things we believe. Hard to read and not emerge humbled. (Andreessen's Twitter)",
                                 "full_description": "But What If We're Wrong? is a book of original, reported, interconnected pieces, which speculate on the likelihood that many universally accepted, deeply ingrained cultural and scientific beliefs will someday seem absurd. Covering a spectrum of objective and subjective topics, the book attempts to visualize present-day society the way it will be viewed in a distant future. Klosterman cites original interviews with a wide variety of thinkers and experts -- including George Saunders, David Byrne, Jonathan Lethem, Alex Ross, Kathryn Schulz, Neil deGrasse Tyson, Brian Greene, Junot Díaz, Amanda Petrusich, Ryan Adams, Dan Carlin, Nick Bostrom, and Richard Linklater. Klosterman asks straightforward questions that are profound in their simplicity, and the answers he explores and integrates with his own analysis generate the most thought-provoking and propulsive book of his career.",
@@ -61,6 +70,7 @@ books: [
                                 },
 
                                 {
+                                    "info": "Chasing Hilary by Amy Chozick",
                                     "book_cover":"/assets/images/bookpics/chasing_hillary.jpg",
                                     "description": "On the bus/in the plane with the Hillary campaign. Revealing in many dimensions at once, and highly entertaining. Best book on the 2016 campaign so far? (Andreessen's Twitter)",
                                     "full_description": "Trailing Clinton through all of the highs and lows of the most noxious and wildly dramatic presidential election in American history, Chozick comes to understand what drove Clinton, how she accomplished what no woman had before, and why she ultimately failed. Poignant, illuminating, laugh-out-loud funny, Chasing Hillary is a campaign book like never before that reads like a fast-moving political novel.",
@@ -68,6 +78,7 @@ books: [
                                     },
 
                                     {
+                                        "info": "The Strange Death of Europe by Douglas Murray",
                                         "book_cover":"/assets/images/bookpics/strange_death_of_europe.jpg",
                                         "description": "One perspective on the politics of immgiration in Europe, playing out in real time, e.g. Merkel almost getting deposed days ago. Confusing on multiple levels from US perspective. (Andreessen's Twitter)",
                                         "full_description": "Douglas Murray travels across Europe to examine first-hand how mass immigration, cultivated self-distrust and delusion have contributed to a continent in the grips of its own demise. From the shores of Lampedusa to migrant camps in Greece, from Cologne to London, he looks critically at the factors that have come together to make Europeans unable to argue for themselves and incapable of resisting their alteration as a society. Murray's 'tremendous and shattering' book (The Times) addresses the disappointing failures of multiculturalism, Angela Merkel's U-turn on migration, the lack of repatriation and the Western fixation on guilt, uncovering the malaise at the very heart of the European culture. His conclusion is bleak, but the predictions not irrevocable. As Murray argues, this may be our last chance to change the outcome, before it's too late.",
@@ -75,6 +86,7 @@ books: [
                                         },
         
                                         {
+                                            "info": "Triumph of the City by Edward Glaeser",
                                             "book_cover":"/assets/images/bookpics/triumph_of_the_city.jpg",
                                             "description": "How cities drive the development of civilization, by putting people together. Highly relevant to the future of the Internet! (Andreessen's Twitter)",
                                             "full_description": "America is an urban nation, yet cities get a bad rap: they're dirty, poor, unhealthy, environmentally unfriendly . . . or are they? In this revelatory book, Edward Glaeser, a leading urban economist, declares that cities are actually the healthiest, greenest, and richest (in both cultural and economic terms) places to live. He travels through history and around the globe to reveal the hidden workings of cities and how they bring out the best in humankind. Using intrepid reportage, keen analysis, and cogent argument, Glaeser makes an urgent, eloquent case for the city's importance and splendor, offering inspiring proof that the city is humanity's greatest creation and our best hope for the future.",
@@ -83,6 +95,7 @@ books: [
 
                                                     
                                         {
+                                            "info": "Rational Optimist by Matt Ridley",
                                             "book_cover":"/assets/images/bookpics/rational_optimist.jpg",
                                             "description": "Sparkling explanation of how the economy evolves, producing the glorious cornucopia of goods and services available all around us. How to feel good about the future even in dark times.",
                                             "full_description": "In a bold and provocative interpretation of economic history, Matt Ridley, the New York Times-bestselling author of Genome and The Red Queen, makes the case for an economics of hope, arguing that the benefits of commerce, technology, innovation, and change—what Ridley calls cultural evolution—will inevitably increase human prosperity.",
@@ -91,6 +104,7 @@ books: [
 
                                                     
                                         {
+                                            "info": "A Spy Among Friends: Kim Philby and the Great Betrayal Book by Ben Macintyre",
                                             "book_cover":"/assets/images/bookpics/spy_among_friends.jpg",
                                             "description": "True, chilling saga of straight up, profoundly deep treason and betrayal. Sociopaths in high positions of power and influence. Hair curling. (Andreessen's Twitter)",
                                             "full_description": "Kim Philby was the greatest spy in history, a brilliant and charming man who rose to head Britain’s counterintelligence against the Soviet Union during the height of the Cold War—while he was secretly working for the enemy. And nobody thought he knew Philby like Nicholas Elliott, Philby’s best friend and fellow officer in MI6. The two men had gone to the same schools, belonged to the same exclusive clubs, grown close through the crucible of wartime intelligence work and long nights of drink and revelry. It was madness for one to think the other might be a communist spy, bent on subverting Western values and the power of the free world.",
@@ -98,6 +112,7 @@ books: [
                                             },
 
                                             {
+                                                "info": "How to Live: A Life of Montaigne in one question and twenty attempts at an answer by Sarah Bakewell",
                                                 "book_cover":"/assets/images/bookpics/how_to_live.jpg",
                                                 "description": "'How to get along with people, how to deal with violence, how to adjust to losing someone you love—All versions of a bigger question: How do you live?' (Andreessen's Twitter)",
                                                 "full_description": "How to get along with people, how to deal with violence, how to adjust to losing someone you love—such questions arise in most people’s lives. They are all versions of a bigger question: How do you live? This question obsessed Renaissance writers, none more than Michel Eyquem de Montaigne, considered by many to be the first truly modern individual. He wrote free-roaming explorations of his thoughts and experience, unlike anything written before. More than four hundred years later, Montaigne’s honesty and charm still draw people to him. Readers come to him in search of companionship, wisdom, and entertainment —and in search of themselves. Just as they will to this spirited and singular biography.",
@@ -105,6 +120,7 @@ books: [
                                                 },
 
                                                 {
+                                                    "info": "Lone Survivor by Marcus Luttrell",
                                                     "book_cover":"/assets/images/bookpics/lone_survivor.jpg",
                                                     "description": "The film was fine but the book is unreal; incredibly vivid story of superlative American heroes. (Andreessen's Twitter)",
                                                     "full_description": "This is the story of fire team leader Marcus Luttrell, the sole survivor of Operation Redwing, and the desperate battle in the mountains that led, ultimately, to the largest loss of life in Navy SEAL history. But it is also, more than anything, the story of his teammates, who fought ferociously beside him until he was the last one left-blasted unconscious by a rocket grenade, blown over a cliff, but still armed and still breathing. Over the next four days, badly injured and presumed dead, Luttrell fought off six al Qaeda assassins who were sent to finish him, then crawled for seven miles through the mountains before he was taken in by a Pashtun tribe, who risked everything to protect him from the encircling Taliban killers.",
@@ -112,6 +128,7 @@ books: [
                                                     },
 
                                                     {
+                                                        "info": "A Very Expensive Poison by Luke Harding",
                                                         "book_cover":"/assets/images/bookpics/very_expensive_poison.jpg",
                                                         "description": "The astonishing story of the Litvinenko and Perepilichnyy assassinations in the UK; reads like a Lee Child thriller; plenty topical now. (Andreessen's Twitter)",
                                                         "full_description": "On November 1, 2006, journalist and Russian dissident Alexander Litvinenko was poisoned in London. He died twenty-two days later. The cause of death was Polonium--a rare, lethal, and highly radioactive substance. This is the inside story of the life and death of Litvinenko. And it is the story of the aftermath: a decade of geopolitical disruptions still felt today. In A Very Expensive Poison, Luke Harding guides readers through a maze of spies, intrigue, organized crime, and political power players to uncover the truth about Litvinenko's murder. In doing so, not only does he also become a target, but he also unearths a chain of corruption and death leading straight to Vladimir Putin, which sheds terrifying light on Russia's secret war with the West.",
@@ -119,6 +136,7 @@ books: [
                                                         },
                 
                                                         {
+                                                            "info": "The Myth of the Rational Voter by Bryan Caplan",
                                                             "book_cover":"/assets/images/bookpics/myth_of_the_rational.jpg",
                                                             "description": "'The median American is a moderate national socialist – statist to the core on both economic and social policy. Given public opinion, the policies of First World democracies are surprisingly libertarian.' (Andreessen's Twitter)",
                                                             "full_description": "The Myth of the Rational Voter takes an unflinching look at how people who vote under the influence of false beliefs ultimately end up with government that delivers lousy results. With the upcoming presidential election season drawing nearer, this thought-provoking book is sure to spark a long-overdue reappraisal of our elective system.",
@@ -126,6 +144,7 @@ books: [
                                                             },
                 
                                                             {
+                                                                "info": "Living with a SEAL by Jesse Itzler",
                                                                 "book_cover":"/assets/images/bookpics/living_with_a_seal.jpg",
                                                                 "description": "What's it like to train with a Navy SEAL in winter in New York for a whole month? (Andreessen's Twitter)",
                                                                 "full_description": "Entrepreneur Jesse Itzler will try almost anything. His life is about being bold and risky. So when Jesse felt himself drifting on autopilot, he hired a rather unconventional trainer to live with him for a month-an accomplished Navy SEAL widely considered to be 'the toughest man on the planet'! LIVING WITH A SEAL is like a buddy movie if it starred the Fresh Prince of Bel- Air...and Rambo. Jesse is about as easy-going as you can get. SEAL is...not. Jesse and SEAL's escapades soon produce a great friendship, and Jesse gains much more than muscle. At turns hilarious and inspiring, LIVING WITH A SEAL ultimately shows you the benefits of stepping out of your comfort zone.",
@@ -133,6 +152,7 @@ books: [
                                                                 },
                 
                                                                 {
+                                                                    "info": "Shattered: Inside Hillary Clinton's Doomed Campaign Book by Amie Parnes and Jonathan Allen",
                                                                     "book_cover":"/assets/images/bookpics/shattered.jpg",
                                                                     "description": "Best (?) book so far on the Democratic side of the 2016 race, most provocatively on the impact of the press coverage of the email hacks on the last stages of the race. (Andreessen's Twitter)",
                                                                     "full_description": "Through deep access to insiders from the top to the bottom of the campaign, political writers Jonathan Allen and Amie Parnes have reconstructed the key decisions and unseized opportunities, the well-intentioned misfires and the hidden thorns that turned a winnable contest into a devastating loss. Drawing on the authors' deep knowledge of Hillary from their previous book, the acclaimed biography HRC, Shattered offers an object lesson in how Hillary herself made victory an uphill battle, how her difficulty articulating a vision irreparably hobbled her impact with voters, and how the campaign failed to internalize the lessons of populist fury from the hard-fought primary against Bernie Sanders. Moving blow-by-blow from the campaign's difficult birth through the bewildering terror of election night, Shattered tells an unforgettable story with urgent lessons both political and personal, filled with revelations that will change the way readers understand just what happened to America on November 8, 2016.",
@@ -140,18 +160,21 @@ books: [
                                                                     },
 
                             {
+                                "info": "Slugfest: Inside the Epic, 50-year Battle between Marvel and DC by Reed Tucker",
                                 "book_cover":"/assets/images/bookpics/slugfest.jpg",
                                 "description": "Spellbinding creative and business history of the incredibly imaginative comic book industry in the decades before it ate Hollywood. (Andreessen's Twitter)",
                                 "full_description": "Slugfest, the first book to chronicle the history of this epic rivalry into a single, in-depth narrative, is the story of the greatest corporate rivalry never told. Complete with interviews with the major names in the industry, Slugfestreveals the arsenal of schemes the two companies have employed in their attempts to outmaneuver the competition, whether it be stealing ideas, poaching employees, planting spies, or launching price wars. The feud has never completely disappeared, and it simmers on a low boil to this day. With DC and Marvel characters becoming global icons worth billions, if anything, the stakes are higher now than ever before.",
                                 "amazon_link": "https://amzn.to/2oRhXn8"
                                 },
                                 {
+                                    "info": "Hacks: The Inside Story of the Break-ins and Breakdowns That Put Donald Trump in the White House Book by Donna Brazile",
                                     "book_cover":"/assets/images/bookpics/hacks.jpg",
                                     "description": "Visceral, raw, you-are-there recounting of living through the hack attacks and resulting meltdown of the DNC in 2016. (Andreessen's Twitter)",
                                     "full_description": "Packed with never-before-reported revelations about what went down in 2016, Hacks is equal parts campaign thriller, memoir, and roadmap for the future. With Democrats now in the wilderness after this historic defeat, Hacks argues that staying silent about what went wrong helps no one. Only by laying bare the missteps, miscalculations, and crimes of 2016, Brazile contends, will Americans be able to salvage their democracy.",
                                     "amazon_link": "https://amzn.to/2oQPNZI"
                                     },
                                     {
+                                        "info": "Days of rage: America’s radical underground, the FBI, and the forgotten age of revolutionary violence Book by Bryan Burrough",
                                         "book_cover":"/assets/images/bookpics/days_of_rage.jpg",
                                         "description": "How 1960s racial politics descended into 1970s terrorist bombings, thanks to privileged college students breaking very bad. (Andreessen's Twitter)",
                                         "full_description": "In Days of Rage, Bryan Burrough re-creates an atmosphere that seems almost unbelievable just forty years later, conjuring a time of native-born radicals, most of them “nice middle-class kids,” smuggling bombs into skyscrapers and detonating them inside the Pentagon and the U.S. Capitol, at a Boston courthouse and a Wall Street restaurant packed with lunchtime diners. The FBI’s fevered response included the formation of a secret task force called Squad 47, dedicated to hunting the groups down and rolling them up. But Squad 47 itself broke many laws in its attempts to bring the revolutionaries to justice, and its efforts ultimately ended in fiasco. Drawing on revelatory interviews with members of the underground and the FBI who speak about their experiences for the first time, Days of Rage is a mesmerizing book that takes us into the hearts and minds of homegrown terrorists and federal agents alike and weaves their stories into a spellbinding secret history of the 1970s.",
@@ -159,6 +182,7 @@ books: [
                                         },
 
                                         {
+                                            "info": "Civilian Warriors: The Inside Story of Blackwater and the Unsung Heroes of the War on Terror Book by Erik Prince",
                                             "book_cover":"/assets/images/bookpics/civilian_warriors.jpg",
                                             "description": "The founding and growth of military contractor Blackwater as told by its founder and CEO; newly relevant due to the Mueller investigation. (Andreessen's Twitter)",
                                             "full_description": "In 1997, former Navy SEAL Erik Prince started a business that would recruit civilians for the riskiest security jobs in the world. As Blackwater’s reputation grew, demand for its services escalated, and its men eventually completed nearly 100,000 missions for both the Bush and Obama administrations. It was a huge success except for one problem: Blackwater was demonized around the world. Its employees were smeared as mercenaries, profiteers, or worse. And because of the secrecy requirements of its contracts with the Pentagon, the State Department, and the CIA, Prince was unable to correct false information. But now he’s finally able to tell the full story about some of the biggest controversies of the War on Terror, in a memoir that reads like a thriller.",
@@ -166,6 +190,7 @@ books: [
                                             },
 
                                             {
+                                                "info": "The Rise of Superman by Steven Kotler",
                                                 "book_cover":"/assets/images/bookpics/rise_of_superman.jpg",
                                                 "description": "Startling walk through a series of domains where peak human performance is rising at remarkable rates due to 'flow state'. Thought provoking and then some. (Andreessen's Twitter)",
                                                 "full_description": "In this groundbreaking book, New York Times–bestselling author Steven Kotler decodes the mystery of ultimate human performance. Drawing on over a decade of research and first-hand reporting with dozens of top action and adventure sports athletes like big wave legend Laird Hamilton, big mountain snowboarder Jeremy Jones, and skateboarding pioneer Danny Way, Kotler explores the frontier science of “flow,” an optimal state of consciousness in which we perform and feel our best. Building a bridge between the extreme and the mainstream, The Rise of Superman explains how these athletes are using flow to do the impossible and how we can use this information to radically accelerate performance in our own lives.",
@@ -174,6 +199,7 @@ books: [
 
                                                 
                                             {
+                                                "info": "Devil's Bargain by Joshua Green",
                                                 "book_cover":"/assets/images/bookpics/devils_bargain.jpg",
                                                 "description": "Best (?) book so far on the Republican side of the 2016 race, and a deep dive into the intellectual origins of Bannonism and to some extent Trumpism. (Andreessen's Twitter)",
                                                 "full_description": "Any study of Trump’s rise to the presidency is unavoidably a study of Bannon. Devil’s Bargain is a tour-de-force telling of the remarkable confluence of circumstances that decided the election, many of them orchestrated by Bannon and his allies, who really did plot a vast, right-wing conspiracy to stop Clinton. To understand Trump's extraordinary rise and Clinton’s fall, you have to weave Trump’s story together with Bannon’s, or else it doesn't make sense.",

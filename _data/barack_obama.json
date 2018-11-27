@@ -1,59 +1,69 @@
 books: [
     {
+        "info": "Abraham Lincoln Selected Speeches and Writings by Gore Vidal",
     "book_cover":"/assets/images/bookpics/Obama/71TNvL-QPrL.jpg",
     "description": "Ranging from finely honed legal argument to wry and some sometimes savage humor to private correspondence and political rhetoric of unsurpassed grandeur, the writings collected in this volume are at once a literary testament of the greatest writer ever to occupy the White House and a documentary history of America in Abraham Lincoln’s time.",
     "full_description": "They record Lincoln’s campaigns for public office; the evolution of his stand against slavery; his electrifying debates with Stephen Douglas; his conduct of the Civil War; and the great public utterances of his presidency, including the Emancipation Proclamation and the Gettysburg Address.",
     "amazon_link": "https://amzn.to/2MNfdll"
     },
     {
+        "info": "Parting the Waters by Taylor Branch",
         "book_cover":"/assets/images/bookpics/Obama/51KZAc0yQUL.jpg",
         "description": "In volume one of his America in the King Years, Pulitzer Prize winner Taylor Branch gives a masterly account of the American civil rights movement. It is hailed as the most masterful story ever told of the American civil rights movement, Parting the Waters is destined to endure for generations.",
         "full_description": "Taylor Branch provides an unsurpassed portrait of King's rise to greatness and illuminates the stunning courage and private conflict, the deals, maneuvers, betrayals, and rivalries that determined history behind closed doors, at boycotts and sit-ins, on bloody freedom rides, and through siege and murder.",
         "amazon_link": "https://amzn.to/2P6gJjQ "   
     },
     {
+        "info": "The Power Broker by Robert A. Caro",
         "book_cover":"/assets/images/bookpics/Obama/51+WEx+YLHL.jpg",
         "description": "One of the most acclaimed books of our time, winner of both the Pulitzer and the Francis Parkman prizes, The Power Broker tells the hidden story behind the shaping (and mis-shaping) of twentieth-century New York (city and state) and makes public what few have known: that Robert Moses was, for almost half a century, the single most powerful man of our time in New York, the shaper not only of the city's politics but of its physical structure and the problems of urban decline that plague us today.",
         "full_description": "It also spotlights her remarkable life, from her childhood in Poland, to her storybook Parisian marriage to fellow scientist Pierre Curie, to her tragic death from the very radium that brought her fame. Now updated with an eloquent, rousing introduction by best-selling author Natalie Angier, this timeless biography celebrates an astonishing mind and a extraordinary woman's life.",
         "amazon_link": "https://amzn.to/2vJcjYn"   
     },
     {
+        "info": "The Fire Next Time by James Baldwin",
         "book_cover":"/assets/images/bookpics/Obama/81yX50FkA-L.jpg",
         "description": "A national bestseller when it first appeared in 1963, The Fire Next Time galvanized the nation and gave passionate voice to the emerging civil rights movement. At once a powerful evocation of James Baldwin's early life in Harlem and a disturbing examination of the consequences of racial injustice.",
         "full_description": "The book is an intensely personal and provocative document. It consists of two 'letters', written on the occasion of the centennial of the Emancipation Proclamation, that exhort Americans, both black and white, to attack the terrible legacy of racism.",
         "amazon_link": "https://amzn.to/2vH7YoC"   
     },
     {
+        "info": "Andy Grove: The Life and Times of an American by Richard Tedlow",
         "book_cover":"/assets/images/bookpics/Obama/512184DC1XL.jpg",
         "description": "Any short list of the world's most admired business people would include Andy Grove, the chairman and CEO of Intel during its years of explosive growth. During Grove's career, Intel became the model for Silicon Valley. Silicon Valley became the model for the world. And Grove became Time's Man of the Year—an icon of the promise of the American life.",
         "full_description": "Despite decades of media scrutiny and six of Grove's own books, there remains a powerful element of mystery about him. This definitive biography, by a Harvard Business School professor with unprecedented access, finally cracks the code of who Andy Grove really is, how his mind works, how he attacks impossible problems, and how he leads others to exceed their own expectations of themselves.",
         "amazon_link": "https://amzn.to/2MoGptE"   
     },
     {
+        "info": "Sapiens by Yuval Noah Harari",
         "book_cover":"/assets/images/bookpics/Obama/51a9YweAk5L.jpg",
         "description": "In Sapiens, Dr. Yuval Noah Harari spans the whole of human history, from the very first humans to walk the earth to the radical -- and sometimes devastating -- breakthroughs of the Cognitive, Agricultural, and Scientific Revolutions.",
         "full_description": "Drawing on insights from biology, anthropology, palaeontology, and economics, he explores how the currents of history have shaped our human societies, the animals and plants around us, and even our personalities. Bold, wide-ranging and provocative, Sapiens challenges everything we thought we knew about being human: our thoughts, our actions, our power...and our future.",
         "amazon_link": "https://amzn.to/2nB1cvQ"   
     },
     {
+        "info": "Thinking Fast and Slow Daniel Kahneman",
         "book_cover":"/assets/images/bookpics/Obama/41ZNYSzSV6L.jpg",
         "description": "Two systems drive the way we think and make choices, Daniel Kahneman explains: System One is fast, intuitive, and emotional; System Two is slower, more deliberative, and more logical. Examining how both systems function within the mind, Kahneman exposes the extraordinary capabilities as well as the biases of fast thinking and the pervasive influence of intuitive impressions on our thoughts and our choices.",
         "full_description": "Kahneman's singularly influential work has transformed cognitive psychology and launched the new fields of behavioral economics and happiness studies. In this path-breaking book, Kahneman shows how the mind works, and offers practical and enlightening insights into how choices are made in both our business and personal lives--and how we can guard against the mental glitches that often get us into trouble.",
         "amazon_link": "https://amzn.to/2vICA9a"   
     },
     {
+        "info": "The Sixth Extinction: An Unnatural History by Elizabeth Kolbert",
         "book_cover":"/assets/images/bookpics/Obama/81cnlN-kqvL.jpg",
         "description": "Over the last half a billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are currently monitoring the sixth extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. This time around, the cataclysm is us.",
         "full_description": "A major book about the future of the world, blending intellectual and natural history and field reporting into a powerful account of the mass extinction unfolding before our eyes.",
         "amazon_link": "https://amzn.to/2Mt37Rl"   
     },
     {
+        "info": "In Dubious Battle by John Steinbeck",
         "book_cover":"/assets/images/bookpics/Obama/912+wFJ+WGL.jpg",
         "description": "At once a relentlessly fast-paced, admirably observed novel of social unrest and the story of a young man's struggle for identity,In Dubious Battle is set in the California apple country, where a strike by migrant workers against rapacious landowners spirals out of control, as a principled defiance metamorphoses into blind fanaticism.",
         "full_description": "Caught in the upheaval is Jim Nolan, a once aimless man who find himself in the course of the strike, briefly becomes its leader, and is ultimately crushed in its service. A riveting novel of labor strife and apocalyptic violence, now a major motion picture starring James Franco, Bryan Cranston, Selena Gomez, and Zach Braff.",
         "amazon_link": " https://amzn.to/2MK19sB"   
     },
     {
+        "info": "Behind the Beautiful Forevers by Katherine Boo",
         "book_cover":"/assets/images/bookpics/Obama/51yZzJFTeoL._SX322_BO1,204,203,200_.jpg",
         "description": "In this brilliant, breathtaking book by Pulitzer Prize winner Katherine Boo, a bewildering age of global change and inequality is made human through the dramatic story of families striving toward a better life in Annawadi, a makeshift settlement in the shadow of luxury hotels near the Mumbai airport.",
         "full_description": "As India starts to prosper, the residents of Annawadi are electric with hope. Abdul, an enterprising teenager, sees “a fortune beyond counting” in the recyclable garbage that richer people throw away. Meanwhile Asha, a woman of formidable ambition, has identified a shadier route to the middle class. With a little luck, her beautiful daughter, Annawadi’s “most-everything girl,” might become its first female college graduate. And even the poorest children, like the young thief Kalu, feel themselves inching closer to their dreams. But then Abdul is falsely accused in a shocking tragedy; terror and global recession rock the city; and suppressed tensions over religion, caste, sex, power, and economic envy turn brutal. With intelligence, humor, and deep insight into what connects people to one another in an era of tumultuous change, Behind the Beautiful Forevers, based on years of uncompromising reporting, carries the reader headlong into one of the twenty-first century’s hidden worlds—and into the hearts of families impossible to forget.",

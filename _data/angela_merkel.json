@@ -1,17 +1,20 @@
 books: [
     {
+    "info": "The Transformation of the World: A Global History of the Nineteenth Century by Jurgen Osterhammel",
     "book_cover":"/assets/images/bookpics/transformation of the world.jpg",
     "description": "Ranging from finely honed legal argument to wry and some sometimes savage humor to private correspondence and political rhetoric of unsurpassed grandeur, the writings collected in this volume are at once a literary testament of the greatest writer ever to occupy the White House and a documentary history of America in Abraham Lincoln’s time.",
     "full_description": "They record Lincoln’s campaigns for public office; the evolution of his stand against slavery; his electrifying debates with Stephen Douglas; his conduct of the Civil War; and the great public utterances of his presidency, including the Emancipation Proclamation and the Gettysburg Address.",
     "amazon_link": "https://amzn.to/2RLDdr2"
     },
     {
+        "info": "History of Germany Since 1789 by Golo Mann",
         "book_cover":"/assets/images/bookpics/history of germany since 1789_golo mann.jpg",
         "description": "'At times,' writes Golo Mann, 'the Germans seem a philosophical people, at others the most practical and most materialistic at times the most peaceful, at others the most domineering and brutal. Time after time they have surprised the world by things least expected of them.' It is this quality of paradox, even of mystery, in the German nation that the distinguished historian renders with such subtlety and penetration in this celebrated study.",
         "full_description": "It traces the whole sweep of intellectual development in Germany since the French Revolution. As well as chronicling historic events, the book deals in detail with the contributions of philosophers, poets and novelists alongside those of parliamentarians and generals.",
         "amazon_link": "https://amzn.to/2RSRNNF"   
     },
     {
+        "info": "Madam Curie: A Biography by Eve Curie",
         "book_cover":"/assets/images/bookpics/madam curie_biography_eve curie.jpg",
         "description": "Written by Curie's daughter, the renowned international activist Eve Curie, this biography chronicles Curie's legendary achievements in science, including her pioneering efforts in the study of radioactivity and her two Nobel Prizes in Physics and Chemistry.",
         "full_description": "It also spotlights her remarkable life, from her childhood in Poland, to her storybook Parisian marriage to fellow scientist Pierre Curie, to her tragic death from the very radium that brought her fame. Now updated with an eloquent, rousing introduction by best-selling author Natalie Angier, this timeless biography celebrates an astonishing mind and a extraordinary woman's life.",

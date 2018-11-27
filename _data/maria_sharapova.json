@@ -1,11 +1,13 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/the beggar king.jpg",
+        "info": "The Beggar King and the Secret of Happiness by Joel Ben Izzy",
+        "book_cover":"/assets/images/bookpics/the beggar king.jpg",
     "description": "“Some of today’s books come as manuals, step-by-step guides and although that’s practical, it’s not how life always turns out. You might have to take the tenth step before you take the second. I enjoyed this books because it doesn’t give you answers; it makes you wonder what answer you might give yourself.” (Sharapova's Notes, Tribe of Mentors)",
     "full_description":"The Beggar King and the Secret of Happiness is that rare, magical book—a book that tells a good story but also shows us how the tales we learned when we were children shed light on our adult lives. Joel ben Izzy had the unusual opportunity to relive those lessons when he lost his voice and reconnected with his old teacher, Lenny, a retired storyteller. Through his meetings with Lenny, Joel rediscovers the wisdom of ancient tales and takes us on a journey into a world of beggars and kings, monks and tigers, lost horses and buried treasures—and in the end tells us the secret of happiness.",
     "amazon_link": "https://amzn.to/2MXrm6e"
     },
     {
+        "info": "The ONE Thing Book by Gary W. Keller and Jay Papasan",
         "book_cover":"/assets/images/bookpics/the one thing.jpg",
         "description": "YOU WANT LESS. You want fewer distractions and less on your plate. The daily barrage of e-mails, texts, tweets, messages, and meetings distract you and stress you out. The simultaneous demands of work and family are taking a toll. And what's the cost? Second-rate work, missed deadlines, smaller paychecks, fewer promotions--and lots of stress.",
         "full_description":"AND YOU WANT MORE. You want more productivity from your work. More income for a better lifestyle. You want more satisfaction from life, and more time for yourself, your family, and your friends. NOW YOU CAN HAVE BOTH--LESS AND MORE. In The ONE Thing, you'll learn to * cut through the clutter * achieve better results in less time * build momentum toward your goal* dial down the stress * overcome that overwhelmed feeling * revive your energy * stay on track * master what matters to you The ONE Thing delivers extraordinary results in every area of your life--work, personal, family, and spiritual. WHAT'S YOUR ONE THING?",

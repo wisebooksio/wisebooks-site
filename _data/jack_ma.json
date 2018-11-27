@@ -1,6 +1,7 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/daodejing.jpg",
+        "info": "Daodejing",
+        "book_cover":"/assets/images/bookpics/daodejing.jpg",
     "description": "The book dates back to the early 4th century but still holds its relevance today. Jack Ma’s assistant says the thin unannotated version almost never leaves the close proximity of Jack’s desk. It is said to not only have influenced Daoism but other religions as well such as Confucianism, Legalism and Chinese Buddhism.",
     "full_description":"The best-loved of all the classical books of China and the most universally popular, the Daodejing or Classic of the Way and Life-Force is a work that defies definition. It encapsulates the main tenets of Daoism, and upholds a way of being as well as a philosophy and a religion. The dominant image
     is of the Way, the mysterious path through the whole cosmos modelled on the great Silver River or Milky Way that traverses the heavens. A life-giving stream, the Way gives rise to all things and holds them in her motherly embrace. It enables the individual, and society as a whole, to harmonize the disparate demands of daily life and achieve a more profound level of understanding.",

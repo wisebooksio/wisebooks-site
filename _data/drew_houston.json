@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/emotional intelligence.jpg",
+        "info": "Emotional Intelligence by Daniel Goleman",
+        "book_cover":"/assets/images/bookpics/emotional intelligence.jpg",
     "description": "This was a non-fiction book that spelled out something he didn’t know and was broken down to him in a logical way which was really important because this was an early example to him of everything being trainable; that you can learn anything where you don’t have expertise. It shattered this image to him that an engineer and a business person are separate categories. (Houston's Notes, Tim Ferriss Podcast)",
     "full_description":"Everyone knows that high IQ is no guarantee of success, happiness, or virtue, but until Emotional Intelligence, we could only guess why. Daniel Goleman's brilliant report from the frontiers of psychology and neuroscience offers startling new insight into our 'two minds'—the rational and the emotional—and how they together shape our destiny. Through vivid examples, Goleman delineates the five crucial skills of emotional intelligence, and shows how they determine our success in relationships, work, and even our physical well-being. What emerges is an entirely new way to talk about being smart. The best news is that 'emotional literacy' is not fixed early in life. Every parent, every teacher, every business leader, and everyone interested in a more civil society, has a stake in this compelling vision of human possibility.",
     "amazon_link": "https://amzn.to/2PrDZbo"
     },
     {
+        "info": "Getting to Yes by Roger Fisher and William Ury",
         "book_cover":"/assets/images/bookpics/getting_to_yes.jpg",
         "description": "He read this in his negotiations class at MIT, which was a lot on principles negotiations; the very foundations. Houston says he still frequently uses the content in his life today. (Houston's Notes, Tim Ferriss Podcast)",
         "full_description":"Since its original publication nearly thirty years ago, Getting to Yes has helped millions of people learn a better way to negotiate. One of the primary business texts of the modern era, it is based on the work of the Harvard Negotiation Project, a group that deals with all levels of negotiation and conflict resolution.",
         "amazon_link": "https://amzn.to/2PYztT8"
         },
         {
+            "info": "The Innovator's Dilemma by Clayton Christensen",
             "book_cover":"/assets/images/bookpics/innovators_dilemma.jpg",
             "description": "This book is about how businesses get disrupted even though there are big competitors that could just wipe them clean. A Wall Street Journal and Businessweek bestseller. Named by Fast Company as one of the most influential leadership books in its Leadership Hall of Fame. An innovation classic. From Steve Jobs to Jeff Bezos, Clay Christensen’s work continues to underpin today’s most innovative leaders and organizations.",
             "full_description": "In this classic bestseller—one of the most influential business books of all time—innovation expert Clayton Christensen shows how even the most outstanding companies can do everything right—yet still lose market leadership. Christensen explains why most companies miss out on new waves of innovation. No matter the industry, he says, a successful company with established products will get pushed aside unless managers know how and when to abandon traditional business practices. Offering both successes and failures from leading companies as a guide, The Innovator’s Dilemma gives you a set of rules for capitalizing on the phenomenon of disruptive innovation.",
@@ -19,6 +22,7 @@ books: [
             },
         
             {
+                "info": "Crossing the Chasm by Geoffrey A. Moore",
                 "book_cover":"/assets/images/bookpics/crossing_the_chasm.jpg",
                 "description": "How tech products make their way from the early adopters’ market to the mainstream. The bible for bringing cutting-edge products to larger markets—now revised and updated with new insights into the realities of high-tech marketing.",
                 "full_description": "Moore shows that in the Technology Adoption Life Cycle—which begins with innovators and moves to early adopters, early majority, late majority, and laggards—there is a vast chasm between the early adopters and the early majority. While early adopters are willing to sacrifice for the advantage of being first, the early majority waits until they know that the technology actually offers improvements in productivity. The challenge for innovators and marketers is to narrow this chasm and ultimately accelerate adoption across every segment.",
@@ -26,13 +30,15 @@ books: [
                 },
             
                 {
-                "book_cover":"/assets/images/bookpics/high output management.jpg",
+                    "info": "High Output Management by Andrew S. Grove",
+                    "book_cover":"/assets/images/bookpics/high output management.jpg",
                 "description": "By the CEO and one of the founding engineers at Intel. Houston, and others, have often referred to this as one of the best books on management ever written.",
                 "full_description": "The essential skill of creating and maintaining new businesses—the art of the entrepreneur—can be summed up in a single word: managing. In High Output Management, Andrew S. Grove, former chairman and CEO (and employee number three) of Intel, shares his perspective on how to build and run a company. Born of Grove’s experiences at one of America’s leading technology companies, this legendary management book is a Silicon Valley staple, equally appropriate for sales managers, accountants, consultants, and teachers, as well as CEOs and startup founders. Grove covers techniques for creating highly productive teams, demonstrating methods of motivation that lead to peak performance—throughout, High Output Management is a practical handbook for navigating real-life business scenarios and a powerful management manifesto with the ability to revolutionize the way we work.",
                 "amazon_link": "https://amzn.to/2Pu8xcR"
                 },
 
                 {
+                    "info": "The Effective Executive by Peter Drucker",
                     "book_cover":"/assets/images/bookpics/the effective executive.jpg",
                     "description": "It’s easy to mistake effort for effectiveness, and Houston says the book helped him introduce tactics to prevent mistaking the two.The measure of the executive, Peter F. Drucker reminds us, is the ability to 'get the right things done.'",
                     "full_description": "This usually involves doing what other people have overlooked as well as avoiding what is unproductive. Intelligence, imagination, and knowledge may all be wasted in an executive job without the acquired habits of mind that mold them into results.",
@@ -40,6 +46,7 @@ books: [
                     },
 
                     {
+                        "info": "The Hard Thing about Hard Things by Ben Horowitz",
                         "book_cover":"/assets/images/bookpics/the hard thing about hard things.jpg",
                         "description": "This book is more on the experience of running a company. Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog.",
                         "full_description": "While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. Filled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
@@ -47,12 +54,14 @@ books: [
                         },
 
                         {
+                            "info": "Poor Charlie's Almanack by Charlie Munger",
                             "book_cover":"/assets/images/bookpics/poor charlie's almanac.jpg",
                             "description": "This book was more philosophical, written by Warren Buffett's business partner. Poor Charlie's Almanack is a collection of speeches and talks by Charlie Munger, compiled by Peter D. Kaufman.",
                             "amazon_link": "https://amzn.to/2C7tlEZ"
                             },
 
                             {
+                                "info": "Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig",
                                 "book_cover":"/assets/images/bookpics/zen_and_the_art_of_motorcycle_maintenance.jpg",
                                 "description": "One of the most important and influential books written in the past half-century, Robert M. Pirsig's Zen and the Art of Motorcycle Maintenance is a powerful, moving, and penetrating examination of how we live . . . and a breathtaking meditation on how to live better. Here is the book that transformed a generation: an unforgettable narration of a summer motorcycle trip across America's Northwest, undertaken by a father and his young son.",
                                 "full_description": "A story of love and fear -- of growth, discovery, and acceptance -- that becomes a profound personal and philosophical odyssey into life's fundamental questions, this uniquely exhilarating modern classic is both touching and transcendent, resonant with the myriad confusions of existence . . . and the small, essential triumphs that propel us forward.",
@@ -60,6 +69,7 @@ books: [
                                 },
 
                                 {
+                                    "info": "Principles by Ray Dalio",
                                     "book_cover":"/assets/images/bookpics/principlesray.jpg",
                                     "description": "Ray Dalio, one of the world’s most successful investors and entrepreneurs, shares the unconventional principles that he’s developed, refined, and used over the past forty years to create unique results in both life and business—and which any person or organization can adopt to help achieve their goals.",
                                     "full_description": "Here, from a man who has been called both “the Steve Jobs of investing” and “the philosopher king of the financial universe” (CIO magazine), is a rare opportunity to gain proven advice unlike anything you’ll find in the conventional business press.",

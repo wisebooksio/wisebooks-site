@@ -1,11 +1,13 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/the better angels of our nature.jpg",
+        "info": "The Better Angels of our Nature by Steven Pinker",
+        "book_cover":"/assets/images/bookpics/the better angels of our nature.jpg",
     "description": "Believe it or not, today we may be living in the most peaceful moment in our species' existence. In his gripping and controversial new work, New York Times bestselling author Steven Pinker shows that despite the ceaseless news about war, crime, and terrorism, violence has actually been in decline over long stretches of history.",
     "full_description": "Exploding myths about humankind's inherent violence and the curse of modernity, this ambitious book continues Pinker's exploration of the essence of human nature, mixing psychology and history to provide a remarkable picture of an increasingly enlightened world.",     
     "amazon_link": "https://amzn.to/2vo7DpM",
     },
     {
+        "info": "The Best We Could Do by Thi Bui",
         "book_cover":"/assets/images/bookpics/the best we could do by thi bui.jpg",
         "description": "This beautifully illustrated and emotional story is an evocative memoir about the search for a better future and a longing for the past. Exploring the anguish of immigration and the lasting effects that displacement has on a child and her family, Bui documents the story of her family’s daring escape after the fall of South Vietnam in the 1970s, and the difficulties they faced building new lives for themselves.",
         "full_description": "At the heart of Bui’s story is a universal struggle: While adjusting to life as a first-time mother, she ultimately discovers what it means to be a parent—the endless sacrifices, the unnoticed gestures, and the depths of unspoken love. Despite how impossible it seems to take on the simultaneous roles of both parent and child, Bui pushes through. With haunting, poetic writing and breathtaking art, she examines the strength of family, the importance of identity, and the meaning of home. In what Pulitzer Prize–winning novelist Viet Thanh Nguyen calls “a book to break your heart and heal it,” The Best We Could Do brings to life Thi Bui’s journey of understanding, and provides inspiration to all of those who search for a better future while longing for a simpler past.",     
@@ -13,6 +15,7 @@ books: [
         },
     
             {
+                "info": "The Sympathizer by Viet Thanh Nguyen",
                 "book_cover":"/assets/images/bookpics/the sympathizer.jpg",
                 "description": "The Sympathizer is a sweeping epic of love and betrayal. The narrator, a communist double agent, is a “man of two minds,” a half-French, half-Vietnamese army captain who arranges to come to America after the Fall of Saigon, and while building a new life with other Vietnamese refugees in Los Angeles is secretly reporting back to his communist superiors in Vietnam.",
                 "full_description": "The winner of the 2016 Pulitzer Prize for Fiction, as well as six other awards, The Sympathizer is the breakthrough novel of the year. The Sympathizer is a blistering exploration of identity and America, a gripping espionage novel, and a powerful story of love and friendship.",     
@@ -20,6 +23,7 @@ books: [
                 },
                     
             {
+                "info": "Energy and Civilization: A History by Vaclav Smil",
                 "book_cover":"/assets/images/bookpics/energy and civilization_a history.jpg",
                 "description": "A comprehensive account of how energy has shaped society throughout history, from pre-agricultural foraging societies through today's fossil fuel–driven civilization.",
                 "full_description": "The conversion of energy on Earth ranges from terra-forming forces of plate tectonics to cumulative erosive effects of raindrops. Life on Earth depends on the photosynthetic conversion of solar energy into plant biomass. Humans have come to rely on many more energy flows―ranging from fossil fuels to photovoltaic generation of electricity―for their civilized existence. In this monumental history, Vaclav Smil provides a comprehensive account of how energy has shaped society, from pre-agricultural foraging societies through today's fossil fuel–driven civilization. Humans are the only species that can systematically harness energies outside their bodies, using the power of their intellect and an enormous variety of artifacts―from the simplest tools to internal combustion engines and nuclear reactors. The epochal transition to fossil fuels affected everything: agriculture, industry, transportation, weapons, communication, economics, urbanization, quality of life, politics, and the environment.",     

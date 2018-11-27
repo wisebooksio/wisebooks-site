@@ -1,53 +1,62 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/vagabonding by rolf potts.jpg",
+        "info": "Vagabonding by Rolf Potts",
+        "book_cover":"/assets/images/bookpics/vagabonding by rolf potts.jpg",
     "description": "“Vagabonding easily remains in my top-10 list for life-changing books. Why? Because one incredible trip, especially a long-term trip, can change your life forever. And Vagabonding teaches you how to travel (and think), not for one trip, but for the rest of your life. Tim Cahill, founding editor of Outside magazine and a brilliant travel writer... (Ferriss' Notes)",
     "full_description":"...himself, has said of Vagabonding, 'I think this is the most sensible book of travel related advice ever written.' In my own dog-eared copy of Vagabonding, I have notes, underlines, and highlights on practically every page, ranging from the tactical (how to pack intelligently, what to bring, what not to bring, where to go, etc.) to the philosophical (the Upanishads, how to slow down after a lifetime of rushing and caffeine, etc.). I also have a wish list of dream destinations on the inside cover, including places like Stockholm, Prague, Paris, Munich, Berlin, and Amsterdam. The list goes on and on. Using the Rolf’s tips, the same tips you can learn in Vagabonding, I checked them all off. I was able to explore many of them for 2-3 months at a time at my own pace, unrushed and unworried. It was a dream come true. Everything in Vagabonding works. This book changed my life completely.” (Ferriss' Notes, tim.blog)",
     "amazon_link": "https://amzn.to/2NPmzcw"
     },
     {
+        "info": "Daily Rituals: How Artists Work Book by Mason Currey",
         "book_cover":"/assets/images/bookpics/daily rituals by mason currey.jpg",
         "description": "“For my birthday last year, I received a incredible book: Daily Rituals: How Artists Work. It was given to me by Josh Waitzkin, the renowned chess champion (best known from Searching for Bobby Fischer) and a master at deconstructing the world’s top performers. (Ferriss' Notes)",
         "full_description":"He loved the book, and I fell head over heels in love with it. It became my daily companion. There were gems everywhere, and I underlined nearly every page. I began to read 1-2 page-long profiles each morning with my pu-erh tea, and this ritual not only shocked me out of a major depressive funk, it also triggered a creative explosion. I was having fun again… and getting tons done in the process!” (Ferriss, tim.blog) ",
         "amazon_link": "https://amzn.to/2R8i9eG"
         },
         {
+            "info": "The Art of Learning: An Inner Journey to Optimal Performance Book by Joshua Waitzkin",
             "book_cover":"/assets/images/bookpics/the art of learning_josh waitzkin.jpg",
             "description": "Waitzkin tells his remarkable story of personal achievement and shares the principles of learning and performance that have propelled him to the top—twice. Josh Waitzkin knows what it means to be at the top of his game. A public figure since winning his first National Chess Championship at the age of nine, Waitzkin was catapulted into a media whirlwind as a teenager when his father’s book Searching for Bobby Fischer was made into a major motion picture.",
             "full_description":"After dominating the scholastic chess world for ten years, Waitzkin expanded his horizons, taking on the martial art Tai Chi Chuan and ultimately earning the title of World Champion. How was he able to reach the pinnacle of two disciplines that on the surface seem so different? “I’ve come to realize that what I am best at is not Tai Chi, and it is not chess,” he says. “What I am best at is the art of learning.” With a narrative that combines heart-stopping martial arts wars and tense chess face-offs with life lessons that speak to all of us, The Art of Learning takes readers through Waitzkin’s unique journey to excellence. He explains in clear detail how a well-thought-out, principled approach to learning is what separates success from failure. Waitzkin believes that achievement, even at the championship level, is a function of a lifestyle that fuels a creative, resilient growth process. Rather than focusing on climactic wins, Waitzkin reveals the inner workings of his everyday method, from systematically triggering intuitive breakthroughs, to honing techniques into states of remarkable potency, to mastering the art of performance psychology.",
             "amazon_link": "https://amzn.to/2DGZKmN"
             },   
             {
+                "info": "The Obstacle is the Way by Ryan Holiday",
                 "book_cover":"/assets/images/bookpics/the obstacle is the way_ryan holiday.jpg",
                 "description": "“It has helped me to turn problems upside-down, become the calm within the storm, and even uncover unique opportunities.“Philosophy” gets a bad rap. Most of us know a turtleneck-wearing pseudo-intellectual who’s spent countless hours studying obscure details of Freud or post-structural lesbian feminism... (Ferriss' Notes)",
                 "full_description":"These same people sometimes purport to be “philosophical.” And for what? More often than not, to posture as a holier-than-thou jerk off. To argue over semantics that don’t matter. Fortunately, there are a few philosophical systems that produce dramatic real-world results…without the nonsense. In other words, all substance instead of smoke. The Obstacle Is The Way, penned by Ryan Holiday, is a collection of stories and principles about Stoicism, which I consider to be the ultimate personal “operating system” for entrepreneurs…or anyone who wants high performance under high stress.” (Ferris' Notes, tim.blog)",
                 "amazon_link": "https://amzn.to/2NQdmAL"
                 },
                 {
+                    "info": "What I Learned Losing a Million Dollars Book by Brendan Moynihan and Jim Paul",
                     "book_cover":"/assets/images/bookpics/what i learned losing a million dollars_jim paul_brendan moynihan.jpg",
                     "description": "“This book came into my life through N.N. Taleb, who has made several fortunes by exploiting the hubris of Wall Street. Given how vociferously he attacks most books on investing, it caught my attention that he openly praises this little book. My first dinner with Nassim was in September of 2008. It was memorable for many reasons... (Ferriss' Notes)",
                     "full_description":"We were introduced by the incredible Seth Roberts (may he rest in peace), and we sat down just as Lehman Brothers was collapsing, which Taleb had — in simple terms — brilliantly shorted. We proceeded to drinking nearly all of the Prosecco in the restaurant, while talking about life, business, and investing. Lehman Brothers would end up the largest bankruptcy filing in US history, involving $600+ billion in assets… The next day, I had a massive hangover and a hunger to study Nassim. Step one was simple: reading more of what he read.I grabbed a copy of What I Learned Losing a Million Dollars, and I’ve since read it many, many times. For less than $20, this tool has helped me avoid multiple catastrophes, and I can directly credit its influence to roughly 1/2 of my net worth (!). The ROI has been incredible. Even if you don’t view yourself as an “investor,” this book can help you make better decisions in life. Also, the stories, similar in flavor to Liar’s Poker, are hilarious and range from high-stakes baccarat to Arabian horse fiascos.  For entertainment value alone, this book is worth the time.” (Ferriss, tim.blog)",
                     "amazon_link": "https://amzn.to/2Nb3trZ"
                     },
                     {
+                        "info": "We Learning Nothing by Tim Kreider",
                         "book_cover":"/assets/images/bookpics/we learn nothing_tim kreider.jpg",
                         "description": "“I loved this book so much that I reached out to Tim and we produced the audiobook together. “Lazy: A Manifesto” is one small chapter. If you want to stop feeling rushed, this might be the medicine you need... (Ferriss' Notes)",
                         "full_description":"If you want to burst into hysterical laughter in airports and freak out everyone (as I did), look no further.If you want to say “That’s exactly how I feel, but I’ve never had the words to express it!” this book delivers.  There’s a chapter for everyone.” (Ferriss' Notes, tim.blog)",
                         "amazon_link": "https://amzn.to/2N9GhKL"
                         },
                         {
+                            "info": "The Tao of Seneca",
                             "book_cover":"/assets/images/bookpics/tao_of_seneca.jpg",
                             "description": "The Tao of Seneca (volumes 1-3) is an introduction to Stoic philosophy through the words of Seneca. If you study Seneca, you'll be in good company. He was popular with the educated elite of the Greco-Roman Empire, but Thomas Jefferson also had Seneca on his bedside table.",
                             "full_description":"Thought leaders in Silicon Valley tout the benefits of Stoicism, and NFL management, coaches, and players alike - from teams such as the Patriots and Seahawks - have embraced it because the principles make them better competitors. Stoicism is a no-nonsense philosophical system designed to produce dramatic real-world effects. Think of it as an ideal operating system for thriving in high-stress environments. This is your guide.",
                             "amazon_link": "https://amzn.to/2OrAXai"
                             },
                             {
+                                "info": "Ego is the Enemy by Ryan Holiday",
                                 "book_cover":"/assets/images/bookpics/ego is the enemy.jpg",
                                 "description": "“While the history books are filled with tales of obsessive visionary geniuses who remade the world in their image with sheer, almost irrational force, I’ve found that history is also made by individuals who fought their egos at every turn, who eschewed the spotlight, and who put their higher goals above their desire for recognition.” —from the prologue",
                                 "full_description":"Many of us insist the main impediment to a full, successful life is the outside world. In fact, the most common enemy lies within: our ego. Early in our careers, it impedes learning and the cultivation of talent. With success, it can blind us to our faults and sow future problems. In failure, it magnifies each blow and makes recovery more difficult. At every stage, ego holds us back.",
                                 "amazon_link": "https://amzn.to/2IrALm3"
                                 },
                                 {
+                                    "info": "The Daily Stoic Book by Ryan Holiday",
                                     "book_cover":"/assets/images/bookpics/the daily stoic_ryan holiday.jpg",
                                     "description": "Why have history's greatest minds—from George Washington to Frederick the Great to Ralph Waldo Emerson, along with today's top performers from Super Bowl-winning football coaches to CEOs and celebrities—embraced the wisdom of the ancient Stoics? Because they realize that the most valuable wisdom is timeless and that philosophy is for living a better life, not a classroom exercise.",
                                     "full_description":"The Daily Stoic offers 366 days of Stoic insights and exercises, featuring all-new translations from the Emperor Marcus Aurelius, the playwright Seneca, or slave-turned-philosopher Epictetus, as well as lesser-known luminaries like Zeno, Cleanthes, and Musonius Rufus. Every day of the year you'll find one of their pithy, powerful quotations, as well as historical anecdotes, provocative commentary, and a helpful glossary of Greek terms. By following these teachings over the course of a year (and, indeed, for years to come) you'll find the serenity, self-knowledge, and resilience you need to live well.",

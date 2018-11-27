@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/emma.jpg",
+        "info": "Emma by Jane Austen",
+        "book_cover":"/assets/images/bookpics/emma.jpg",
     "description": "Jane Austen teased readers with the idea of a 'heroine whom no one but myself will much like', but Emma is irresistible. 'Handsome, clever, and rich', Emma is also an 'imaginist', 'on fire with speculation and foresight'...",
     "full_description": "She sees the signs of romance all around her, but thinks she will never be married. Her matchmaking maps out relationships that Jane Austen ironically tweaks into a clearer perspective. Judgement and imagination are matched in games the reader too can enjoy, and the end is a triumph of understanding.",
     "amazon_link": "https://amzn.to/2wERoFk"
     },
     {
+        "info": "The Little White Horse by Elizabeth Goudge",
         "book_cover":"/assets/images/bookpics/the_little_white_horse.jpg",
         "description": "Goudge was the only one whose influence I was conscious of. She always described exactly what the children were eating, and I really liked knowing what they had in their sandwiches. (Rowling's Notes, Oprah)",
         "full_description": "When orphaned young Maria Merryweather arrives at Moonacre Manor, she feels as if she's entered Paradise. Her new guardian, her uncle Sir Benjamin, is kind and funny; the Manor itself feels like home right away; and every person and animal she meets is like an old friend. But there is something incredibly sad beneath all of this beauty and comfort--a tragedy that happened years ago, shadowing Moonacre Manor and the town around it--and Maria is determined to learn about it, change it, and give her own life story a happy ending. But what can one solitary girl do?",
         "amazon_link": "https://amzn.to/2NeltFZ"
         },
         {
+            "info": "Cheri by Colette",
             "book_cover":"/assets/images/bookpics/cheri.jpg",
             "description": "I've never found anything to match [Colette's] descriptive passages, ever. She was a very sensual writer, and way beyond her time. Chéri is a love story between a very spoiled young man and his mistress who has 'been there, done that.' He's self-centered and vicious, and she ultimately turns out to be very noble...",
             "full_description": "The final scene is incredibly moving; it makes me cry. I absolutely bow to Colette, but I think if she could hear me, she would probably tell me where to get lost, because she was that kind of woman. (Rowling's Notes, Oprah) This anthology is a thorough introduction to classic literature for those who have not yet experienced these literary masterworks. For those who have known and loved these works in the past, this is an invitation to reunite with old friends in a fresh new format. From Shakespeare s finesse to Oscar Wilde s wit, this unique collection brings together works as diverse and influential as The Pilgrim s Progress and Othello. As an anthology that invites readers to immerse themselves in the masterpieces of the literary giants, it is must-have addition to any library.",
@@ -19,6 +22,7 @@ books: [
             },
 
             {
+                "info": "Team of Rivals by Doris Kearns Goodwin",
                 "book_cover":"/assets/images/bookpics/team_of_rivals.jpg",
                 "description": "I lived in it the way that you do with truly great books; putting it down with glazed eyes and feeling disconcerted to find yourself in the 21st century. (Rowling's Notes, NY Times)",
                 "full_description": "This anthology is a thorough introduction to classic literature for those who have not yet experienced these literary masterworks. For those who have known and loved these works in the past, this is an invitation to reunite with old friends in a fresh new format. From Shakespeare s finesse to Oscar Wilde s wit, this unique collection brings together works as diverse and influential as The Pilgrim s Progress and Othello. As an anthology that invites readers to immerse themselves in the masterpieces of the literary giants, it is must-have addition to any library.",

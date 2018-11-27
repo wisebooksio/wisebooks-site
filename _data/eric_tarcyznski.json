@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/atlas shrugged.jpg",
+        "info": "Atlas Shrugged by Ayn Rand",
+        "book_cover":"/assets/images/bookpics/atlas shrugged.jpg",
     "description": "I think, for me, it speaks to at least a certain segment of my values and beliefs that are really important. Primarily speaking, about the values of not only incentives and meritocracy, but individualism and not the rigid form of it that she [Ayn Rand] believed in... (Eric's Notes)",
     "full_description":"Rather, in the sense that you as an individual are valuable; doing things for you, in some sense, should be your true north and that’s a large part, I believe, how and why societies move forward. People set goals, and they’re vicious in achieving them. (Eric's Notes) ",
     "amazon_link": "https://amzn.to/2xTxKpV"
     },
     {
+        "info": "Extreme Ownership: How U.S. Navy SEALs Lead and Win Book by Jocko Willink and Leif Babin",
         "book_cover":"/assets/images/bookpics/extreme_ownership.jpg",
         "description": "The most recent book that I read was called Extreme Ownership, which is a book on a couple of former navy seals. It talked about a flashback, where they’d share their experiences and tie that into what we’re calling the real world...(Eric's Notes)",
         "full_description":"The idea behind Extreme Ownership is that, at the end of the day, if you’re a leader or manager, someone who has responsibility for other individuals in any environment whether that’s in Baghdad or Goldman Sachs, the buck stops with you as a leader. Let’s say I’m running an organization and I have responsibility for a team of 10-15 people, if one of those people does anything wrong… then that’s on you, at the end of the day. If one of them has a sales call with someone and they speak about the product in the wrong way, or they push out a product too soon, crashing the servers or the website, that’s on you. That’s my responsibility and I’ve failed as a leader in that sense because I didn’t teach them the right way or didn’t test this thoroughly enough before pushing it live. All of these things, at the root, come back to me, and I need to own that. I needed to understand that, I was actually the person who did something wrong. As a leader, once you start to really adhere to that, it’s pretty powerful because you stop playing the blame game. You start being hypercritical of not only yourself but also your organization and how things operate. I think it raises the bar to a completely new degree; you become a better leader by owning up to your shortcomings. (Eric's Notes)",
         "amazon_link": "https://amzn.to/2InFQf0"
         },
         {
+            "info": "The Rational Optimist: How Prosperity Evolves Book by Matt Ridley",
             "book_cover":"/assets/images/bookpics/rational_optimist.jpg",
             "description": "This book talks about human prosperity overall and starts all the way back from the Phoenicians for example, and then the Mediterraneans, etc. and talks about how they had idea sex, basically. So, in the Mediterranean, people were merchants…(Eric's Notes)",
             "full_description":" They’d let go and travel around and develop this piecemeal knowledge and that’s what contributes to innovation, society, sport, and talks about how prosperity is generated through trade. It was also really encouraging because in the day-to-day, we see so much negative; it seems like the world could go under in two seconds. The Rational Optimist however, says it’s not. The book talks about the history of human prosperity and trade, and those kinds of things, however it also leads up all the way into what we’ll call modern day issues (everything from nuclear energy to international aid). What the book does with each of those topics is debunks our fear and concerns with facts. It was a powerful book for me because it left me feeling encouraged about our general society and its progress moving forward. He also did it in a way that was anchored with evidence, providing a lot of substance and proof that, “Hey, humanity is doing pretty well.” (Eric's Notes)",

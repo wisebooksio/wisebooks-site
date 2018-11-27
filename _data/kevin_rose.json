@@ -1,59 +1,69 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/22 immutable laws of marketing al ries and jack trout.jpg",
+        "info": "The 22 Immutable Laws of Marketing Book by Al Ries and Jack Trout",
+        "book_cover":"/assets/images/bookpics/22 immutable laws of marketing al ries and jack trout.jpg",
     "description": "There are laws of nature, so why shouldn't there be laws of marketing? As Al Ries and Jack Trout—the world-renowned marketing consultants and bestselling authors of Positioning—note, you can build an impressive airplane, but it will never leave the ground if you ignore the laws of physics, especially gravity. Why then, they ask, shouldn't there also be laws of marketing that must be followed to launch and maintain winning brands?",
     "full_description":"In The 22 Immutable Laws of Marketing, Ries and Trout offer a compendium of twenty-two innovative rules for understanding and succeeding in the international marketplace. From the Law of Leadership, to The Law of the Category, to The Law of the Mind, these valuable insights stand the test of time and present a clear path to successful products. Violate them at your own risk.",
     "amazon_link": "https://amzn.to/2BZJACp"
     },
     {
+        "info": "getting real by 37signals",
         "book_cover":"/assets/images/bookpics/getting real by jason fried and david heinemeier hansson.jpg",
         "description": "Getting Real details the business, design, programming, and marketing principles of 37signals. The book is packed with keep-it-simple insights, contrarian points of view, and unconventional approaches to software design.",
         "full_description":"This is not a technical book or a design tutorial, it's a book of ideas. Anyone working on a web app - including entrepreneurs, designers, programmers, executives, or marketers - will find value and inspiration in this book. 37signals used the Getting Real process to launch five successful web-based applications (Basecamp, Campfire, Backpack, Writeboard, Ta-da List), and Ruby on Rails, an open-source web application framework, in just two years with no outside funding, no debt, and only 7 people (distributed across 7 time zones). Over 500,000 people around the world use these applications to get things done. Now you can find out how they did it and how you can do it too. It's not as hard as you think if you Get Real.",
         "amazon_link": "https://amzn.to/2y7vtrQ"
         },
         {
+            "info": "vagabonding by rolf potts",
             "book_cover":"/assets/images/bookpics/vagabonding by rolf potts.jpg",
             "description": "Vagabonding is about taking time off from your normal life—from six weeks to four months to two years—to discover and experience the world on your own terms.",
             "full_description":"Veteran shoestring traveler Rolf Potts shows how anyone armed with an independent spirit can achieve the dream of extended overseas travel. Not just a plan of action, vagabonding is an outlook on life that emphasizes creativity, discovery, and the growth of the spirit.",
             "amazon_link": "https://amzn.to/2yns1J0"
             },
             {
+                "info": "Seneca Letters from a Stoic",
                 "book_cover":"/assets/images/bookpics/seneca letters from a stoic.jpg",
                 "description": "For several years of his turbulent life, Seneca was the guiding hand of the Roman Empire. His inspired reasoning derived mainly from the Stoic principles, which had originally been developed some centuries earlier in Athens.",
                 "full_description":"This selection of Seneca's letters shows him upholding the austere ethical ideals of Stoicism—the wisdom of the self-possessed person immune to overmastering emotions and life’s setbacks—while valuing friendship and the courage of ordinary men, and criticizing the harsh treatment  of slaves and the cruelties in the gladiatorial arena. The humanity and wit revealed in Seneca’s interpretation of Stoicism is a moving and inspiring declaration of the dignity of the individual mind.",
                 "amazon_link": "https://amzn.to/2IF6kZE"
                 },
                 {
+                    "info": "Leaving Microsoft to Change the World Book by John Wood",
                     "book_cover":"/assets/images/bookpics/leaving microsoft to change the world by john wood.jpg",
                     "description": "John Wood discovered his passion, his greatest success, and his life's work not at business school or helping lead Microsoft's charge into Asia in the 1990s but on a soul-searching trip to the Himalayas. He made the difficult decision to walk away from his lucrative career to create Room to Read, a nonprofit organization that promotes education across the developing world...",
                     "full_description":"By the end of 2007, the organization will have established over 5,000 libraries and 400 schools, and awarded long-term scholarships to more than 3,000 girls, giving more than one million children the lifelong gift of education. If you have ever pondered abandoning your desk job for an adventure and an opportunity to give back, Wood's story will inspire you. He offers a vivid, emotional, and absorbing tale of how to take the lessons learned at a hard-charging company like Microsoft and apply them to the world's most pressing social problems.",
                     "amazon_link": "https://amzn.to/2y7vRGO"
                     },
                     {
+                        "info": "Envisioning Information by Edward Tufte",
                         "book_cover":"/assets/images/bookpics/envisioning information.jpg",
                         "description": "This book celebrates escapes from the flatlands of both paper and computer screen, showing superb displays of high-dimensional complex data. The most design-oriented of Edward Tufte's books, Envisioning Information shows maps, charts, scientific presentations, diagrams, computer interfaces, statistical graphics and tables, stereo photographs, guidebooks, courtroom exhibits, timetables, use of color, a pop-up, and many other wonderful displays of information.",
                         "full_description":"The book provides practical advice about how to explain complex material by visual means, with extraordinary examples to illustrate the fundamental principles of information displays. Topics include escaping flatland, color and information, micro/macro designs, layering and separation, small multiples, and narratives. Winner of 17 awards for design and content. 400 illustrations with exquisite 6- to 12-color printing throughout. Highest quality design and production.",
                         "amazon_link": "https://amzn.to/2y3PSOJ"
                         },
                         {
+                            "info": "the tipping point by malcolm gladwell",
                             "book_cover":"/assets/images/bookpics/the tipping point by malcolm gladwell.jpg",
                             "description": "The tipping point is that magic moment when an idea, trend, or social behavior crosses a threshold, tips, and spreads like wildfire. Just as a single sick person can start an epidemic of the flu, so too can a small but precisely targeted push cause a fashion trend, the popularity of a new product, or a drop in the crime rate.",
                             "full_description":"This widely acclaimed bestseller, in which Malcolm Gladwell explores and brilliantly illuminates the tipping point phenomenon, is already changing the way people throughout the world think about selling products and disseminating ideas.",
                             "amazon_link": "https://amzn.to/2DYX7N8"
                             },
                             {
+                                "info": "8 weeks to optimum health by andrew weil",
                                 "book_cover":"/assets/images/bookpics/8 weeks to optimum health by andrew weil.jpg",
                                 "description": "Eight Weeks to Optimum Health lays out Dr. Andrew Weil’s famous week-by-week, step-by-step plan that will keep your body’s natural healing system in peak working order. It covers diet, exercise, lifestyle, stress, and environment–all aspects of daily living that affect health and well-being.",
                                 "full_description":"This revised edition includes the most up-to-date findings on such vital subjects as cholesterol, antioxidants, trans fats, toxic residues in the food supply, soy products, and vitamins and supplements, together with a greatly enhanced source list of information and supplies.",
                                 "amazon_link": "https://amzn.to/2Rx9rqx"
                                 }, 
                                 {
+                                    "info": "Zen Mind, Beginner's Mind Book by Shunryū Suzuki",
                                     "book_cover":"/assets/images/bookpics/zen mind, beginner's mind.jpg",
                                     "description": "“In the beginner's mind there are many possibilities, but in the expert's there are few.&quot; So begins this most beloved of all American Zen books. Seldom has such a small handful of words provided a teaching as rich as has this famous opening line of Shunryu Suzuki's classic...",
                                     "full_description":"In a single stroke, the simple sentence cuts through the pervasive tendency students have of getting so close to Zen as to completely miss what it's all about. An instant teaching on the first page. And that's just the beginning. In the thirty years since its original publication, Zen Mind, Beginner's Mind has become one of the great modern Zen classics, much beloved, much re-read, and much recommended as the best first book to read on Zen. Suzuki Roshi presents the basics—from the details of posture and breathing in zazen to the perception of nonduality—in a way that is not only remarkably clear, but that also resonates with the joy of insight from the first to the last page. It's a book to come back to time and time again as an inspiration to practice.",
                                     "amazon_link": "https://amzn.to/2E1zcg1"
                                     },
                                     {
+                                        "info": "The Intelligent Investor by Benjamin Graham",
                                         "book_cover":"/assets/images/bookpics/intelligent investor.jpg",
                                         "description": "This classic text is annotated to update Graham's timeless wisdom for today's market conditions...The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham's philosophy of 'value investing' -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949.",
                                         "full_description":"Over the years, market developments have proven the wisdom of Graham's strategies. While preserving the integrity of Graham's original text, this revised edition includes updated commentary by noted financial journalist Jason Zweig, whose perspective incorporates the realities of today's market, draws parallels between Graham's examples and today's financial headlines, and gives readers a more thorough understanding of how to apply Graham's principles. Vital and indispensable, this HarperBusiness Essentials edition of The Intelligent Investor is the most important book you will ever read on how to reach your financial goals.",

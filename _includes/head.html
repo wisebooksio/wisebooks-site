@@ -1,5 +1,8 @@
 <head>
+	{% if page.title %}<title>{{page.title}}{% if page.favebooks %}'s Favorite Books{% endif %} | Wisebooks</title>
+	{% else %}
 	<title>{{ site.title }}</title>
+	{% endif %}
 	<meta charset="utf-8" />
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
@@ -9,7 +12,7 @@
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	{% if page.description == False %}<meta name="description" content="{{site.description}}">{% endif %}
-	<title>{{page.title}}'s Favorite Books</title>
+	{% seo %}
 	{% seo title=false %}
 	
 	{% if site.tags != "" %}

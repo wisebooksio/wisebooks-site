@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/malcolm x.jpg",
+        "info": "The Autobiography of Malcolm X by Alex Haley",
+        "book_cover":"/assets/images/bookpics/malcolm x.jpg",
     "description": "In the searing pages of this classic autobiography, originally published in 1964, Malcolm X, the Muslim leader, firebrand, and anti-integrationist, tells the extraordinary story of his life and the growth of the Black Muslim movement.",
     "full_description":"His fascinating perspective on the lies and limitations of the American Dream, and the inherent racism in a society that denies its nonwhite citizens the opportunity to dream, gives extraordinary insight into the most urgent issues of our own time. The Autobiography of Malcolm X stands as the definitive statement of a movement and a man whose work was never completed but whose message is timeless. It is essential reading for anyone who wants to understand America.",
     "amazon_link": "https://amzn.to/2Cb5PqA"
     },
     {
+        "info": "The Second World War by John Keegan",
         "book_cover":"/assets/images/bookpics/the_second_world_war.jpg",
         "description": "Keegan examines each theater of the war, focusing on five crucial battles and offering new insights into the distinctive methods and motivations of modern warfare.",
         "full_description":"In eloquent, perceptive analyses of the airborne battle of Crete, the carrier battle of Midway, the tank battle of Falaise, the city battle of Berlin, and the amphibious battle of Okinawa, Keegan illuminates the strategic dilemmas faced by the leaders and the consequences of their decisions on the fighting men and the course of the war as a whole. An extraordinary, definitive history, The Second World War will be required reading for generations to come.",
         "amazon_link": "https://amzn.to/2NhFefQ"
         },
         {
+            "info": "It's Not How Good You Are, It's How Good You Want To Be by Paul Arden",
             "book_cover":"/assets/images/bookpics/not_how_good_ you_are.jpg",
             "description": "It's Not How Good You Are, It's How Good You Want to Be is a handbook of how to succeed in the world - a pocket 'bible' for the talented and timid to make the unthinkable thinkable and the impossible possible. The world's top advertising guru, Paul Arden, offers up his wisdom on issues as diverse as problem solving, responding to a brief, communicating, playing your cards right, making mistakes and creativity, all notions that can be applied to aspects of modern life.",
             "full_description": "Paul Arden began his career in advertising at the age of 16. For 14 years he was Executive Creative Director at Saatchi and Saatchi, where he was responsible for some of Britain's best known campaigns including British Airways, Silk Cut, Anchor Butter, InterCity and Fuji. His famous slogans include 'The Car in front is a Toyota' and 'The Independent - It is - Are You?'. In 1993 he set up the London-based production company Arden Sutherland-Dodd where he is now a commercials director for clients such as BT, BMW, Ford, Nestle and Levis. This book provides a unique insight into the world of advertising and is a quirky compilation of quotes, facts, pictures, wit and wisdom, packed into easy-to-digest, bite-sized spreads. If you want to succeed in life or business, this is a must!",

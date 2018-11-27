@@ -1,9 +1,15 @@
 ---
 layout: post
+book_info: 
+- The Dance of Anger by Harriet Lerner
+- Why Won't You Apologize? Healing Big Betrayals and Everyday Hurts by Harriet Lerner
+- Stretch by Scott Sonenshein
+- Lead Yourself First Inspiring Leadership Through Solitude by Michael S. Erwin and Raymond Kethledge
 title: Dr. Brene Brown
 description: NY Times Best selling Author, Viral TED Speaker, Research professor at University of Houston 
 image: assets/images/profilepics/brene_brown.jpg
 allpeoplepics: assets/images/allpeoplepics/brene_brown.jpg
+favebooks: True
 person: brene_brown
 category: Researcher
 imgattribution: TED talks

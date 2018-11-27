@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/sapiens.jpg",
+        "info": "Sapiens by Yuval Noah Harari",
+        "book_cover":"/assets/images/bookpics/sapiens.jpg",
     "description": "From a renowned historian comes a groundbreaking narrative of humanity’s creation and evolution—a #1 international bestseller—that explores the ways in which biology and history have defined us and enhanced our understanding of what it means to be “human.”",
     "full_description":"Most books about the history of humanity pursue either a historical or a biological approach, but Dr. Yuval Noah Harari breaks the mold with this highly original book that begins about 70,000 years ago with the appearance of modern cognition. Dr. Harari also compels us to look ahead, because over the last few decades humans have begun to bend laws of natural selection that have governed life for the past four billion years. We are acquiring the ability to design not only the world around us, but also ourselves. Where is this leading us, and what do we want to become?",
     "amazon_link": "https://amzn.to/2xjhL3S"
     },
     {
+        "info": "Cry, the Beloved Country by Alan Paton",
         "book_cover":"/assets/images/bookpics/cry the beloved country.jpg",
         "description": "Cry, the Beloved Country is the deeply moving story of the Zulu pastor Stephen Kumalo and his son, Absalom, set against the background of a land and a people riven by racial injustice. Remarkable for its lyricism, unforgettable for character and incident, Cry, the Beloved Country is a classic work of love and hope, courage and endurance, born of the dignity of man.",
         "full_description":"The eminent literary critic Lewis Gannett wrote, “We have had many novels from statesmen and reformers, almost all bad; many novels from poets, almost all thin. In Alan Paton’s Cry, the Beloved Country the statesman, the poet and the novelist meet in a unique harmony.”",
         "amazon_link": "https://amzn.to/2QBoGhJ"
         },
         {
+            "info": "Enlighten Now by Steven Pinker",
             "book_cover":"/assets/images/bookpics/enlightenment now.jpg",
             "description": "If you think the world is coming to an end, think again: people are living longer, healthier, freer, and happier lives, and while our problems are formidable, the solutions lie in the Enlightenment ideal of using reason and science.",
             "full_description":"Is the world really falling apart? Is the ideal of progress obsolete? In this elegant assessment of the human condition in the third millennium, cognitive scientist and public intellectual Steven Pinker urges us to step back from the gory headlines and prophecies of doom, which play to our psychological biases. Instead, follow the data: In seventy-five jaw-dropping graphs, Pinker shows that life, health, prosperity, safety, peace, knowledge, and happiness are on the rise, not just in the West, but worldwide. This progress is not the result of some cosmic force. It is a gift of the Enlightenment: the conviction that reason and science can enhance human flourishing.",

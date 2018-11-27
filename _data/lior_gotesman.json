@@ -1,16 +1,19 @@
 books: [
     {
+        "info": "Paul Graham Essays",
         "book_cover":"/assets/images/bookpics/paul_graham_essays.jpg",
         "description": "Co-Founder of Y-Combinator's essays on all things startup.",
         "amazon_link": "http://www.paulgraham.com/articles.html"
         },
     {
-    "book_cover":"/assets/images/bookpics/the lean startup.jpg",
+        "info": "The Lean Startup by Eric Ries",
+        "book_cover":"/assets/images/bookpics/the lean startup.jpg",
     "description": "Rather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it’s too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
     "full_description": "Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business. The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively.  Inspired by lessons from lean manufacturing, it relies on “validated learning,” rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute.",
     "amazon_link": "https://amzn.to/2pVLIEa"
     },
     {
+        "info": "This Week in Startups by Jason Calacanis",
         "book_cover":"/assets/images/bookpics/this week in startups.jpg",
         "description": "Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of entrepreneurship. Calacanis, a podcasting pioneer, gives you an insider’s look at what’s happening in the tech industry with his trademark blunt style and good humor. Looking to start your own company?",
         "full_description": "Need strategies for improving your business of motivating your team? Just want to catch up on what’s happening in Silicon Valley and beyond? Your journey begins here.",

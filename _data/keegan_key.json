@@ -1,17 +1,20 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/hamlet in purgatory.jpg",
+        "info": "Hamlet in Purgatory by Stephen Greenblatt",
+        "book_cover":"/assets/images/bookpics/hamlet in purgatory.jpg",
     "description": "In Hamlet in Purgatory, renowned literary scholar Stephen Greenblatt delves into his longtime fascination with the ghost of Hamlet's father, and his daring and ultimately gratifying journey takes him through surprising intellectual territory. It yields an extraordinary account of the rise and fall of Purgatory as both a belief and a lucrative institution--",
     "full_description":"as well as a capacious new reading of the power of Hamlet. In the mid-sixteenth century, English authorities abruptly changed the relationship between the living and dead. Declaring that Purgatory was a false 'poem,' they abolished the institutions and banned the practices that Christians relied on to ease the passage to Heaven for themselves and their dead loved ones. Greenblatt explores the fantastic adventure narratives, ghost stories, pilgrimages, and imagery by which a belief in a grisly 'prison house of souls' had been shaped and reinforced in the Middle Ages. He probes the psychological benefits as well as the high costs of this belief and of its demolition.",
     "amazon_link": "https://amzn.to/2p4tUWW"
     },
     {
+        "info": "The Sellout by Paul Beatty",
         "book_cover":"/assets/images/bookpics/the sellout.jpg",
         "description": "A biting satire about a young man's isolated upbringing and the race trial that sends him to the Supreme Court, Paul Beatty's The Sellout showcases a comic genius at the top of his game. It challenges the sacred tenets of the United States Constitution, urban life, the civil rights movement, the father-son relationship, and the holy grail of racial equality―the black Chinese restaurant.",
         "full_description":"Born in the 'agrarian ghetto' of Dickens―on the southern outskirts of Los Angeles―the narrator of The Sellout resigns himself to the fate of lower-middle-class Californians. Raised by a single father, a controversial sociologist, he spent his childhood as the subject in racially charged psychological studies. He is led to believe that his father's pioneering work will result in a memoir that will solve his family's financial woes. But when his father is killed in a police shoot-out, he realizes there never was a memoir. All that's left is the bill for a drive-thru funeral. Fueled by this deceit and the general disrepair of his hometown, the narrator sets out to right another wrong: Dickens has literally been removed from the map to save California from further embarrassment. Enlisting the help of the town's most famous resident―the last surviving Little Rascal, Hominy Jenkins―he initiates the most outrageous action conceivable: reinstating slavery and segregating the local high school, which lands him in the Supreme Court.",
         "amazon_link": "https://amzn.to/2CUTOWD"
         },
         {
+            "info": "Win or Learn by John Kavanagh",
             "book_cover":"/assets/images/bookpics/win_or_learn.jpg",
             "description": "Growing up in Dublin, John Kavanagh was bullied. After suffering a bad beating when he intervened to help a woman being attacked, he decided to learn to defend himself. Before long, he was training fighters in a tiny shed, and promoting the earliest mixed-martial arts events in Ireland. And then, a cocky kid called Conor McGregor walked into his gym.",
             "full_description":"Here, Kavanagh tells his own remarkable life story—which is at the heart of the story of the explosion of MMA in Ireland and globally. Kavanagh has become a guru to young men and women seeking to master the arts of combat, and as McGregor's trainer, his gym has become a magnet for fighters from all over the world. Kavanagh's portrait of McGregor is a revelation. What emerges is a remarkable portrait of ambition, discipline, and persistence in the face of years and years of disappointment. It is a must read for every MMA fan—and anyone who wants to understand how to follow a dream and realize a vision.",

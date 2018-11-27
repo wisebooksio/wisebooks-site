@@ -1,29 +1,34 @@
 books: [
     {
+        "info": "Sour Heart by Jenny Zhang",
     "book_cover":"/assets/images/bookpics/sour heart.jpg",
     "description": "“Req’d reading because Jenny Zhang is very correct in all things #sourheart” (Constance's Notes) A fresh new voice emerges with the arrival of Sour Heart, establishing Jenny Zhang as a frank and subversive interpreter of the immigrant experience in America...",
     "full_description":"Her stories cut across generations and continents, moving from the fraught halls of a public school in Flushing, Queens, to the tumultuous streets of Shanghai, China, during the Cultural Revolution of the 1960s. In the absence of grown-ups, latchkey kids experiment on each other until one day the experiments turn violent; an overbearing mother abandons her artistic aspirations to come to America but relives her glory days through karaoke; and a shy loner struggles to master English so she can speak to God. Narrated by the daughters of Chinese immigrants who fled imperiled lives as artists back home only to struggle to stay afloat—dumpster diving for food and scamming Atlantic City casino buses to make a buck—these seven stories showcase Zhang’s compassion, moral courage, and a perverse sense of humor reminiscent of Portnoy’s Complaint. A darkly funny and intimate rendering of girlhood, Sour Heart examines what it means to belong to a family, to find your home, leave it, reject it, and return again.",
     "amazon_link": "https://amzn.to/2CXBxbl"
     },
     {
+        "info": "Gilead by Marilynne Robinson",
         "book_cover":"/assets/images/bookpics/gilead.jpg",
         "description": "Nearly 25 years after Housekeeping, Marilynne Robinson returns with an intimate tale of three generations, from the Civil War to the 20th century: a story about fathers and sons and the spiritual battles that still rage at America's heart.",
         "full_description": "In the words of Kirkus, it is a novel 'as big as a nation, as quiet as thought, and moving as prayer. Matchless and towering.' Gilead tells the story of America and will break your heart.",
         "amazon_link": "https://amzn.to/2xj1Pyy"
         },
         {
+            "info": "Heroine Complex by Sarah Kuhn",
             "book_cover":"/assets/images/bookpics/heroine complex.jpg",
             "description": "Asian-American superheroines Evie Tanaka and Aveda Jupiter protect San Francisco from perilous threats in the first book in Sarah Kuhn's snarky and smart fantasy trilogy.",
             "full_description":"Being a superheroine is hard. Working for one is even harder. Evie Tanaka is the put-upon personal assistant to Aveda Jupiter, her childhood best friend and San Francisco’s most beloved superheroine. She’s great at her job—blending into the background, handling her boss’s epic diva tantrums, and getting demon blood out of leather pants. Unfortunately, she’s not nearly as together when it comes to running her own life, standing up for herself, or raising her tempestuous teenage sister, Bea. But everything changes when Evie’s forced to pose as her glamorous boss for one night, and her darkest secret comes out: she has powers, too. Now it’s up to her to contend with murderous cupcakes, nosy gossip bloggers, and supernatural karaoke battles—all while juggling unexpected romance and Aveda’s increasingly outrageous demands. And when a larger threat emerges, Evie must finally take charge and become a superheroine in her own right...or see her city fall to a full-on demonic invasion.",
             "amazon_link": "https://amzn.to/2xoq0vV"
             },
             {
+                "info": "Tinkers by Paul Harding",
                 "book_cover":"/assets/images/bookpics/tinkers.jpg",
                 "description": "An old man lies dying. Propped up in his living room and surrounded by his children and grandchildren, George Washington Crosby drifts in and out of consciousness, back to the wonder and pain of his impoverished childhood in Maine. As the clock repairer’s time winds down, his memories...",
                 "full_description":"intertwine with those of his father, an epileptic, itinerant peddler and his grandfather, a Methodist preacher beset by madness. At once heartbreaking and life affirming, Tinkers is an elegiac meditation on love, loss, illness, faith, and the fierce beauty of nature. (Goodreads summary)",
                 "amazon_link": "https://amzn.to/2p4HsBH"
                 },
                 {
+                    "info": "The Wangs VS The World by Jade Chang",
                     "book_cover":"/assets/images/bookpics/the wangs vs the world.jpg",
                     "description": "For fans of Crazy Rich Asians: Meet the Wangs, the unforgettable immigrant family whose spectacular fall from glorious riches to (still name-brand) rags brings them together in a way money never could.",
                     "full_description":"Charles Wang, a brash, lovable businessman who built a cosmetics empire and made a fortune, has just lost everything in the financial crisis. So he rounds up two of his children from schools that he can no longer afford and packs them into the only car that wasn’t repossessed. Together with their wealth-addicted stepmother, Barbra, they head on a cross-country journey from their foreclosed Bel-Air home to the Upstate New York retreat of the eldest Wang daughter, Saina.",

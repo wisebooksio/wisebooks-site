@@ -1,11 +1,13 @@
 books: [
     {
+    "info": "What School Could Be by Ted Dintersmith",
     "book_cover":"/assets/images/bookpics/what school could be.jpg",
     "description": "This book centers around the critical societal question, “what is education?”. The book discovers that the answers are already there with teachers who are at the center of the chasm. She said the book gave her hope and a desire to see change in the public school system, and believes that this is a discussion that we should all engage in. (Miura-Ko, Tim Ferriss Podcast 2018)",
     "full_description":"What School Could Be offers an inspiring vision of what our teachers and students can accomplish if trusted with the challenge of developing the skills and ways of thinking needed to thrive in a world of dizzying technological change. Innovation expert Ted Dintersmith took an unprecedented trip across America, visiting all fifty states in a single school year. He originally set out to raise awareness about the urgent need to reimagine education to prepare students for a world marked by innovation--but America's teachers one-upped him. All across the country, he met teachers in ordinary settings doing extraordinary things, creating innovative classrooms where children learn deeply and joyously as they gain purpose, agency, essential skillsets and mindsets, and real knowledge. Together, these new ways of teaching and learning offer a vision of what school could be―and a model for transforming schools throughout the United States and beyond. Better yet, teachers and parents don't have to wait for the revolution to come from above. They can readily implement small changes that can make a big difference. America's clock is ticking. Our archaic model of education trains our kids for a world that no longer exists, and accelerating advances in technology are eliminating millions of jobs. But the trailblazing of many American educators gives us reasons for hope.",
     "amazon_link": "https://amzn.to/2Ceub2L"
     },
     {
+        "info": "A Thousand Splendid Suns by Khaled Hosseini",
         "book_cover":"/assets/images/bookpics/a thousand splendid suns.jpg",
         "description": "Miura-Ko said this book gave her a sense of Afghanistan’s incredible history, the role that women have played in that story, and a greater perspective that she wants our society to have. (Miura-Ko, Tim Ferriss Podcast, 2018)",
         "full_description":"A Thousand Splendid Suns is a breathtaking story set against the volatile events of Afghanistan’s last thirty years—from the Soviet invasion to the reign of the Taliban to post-Taliban rebuilding—that puts the violence, fear, hope, and faith of this country in intimate, human terms. It is a tale of two generations of characters brought jarringly together by the tragic sweep of war, where personal lives—the struggle to survive, raise a family, find happiness—are inextricable from the history playing out around them.",
@@ -13,6 +15,7 @@ books: [
         },
 
         {
+            "info": "Getting to Yes by Roger Fisher and William Ury",
             "book_cover":"/assets/images/bookpics/getting_to_yes.jpg",
             "description": "Since its original publication nearly thirty years ago, Getting to Yes has helped millions of people learn a better way to negotiate. One of the primary business texts of the modern era, it is based on the work of the Harvard Negotiation Project, a group that deals with all levels of negotiation and conflict resolution. Getting to Yes offers a proven, step-by-step strategy for coming to mutually acceptable agreements in every sort of conflict.",
             "full_description":"Thoroughly updated and revised, it offers readers a straight- forward, universally applicable method for negotiating personal and professional disputes without getting angry-or getting taken",

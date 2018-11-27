@@ -1,0 +1,32 @@
+/* book list */
+
+.booklist {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 5em;
+
+    h1 {
+        width: 100%;
+    }
+    .booklist-book {
+        display: flex;
+        flex-direction: row;
+        .bookimage {
+            width: 25%;
+            img {
+                width: 100%;
+            }
+            .full {
+                width: 100%;
+            }
+
+        }
+        .booksummary {
+            width: 70%;
+            margin: 0 0 0 2em;
+        }
+    }
+
+
+}
+

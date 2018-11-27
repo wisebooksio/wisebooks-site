@@ -1,23 +1,27 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/the effective executive.jpg",
+        "info": "The Effective Executive by Peter F. Drucker",
+        "book_cover":"/assets/images/bookpics/the effective executive.jpg",
     "description": "The measure of the executive, Peter F. Drucker reminds us, is the ability to &quot;get the right things done.&quot; This usually involves doing what other people have overlooked as well as avoiding what is unproductive. Intelligence, imagination, and knowledge may all be wasted in an executive job without the acquired habits of mind that mold them into results.",
     "full_description":"Ranging widely through the annals of business and government, Peter F. Drucker demonstrates the distinctive skill of the executive and offers fresh insights into old and seemingly obvious business situations.",
     "amazon_link": "https://amzn.to/2Nfl8DM"
     },
     {
+        "info": "How Proust can Change Your Life by Alain de Botton",
         "book_cover":"/assets/images/bookpics/how proust can change your life.jpg",
         "description": "Who would have thought that Marcel Proust, one of the most important writers of our century, could provide us with such a rich source of insight into how best to live life? Proust understood that the essence and value of life was the sum of its everyday parts.",
         "full_description":"As relevant today as they were at the turn of the century, Proust's life and work are transformed here into a no-nonsense guide to, among other things, enjoying your vacation, reviving a relationship, achieving original and unclichéd articulation, being a good host, recognizing love, and understanding why you should never sleep with someone on a first date. It took de Botton to find the inspirational in Proust's essays, letters and fiction and, perhaps even more surprising, to draw out a vivid and clarifying portrait of the master from between the lines of his work. Here is Proust as we have never seen or read him before: witty, intelligent, pragmatic. He might well change your life.",
         "amazon_link": "https://amzn.to/2xgEKg7"
         },
         {
+            "info": "Words That Work: It's Not What You Say, It's What People Hear Book by Frank Luntz",
             "book_cover":"/assets/images/bookpics/words that work.jpg",
             "description": "The nation's premier communications expert shares his wisdom on how the words we choose can change the course of business, of politics, and of life in this country. In Words That Work, Luntz offers a behind-the-scenes look at how the tactical use of words and phrases affects what we buy, who we vote for, and even what we believe in.",
             "full_description":"Nobody is in a better position to explain than Frank Luntz: He has used his knowledge of words to help more than two dozen Fortune 500 companies grow. Hell tell us why Rupert Murdoch's six-billion-dollar decision to buy DirectTV was smart because satellite was more cutting edge than 'digital cable,' and why pharmaceutical companies transitioned their message from 'treatment' to 'prevention' and 'wellness.' If you ever wanted to learn how to talk your way out of a traffic ticket or talk your way into a raise, this book's for you.",
             "amazon_link": "https://amzn.to/2CWDNQ9"
             },
             {
+                "info": "Women, Fire, and Dangerous Things by George Lakoff",
                 "book_cover":"/assets/images/bookpics/women fire and dangerous things.jpg",
                 "description": "&quot;Its publication should be a major event for cognitive linguistics and should pose a major challenge for cognitive science. In addition, it should have repercussions in a variety of disciplines, ranging from anthropology and psychology to epistemology and the philosophy of science. Lakoff asks: What do categories of language and thought reveal about the human mind?",
                 "full_description": "Offering both general theory and minute details, Lakoff shows that categories reveal a great deal.&quot;—David E. Leary, American Scientist",

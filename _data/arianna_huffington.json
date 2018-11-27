@@ -1,23 +1,27 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/focus daniel goleman.jpg",
+        "info": "Focus by Daniel Goleman",
+        "book_cover":"/assets/images/bookpics/focus daniel goleman.jpg",
     "description": "In Focus, Psychologist and journalist Daniel Goleman, author of the #1 international bestseller Emotional Intelligence, offers a groundbreaking look at today’s scarcest resource and the secret to high performance and fulfillment: attention.",
     "full_description": "Combining cutting-edge research with practical findings, Focus delves into the science of attention in all its varieties, presenting a long overdue discussion of this little-noticed and under-rated mental asset. In an era of unstoppable distractions, Goleman persuasively argues that now more than ever we must learn to sharpen focus if we are to survive in a complex world. Goleman boils down attention research into a threesome: inner, other, and outer focus. Drawing on rich case studies from fields as diverse as competitive sports, education, the arts, and business, he shows why high-achievers need all three kinds of focus, and explains how those who rely on Smart Practices—mindfulness meditation, focused preparation and recovery, positive emotions and connections, and mental “prosthetics” that help them improve habits, add new skills, and sustain greatness—excel while others do not.",
     "amazon_link": "https://amzn.to/2LK99xo"
     },
     {
+        "info": "Search Inside Yourself by Chade-meng Tan",
         "book_cover":"/assets/images/bookpics/search inside yourself_the unexpected path to achieve success happiness and world peace_chade meng tan.jpg",
         "description": "With Search Inside Yourself, Chade-Meng Tan, one of Google’s earliest engineers and personal growth pioneer, offers a proven method for enhancing mindfulness and emotional intelligence in life and work.",
         "full_description": "Meng’s job is to teach Google’s best and brightest how to apply mindfulness techniques in the office and beyond; now, readers everywhere can get insider access to one of the most sought after classes in the country, a course in health, happiness and creativity that is improving the livelihood and productivity of those responsible for one of the most successful businesses in the world.",
         "amazon_link": "https://amzn.to/2LK9VKN"   
     },
     {
+        "info": "Meditations by Marcus Aurelius",
         "book_cover":"/assets/images/bookpics/Meditations_Marcus Aurelius.jpg",
         "description": "Marcus Aurelius Antoninus (a.d. 121–180) succeeded his adoptive father as emperor of Rome in a.d. 161—and Meditations remains one of the greatest works of spiritual and ethical reflection ever written. With a profound understanding of human behavior, Marcus provides insights, wisdom, and practical guidance on everything from living in the world to coping with adversity to interacting with others.",
         "full_description": "Consequently, the Meditations have become required reading for statesmen and philosophers alike, while generations of ordinary readers have responded to the straightforward intimacy of his style. In Gregory Hays’s new translation—the first in a generation—Marcus’s thoughts speak with a new immediacy: never before have they been so directly and powerfully presented.",
         "amazon_link": "https://amzn.to/2LJxEuF"   
     },
     {
+        "info": "Give and Take by Adam Grant",
         "book_cover":"/assets/images/bookpics/give and take_adam grant.jpg",
         "description": " In Give and Take, Adam Grant, an award-winning researcher and Wharton’s highest-rated professor, examines the surprising forces that shape why some people rise to the top of the success ladder while others sink to the bottom.",
         "full_description": "For generations, we have focused on the individual drivers of success: passion, hard work, talent, and luck. But in today’s dramatically reconfigured world, success is increasingly dependent on how we interact with others. Praised by social scientists, business theorists, and corporate leaders, Give and Take opens up an approach to work, interactions, and productivity that is nothing short of revolutionary.",

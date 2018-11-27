@@ -1,0 +1,26 @@
+books: [
+    {
+    "info": "High Output Management by Andrew S. Grove",
+    "book_cover":"/assets/images/bookpics/high output management.jpg",
+    "description": "By the CEO and one of the founding engineers at Intel. Houston, and others, have often referred to this as one of the best books on management ever written.",
+    "full_description": "The essential skill of creating and maintaining new businesses—the art of the entrepreneur—can be summed up in a single word: managing. In High Output Management, Andrew S. Grove, former chairman and CEO (and employee number three) of Intel, shares his perspective on how to build and run a company. Born of Grove’s experiences at one of America’s leading technology companies, this legendary management book is a Silicon Valley staple, equally appropriate for sales managers, accountants, consultants, and teachers, as well as CEOs and startup founders. Grove covers techniques for creating highly productive teams, demonstrating methods of motivation that lead to peak performance—throughout, High Output Management is a practical handbook for navigating real-life business scenarios and a powerful management manifesto with the ability to revolutionize the way we work.",
+    "amazon_link": "https://amzn.to/2Pu8xcR",
+    "person1": "Drew Houston",
+    "person1_link": "https://www.wisebooks.io/drew-houston/"
+    },
+    {
+        "info": "Design of Everyday Things by Don Norman",
+        "book_cover":"/assets/images/bookpics/design of everyday things.jpg",
+        "description": "The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time.",
+        "full_description": "Even the smartest among us can feel inept as we fail to figure out which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this ingenious-even liberating-book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization.",
+        "amazon_link": "https://amzn.to/2F2WMK7"   
+    },
+    {
+        "info": "Universal Design Methods by Bruce Hanington",
+        "book_cover":"/assets/images/bookpics/universal methods of design.jpg",
+        "description": "This comprehensive reference provides a thorough and critical presentation of 100 research methods, synthesis/analysis techniques, and research deliverables for human centered design, delivered in a concise and accessible format perfect for designers, educators, and students. ",
+        "full_description": "Whether research is already an integral part of a practice or curriculum, or whether it has been unfortunately avoided due to perceived limitations of time, knowledge, or resources, Universal Methods of Design serves as an invaluable compendium of methods that can be easily referenced and utilized by cross-disciplinary teams in nearly any design project.",
+        "amazon_link": "https://amzn.to/2DaM2HG"   
+    },
+
+]

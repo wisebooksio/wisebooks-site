@@ -1,23 +1,27 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/in praise of idleness.jpg",
+        "info": "In Praise of Idleness by Bertrand Russell",
+        "book_cover":"/assets/images/bookpics/in praise of idleness.jpg",
     "description": "Bertrand Arthur William Russell (18 May 1872 – 2 February 1970) was a British philosopher, logician, mathematician, historian, writer, social critic and political activist. At various points in his life he considered himself a liberal, a socialist, and a pacifist. In the early 20th century, Russell led the British &quot;revolt against idealism&quot;.",
     "full_description":"He is considered one of the founders of analytic philosophy along with his predecessor Gottlob Frege, colleague G. E. Moore, and his protégé Ludwig Wittgenstein. He is widely held to be one of the 20th century's premier logicians.With A. N. Whitehead he wrote Principia Mathematica, an attempt to create a logical basis for mathematics. His philosophical essay &quot;On Denoting&quot; has been considered a 'paradigm of philosophy'. His work has had a considerable influence on logic, mathematics, set theory, linguistics, artificial intelligence, cognitive science, and philosophy, especially the philosophy of language, epistemology, and metaphysics.",
     "amazon_link": "https://amzn.to/2QAa1Ts"
     },
     {
+        "info": "The Joyous Cosmology by Alan W. Watts",
         "book_cover":"/assets/images/bookpics/the joyous cosmology.jpg",
         "description": "In describing the effects of mescaline, Aldous Huxley’s The Doors of Perception opened a proverbial door for a generation of seekers. Watts walked through it with this classic account of the levels of insight that consciousness-changing drugs can facilitate “when accompanied with sustained philosophical reflection by a person who is in search, not of kicks, but of understanding.”",
         "full_description":"Watts and peers including foreword authors Timothy Leary and Richard Alpert (then Harvard professors) anticipated physicists’ recognizing the individual’s “inseparability from the rest of the world,” the work of New Age thinkers who combine scientific findings and spiritual experiences, and federally funded clinical trials utilizing psilocybin to treat a variety of conditions. More than an artifact, The Joyous Cosmology is both a riveting memoir of Watts’s personal experiments and a profound meditation on our perennial questions about the nature of existence and the existence of the sacred.",
         "amazon_link": "https://amzn.to/2QygyxJ"
         },
         {
+            "info": "Maxims and Reflections by Johann Wolfgang von Goethe",
             "book_cover":"/assets/images/bookpics/maxims and reflections by goethe.jpg",
             "description": "“I was traveling around the world at the age of 18, which is what people in England do between high school and university. In my coat, I had Goethe’s aphorisms, his short little thoughts in my pocket. I read and reread this book...(Cooke's Notes, Tribe of Mentors)",
             "full_description":"It’s actually had quite a fundamental [impact] on my life because these are his little snippets of wisdom on almost any imaginable topic, and all of them are brilliant. There are things like, ‘The company of women is schooling in good manners,’ or ‘Boldness has genius, power, and magic.’ Ones you don’t remember in their precise form, but which nonetheless act as little micro filters for interpreting reality.” (Cooke's Notes, Tribe of Mentors)",
             "amazon_link": "https://amzn.to/2QwFbLb"
             },
             {
+                "info": "Touching the Rock: An Experience of Blindness by John M. Hull",
                 "book_cover":"/assets/images/bookpics/touching of the rock by john m hull.jpg",
                 "description": "“This is about a man’s slow descent into blindness over 20 years. “He’s a kind of theologian, but he has these wonderful reflections on how he came to enjoy the world [as a blind man]. One go-to example is that rain is the best thing for blind people, because you can hear the world in three dimensions… (Cooke’s Notes, Tribe of Mentors)",
                 "full_description":"The patterning of the raindrops on the roofs, the pavement, the lampposts, and the buildings, gives you—because of the echo—a sense of 3-D space, where most of the time your 3-D space only goes a couple of yards in front of you, and otherwise is just the void.” (Cooke’s Notes, Tribe of Mentors)",

@@ -1,43 +1,42 @@
 books: [
     {
-    "book_cover":"/assets/images/bookpics/why we get fat.jpg",
+        "info": "Why We Get Fat by Gary Taubes",
+        "book_cover":"/assets/images/bookpics/why we get fat.jpg",
     "description": "“As I write about in Better Than Before, this book changed my life in dramatic ways, and all for the better. It also changed my father's life. I hand this book out constantly. It's easy to read, interesting, and (for me) utterly convincing.” (Rubin on gretchenrubin.com)",
     "full_description":"What’s making us fat? And how can we change? Building upon his critical work in Good Calories, Bad Calories and presenting fresh evidence for his claim, bestselling author Gary Taubes revisits these urgent questions. Taubes reveals the bad nutritional science of the last century—none more damaging or misguided than the “calories-in, calories-out” model of why we get fat—and the good science that has been ignored. He also answers the most persistent questions: Why are some people thin and others fat? What roles do exercise and genetics play in our weight? What foods should we eat, and what foods should we avoid? Persuasive, straightforward, and practical, Why We Get Fat is an essential guide to nutrition and weight management.",
     "amazon_link": "https://amzn.to/2pH9e7r"
     },
     {
+        "info": "A Pattern Language Book by Christopher Alexander, Murray Silverstein, and Sara Ishikawa",
         "book_cover":"/assets/images/bookpics/pattern language by christoper alexander.jpg",
         "description": "“I'm not a visual person, and this book was a revelation to me; it allowed me to understand space and design in an entirely new way.” (Rubin on gretchenrubin.com)",
         "full_description": "You can use this book to design a house for yourself with your family; you can use it to work with your neighbors to improve your town and neighborhood; you can use it to design an office, or a workshop, or a public building. And you can use it to guide you in the actual process of construction. After a ten-year silence, Christopher Alexander and his colleagues at the Center for Environmental Structure are now publishing a major statement in the form of three books which will, in their words, 'lay the basis for an entirely new approach to architecture, building and planning, which will we hope replace existing ideas and practices entirely.' The three books are The Timeless Way of Building, The Oregon Experiment, and this book, A Pattern Language. At the core of these books is the idea that people should design for themselves their own houses, streets, and communities. This idea may be radical (it implies a radical transformation of the architectural profession) but it comes simply from the observation that most of the wonderful places of the world were not made by architects but by the people.",
         "amazon_link": "https://amzn.to/2RwzP40"
         },
         {
+            "info": "The Visual Display of Quantitative Information by Edward Tupte",
             "book_cover":"/assets/images/bookpics/the visual display of quantitative information by edward r tufte.jpg",
             "description": "“Yes, I know, it's the worst title ever, but it's a gorgeous, brilliant book that changed the way that I think about information. I just gave this book to a friend last week.” (Rubin on gretchenrubin.com)",
             "amazon_link": "https://amzn.to/2RxER0i"
             },
             {
+                "info": "The Secret History by Donna Tartt",
                 "book_cover":"/assets/images/bookpics/the secret history by donna tart.jpg",
                 "description": "“This is the novel that I give someone who's stuck in the hospital and needs to be distracted. It's so absorbing and exciting.” (Rubin on gretchenrubin.com)",
                 "full_description":"Donna Tartt, winner of the 2014 Pulitzer Prize for her most recent novel, The Goldfinch, established herself as a major talent with The Secret History, which has become a contemporary classic. Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality their lives are changed profoundly and forever, and they discover how hard it can be to truly live and how easy it is to kill.",               
                 "amazon_link": "https://amzn.to/2pGeacZ"
                 },
                 {
+                    "info": "Essays by George Orwell",
                     "book_cover":"/assets/images/bookpics/essays by george orwell.jpg",
                     "description": "“I admire Orwell's writing tremendously, and am always trying to encourage other people to read his work.” (Rubin on gretchenrubin.com)",
                     "amazon_link": "https://amzn.to/2RwpV28"
                     },
                     {
+                        "info": "How to Talk So Kids Will Listen & Listen So Kids Will Talk Book by Adele Faber and Elaine Mazlish",
                         "book_cover":"/assets/images/bookpics/how to talk so kids will listen and listen so kids will talk by adele faber and elaine mazlish.jpg",
                         "description": "“This is by far the most useful and entertaining parenting book that I've ever read. I use the advice to deal more effectively with my daughters, and also with adults. I've probably read it five times.” (Rubin on gretchenrubin.com)",
                         "full_description":"The ultimate “parenting bible” (The Boston Globe) with a new foreword—and available as an ebook for the first time—a timeless, beloved book on how to effectively communicate with your child from the #1 New York Times bestselling authors. Enthusiastically praised by parents and professionals around the world, the down-to-earth, respectful approach of Faber and Mazlish makes relationships with children of all ages less stressful and more rewarding.",               
                         "amazon_link": "https://amzn.to/2RroNwO"
                         },
-                        {
-                            "book_cover":"/assets/images/bookpics/how to talk so kids will listen and listen so kids will talk by adele faber and elaine mazlish.jpg",
-                            "description": "I don't know anything about tennis, but I love memoirs, so I read this book because so many people praised it as a memoir. It's a brilliant, fascinating book, but I give it as a gift because it's an astonishingly accurate portrait of an Obliger... (Rubin on gretchenrubin.com)",
-                            "full_description":"Some people make inaccurate assumptions about the Obliger personality, so I often say, &quot;Read Open, and you'll get a very different understanding of how this Tendency can play out.&quot; (Rubin on gretchenrubin.com)",               
-                            "amazon_link": "https://amzn.to/2pCbIEg"
-                            },
-
 ]
