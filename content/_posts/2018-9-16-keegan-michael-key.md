@@ -12,7 +12,7 @@ bookattribution: https://www.vanityfair.com/style/2017/11/keegan-michael-key-on-
 redirect_from: /actor/2018/09/16/keegan-michael-key.html   
 ---
 
-Keegan-Michael Keele of the too-funny <i>Key & Peele</i> comedy show is not just wildly entertaining, but seriously important. Frequently adopting high-risk social topics into their skits such as slavery, police brutality, racial dynamics, and so much more, to make their audience laugh nervously and think a little. 
+Keegan-Michael Key of the too-funny <i>Key & Peele</i> comedy show is not just wildly entertaining, but seriously important. Frequently adopting high-risk social topics into their skits such as slavery, police brutality, racial dynamics, and so much more, to make their audience laugh nervously and think a little. 
 
 Check out one of their videos <a href="http://www.comedycentral.co.uk/key-and-peele/videos/auction-block-0">here</a>
 
