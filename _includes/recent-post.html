@@ -6,11 +6,11 @@
     <div class="innerpeople">   
 
         {% for post in site.posts offset:0 limit:3 %} 
-          {% if post.url != page.url %}
+          {% if post.redirect_to != page.url %}
 
         <div class="box">
 						<h3 class="underline">{{post.title}}</h3>
-						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{ site.baseurl }}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
+						{% if post.allpeoplepics %}<span class="image left"><img class="peopleimg" src="{{site.baseurl}}/{{ post.allpeoplepics }}" alt="{{post.title}}" /></span>{% endif %}
 						<div class="box-description">
 							<p>{{ post.description }}</p>
 							<a href="{{ post.redirect_to }}" class="button small align-right">Read more</a>

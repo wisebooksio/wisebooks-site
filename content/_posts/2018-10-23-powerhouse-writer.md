@@ -5,6 +5,7 @@ image: /assets/images/listicle/powerhouse-writers.jpg
 description: Books Recommended by Powerhouse Writers Stephen King, Neil Gaiman, Susan Cain, and Kara Swisher
 category: Writers
 redirect_to: /powerhouse-writers/
+sitemap: false
 --- 
 
 
