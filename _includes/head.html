@@ -1,6 +1,7 @@
 <head>
-	{% if page.layout == 'post' %}<title>{{page.title}}'s Favorite Books{% endif %} | Wisebooks</title>
-	<title>Wisebooks | {{page.title}}</title>
+	{% if page.layout == 'post' %}<title>{{page.title}}'s Favorite Books | Wisebooks</title>
+	{% else %}<title>Wisebooks | {{page.title}}</title>
+	{% endif %}
 
 	<meta charset="utf-8" />
 	
