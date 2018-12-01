@@ -8,9 +8,11 @@ person: barack_obama
 category: Politician
 imgattribution: Time.com
 bookattribution: WIRED's 2016 Interview
+canonical_url: https://www.wisebooks.io/obama-favorite-books/
 redirect_from: 
 - /2018/08/15/barack-obama.html
 - /politician/2018/08/15/barack-obama.html
+- /barack-obama/
 ---
 
 Obama served as the first African-American president of the United States from January 20, 2009 to January 20, 2017. Born to an American mother and a Kenyan father in Honolulu, Hawaii, Obama started off with humble beginnings. He was part of a middle-class family, made his way into Harvard, worked as a lawyer, a governor, and eventually, as the president of the United States. 

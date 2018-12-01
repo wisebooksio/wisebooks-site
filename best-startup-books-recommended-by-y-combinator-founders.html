@@ -1,12 +1,14 @@
 ---
 layout: listicle
-title: Product Managers Edition
-subtitle: Top Product Managers' Recommended Books & Resources
-allpeoplepics:
-image: /assets/images/listicle/product-management.jpg
-description: Product Managers from Facebook, Dropbox, Yelp, and Wealthsimple tell us what their fave books & resources are.
-category: Product_Management
-redirect_from: /product-managers/
+title: Y Combinator Founders
+subtitle: Startup Books and Resources Recommended by YC Founders
+allpeoplepics: assets/images/allpeoplepics/ycombinator.png
+image: /assets/images/listicle/ycombinator.jpg
+description: Y Combinator Founders give advice and their top startup books and resources.
+category: Entrepreneur
+redirect_from: 
+- /YC-founders/
+- /YC-entrepreneur/
 ---
     
 <!-- Main -->
@@ -15,13 +17,15 @@ redirect_from: /product-managers/
 <!-- One -->
 
 		<section id = "listicle-intro">
-			<h1>Top Product Managers' Recommended Books & Resources</h1>
+			<h1>Top Startup Books & Resources Recommended by Y Combinator Founders</h1>
 			<br>
 			<br>
-			<p>Do you have an eye for building products? Whether you're a new product manager or a seasoned veteran in the product industry, you can always learn more about product management. We've gathered some product managers/directors and their list of classic product management books and favorite resources so you can stay on top of your game. </p>
+			<p>Are you thinking about quitting your 9-5 office job to build your own startup but need that little push? Or are you already an entrepreneur looking for a dose of motivation? 
+				We asked three startup founders who have graduated from the prestigious Y Combinator Accelerator Program to give us some entrepreneurial advice and the books/resources that have shaped them
+				during the early stages of their startup. As of 2017, <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a> has invested in ~1,450 companies including Dropbox, Airbnb, Stripe, Reddit, and more.</p>
 		</section>
 
-		{% for PM in site.PMs %}
+		{% for yc_founder in site.yc_founders %}
 
 		<section id = "listicle-bio">
 							
@@ -29,15 +33,16 @@ redirect_from: /product-managers/
 
 					<div class="profile">
 							<div class="profilepic">
-							<img src="{{PM.image}}"/>
+							<img src="{{yc_founder.image}}"/>
 							</div>
 							<div class="profilebio">
-								<h3>{{PM.name}}</h3>
-								<h4>{{PM.title}}</h4>
+								<h3>{{yc_founder.name}}</h3>
+								<h4>{{yc_founder.title}}</h4>
+								<a href="{{yc_founder.website}}" class="icon alt fa-link" target="_blank"><span class="label">Website</span></a>
+								<a href="{{yc_founder.linkedin}}" class="icon alt fa-linkedin" target="_blank"><span class="label">Linkedin</span></a>
 							</div>
 					</div>
-                                <p>{{ PM.content | markdownify }}</p>
-
+								<p>{{ yc_founder.content | markdownify }}</p>
 				</div>
 
 		</section>
@@ -45,10 +50,10 @@ redirect_from: /product-managers/
 		<section id="listicle-books">
 			<div class="booktile">
 
-				{% for book in site.data[PM.person].books %}
+				{% for book in site.data[yc_founder.person].books %}
 
 					<div class = "book-card">
-						<span class="bookimage"><img src="{{book.book_cover}}" alt="{{ book.info}}"/></span>
+						<span class="bookimage"><img src="{{book.book_cover}}"/></span>
 						<span class="descriptionbuy">
 						<p>{{book.description}}</p>
 						</span>

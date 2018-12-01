@@ -14,7 +14,7 @@
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}
-		        <li class="light"><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
+		        <li class="light"><a href="{{ "" | absolute_url }}/">Home</a></li>
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.pages %}
