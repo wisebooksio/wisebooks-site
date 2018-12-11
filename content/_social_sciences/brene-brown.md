@@ -1,7 +1,7 @@
 ---
 name: Dr. Brene Brown
 title: NY Times Best selling Author, Viral TED Speaker, Research professor at University of Houston 
-image: assets/images/allpeoplepics/brene_brown.jpg
+image: ../assets/images/allpeoplepics/brene_brown.jpg
 person: brene_brown
 imgattribution: TED talks
 bookattribution: Tribe of Mentors by Tim Ferriss

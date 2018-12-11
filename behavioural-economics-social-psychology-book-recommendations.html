@@ -13,10 +13,10 @@ description: Dan Ariely, Brene Brown, Richard Thaler, Malcolm Gladwell, Stephen 
 <!-- One -->
 
 		<section id = "listicle-intro">
-			<h1>Books Recommended by Powerful Political Leaders</h1>
+			<h1>Behavioural Economics and Social Psychology Book Recommendations</h1>
 		</section>
 
-		{% for politician in site.politicians %}
+		{% for social_science in site.social_sciences %}
 
 		<section id = "listicle-bio">
 							
@@ -24,19 +24,19 @@ description: Dan Ariely, Brene Brown, Richard Thaler, Malcolm Gladwell, Stephen 
 
 					<div class="profile">
 							<div class="profilepic">
-							<img src="{{politician.image}}" alt="{{politician.name}}, {{politician.title}}"/>
+							<img src="{{social_science.image}}" alt="{{social_science.name}}, {{social_science.title}}"/>
 							</div>
 							<div class="profilebio">
-								<h3>{{politician.name}}</h3>
-								<h4>{{politician.title}}</h4>
+								<h3>{{social_science.name}}</h3>
+								<h4>{{social_science.title}}</h4>
 							</div>
 					</div>
-                                <p>{{ politician.content | markdownify }}</p>
+                                <p>{{ social_science.content | markdownify }}</p>
                                 <details class="attribution">
                                     <summary>Sources</summary>
-                                        Bio: {{politician.bioattribution}}
-                                        Books: {{ politician.bookattribution }}
-                                        Images: {{politician.imageattribution}}
+                                        Bio: {{social_science.bioattribution}}
+                                        Books: {{ social_science.bookattribution }}
+                                        Images: {{social_science.imageattribution}}
                                 </details>
 				</div>
 
@@ -45,7 +45,7 @@ description: Dan Ariely, Brene Brown, Richard Thaler, Malcolm Gladwell, Stephen 
 		<section id="listicle-books">
 			<div class="booktile">
 
-				{% for book in site.data[politician.person].books %}
+				{% for book in site.data[social_science.person].books %}
 
 					<div class = "book-card">
 						<span class="bookimage"><img src="{{book.book_cover}}" alt="{{ book.info}}"/></span>

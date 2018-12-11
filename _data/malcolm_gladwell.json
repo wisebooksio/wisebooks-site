@@ -14,7 +14,7 @@ books: [
         },
         {
             "info": "Tinker Tailor Soldier Spy by John le-Carre",
-            "book_cover":"/assets/images/bookpics/tinker tailor soldier spy.jpg",
+            "book_cover":"/assets/images/bookpics/tinker tailor.jpg",
             "description": "A modern classic in which John le Carré expertly creates a total vision of a secret world, Tinker, Tailor, Soldier, Spy begins George Smiley's chess match of wills and wits with Karla, his Soviet counterpart.",
             "full_description": "It is now beyond a doubt that a mole, implanted decades ago by Moscow Centre, has burrowed his way into the highest echelons of British Intelligence. His treachery has already blown some of its most vital operations and its best networks. It is clear that the double agent is one of its own kind. But which one? George Smiley is assigned to identify him. And once identified, the traitor must be destroyed.",
             "amazon_link": "https://amzn.to/2rtOWPX "
@@ -27,7 +27,7 @@ books: [
                 },
                 {
                     "info": "The Russia House by John le-Carre",
-                    "book_cover":"/assets/images/bookpics/tinker tailor soldier spy.jpg",
+                    "book_cover":"/assets/images/bookpics/russia house.jpg",
                     "description": "John le-Carre's bestselling classic is a timeless spy thriller about the Iron Curtain and the tense relationship between Great Britain and Russia.",
                     "full_description": "John le-Carre has earned worldwide acclaim with extraordinary spy novels, including The Russia House, an unequivocal classic. Navigating readers through the shadow worlds of international espionage with critical knowledge culled from his years in British Intelligence, le Carré tracks the dark and devastating trail of a document that could profoundly alter the course of world events. In Moscow, a sheaf of military secrets changes hands. If it arrives at its destination, and if its import is understood, the consequences could be cataclysmic. Along the way it has an explosive impact on the lives of three people: a Soviet physicist burdened with secrets; a beautiful young Russian woman to whom the papers are entrusted; and Barley Blair, a bewildered English publisher pressed into service by British Intelligence to ferret out the document's source. A magnificent story of love, betrayal, and courage, The Russia House catches history in the act. For as the Iron Curtain begins to rust and crumble, Blair is left to sound a battle cry that may fall on deaf ears.",
                     "amazon_link": "https://amzn.to/2rrLJAn"

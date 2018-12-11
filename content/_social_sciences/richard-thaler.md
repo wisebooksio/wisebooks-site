@@ -3,8 +3,7 @@ name: Richard Thaler
 title: Recipient of the Nobel Memorial Prize in Economic Sciences, Author of Best-seller Nudge 
 person: richard_thaler
 image: ../assets/images/listicle/richard_thaler.jpg
-bioattribution: http://theconversation.com/why-richard-thaler-won-the-2017-economics-nobel-prize-85404
-https://www.chicagobooth.edu/faculty/directory/t/richard-h-thaler
+bioattribution: http://theconversation.com/why-richard-thaler-won-the-2017-economics-nobel-prize-85404, https://www.chicagobooth.edu/faculty/directory/t/richard-h-thaler
 bookattribution: https://www.marketwatch.com/story/6-books-recommended-by-richard-thaler-a-founding-father-of-behavioral-economics-2016-07-05 
 imageattribution: Nobel Prize
 ---
