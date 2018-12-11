@@ -1,0 +1,17 @@
+books: [
+    {
+    "info": "Levels of the game by John McPhee",
+    "book_cover":"/assets/images/bookpics/levels of the game.jpg",
+    "description": "(Stephen’s most gifted books for adults) This account of a tennis match played by Arthur Ashe against Clark Graebner at Forest Hills in 1968 begins with the ball rising into the air for the initial serve and ends with the final point. McPhee provides a brilliant, stroke-by-stroke description while examining the backgrounds and attitudes which have molded the players' games.",
+    "amazon_link": "https://amzn.to/2QDzVcB"
+    },
+    {
+        "info": "The Empty Pot by Demi",
+        "book_cover":"/assets/images/bookpics/the empty pot.jpg",
+        "description": "The Empty Pot is Demi's beloved picture book about an honest schoolboy. A long time ago in China there was a boy named Ping who loved flowers. Anything he planted burst into bloom.The Emperor loved flowers too. When it was time to choose an heir, he gave a flower seed to each child in the kingdom. 'Whoever can show me their best in a year's time,' he proclaimed, 'shall succeed me to the throne!'",
+        "full_description":"Ping plants his seed and tends it every day. But month after month passes, and nothing grows. When spring comes, Ping must go to the Emperor with nothing but an empty pot. Demi's exquisite art and beautifully simple text show how Ping's embarrassing failure is turned triumphant in this satisfying tale of honesty rewarded.",
+        "amazon_link": "https://amzn.to/2PqylpO "
+        },
+    
+
+]

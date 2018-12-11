@@ -1,0 +1,37 @@
+books: [
+    {
+    "info": "The Invisible Gorilla: How Our Intuitions Deceive Us, by Christopher Chabris and Daniel Simons",
+    "book_cover":"/assets/images/bookpics/invisible gorilla.jpg",
+    "description": "Reading this book will make you less sure of yourself—and that’s a good thing. In The Invisible Gorilla ,Christopher Chabris and Daniel Simons, creators of one of psychology’s most famous experiments, use remarkable stories and counterintuitive scientific findings to demonstrate an important truth: Our minds don’t work the way we think they do. We think we see ourselves and the world as they really are, but we’re actually missing a whole lot.",
+    "full_description":"Chabris and Simons combine the work of other researchers with their own findings on attention, perception, memory, and reasoning to reveal how faulty intuitions often get us into trouble. In the process, they explain: why a company would spend billions to launch a product that its own analysts know will fail, how a police officer could run right past a brutal assault without seeing it, why award-winning movies are full of editing mistakes, what criminals have in common with chess masters, why measles and other childhood diseases are making a comeback, and why money managers could learn a lot from weather forecasters.",
+    "amazon_link": "https://amzn.to/2QKSpYs"
+    },
+    {
+        "info": "Influence by Robert Cialdini",
+        "book_cover":"/assets/images/bookpics/influence.jpg",
+        "description": "Influence, the classic book on persuasion, explains the psychology of why people say 'yes'—and how to apply these understandings. Dr. Robert Cialdini is the seminal expert in the rapidly expanding field of influence and persuasion. His thirty-five years of rigorous, evidence-based research along with a three-year program of study on what moves people to change behavior has resulted in this highly acclaimed book.",
+        "full_description":"You'll learn the six universal principles, how to use them to become a skilled persuader—and how to defend yourself against them. Perfect for people in all walks of life, the principles of Influence will move you toward profound personal change and act as a driving force for your success.",
+        "amazon_link": "https://amzn.to/2rutvxW"
+        },
+        {
+            "info": "Nudge: Improving Decisions About Health, Wealth, and Happiness By Richard Thaler and Cass Sunstein",
+            "book_cover":"/assets/images/bookpics/nudge.jpg",
+            "description": "Every day we make choices—about what to buy or eat, about financial investments or our children’s health and education, even about the causes we champion or the planet itself. Unfortunately, we often choose poorly. Nudge is about how we make these choices and how we can make better ones. ",
+            "full_description":"Using dozens of eye-opening examples and drawing on decades of behavioral science research, Nobel Prize winner Richard H. Thaler and Harvard Law School professor Cass R. Sunstein show that no choice is ever presented to us in a neutral way, and that we are all susceptible to biases that can lead us to make bad decisions. But by knowing how people think, we can use sensible “choice architecture” to nudge people toward the best decisions for ourselves, our families, and our society, without restricting our freedom of choice.",
+            "amazon_link": "https://amzn.to/2PsStaD"
+            }, 
+            {
+                "info": "Mindless Eating by Brian Wansink",
+                "book_cover":"/assets/images/bookpics/mindless eating.jpg",
+                "description": "Food psychologist Brian Wansink revolutionizes our awareness of how much, what, and why we’re eating—often without realizing it. His findings will astound you.",
+                "full_description":"Can the size of your plate really influence your appetite? Why do you eat more when you dine with friends? What “hidden persuaders” are used by restaurants and supermarkets to get us to overeat? How does music or the color of the room influence how much—and how fast—we eat? How can we “mindlessly” lose—instead of gain—up to twenty pounds in the coming year? Starting today, you can make more mindful, enjoyable, and healthy choices at the dinner table, in the supermarket, at the office—wherever you satisfy your appetite.",
+                "amazon_link": "https://amzn.to/2L9mLik"
+                },    
+                {
+                    "info": "The Person and the Situation by Lee Ross and Richard Nisbett",
+                    "book_cover":"/assets/images/bookpics/person and the situation.jpg",
+                    "description": "How does the situation we're in influence the way we behave and think? Professors Ross and Nisbett eloquently argue that the context we find ourselves in substantially affects our behavior in this timely reissue of one of social psychology's classic textbooks. With a new foreword by Malcolm Gladwell, author of The Tipping Point.",
+                    "amazon_link": "https://amzn.to/2QMvlbM"
+                    },       
+
+]

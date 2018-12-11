@@ -1,0 +1,59 @@
+books: [
+    {
+    "info": "Strangers to Ourselves: Discovering the Adaptive Unconscious by Timothy D. Wilson",
+    "book_cover":"/assets/images/bookpics/strangers to ourselves.jpg",
+    "description": "&quot;Know thyself,&quot; a precept as old as Socrates, is still good advice. But is introspection the best path to self-knowledge? What are we trying to discover, anyway? In an eye-opening tour of the unconscious, as contemporary psychological science has redefined it, Timothy D. Wilson introduces us to a hidden mental world of judgments, feelings, and motives that introspection may never show us.",
+    "full_description": "This is not your psychoanalyst's unconscious. The adaptive unconscious that empirical psychology has revealed, and that Wilson describes, is much more than a repository of primitive drives and conflict-ridden memories. It is a set of pervasive, sophisticated mental processes that size up our worlds, set goals, and initiate action, all while we are consciously thinking about something else. If we don't know ourselves―our potentials, feelings, or motives―it is most often, Wilson tells us, because we have developed a plausible story about ourselves that is out of touch with our adaptive unconscious. Citing evidence that too much introspection can actually do damage, Wilson makes the case for better ways of discovering our unconscious selves. If you want to know who you are or what you feel or what you're like, Wilson advises, pay attention to what you actually do and what other people think about you. Showing us an unconscious more powerful than Freud's, and even more pervasive in our daily life, Strangers to Ourselves marks a revolution in how we know ourselves.",
+    "amazon_link": "https://amzn.to/2rqDPam"
+    },
+    {
+        "info": "Merchant Princes: An Intimate History of Jewish Families Who Built Great Department Stories by Leon A. Harris",
+        "book_cover":"/assets/images/bookpics/merchant princes.jpg",
+        "description": "A compelling history of America's famous Jewish shopkeeping families shows how the Filenes, Gimbels, Marcuses, and others created renowned retail empires out of small pushcart beginnings, powerfully evoking the social changes that were transforming America early in the century.",
+        "amazon_link": "https://amzn.to/2Elnk87"
+        },
+        {
+            "info": "Tinker Tailor Soldier Spy by John le-Carre",
+            "book_cover":"/assets/images/bookpics/tinker tailor soldier spy.jpg",
+            "description": "A modern classic in which John le Carré expertly creates a total vision of a secret world, Tinker, Tailor, Soldier, Spy begins George Smiley's chess match of wills and wits with Karla, his Soviet counterpart.",
+            "full_description": "It is now beyond a doubt that a mole, implanted decades ago by Moscow Centre, has burrowed his way into the highest echelons of British Intelligence. His treachery has already blown some of its most vital operations and its best networks. It is clear that the double agent is one of its own kind. But which one? George Smiley is assigned to identify him. And once identified, the traitor must be destroyed.",
+            "amazon_link": "https://amzn.to/2rtOWPX "
+            },
+            {
+                "info": "Little Drummer’s Girl by John le-Carre",
+                "book_cover":"/assets/images/bookpics/little drummer girl.jpg",
+                "description": "Charlie is a promiscuous, unsuccessful English actress in her twenties. Intrigued by a handsome, solitary stranger, she finds herself lured into the “theatre of the real.” For the mysterious man is Kurtz, an embattled Israeli intelligence officer out to stop the bombing of Jews in Europe. Forced to play her most challenging role, Charlie is plunged into a deceptive and delicate trap set to ensnare an elusive Palestinian terrorist … and soon proves herself a double agent of the highest order.",
+                "amazon_link": "https://amzn.to/2QhQ8Vr"
+                },
+                {
+                    "info": "The Russia House by John le-Carre",
+                    "book_cover":"/assets/images/bookpics/tinker tailor soldier spy.jpg",
+                    "description": "John le-Carre's bestselling classic is a timeless spy thriller about the Iron Curtain and the tense relationship between Great Britain and Russia.",
+                    "full_description": "John le-Carre has earned worldwide acclaim with extraordinary spy novels, including The Russia House, an unequivocal classic. Navigating readers through the shadow worlds of international espionage with critical knowledge culled from his years in British Intelligence, le Carré tracks the dark and devastating trail of a document that could profoundly alter the course of world events. In Moscow, a sheaf of military secrets changes hands. If it arrives at its destination, and if its import is understood, the consequences could be cataclysmic. Along the way it has an explosive impact on the lives of three people: a Soviet physicist burdened with secrets; a beautiful young Russian woman to whom the papers are entrusted; and Barley Blair, a bewildered English publisher pressed into service by British Intelligence to ferret out the document's source. A magnificent story of love, betrayal, and courage, The Russia House catches history in the act. For as the Iron Curtain begins to rust and crumble, Blair is left to sound a battle cry that may fall on deaf ears.",
+                    "amazon_link": "https://amzn.to/2rrLJAn"
+                    },
+                    {
+                        "info": "The Spy Who Came in from the Cold by John le-Carre",
+                        "book_cover":"/assets/images/bookpics/spy who came in from the cold.jpg",
+                        "description": "In this classic, John le Carre's third novel and the first to earn him international acclaim, he created a world unlike any previously experienced in suspense fiction. With unsurpassed knowledge culled from his years in British Intelligence, le Carre brings to light the shadowy dealings of international espionage in the tale of a British agent who longs to end his career but undertakes one final, bone-chilling assignment.",
+                        "full_description": "When the last agent under his command is killed and Alec Leamas is called back to London, he hopes to come in from the cold for good. His spymaster, Control, however, has other plans. Determined to bring down the head of East German Intelligence and topple his organization, Control once more sends Leamas into the fray -- this time to play the part of the dishonored spy and lure the enemy to his ultimate defeat.",
+                        "amazon_link": "https://amzn.to/2EdiusP"
+                        },
+                        {
+                            "info": "The Big Short: Inside the Doomsday Machine by Michael Lewis",
+                            "book_cover":"/assets/images/bookpics/big short.jpg",
+                            "description": "The real story of the crash began in bizarre feeder markets where the sun doesn't shine and the SEC doesn't dare, or bother, to tread: the bond and real estate derivative markets where geeks invent impenetrable securities to profit from the misery of lower--and middle--class Americans who can't pay their debts. The smart people who understood what was or might be happening were paralyzed by hope and fear; in any case, they weren't talking.",
+                            "full_description": "Michael Lewis creates a fresh, character-driven narrative brimming with indignation and dark humor, a fitting sequel to his #1 bestseller Liar's Poker. Out of a handful of unlikely--really unlikely--heroes, Lewis fashions a story as compelling and unusual as any of his earlier bestsellers, proving yet again that he is the finest and funniest chronicler of our time.",
+                            "amazon_link": "https://amzn.to/2L6Hi74"
+                            },
+                            {
+                                "info": "The Checklist Manifesto by Atul Gawande",
+                                "book_cover":"/assets/images/bookpics/checklist manifesto.jpg",
+                                "description": "The New York Times bestselling author of Better and Complications reveals the surprising power of the ordinary checklist. We live in a world of great and increasing complexity, where even the most expert professionals struggle to master the tasks they face. Longer training, ever more advanced technologies—neither seems to prevent grievous errors. But in a hopeful turn, acclaimed surgeon and writer Atul Gawande finds a remedy in the humblest and simplest of techniques: the checklist.",
+                                "full_description": " First introduced decades ago by the U.S. Air Force, checklists have enabled pilots to fly aircraft of mind-boggling sophistication. Now innovative checklists are being adopted in hospitals around the world, helping doctors and nurses respond to everything from flu epidemics to avalanches. Even in the immensely complex world of surgery, a simple ninety-second variant has cut the rate of fatalities by more than a third. In riveting stories, Gawande takes us from Austria, where an emergency checklist saved a drowning victim who had spent half an hour underwater, to Michigan, where a cleanliness checklist in intensive care units virtually eliminated a type of deadly hospital infection. He explains how checklists actually work to prompt striking and immediate improvements. And he follows the checklist revolution into fields well beyond medicine, from disaster response to investment banking, skyscraper construction, and businesses of all kinds. An intellectual adventure in which lives are lost and saved and one simple idea makes a tremendous difference, The Checklist Manifesto is essential reading for anyone working to get things right.",
+                                "amazon_link": "https://amzn.to/2UrDcdX"
+                                },
+
+
+
+]
