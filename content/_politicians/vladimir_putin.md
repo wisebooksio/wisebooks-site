@@ -4,7 +4,7 @@ title: President of Russia
 person: vladimir_putin
 image: ../assets/images/listicle/vladimir_putin.jpg
 bioattribution: https://en.wikipedia.org/wiki/Boris_Yeltsin, https://en.wikipedia.org/wiki/Mikhail_Gorbachev, https://en.wikipedia.org/wiki/KGB 
-bookattribution: https://www.newyorker.com/books/page-turner/vladimir-putins-reading-lis https://www.economist .com/books-and-arts/2018/04/05/understand-putin-by-understanding-his-favourite-thinkers, https://www.youtube.com/watch?v=X7_ICbgShMk 
+bookattribution: https://www.newyorker.com/books/page-turner/vladimir-putins-reading-lis https://www.economist .com/books-and-arts/2018/04/05/understand-putin-by-understanding-his-favorite-thinkers, https://www.youtube.com/watch?v=X7_ICbgShMk 
 imageattribution: Forbes
 ---
 
@@ -32,7 +32,7 @@ The country struggles in transparency, corruption, equal economic opportunity, e
  
 People are accrediting the rating to the improvements in living standards and the reassertion of Russia on the world stage. However, they're quickly falling and if Putin doesn't make some changes... Let's be real, he'll probably still be in power.
  
-These are some of the thinkers and books that have strongly influenced him along the way. However, please note this comment in a Russian interview “It’s impossible to answer questions like favourite book or favourite performance or favourite music because there are so many favourites”. 
+These are some of the thinkers and books that have strongly influenced him along the way. However, please note this comment in a Russian interview “It’s impossible to answer questions like favorite book or favorite performance or favorite music because there are so many favourites”. 
 
 “What are the elements of talent? Not one, two or three genes, but a combination of everything”.
 

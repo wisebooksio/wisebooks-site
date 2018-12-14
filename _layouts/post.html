@@ -20,7 +20,6 @@
 				{% if page.subtitle %}
 				<h3 class="subtitle">{{page.subtitle}}</h3>
 				{% endif %}
-				<span class="imgattribution">Banner image attribution: {{page.imgattribution}}</span>
 			</div>
 		</div>
 		
@@ -31,15 +30,16 @@
 						<p>{{content}}</p>
 						{% if page.bioattribution %}
 						<details class="attribution">
-							<summary>Biography sources</summary>
-								{{page.bioattribution}}
+							<summary>Biography & Image sources</summary>
+								Biography: {{page.bioattribution}}
+								<br>Banner image: {{page.imgattribution}} 
 						</details>
 						{% endif %}
 				</div>
 		</section>
 			
 			<section id="books">
-				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s Favourite Books {% if page.resources %}{{page.resources}}{% endif %}</h1>
+				<header class="major-yellow center"><h1 class="booktitle">{{page.title}}'s favorite Books {% if page.resources %}{{page.resources}}{% endif %}</h1>
 					<details class="attribution">
 						<summary>Sources</summary>
 						{{page.bookattribution}}

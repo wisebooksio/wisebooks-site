@@ -12,7 +12,7 @@ redirect_from:
 - /author/2018/08/19/yuval-harari.html
 ---
 
-Yuval Noah Harari is an Israeli professor of history at Hebrew University in Jerusalem, receiving his PhD from Oxford in 2002. However, his acquired fame is a result of his best-selling novels, Homosapiens and Homodeus, of which you will find on the favourite book lists of many on this site. 
+Yuval Noah Harari is an Israeli professor of history at Hebrew University in Jerusalem, receiving his PhD from Oxford in 2002. However, his acquired fame is a result of his best-selling novels, Homosapiens and Homodeus, of which you will find on the favorite book lists of many on this site. 
 
 Sapiens was rejected by four publishers before the fifth decide to give the author a chance. The book reviews the history of humankind and provides a thesis of why humans have risen so quickly, to the top of the food chain while Homodeus, speculates the future. 
 

@@ -73,7 +73,7 @@ There’s a great case study about <a href="https://hbr.org/2014/06/your-company
 
 <b>Lastly, what advice do you have for first-time founders?</b>
 
-We like to say the <a href="http://paulgraham.com/articles.html">Paul Graham’s essays (Founder, YC)</a> are our old testament. It affected how we came up with the idea and we lived by so many of his essays (Berg’s favourite ones are linked in the next section) so some of my advice echoes them. 
+We like to say the <a href="http://paulgraham.com/articles.html">Paul Graham’s essays (Founder, YC)</a> are our old testament. It affected how we came up with the idea and we lived by so many of his essays (Berg’s favorite ones are linked in the next section) so some of my advice echoes them. 
 
 <h4 style="margin: 0;">1. <i>Have 3 co-founders for tie-breaking during decisions</i></h4>
 Also, really understand what everyone’s strengths are, but much more importantly their weaknesses. For example, I am quite organizationally weak but my CTO [Alexander] is organizationally strong. He does even the smallest things like organizing the cords in our meeting room. His forgiveness of my weaknesses and accepting me for my strengths in other things, enables me to shine at what I’m good at.

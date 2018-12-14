@@ -12,7 +12,7 @@ bookattribution: Tribe of Mentors by Tim Ferriss
 redirect_from: /investor/2018/09/30/ray-dalio.html
 ---
 
-Ray Dalio is the world’s billionaire investor, founder of Bridgewater Associates (one of the world’s largest hedge funds managing something like $160 billion… cool cool cool….), author of <i>Principles of Life and Work</i> (a.k.a the book on everybody’s favourites list), and Bloomberg said that he’s one of the world’s 100 wealthiest people in January 2018. 
+Ray Dalio is the world’s billionaire investor, founder of Bridgewater Associates (one of the world’s largest hedge funds managing something like $160 billion… cool cool cool….), author of <i>Principles of Life and Work</i> (a.k.a the book on everybody’s favorites list), and Bloomberg said that he’s one of the world’s 100 wealthiest people in January 2018. 
 
 He is known for his controversial practices in running Bridgewater Associates like full transparency at all times, videotaping meetings, etc. and those are some of the features that made his company so successful. In fact, people are now buying shares of the hedge fund itself because it’s just that good. 
 

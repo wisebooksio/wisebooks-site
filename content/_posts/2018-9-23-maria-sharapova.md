@@ -54,7 +54,7 @@ She started thinking about this business during a shoulder injury in 2008 at jus
 
 Sharapova is a powerful role model. What are some of the books that have shaped her over her years? 
 
-*A note from Christine at Wisebooks: OPEN by Tennis Star Andre Agassi was one of my favourite reads. I am going to put Sharapova’s autobiography on my list immediately*
+*A note from Christine at Wisebooks: OPEN by Tennis Star Andre Agassi was one of my favorite reads. I am going to put Sharapova’s autobiography on my list immediately*
 
 
 
