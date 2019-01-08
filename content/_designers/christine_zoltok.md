@@ -6,6 +6,8 @@ linkedin: https://www.linkedin.com/in/zoltok/
 image: ../assets/images/listicle/christine_zoltok.jpg
 ---
 
+Christine is the design lead at Shopify and is based in the Montreal area, leading the team for the last year-ish. She's been working in design roles ever since she finished her degree (also in design) for the last 10-ISH YEARS.
+
 <b>Christine on her reading habits</b>
 
 My reading habits have shifted over the years, but these days with young children at home I mostly read while commuting. It's about 20 minutes in the morning and evening, and keeping a book in my purse means I spend less time on my phone. If I'm particularly captivated by a book I'll keep reading it in the evening, but those moments during the commute ensure I don't lose momentum. I read mostly non-fiction these days but I love a good fiction book if I get a great recommendation.
