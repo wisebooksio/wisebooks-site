@@ -6,92 +6,121 @@ allpeoplepics: assets/images/allpeoplepics/ycombinator.png
 image: /assets/images/listicle/ycombinator.jpg
 description: Y Combinator Founders give advice and their top startup books and resources.
 category: Entrepreneur
-canonical_url: 'https://www.wisebooks.io/best-startup-books-recommended-by-y-combinator-founders/'
-redirect_from: 
-- /YC-founders/
-- /YC-entrepreneur/
+canonical_url: "https://www.wisebooks.io/best-startup-books-recommended-by-y-combinator-founders/"
+redirect_from:
+  - /YC-founders/
+  - /YC-entrepreneur/
 ---
-    
+
 <!-- Main -->
-	<div id="listicle" class="alt">
+<div id="listicle" class="alt">
+  <!-- One -->
 
-<!-- One -->
+  <section id="listicle-intro">
+    <h1>Top Startup Books & Resources Recommended by Y Combinator Founders</h1>
+    <br />
+    <br />
+    <p>
+      Are you thinking about quitting your 9-5 office job to build your own
+      startup but need that little push? Or are you already an entrepreneur
+      looking for a dose of motivation? We asked three startup founders who have
+      graduated from the prestigious Y Combinator Accelerator Program to give us
+      some entrepreneurial advice and the books/resources that have shaped them
+      during the early stages of their startup. As of 2017,
+      <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a> has
+      invested in ~1,450 companies including Dropbox, Airbnb, Stripe, Reddit,
+      and more.
+    </p>
+  </section>
 
-		<section id = "listicle-intro">
-			<h1>Top Startup Books & Resources Recommended by Y Combinator Founders</h1>
-			<br>
-			<br>
-			<p>Are you thinking about quitting your 9-5 office job to build your own startup but need that little push? Or are you already an entrepreneur looking for a dose of motivation? 
-				We asked three startup founders who have graduated from the prestigious Y Combinator Accelerator Program to give us some entrepreneurial advice and the books/resources that have shaped them
-				during the early stages of their startup. As of 2017, <a href="http://www.ycombinator.com/" target="_blank">Y Combinator</a> has invested in ~1,450 companies including Dropbox, Airbnb, Stripe, Reddit, and more.</p>
-		</section>
+  {% for yc_founder in site.yc_founders %}
 
-		{% for yc_founder in site.yc_founders %}
+  <section id="listicle-bio">
+    <div class="bio-content">
+      <div class="profile">
+        <div class="profilepic"><img src="{{ yc_founder.image }}" /></div>
+        <div class="profilebio">
+          <h3>{{ yc_founder.name }}</h3>
+          <h4>{{ yc_founder.title }}</h4>
+          <a
+            href="{{ yc_founder.website }}"
+            class="icon alt fa-link"
+            target="_blank"
+            ><span class="label">Website</span></a
+          >
+          <a
+            href="{{ yc_founder.linkedin }}"
+            class="icon alt fa-linkedin"
+            target="_blank"
+            ><span class="label">Linkedin</span></a
+          >
+        </div>
+      </div>
+      <p>{{ yc_founder.content | markdownify }}</p>
+    </div>
+  </section>
 
-		<section id = "listicle-bio">
-							
-				<div class="bio-content">
+  <section id="listicle-books">
+    <div class="booktile">
+      {% for book in site.data[yc_founder.person].books %}
 
-					<div class="profile">
-							<div class="profilepic">
-							<img src="{{yc_founder.image}}"/>
-							</div>
-							<div class="profilebio">
-								<h3>{{yc_founder.name}}</h3>
-								<h4>{{yc_founder.title}}</h4>
-								<a href="{{yc_founder.website}}" class="icon alt fa-link" target="_blank"><span class="label">Website</span></a>
-								<a href="{{yc_founder.linkedin}}" class="icon alt fa-linkedin" target="_blank"><span class="label">Linkedin</span></a>
-							</div>
-					</div>
-								<p>{{ yc_founder.content | markdownify }}</p>
-				</div>
+      <div class="book-card">
+        <span class="bookimage"><img src="{{ book.book_cover }}"/></span>
+        <span class="descriptionbuy">
+          <p>{{ book.description }}</p>
+        </span>
+        <div class="bookbuttons">
+          <details>
+            <summary class="button small yellow readmore">Read More</summary>
+            <div class="expanded">
+              <p>{{ book.full_description }}</p>
+            </div>
+          </details>
+          <a href="{{ book.amazon_link }}" class="button small specialdark buy"
+            >Buy</a
+          >
+        </div>
+        <div class="border"></div>
+      </div>
 
-		</section>
+      {% endfor %}
+    </div>
+  </section>
 
-		<section id="listicle-books">
-			<div class="booktile">
+  {% endfor %} {% include recent-post.html %}
 
-				{% for book in site.data[yc_founder.person].books %}
-
-					<div class = "book-card">
-						<span class="bookimage"><img src="{{book.book_cover}}"/></span>
-						<span class="descriptionbuy">
-						<p>{{book.description}}</p>
-						</span>
-							<div class="bookbuttons">
-								<details>
-									<summary class="button small yellow readmore">Read More</summary>
-										<div class="expanded">
-											<p>{{book.full_description}}</p>
-										</div>	
-
-								</details>
-								<a href="{{book.amazon_link}}" class="button small specialdark buy">Buy</a>
-							</div>	
-						<div class="border"></div>
-					</div>
-			
-				{% endfor %}
-
-			</div>
-
-		</section>
-
-		{% endfor %}
-
-		{% include recent-post.html %}
-
-			<section class="subscribe" id="mc-embed-signup">
-				<header class="major center"><h2>SUBSCRIBE & READ MORE</h2></header>
-				<div class="form-container">
-				<form action="{{ site.mailchimp }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-					<p>Want more books? Sign up for our newsletters.</p>
-					<div class="newsletter-box" id="mc_embed_signup_scroll">
-					<input type="email" name="EMAIL" class="email-input" id="mce-EMAIL" value="Email address" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
-					<input type="submit" value="Subscribe" name="subscribe" class="button" id="mc-embedded-subscribe"/>
-					</div>
-				</form>
-				</div>
-			</section>
-
-	</div>
+  <section class="subscribe" id="mc-embed-signup">
+    <header class="major center"><h2>SUBSCRIBE & READ MORE</h2></header>
+    <div class="form-container">
+      <form
+        action="{{ site.mailchimp }}"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        class="validate"
+        target="_blank"
+        novalidate
+      >
+        <p>Want more books? Sign up for our newsletters.</p>
+        <div class="newsletter-box" id="mc_embed_signup_scroll">
+          <input
+            type="email"
+            name="EMAIL"
+            class="email-input"
+            id="mce-EMAIL"
+            value="Email address"
+            onfocus="if(this.value==this.defaultValue)this.value='';"
+            onblur="if(this.value=='')this.value=this.defaultValue;"
+          />
+          <input
+            type="submit"
+            value="Subscribe"
+            name="subscribe"
+            class="button"
+            id="mc-embedded-subscribe"
+          />
+        </div>
+      </form>
+    </div>
+  </section>
+</div>

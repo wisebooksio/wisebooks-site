@@ -1,15 +1,11 @@
 ---
 layout: listicle
-title: Product Managers Edition
-subtitle: Top Product Managers' Recommended Books & Resources
-allpeoplepics:
-image: /assets/images/listicle/product-management.jpg
-description: Product Managers from Facebook, Dropbox, Yelp, and Wealthsimple tell us what their fave books & resources are.
-category: Product_Management
-canonical_url: "https://www.wisebooks.io/product-manager-book-recommendations/"
+title: Designers
+subtitle: Book Recommendations for Aspiring Designers by Top Designers
+allpeoplepics: /assets/images/listicle/christine_zoltok.jpg
+image: /assets/images/listicle/designers.jpg
+description: Designers from Shopify, VICE Media, Microsoft, and Automattic recommend books that have helped them as designers
 redirect_from:
-  - /product-managers/
-  - /product-manager/
 ---
 
 <!-- Main -->
@@ -17,38 +13,55 @@ redirect_from:
   <!-- One -->
 
   <section id="listicle-intro">
-    <h1>Top Product Managers' Recommended Books & Resources</h1>
+    <h1>Book Recommendations for Aspiring Designers by Top Designers</h1>
     <br />
     <br />
     <p>
-      Do you have an eye for building products? Whether you're a new product
-      manager or a seasoned veteran in the product industry, you can always
-      learn more about product management. We've gathered some product
-      managers/directors and their list of classic product management books and
-      favorite resources so you can stay on top of your game.
+      Designers from Shopify, VICE Media, Microsoft, and Automattic recommend
+      books that have helped them throughout their career as designers.
     </p>
   </section>
 
-  {% for PM in site.PMs %}
+  {% for designer in site.designers %}
 
   <section id="listicle-bio">
     <div class="bio-content">
       <div class="profile">
-        <div class="profilepic">
-          <img src="{{ PM.image }}" alt="{{ PM.title }}" />
-        </div>
+        <div class="profilepic"><img src="{{ designer.image }}" /></div>
         <div class="profilebio">
-          <h3>{{ PM.name }}</h3>
-          <h4>{{ PM.title }}</h4>
+          <h3>{{ designer.name }}</h3>
+          <h4>{{ designer.title }}</h4>
+          <a
+            href="{{ designer.website }}"
+            class="icon alt fa-link"
+            target="_blank"
+            ><span class="label">Website</span></a
+          >
+          <a
+            href="{{ designer.linkedin }}"
+            class="icon alt fa-linkedin"
+            target="_blank"
+            ><span class="label">Linkedin</span></a
+          >
         </div>
       </div>
-      <p>{{ PM.content | markdownify }}</p>
+      <p>{{ designer.content | markdownify }}</p>
+      {% if designer.person != "marvin_lau" %}
+      <details class="attribution">
+        <summary>Sources</summary> {% if designer.bioattribution %}Bio:{{
+          designer.bioattribution
+        }}{% endif %} {% if designer.bookattribution %}Books:
+        {{ designer.bookattribution }}{% endif %} {% if
+        designer.imageattribution %}Images:
+        {{ designer.imageattribution }}{%endif%}
+      </details>
+      {% endif %}
     </div>
   </section>
 
   <section id="listicle-books">
     <div class="booktile">
-      {% for book in site.data[PM.person].books %}
+      {% for book in site.data[designer.person].books %}
 
       <div class="book-card">
         <span class="bookimage"

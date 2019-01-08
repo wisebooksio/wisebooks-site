@@ -1,0 +1,35 @@
+books: [
+    {
+    "info": "Self-Renewal: The Individual and the Innovative Society by John W. Gardner",
+    "book_cover":"/assets/images/bookpics/self-renewal.jpg",
+    "description": "I read this book at least twice a month. It helps re-center my thinking about work, life, and the challenging pursuit of change. (John's Notes)",
+    "amazon_link": "https://amzn.to/2LAJq7m"
+    },
+    {
+        "info": "I’ll Have What She’s Having: Mapping Social Behaviour by Alex Bently, Mark Earls, Michael J. O’Brien",
+        "book_cover":"/assets/images/bookpics/ill have what shes having.jpg",
+        "description": "When you discover that all that you do is simply a copy of all that you see around you, it puts life in perspective. We copy to survive. (John's Notes)",
+        "amazon_link": "https://amzn.to/2LzSol6"   
+    },
+    {
+        "info": "Biology Colouring Workbook: An Easier and Better Way to Learn Biology by Princeton Review and Edward Alcamo",
+        "book_cover":"/assets/images/bookpics/biology colouring workbook.jpg",
+        "description": "Understanding something is all about knowing how the parts come together as a whole. We fill in the pieces until we see the bigger picture. (John's Notes)",
+        "amazon_link": "https://amzn.to/2Sqnyhy"   
+    },
+    {
+        "info": "Mismatch: How Inclusion Shapes Design by Kat Holmes and John Maeda",
+        "book_cover":"/assets/images/bookpics/mismatch.jpg",
+        "description": "The topic of Inclusion is difficult to understand but vital as a means to live life to its fullest — in service to others around us. (John's Notes)",
+        "full_description": "Sometimes designed objects reject their users: a computer mouse that doesn't work for left-handed people, for example, or a touchscreen payment system that only works for people who read English phrases, have 20/20 vision, and use a credit card. Something as simple as color choices can render a product unusable for millions. These mismatches are the building blocks of exclusion. In Mismatch, Kat Holmes describes how design can lead to exclusion, and how design can also remedy exclusion. Inclusive design methods―designing objects with rather than for excluded users―can create elegant solutions that work well and benefit all. Holmes tells stories of pioneers of inclusive design, many of whom were drawn to work on inclusion because of their own experiences of exclusion. A gamer and designer who depends on voice recognition shows Holmes his “Wall of Exclusion,” which displays dozens of game controllers that require two hands to operate; an architect shares her firsthand knowledge of how design can fail communities, gleaned from growing up in Detroit's housing projects; an astronomer who began to lose her eyesight adapts a technique called “sonification” so she can “listen” to the stars. Designing for inclusion is not a feel-good sideline. Holmes shows how inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.",
+        "amazon_link": " https://amzn.to/2BFccPA"   
+    },
+    {
+        "info": "The Crossroads of Should and Must: Find and Follow Your Passion by Elle Luna",
+        "book_cover":"/assets/images/bookpics/crossroads of should and must.jpg",
+        "description": "Spending three years in Silicon Valley exposed me to a kind of optimism that is hard to explain. Elle’s book does it perfectly. (John's Notes)",
+        "full_description": "Who hasn’t asked the question “How can I find and follow my true calling?” Elle Luna frames this moment as “standing at the crossroads of Should and Must.” “Should” is what we feel we ought to be doing, or what is expected of us. “Must” is the thing we dream of doing, our heart’s desire. And it was her own personal journey that inspired Elle Luna to write a brief online manifesto that, in a few short months, has touched hundreds of thousands of people who’ve read it or heard Elle speak on the topic. Now Ms. Luna expands her ideas into an inspirational, highly visual gift book for every recent graduate, every artist, every seeker, every career changer. The Crossroads of Should and Must has a universal message—we get to choose the path between Should and Must. And it gives every reader permission to embrace this message. It’s about the difference between jobs, careers, and callings. The difference between going to work and becoming one with your work. Why knowing what you want is often the hardest part. It gives eye-opening techniques for reconnecting with one’s inner voice, like writing your own obituary (talk about putting life in perspective). It talks about the most common fears of choosing Must over Should—money, time, space, and the ultimate fear: total vulnerability—and shores up our hesitation with inspiring stories of and quotes from the artists and writers and thinkers who’ve faced their own crossroads of Should and Must and taken the leap. It explains the importance of mistakes, of “unlearning,” of solitude, of keeping moving, of following a soul path. Presented in four chapters—The Crossroads, The Origin of Should, Must, and The Return—inspired by the hero’s journey outlined by Joseph Campbell, The Crossroads of Should and Must guides us from the small moment, discovering our Must, to the big moment—actually doing something about it, and returning to share our new gifts with the world.",
+        "amazon_link": "https://amzn.to/2LA8fjH"   
+    },
+
+]

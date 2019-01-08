@@ -1,0 +1,17 @@
+books: [
+    {
+    "info": "Mindset - Carol S. Dweck",
+    "book_cover":"/assets/images/bookpics/mindset.jpg",
+    "description": "I had a surface level understanding of what a growth mindset was before reading Carol's seminal work, but this really helped me internalize the concept and recognize the traits of fixed and growth mindsets in my professional and personal life. It has really transformed the way I approach challenges and setbacks, and helped me focus on being a constant learner. (Christine's Notes)",
+    "full_description": "After decades of research, world-renowned Stanford University psychologist Carol S. Dweck, Ph.D., discovered a simple but groundbreaking idea: the power of mindset. In this brilliant book, she shows how success in school, work, sports, the arts, and almost every area of human endeavor can be dramatically influenced by how we think about our talents and abilities. People with a fixed mindset—those who believe that abilities are fixed—are less likely to flourish than those with a growth mindset—those who believe that abilities can be developed. Mindset reveals how great parents, teachers, managers, and athletes can put this idea to use to foster outstanding accomplishment.",
+    "amazon_link": "https://amzn.to/2SjDXV2"
+    },
+    {
+        "info": "The Lean Startup - Eric Ries",
+        "book_cover":"/assets/images/bookpics/the lean startup.jpg",
+        "description": "I read this book when I was working in a design studio, but I was restless and wanted a much tighter feedback loop with users to validate what we were building. This book really changed the way I thought about my work and the role of design in learning and validating business ideas. It helped me fall in love with a different way of working. I left my studio role to join a startup – and I haven't looked back. (Christine's Notes)",
+        "full_description": "Eric Ries defines a startup as an organization dedicated to creating something new under conditions of extreme uncertainty. This is just as true for one person in a garage or a group of seasoned professionals in a Fortune 500 boardroom. What they have in common is a mission to penetrate that fog of uncertainty to discover a successful path to a sustainable business. The Lean Startup approach fosters companies that are both more capital efficient and that leverage human creativity more effectively.  Inspired by lessons from lean manufacturing, it relies on “validated learning,” rapid scientific experimentation, as well as a number of counter-intuitive practices that shorten product development cycles, measure actual progress without resorting to vanity metrics, and learn what customers really want. It enables a company to shift directions with agility, altering plans inch by inch, minute by minute. Rather than wasting time creating elaborate business plans, The Lean Startup offers entrepreneurs - in companies of all sizes - a way to test their vision continuously, to adapt and adjust before it’s too late. Ries provides a scientific approach to creating and managing successful startups in a age when companies need to innovate more than ever.",
+        "amazon_link": "https://amzn.to/2LE4I44"   
+    },
+
+]

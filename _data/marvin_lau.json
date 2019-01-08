@@ -1,0 +1,49 @@
+books: [
+    {
+    "info": "1970 New York City Transit Authority Graphics Standards Manual",
+    "book_cover":"/assets/images/bookpics/graphics standard manual.jpg",
+    "description": "The NYCTA Graphics Standards Manual contains scans of Massimo Vignelli and Bob Noorda's (Unimark) modernist masterpiece. The manual describes the design and construction for the iconic NYC subway signs that we still see and use.",
+    "amazon_link": "https://amzn.to/2V7kqJa"
+    },
+    {
+        "info": "The I-D Bible: Every Ultimate Fashion Victim's Handbook",
+        "book_cover":"/assets/images/bookpics/i-dbible.jpg",
+        "description": "The first book by i-D, published in 1987. It so rarely turns up that we forgot how good it was. The i-D Bible: Every Ultimate Fashion Victim's Handbook . We love how its not 'Fashion Victim'. This is a handbook for all victims and especially 'Ultimate Victims'!The book has become invaluable now for the thirty page Style Wars section edited by Caryn Franklin. B-Boys, Mods, Psychedelics (patchwork not paisley), Punks and Rockers, Goths and Gents and Preppies (music taste: Huey Lewis or Dire Straits on DAT).",
+        "amazon_link": "http://www.ideanow.online/idbible.html"   
+    },
+    {
+        "info": "An IDEA Book About T-Shirts By Stüssy",
+        "book_cover":"/assets/images/bookpics/idea_book_tshirts.jpg",
+        "description": "Stüssy has worked with IDEA to publish a 240-page super book edited by Ryan Willms and Alastair McKimm. An Idea book about T-shirts by Stüssy features an essay, interviews, editorial by Ari Marcopoulos, and a series of photographs by some of the leading image makers in the industry today including Alasdair McLellan, Amy Troost, Ari Marcopoulos, Collier Schorr, Dan Martensen, Daniel Jackson, Glen Luchford, Inez & Vinoodh, Josh Olins, Mario Sorrenti, Terry Richardson and Willy Vanderperre. There is also a large archive section featuring unseen and iconic images from the brand over the past 38 years.",
+        "full_description": "The book not only looks back at the brand’s iconic history and long lasting relationship with the printed shirt, but aims to create a new dialogue with the medium and look into the value of what it means to our culture. Coinciding with the book and T-shirt release, Stüssy has partnered with Dover Street Market to launch a T-shirt retrospective in their London Haymarket location. The exhibition will include a selection of reissued vintage graphics from Stüssy’s archive, alongside two collaboration T-shirts that bring together the brands.",
+        "amazon_link": "https://www.stussy.com/features/an-idea-book-about-t-shirts-by-stussy"   
+    },
+    {
+        "info": "Creativity, Inc. by Amy Wallace and Edwin Catmull",
+        "book_cover":"/assets/images/bookpics/creativity inc.jpg",
+        "description": "Creativity, Inc. is a manual for anyone who strives for originality and the first-ever, all-access trip into the nerve center of Pixar Animation—into the meetings, postmortems, and “Braintrust” sessions where some of the most successful films in history are made. It is, at heart, a book about creativity—but it is also, as Pixar co-founder and president Ed Catmull writes, “an expression of the ideas that I believe make the best in us possible.”",
+        "full_description": "For nearly twenty years, Pixar has dominated the world of animation, producing such beloved films as the Toy Story trilogy, Monsters, Inc., Finding Nemo, The Incredibles, Up, WALL-E, and Inside Out, which have gone on to set box-office records and garner thirty Academy Awards. The joyousness of the storytelling, the inventive plots, the emotional authenticity: In some ways, Pixar movies are an object lesson in what creativity really is. Here, in this book, Catmull reveals the ideals and techniques that have made Pixar so widely admired—and so profitable. As a young man, Ed Catmull had a dream: to make the first computer-animated movie. He nurtured that dream as a Ph.D. student at the University of Utah, where many computer science pioneers got their start, and then forged a partnership with George Lucas that led, indirectly, to his co-founding Pixar in 1986. Nine years later, Toy Story was released, changing animation forever. The essential ingredient in that movie’s success—and in the thirteen movies that followed—was the unique environment that Catmull and his colleagues built at Pixar, based on leadership and management philosophies that protect the creative process and defy convention.",
+        "amazon_link": "https://www.stussy.com/features/an-idea-book-about-t-shirts-by-stussy"   
+    },
+    {
+        "info": "Let My People Go Surfing: The Education of a Reluctant Businessman by Yvon Chouinard",
+        "book_cover":"/assets/images/bookpics/let my people go surfing.jpg",
+        "description": "Yvon Chouinard--legendary climber, businessman, environmentalist, and founder of Patagonia, Inc.--shares the persistence and courage that have gone into being head of one of the most respected and environmentally responsible companies on earth.",
+        "full_description": "From his youth as the son of a French Canadian handyman to the thrilling, ambitious climbing expeditions that inspired his innovative designs for the sport's equipment, Let My People Go Surfing is the story of a man who brought doing good and having grand adventures into the heart of his business life-a book that will deeply affect entrepreneurs and outdoor enthusiasts alike.",
+        "amazon_link": "https://amzn.to/2Rh2nBc"   
+    },
+    {
+        "info": "Boys Don’t Cry by Tim Grayburn",
+        "book_cover":"/assets/images/bookpics/boys dont cry.jpg",
+        "description": "Boys Don't Cry is a book that speaks against the stigma that makes men feel like they are less-than for struggling, making sense of depression and anxiety for people who might not recognise those feelings in themselves or others. It is a brutally honest, sometimes heart-breaking (and sometimes funny) tale about what it really takes to be a 'real man', written by one who decided that he wanted to change the status quo by no longer being silent. ",
+        "full_description": "For nearly a decade Tim kept his depression secret. It made him feel so weak and shameful he thought it would destroy his whole life if anyone found out. But an unexpected discovery by a loved one forced him to confront his illness and realise there was strength to be found in sharing his story with others. When he finally opened up to the world about what he was going through he discovered he was not alone.",
+        "amazon_link": "https://amzn.to/2V7zNS5"   
+    },
+    {
+        "info": "Things are what you make of them by Adam J. Kurtz",
+        "book_cover":"/assets/images/bookpics/things are what you make of them.jpg",
+        "description": "Handwritten and heartfelt, this pocket-sized book by designer Adam J. Kurtz offers wisdom and empathy from one working artist to others, with perforated pages to share or display. Deceptively simple, this full-color book will be a touchstone for writers, artists, entrepreneurs, and anyone else working to harness their passion for a more creative life.",
+        "amazon_link": "https://amzn.to/2Rmrtyu"   
+    },
+
+]
