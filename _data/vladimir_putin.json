@@ -8,7 +8,7 @@ books: [
     },
     {
         "info": "A Sportsman’s Sketches by Ivan Sergeevich Turgenev",
-        "book_cover":"/assets/images/bookpics/sportsman sketches.jpg",
+        "book_cover":"/assets/images/bookpics/sportsmans sketches.jpg",
         "description": "A Sportsman's Sketches was an 1852 collection of short stories by Ivan Turgenev. It was the first major writing that gained him recognition. He wrote this collection of short stories based on his own observations while hunting at his mother’s estate at Spasskoye, where he learned of the abuse of the peasants and the injustices of the Russian system that constrained them.",
         "full_description": "The frequent abuse of Turgenev by his mother certainly had an effect on this work. He was about to give up writing when the first story, &quot;Khor and Khalinich,&quot; was well received. This work is part of the Russian realist tradition in that the narrator is usually an uncommitted observer of the people he meets. The work as a whole actually led to Turgenev’s house arrest (part of the reason, the other being his epitaph to Nikolai Gogol) at Spasskoye. It was also partially responsible for the abolishment of serfdom in Russia.",
         "amazon_link": "https://amzn.to/2FhfptK"   
