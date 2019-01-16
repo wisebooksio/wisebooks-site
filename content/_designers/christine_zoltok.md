@@ -2,11 +2,12 @@
 name: Christine Zoltok
 title: Design Lead, Shopify
 person: christine_zoltok
+website: http://www.zoltok.com
 linkedin: https://www.linkedin.com/in/zoltok/
 image: ../assets/images/listicle/christine_zoltok.jpg
 ---
 
-Christine is the design lead at Shopify and is based in the Montreal area, leading the team for the last year-ish. She's been working in design roles ever since she finished her degree (also in design) for the last 10-ISH YEARS.
+Christine is a design lead at Shopify and is based in the Montreal area, leading the team for the last year-ish. She's been working in design roles ever since she finished her degree (also in design) for the last 10-ISH YEARS.
 
 <b>Christine on her reading habits</b>
 
