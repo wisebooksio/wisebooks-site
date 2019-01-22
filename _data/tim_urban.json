@@ -1,0 +1,9 @@
+books: [
+    {
+    "info": "The Fountainhead by Ayn Rand",
+    "book_cover":"/assets/images/bookpics/fountainhead.jpg",
+    "description": "When The Fountainhead was first published, Ayn Rand's daringly original literary vision and her groundbreaking philosophy, Objectivism, won immediate worldwide interest and acclaim. This instant classic is the story of an intransigent young architect, his violent battle against conventional standards, and his explosive love affair with a beautiful woman who struggles to defeat him. ",
+    "amazon_link": "https://amzn.to/2w8V95K"
+    },
+]
+  

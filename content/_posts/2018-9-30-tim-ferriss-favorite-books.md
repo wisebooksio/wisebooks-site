@@ -9,7 +9,9 @@ category: Author
 imgattribution: TED talk
 bioattribution: https://en.wikipedia.org/wiki/Tim_Ferriss, https://tim.blog/2010/06/28/mba/, https://tim.blog/about/, https://www.inc.com/jeff-haden/before-tim-ferriss-became-tim-ferriss-a-true-story.html, https://www.entrepreneur.com/author/tim-ferriss 
 bookattribution: https://tim.blog/category/tim-ferriss-book-club/, https://www.audible.com/ep/TimsBooks?bp_ua=yes&source_code=AUDGBWS0908149AUW 
-redirect_from: /author/2018/09/30/tim-ferriss.html
+redirect_from: 
+- /author/2018/09/30/tim-ferriss.html
+- /tim-ferriss/
 ---
 
 Tim Ferriss or as they call it the human guinea pig, super interviewer, author, interviewer, speaker, an overall interesting fellow. 

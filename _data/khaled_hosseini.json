@@ -1,0 +1,74 @@
+books: [
+    {
+    "info": "Nutshell by Ian McEwan",
+    "book_cover":"/assets/images/bookpics/nutshell.jpg",
+    "description": "Trudy has been unfaithful to her husband, John. What’s more, she has kicked him out of their marital home, a valuable old London town house, and in his place is his own brother, the profoundly banal Claude. The illicit couple have hatched a scheme to rid themselves of her inconvenient husband forever. But there is a witness to their plot: the inquisitive, nine-month-old resident of Trudy’s womb. ",
+    "full_description": "As Trudy’s unborn son listens, bound within her body, to his mother and his uncle’s murderous plans, he gives us a truly new perspective on our world, seen from the confines of his. McEwan’s brilliant recasting of Shakespeare lends new weight to the age-old question of Hamlet's hesitation, and is a tour de force of storytelling.",
+    "amazon_link": "https://amzn.to/2U2hpbF"
+    },
+    {
+        "info": "Seven Brief Lessons on Physics by Carlo Rovelli",
+        "book_cover":"/assets/images/bookpics/seven brief lessons on physics.jpg",
+        "description": "This playful, entertaining, and mind-bending introduction to modern physics briskly explains Einstein's general relativity, quantum mechanics, elementary particles, gravity, black holes, the complex architecture of the universe, and the role humans play in this weird and wonderful world. Carlo Rovelli, a renowned theoretical physicist, is a delightfully poetic and philosophical scientific guide. ",
+        "full_description": "He takes us to the frontiers of our knowledge: to the most minute reaches of the fabric of space, back to the origins of the cosmos, and into the workings of our minds. The book celebrates the joy of discovery.  “Here, on the edge of what we know, in contact with the ocean of the unknown, shines the mystery and the beauty of the world,” Rovelli writes. “And it’s breathtaking.”",
+        "amazon_link": "https://amzn.to/2sDuvR0"
+        },
+    {
+        "info": "Exit West by Mohsin Hamid",
+        "book_cover":"/assets/images/bookpics/exit west.jpg",
+        "description": "In a country teetering on the brink of civil war, two young people meet—sensual, fiercely independent Nadia and gentle, restrained Saeed. They embark on a furtive love affair, and are soon cloistered in a premature intimacy by the unrest roiling their city. When it explodes, turning familiar streets into a patchwork of checkpoints and bomb blasts, they begin to hear whispers about doors—doors that can whisk people far away, if perilously and for a price. ",
+        "full_description": "As the violence escalates, Nadia and Saeed decide that they no longer have a choice. Leaving their homeland and their old lives behind, they find a door and step through. . . .Exit West follows these remarkable characters as they emerge into an alien and uncertain future, struggling to hold on to each other, to their past, to the very sense of who they are. Profoundly intimate and powerfully inventive, it tells an unforgettable story of love, loyalty, and courage that is both completely of our time and for all time.",
+        "amazon_link": "https://amzn.to/2DnJzsj"   
+    },
+    {
+        "info": "Between the World and Me by Ta-Nehisi Coates",
+        "book_cover":"/assets/images/bookpics/between the world and me.jpg",
+        "description": "In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?",
+        "full_description": "Between the World and Me is Ta-Nehisi Coates’s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son—and readers—the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children’s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, Between the World and Me clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.",
+        "amazon_link": "https://amzn.to/2W4ElJf"   
+    },
+    {
+        "info": "Transit by Rachel Cusk⠀",
+        "book_cover":"/assets/images/bookpics/transit by rachel cusk.jpg",
+        "description": "In the wake of her family’s collapse, a writer and her two young sons move to London. The process of this upheaval is the catalyst for a number of transitions―personal, moral, artistic, and practical―as she endeavors to construct a new reality for herself and her children. In the city, she is made to confront aspects of living that she has, until now, avoided, and to consider questions of vulnerability and power, death and renewal, in what becomes her struggle to reattach herself to, and believe in, life.",
+        "full_description": "Filtered through the impersonal gaze of its keenly intelligent protagonist, Transit sees Rachel Cusk delve deeper into the themes first raised in her critically acclaimed novel Outline and offers up a penetrating and moving reflection on childhood and fate, the value of suffering, the moral problems of personal responsibility, and the mystery of change. In this second book of a precise and short yet epic cycle, Cusk describes the most elemental experiences, the liminal qualities of life. She captures with unsettling restraint and honesty the longing to both inhabit and flee one’s life, and the wrenching ambivalence animating our desire to feel real.",
+        "amazon_link": "https://amzn.to/2DnJjcP"   
+    },
+    {
+        "info": "Outline by Rachel Cusk",
+        "book_cover":"/assets/images/bookpics/outline.jpg",
+        "description": "Outline is a novel in ten conversations. Spare and lucid, it follows a novelist teaching a course in creative writing over an oppressively hot summer in Athens. She leads her students in storytelling exercises. She meets other visiting writers for dinner. She goes swimming in the Ionian Sea with her neighbor from the plane. The people she encounters speak volubly about themselves: their fantasies, anxieties, pet theories, regrets, and longings. And through these disclosures, a portrait of the narrator is drawn by contrast, a portrait of a woman learning to face a great loss.",
+        "amazon_link": "https://amzn.to/2FCglIt"   
+    },
+    {
+        "info": "Astrophysics for People in a Hurry by Neil deGrasse Tyson ",
+        "book_cover":"/assets/images/bookpics/astrophysics for people in a hurry.jpg",
+        "description": "What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? There’s no better guide through these mind-expanding questions than acclaimed astrophysicist and best-selling author Neil deGrasse Tyson.",
+        "full_description": "But today, few of us have time to contemplate the cosmos. So Tyson brings the universe down to Earth succinctly and clearly, with sparkling wit, in tasty chapters consumable anytime and anywhere in your busy day. While you wait for your morning coffee to brew, for the bus, the train, or a plane to arrive, Astrophysics for People in a Hurry will reveal just what you need to be fluent and ready for the next cosmic headlines: from the Big Bang to black holes, from quarks to quantum mechanics, and from the search for planets to the search for life in the universe.",
+        "amazon_link": "https://amzn.to/2ATYhpg"   
+    },
+    {
+        "info": "Heroes of the Frontier by Dave Eggers",
+        "book_cover":"/assets/images/bookpics/heroes of the frontier.jpg",
+        "description": "Josie and her children's father have split up, she's been sued by a former patient and lost her dental practice, and she's grieving the death of a young man senselessly killed shortly after enlisting. When her ex asks to take the children to meet his new fiancée's family, Josie makes a run for it to Alaska with her kids, Paul and Ana."        ,
+        "full_description": "At first their trip feels like a vacation: they see bears and bison, they eat hot dogs cooked on a bonfire, and they spend nights parked along icy cold rivers in dark forests. But as they drive in their rattling old RV, pushed north by the ubiquitous wildfires, Josie is chased by enemies both real and imagined, and past mistakes pursue her tiny family, even to the very edge of civilization. A captivating, often hilarious novel of family, loss, wilderness, and the curse of a violent America, Heroes of the Frontier is a powerful examination of our contemporary life and a rousing story of adventure.",
+        "amazon_link": "https://amzn.to/2W29IEt"   
+    },
+    {
+        "info": "The Disaster Artist: My Life Inside the Room, the Greatest Bad Movie Ever Made by Greg Sestero",
+        "book_cover":"/assets/images/bookpics/the disaster artist.jpg",
+        "description": "From the actor who somehow lived through it all, a “sharply detailed…funny book about a cinematic comedy of errors” (The New York Times): the making of the cult film phenomenon The Room.In 2003, an independent film called The Room—starring and written, produced, and directed by a mysteriously wealthy social misfit named Tommy Wiseau—made its disastrous debut in Los Angeles.",
+        "full_description": "Described by one reviewer as “like getting stabbed in the head,” the $6 million film earned a grand total of $1,800 at the box office and closed after two weeks. Ten years later, it’s an international cult phenomenon, whose legions of fans attend screenings featuring costumes, audience rituals, merchandising, and thousands of plastic spoons. Hailed by The Huffington Post as “possibly the most important piece of literature ever printed,” The Disaster Artist is the hilarious, behind-the-scenes story of a deliciously awful cinematic phenomenon as well as the story of an odd and inspiring Hollywood friendship. Greg Sestero, Tommy’s costar, recounts the film’s bizarre journey to infamy, explaining how the movie’s many nonsensical scenes and bits of dialogue came to be and unraveling the mystery of Tommy Wiseau himself. But more than just a riotously funny story about cinematic hubris, “The Disaster Artist is one of the most honest books about friendship I’ve read in years” (Los Angeles Times).",
+        "amazon_link": "https://amzn.to/2W68qIr"   
+    },
+    {
+        "info": "Family Life by Akhil Sharma",
+        "book_cover":"/assets/images/bookpics/family life.jpg",
+        "description": "We meet the Mishra family in Delhi in 1978, where eight-year-old Ajay and his older brother Birju play cricket in the streets, waiting for the day when their plane tickets will arrive and they and their mother can fly across the world and join their father in America. America to the Mishras is, indeed, everything they could have imagined and more: when automatic glass doors open before them, they feel that surely they must have been mistaken for somebody important. ",
+        "full_description": "Pressing an elevator button and the elevator closing its doors and rising, they have a feeling of power at the fact that the elevator is obeying them. Life is extraordinary until tragedy strikes, leaving one brother severely brain-damaged and the other lost and virtually orphaned in a strange land. Ajay, the family’s younger son, prays to a God he envisions as Superman, longing to find his place amid the ruins of his family’s new life.Heart-wrenching and darkly funny, Family Life is a universal story of a boy torn between duty and his own survival.",
+        "amazon_link": "https://amzn.to/2W3eW2x"   
+    },
+
+
+]
+  

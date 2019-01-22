@@ -1,0 +1,106 @@
+books: [
+    {
+    "info": "Brave New World – Aldous Huxley",
+    "book_cover":"/assets/images/bookpics/brave_new_world.jpg",
+    "description": "Aldous Huxley's profoundly important classic of world literature, Brave New World is a searching vision of an unequal, technologically-advanced future where humans are genetically bred, socially indoctrinated, and pharmaceutically anesthetized to passively uphold an authoritarian ruling order–all at the cost of our freedom, full humanity, and perhaps also our souls.",
+    "full_description": " “A genius [who] who spent his life decrying the onward march of the Machine” (The New Yorker), Huxley was a man of incomparable talents: equally an artist, a spiritual seeker, and one of history’s keenest observers of human nature and civilization. Brave New World, his masterpiece, has enthralled and terrified millions of readers, and retains its urgent relevance to this day as both a warning to be heeded as we head into tomorrow and as thought-provoking, satisfying work of literature. Written in the shadow of the rise of fascism during the 1930s, Brave New World likewise speaks to a 21st-century world dominated by mass-entertainment, technology, medicine and pharmaceuticals, the arts of persuasion, and the hidden influence of elites.",
+    "amazon_link": "https://amzn.to/2T24F4L"
+    },
+    {
+        "info": "1984 – George Orwell",
+        "book_cover":"/assets/images/bookpics/1984.jpg",
+        "description": "Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching...",
+        "full_description": "A startling and haunting vision of the world, 1984 is so powerful that it is completely convincing from start to finish. No one can deny the influence of this novel, its hold on the imaginations of multiple generations of readers, or the resiliency of its admonitions—a legacy that seems only to grow with the passage of time.",
+        "amazon_link": "https://amzn.to/2WcDypQ"
+        },
+    
+    {
+        "info": "Road To Wigan Pier – George Orwell",
+        "book_cover":"/assets/images/bookpics/ill have what shes having.jpg",
+        "description": "In the 1930s Orwell was sent by a socialist book club to investigate the appalling mass unemployment in the industrial north of England. He went beyond his assignment to investigate the employed as well-”to see the most typical section of the English working class.” Foreword by Victor Gollancz.",
+        "amazon_link": "https://amzn.to/2szNcoC"   
+    },
+    {
+        "info": "Crime And Punishment – Fyodor Dostoevsky",
+        "book_cover":"/assets/images/bookpics/crime and punishment.jpg",
+        "description": "One of the supreme masterpieces of world literature, Crime and Punishment catapulted Dostoyevsky to the forefront of Russian writers and into the ranks of the world's greatest novelists. Drawing upon experiences from his own prison days, the author recounts in feverish, compelling tones the story of Raskolnikov, an impoverished student tormented by his own nihilism, and the struggle between good and evil.",
+        "full_description": "Believing that he is above the law, and convinced that humanitarian ends justify vile means, he brutally murders an old woman — a pawnbroker whom he regards as 'stupid, ailing, greedy…good for nothing.' Overwhelmed afterwards by feelings of guilt and terror, Raskolnikov confesses to the crime and goes to prison. There he realizes that happiness and redemption can only be achieved through suffering. Infused with forceful religious, social, and philosophical elements, the novel was an immediate success.",
+        "amazon_link": "https://amzn.to/2T0xgra"   
+    },
+    {
+        "info": "Demons – Fyodor Dostoevsky",
+        "book_cover":"/assets/images/bookpics/demons.jpg",
+        "description": "Inspired by the true story of a political murder that horrified Russians in 1869, Fyodor Dostoevsky conceived of Demons as a 'novel-pamphlet' in which he would say everything about the plague of materialist ideology that he saw infecting his native land. What emerged was a prophetic and ferociously funny masterpiece of ideology and murder in pre-revolutionary Russia.",
+        "amazon_link": "https://amzn.to/2FPsn0e"   
+    },
+    {
+        "info": "Beyond Good And Evil – Friedrich Nietzsche",
+        "book_cover":"/assets/images/bookpics/beyond good and evil.jpg",
+        "description": "Represents Nietzsche's attempt to sum up his philosophy. In nine parts the book is designed to give the reader a comprehensive idea of Nietzsche's thought and style:  they span 'The Prejudices of Philsophers,' 'The Free Spirit,' religion, morals, scholarship, 'Our Virtues,' 'Peoples and Fatherlands,' and 'What Is Noble,' as well as epigrams and a concluding poem.  Beyond Good and Evil is one of the most remarkable and influential books of the nineteenth century. ",
+        "amazon_link": "https://amzn.to/2T5W3KG"   
+    },
+    {
+        "info": "Ordinary Men – Christopher Browning",
+        "book_cover":"/assets/images/bookpics/ordinary men.jpg",
+        "description": "Ordinary Men is the true story of Reserve Police Battalion 101 of the German Order Police, which was responsible for mass shootings as well as round-ups of Jewish people for deportation to Nazi death camps in Poland in 1942. Browning argues that most of the men of  RPB 101 were not fanatical Nazis but, rather, ordinary middle-aged, working-class men who committed these atrocities out of a mixture of motives, including the group dynamics of conformity, deference to authority, role adaptation, and the altering of moral norms to justify their actions. ",
+        "full_description": "Very quickly three groups emerged within the battalion: a core of eager killers, a plurality who carried out their duties reliably but without initiative, and a small minority who evaded participation in the acts of killing without diminishing the murderous efficiency of the battalion whatsoever. While this book discusses a specific Reserve Unit during WWII, the general argument Browning makes is that most people succumb to the pressures of a group setting and commit actions they would never do of their own volition.  ",
+        "amazon_link": "https://amzn.to/2MkeuIT"   
+    },
+    {
+        "info": "The Painted Bird – Jerzy Kosinski",
+        "book_cover":"/assets/images/bookpics/the painted bird.jpg",
+        "description": "Originally published in 1965, The Painted Bird established Jerzy Kosinski as a major literary figure. Kosinski's story follows a dark-haired, olive-skinned boy, abandoned by his parents during World War II, as he wanders alone from one village to another, sometimes hounded and tortured, only rarely sheltered and cared for.",
+        "full_description": "Through the juxtaposition of adolescence and the most brutal of adult experiences, Kosinski sums up a Bosch-like world of harrowing excess where senseless violence and untempered hatred are the norm. Through sparse prose and vivid imagery, Kosinski's novel is a story of mythic proportion, even more relevant to today's society than it was upon its original publication.",
+        "amazon_link": "https://amzn.to/2T3jW5v"   
+    },
+    {
+        "info": "The Rape of Nanking – Iris Chang",
+        "book_cover":"/assets/images/bookpics/rape of nanking.jpg",
+        "description": "In December 1937, one of the most horrific massacres in the long annals of wartime barbarity occurred. The Japanese army swept into the ancient city of Nanking (what was then the capital of China), and within weeks, more than 300,000 Chinese civilians and soldiers were systematically raped, tortured, and murdered-a death toll exceeding that of the atomic blasts of Hiroshima and Nagasaki combined.",
+        "full_description": "In this seminal work, Iris Chang, whose own grandparents barely escaped the massacre, resurrects this history and tells the story from three perspectives: that of the Japanese soldiers, that of the Chinese, and that of a group of Westerners who refused to abandon the city and created a safety zone, which saved almost 300,000 Chinese. Amazingly, the story of this atrocity--one of the worst in world history--continues to be denied by the Japanese government. More than just narrating the details of an orgy of violence, The Rape of Nanking tells the shocking story of the concerted effort during the Cold War on the part of the West and even China to stifle open discussion of the massacre. Drawing on extensive interviews with survivors and documents brought to light for the first time, Iris Chang's classic is the definitive history of this horrifying episode.",
+        "amazon_link": "https://amzn.to/2Mj14g8"   
+    },
+    {
+        "info": "Gulag Archipelago (Vol. 1, Vol. 2, & Vol. 3) – Aleksandr Solzhenitsyn",
+        "book_cover":"/assets/images/bookpics/gulag archipelago.jpg",
+        "description": "Drawing on his own experiences before, during and after his eleven years of incarceration and exile, on evidence provided by more than 200 fellow prisoners, and on Soviet archives, Solzhenitsyn reveals with torrential narrative and dramatic power the entire apparatus of Soviet repression, the state within the state that once ruled all-powerfully with its creation by Lenin in 1918. ",
+        "full_description": "Through truly Shakespearean portraits of its victims-this man, that woman, that child-we encounter the secret police operations, the labor camps and prisons, the uprooting or extermination of whole populations, the “welcome” that awaited Russian soldiers who had been German prisoners of war. Yet we also witness astounding moral courage, the incorruptibility with which the occasional individual or a few scattered groups, all defenseless, endured brutality and degradation. And Solzhenitsyn’s genius has transmuted this grisly indictment into a literary miracle.",
+        "amazon_link": "https://amzn.to/2T9i8rP"   
+    },
+    {
+        "info": "Man's Search for Meaning by Viktor E. Frankl",
+        "book_cover":"/assets/images/bookpics/man_s search for meaning.jpg",
+        "description": "Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Between 1942 and 1945 Frankl labored in four different camps, including Auschwitz, while his parents, brother, and pregnant wife perished.",
+        "full_description": "Based on his own experience and the experiences of others he treated later in his practice, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. Frankl's theory-known as logotherapy, from the Greek word logos ('meaning')-holds that our primary drive in life is not pleasure, as Freud maintained, but the discovery and pursuit of what we personally find meaningful.",
+        "amazon_link": "https://amzn.to/2CkCs3T"
+        },
+        {
+            "info": "Modern Man in Search of A Soul – Carl Jung",
+            "book_cover":"/assets/images/bookpics/modern man in search of a soul.jpg",
+            "description": "Considered by many to be one of the most important books in the field of psychology, Modern Man in Search of a Soul is a comprehensive introduction to the thought of Carl Gustav Jung. In this book, Jung examines some of the most contested and crucial areas in the field of analytical psychology, including dream analysis, the primitive unconscious, and the relationship between psychology and religion. ",
+            "full_description": "Additionally, Jung looks at the differences between his theories and those of Sigmund Freud, providing a valuable basis for anyone interested in the fundamentals of psychoanalysis. ",
+            "amazon_link": "https://amzn.to/2Cx9koi"
+            },
+            {
+                "info": "Maps Of Meaning: The Architecture of Belief – Jordan B. Peterson",
+                "book_cover":"/assets/images/bookpics/maps of meaning.jpg",
+                "description": "Why have people from different cultures and eras formulated myths and stories with similar structures? What does this similarity tell us about the mind, morality, and structure of the world itself? Jordan Peterson offers a provocative new hypothesis that explores the connection between what modern neuropsychology tells us about the brain and what rituals, myths, and religious stories have long narrated.",
+                "full_description": "A cutting-edge work that brings together neuropsychology, cognitive science, and Freudian and Jungian approaches to mythology and narrative, Maps of Meaning presents a rich theory that makes the wisdom and meaning of myth accessible to the critical modern mind.",
+                "amazon_link": "https://amzn.to/2syykXL"
+                },
+                {
+                    "info": "A History of Religious Ideas (Vol. 1, Vol. 2, Vol. 3) – Mircea Eliade",
+                    "book_cover":"/assets/images/bookpics/history of religious ideas.jpg",
+                    "amazon_link": "https://amzn.to/2CyY7DA"
+                    },
+                    {
+                        "info": "Affective Neuroscience – Jaak Panksepp",
+                        "book_cover":"/assets/images/bookpics/affective neuroscience.jpg",
+                        "description": "Some investigators have argued that emotions, especially animal emotions, are illusory concepts outside the realm of scientific inquiry. However, with advances in neurobiology and neuroscience, researchers are demonstrating that this position is wrong as they move closer to a lasting understanding of the biology and psychology of emotion. In Affective Neuroscience, Jaak Panksepp provides the most up-to-date information about the brain-operating systems that organize the fundamental emotional tendencies of all mammals.",
+                        "full_description": " Presenting complex material in a readable manner, the book offers a comprehensive summary of the fundamental neural sources of human and animal feelings, as well as a conceptual framework for studying emotional systems of the brain. Panksepp approaches emotions from the perspective of basic emotion theory but does not fail to address the complex issues raised by constructionist approaches. These issues include relations to human consciousness and the psychiatric implications of this knowledge. The book includes chapters on sleep and arousal, pleasure and fear systems, the sources of rage and anger, and the neural control of sexuality, as well as the more subtle emotions related to maternal care, social loss, and playfulness. Representing a synthetic integration of vast amounts of neurobehavioral knowledge, including relevant neuroanatomy, neurophysiology, and neurochemistry, this book will be one of the most important contributions to understanding the biology of emotions since Darwins The Expression of the Emotions in Man and Animals.",
+                        "amazon_link": "https://amzn.to/2MiQCFl"
+                        },
+    
+
+
+]
