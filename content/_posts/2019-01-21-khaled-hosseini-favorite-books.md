@@ -3,7 +3,7 @@ layout: post
 title: Khaled Hosseini
 description: Novelist and physician
 image: assets/images/profilepics/khaled_hosseini.jpg
-allpeoplepics: assets/images/allpeoplepics/kevin_rose.jpg
+allpeoplepics: assets/images/allpeoplepics/khaled_hosseini.jpg
 person: khaled_hosseini
 category: Author
 imgattribution: khaledhosseini.com

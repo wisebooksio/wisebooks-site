@@ -14,7 +14,7 @@ books: [
     {
         "info": "An IDEA Book About T-Shirts By Stüssy",
         "book_cover":"/assets/images/bookpics/idea_book_tshirts.jpg",
-        "description": "Stüssy has worked with IDEA to publish a 240-page super book edited by Ryan Willms and Alastair McKimm. An Idea book about T-shirts by Stüssy features an essay, interviews, editorial by Ari Marcopoulos, and a series of photographs by some of the leading image makers in the industry today including Alasdair McLellan, Amy Troost, Ari Marcopoulos, Collier Schorr, Dan Martensen, Daniel Jackson, Glen Luchford, Inez & Vinoodh, Josh Olins, Mario Sorrenti, Terry Richardson and Willy Vanderperre. There is also a large archive section featuring unseen and iconic images from the brand over the past 38 years.",
+        "description": "Stüssy has worked winth IDEA to publish a 240-page super book edited by Ryan Willms and Alastair McKimm. An Idea book about T-shirts by Stüssy features an essay, interviews, editorial by Ari Marcopoulos, and a series of photographs by some of the leading image makers in the industry today including Alasdair McLellan, Amy Troost, Ari Marcopoulos, Collier Schorr, Dan Martensen, Daniel Jackson, Glen Luchford, Inez & Vinoodh, Josh Olins, Mario Sorrenti, Terry Richardson and Willy Vanderperre. There is also a large archive section featuring unseen and iconic images from the brand over the past 38 years.",
         "full_description": "The book not only looks back at the brand’s iconic history and long lasting relationship with the printed shirt, but aims to create a new dialogue with the medium and look into the value of what it means to our culture. Coinciding with the book and T-shirt release, Stüssy has partnered with Dover Street Market to launch a T-shirt retrospective in their London Haymarket location. The exhibition will include a selection of reissued vintage graphics from Stüssy’s archive, alongside two collaboration T-shirts that bring together the brands.",
         "amazon_link": "https://www.stussy.com/features/an-idea-book-about-t-shirts-by-stussy"   
     },
@@ -33,10 +33,9 @@ books: [
         "amazon_link": "https://amzn.to/2Rh2nBc"   
     },
     {
-        "info": "Boys Don’t Cry by Tim Grayburn",
+        "info": "Boys Don’t Cry by Frank Ocean",
         "book_cover":"/assets/images/bookpics/boys dont cry.jpg",
-        "description": "Boys Don't Cry is a book that speaks against the stigma that makes men feel like they are less-than for struggling, making sense of depression and anxiety for people who might not recognise those feelings in themselves or others. It is a brutally honest, sometimes heart-breaking (and sometimes funny) tale about what it really takes to be a 'real man', written by one who decided that he wanted to change the status quo by no longer being silent. ",
-        "full_description": "For nearly a decade Tim kept his depression secret. It made him feel so weak and shameful he thought it would destroy his whole life if anyone found out. But an unexpected discovery by a loved one forced him to confront his illness and realise there was strength to be found in sharing his story with others. When he finally opened up to the world about what he was going through he discovered he was not alone.",
+        "description": "Boys Don't Cry is the companion magazine to Frank Ocean's album, &quot;Blonde&quot;.",
         "amazon_link": "https://amzn.to/2V7zNS5"   
     },
     {
