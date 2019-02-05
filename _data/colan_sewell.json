@@ -1,0 +1,9 @@
+books: [
+    {
+    "info": "The Art of Seduction - By Robert Greene",
+    "book_cover":"/assets/images/bookpics/art of seduction.jpg",
+    "description": "Which sort of seducer could you be: Siren? Rake? Cold Coquette? Star? Comedian? Charismatic? or Saint? This book will show you which. Charm, persuasion, the ability to create illusions: these are some of the many dazzling gifts of the Seducer, the compelling figure who is able to manipulate, mislead and give pleasure all at once. When raised to the level of art, seduction, and indirect and subtle form of power, has toppled empires, won elections and enslaved great minds. In this beautiful, sensually designed book, Greene unearths the two sides of seduction: the characters and the process. ", 
+    "full_description": "Discover who you, or your pursuer, most resembles. Learn, too, the pitfalls of the anti-Seducer. In part II, immerse yourself in the twenty four manoeuvres and strategies of the seductive process, the ritual by which a seducer gains mastery over their target. Understand how to 'Choose the Right Victim', 'Appear to Be an Object of Desire' and 'Confuse Desire and Reality'. In addition, Greene provides instruction on how to identify victims by type. Each fascinating character and each cunning tactic demonstrates a fundamental truth about who we are, and the targets we've become - or hope to win over. \"The Art of Seduction\" is an indispensable primer on the essence of one of history's greatest weapons and the ultimate power trip.",
+    "amazon_link": "https://amzn.to/2WH9zXe"
+    },
+]

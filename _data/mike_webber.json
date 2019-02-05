@@ -1,0 +1,22 @@
+books: [
+    {
+    "info": "Confederacy of Dunces by John Kennedy Toole",
+    "book_cover":"/assets/images/bookpics/confederacy of dunces.jpg",
+    "description": "“Humor is king” - Mike \n A Confederacy of Dunces is an American comic masterpiece. John Kennedy Toole's hero, one Ignatius J. Reilly, is \"huge, obese, fractious, fastidious, a latter-day Gargantua, a Don Quixote of the French Quarter. His story bursts with wholly original characters, denizens of New Orleans' lower depths, incredibly true-to-life dialogue, and the zaniest series of high and low comic adventures\" (Henry Kisor, Chicago Sun-Times).", 
+    "amazon_link": "https://amzn.to/2DSr2oe"
+    },
+    {
+        "info": "Scattered minds by Gabor Mate",
+        "book_cover":"/assets/images/bookpics/scattered minds.jpg",
+        "description": "“Know and accept yourself” - Mike \n Attention Deficit Disorder (ADD) has quickly become a controversial topic in recent years. Whereas other books on the subject describe the condition as inherited, Dr. Gabor Maté believes that our social and emotional environments play a key role in both the cause of and cure for this condition. ", 
+        "full_description": "In Scattered, he describes the painful realities of ADD and its effect on children as well as on career and social paths in adults. While acknowledging that genetics may indeed play a part in predisposing a person toward ADD, Dr. Maté moves beyond that to focus on the things we can control: changes in environment, family dynamics, and parenting choices. He draws heavily on his own experience with the disorder, as both an ADD sufferer and the parent of three diagnosed children. Providing a thorough overview of ADD and its treatments, Scattered is essential and life-changing reading for the millions of ADD sufferers in North America today.",
+        "amazon_link": "https://amzn.to/2DSrv9Y"
+        },
+        {
+            "info": "The Dancing Wu Li Masters by Gary Zukav",
+            "book_cover":"/assets/images/bookpics/the dancing wu li masters.jpg",
+            "description": "“Things are as they are only because we agree that they are that way. Things could be very very different if we decide to make see them differently.” - Mike", 
+            "full_description": "Gary Zukav’s timeless, humorous, New York Times bestselling masterpiece, The Dancing Wu Li Masters, is arguably the most widely acclaimed introduction to quantum physics ever written. Scientific American raves: “Zukav is such a skilled expositor, with such an amiable style, that it is hard to imagine a layman who would not find his book enjoyable and informative.” Accessible, edifying, and endlessly entertaining, The Dancing Wu Li Masters is back in a beautiful new edition—and the doors to the fascinating, dazzling, remarkable world of quantum physics are opened to all once again, no previous mathematical or technical expertise required.",
+            "amazon_link": "https://amzn.to/2t2Oedb"
+            },
+]

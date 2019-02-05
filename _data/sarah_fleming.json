@@ -1,0 +1,37 @@
+books: [
+    {
+        "info": "Zero to One by Peter Thiel",
+        "book_cover":"/assets/images/bookpics/zero to one.jpg",
+        "description": "The great secret of our time is that there are still uncharted frontiers to explore and new inventions to create. In Zero to One, legendary entrepreneur and investor Peter Thiel shows how we can find singular ways to create those new things.",
+        "full_description": "Thiel begins with the contrarian premise that we live in an age of technological stagnation, even if we’re too distracted by shiny mobile devices to notice. Information technology has improved rapidly, but there is no reason why progress should be limited to computers or Silicon Valley. Progress can be achieved in any industry or area of business. It comes from the most important skill that every leader must master: learning to think for yourself.",
+        "amazon_link": "https://amzn.to/2JoOo5Y"   
+    },
+    {
+        "info": "Happiness Project by Gretchen Rubin",
+        "book_cover":"/assets/images/bookpics/happiness project.jpg",
+        "description": "Award-winning author Gretchen Rubin is back with a bang, with The Happiness Project. The author of the bestselling 40 Ways to Look at Winston Churchill has produced a work that is “a cross between the Dalai Lama’s The Art of Happiness and Elizabeth Gilbert’s Eat, Pray, Love.” (Sonya Lyubomirsky, author of The How of Happiness: A Scientific Approach to Getting the Life You Want)",
+        "full_description": "In the vein of Julie and Julia, The Happiness Project describes one person’s year-long attempt to discover what leads to true contentment. Drawing at once on cutting-edge science, classical philosophy, and real-world applicability, Rubin has written an engaging, eminently relatable chronicle of transformation.",
+        "amazon_link": "https://amzn.to/2UGytnU"
+        },
+        {
+            "info": "Lean In by Sheryl Sandberg",
+            "book_cover":"/assets/images/bookpics/lean in.jpg",
+            "description": "In Lean In, Sheryl Sandberg reignited the conversation around women in the workplace. Sandberg is chief operating officer of Facebook and coauthor of Option B with Adam Grant. In 2010, she gave an electrifying TED talk in which she described how women unintentionally hold themselves back in their careers. Her talk, which has been viewed more than six million times, encouraged women to “sit at the table,” seek challenges, take risks, and pursue their goals with gusto.", 
+            "full_description": "Lean In continues that conversation, combining personal anecdotes, hard data, and compelling research to change the conversation from what women can’t do to what they can. Sandberg provides practical advice on negotiation techniques, mentorship, and building a satisfying career. She describes specific steps women can take to combine professional achievement with personal fulfillment, and demonstrates how men can benefit by supporting women both in the workplace and at home. Written with humor and wisdom, Lean In is a revelatory, inspiring call to action and a blueprint for individual growth that will empower women around the world to achieve their full potential.",
+            "amazon_link": "https://amzn.to/2TDNbvK"
+            },
+            {
+                "info": "Hard Thing about Hard Things by Ben Horowitz",
+                "book_cover":"/assets/images/bookpics/the hard thing about hard things.jpg",
+                "description": "Ben Horowitz, cofounder of Andreessen Horowitz and one of Silicon Valley's most respected and experienced entrepreneurs, offers essential advice on building and running a startup—practical wisdom for managing the toughest problems business school doesn’t cover, based on his popular ben’s blog.",
+                "full_description": "While many people talk about how great it is to start a business, very few are honest about how difficult it is to run one. Ben Horowitz analyzes the problems that confront leaders every day, sharing the insights he’s gained developing, managing, selling, buying, investing in, and supervising technology companies. A lifelong rap fanatic, he amplifies business lessons with lyrics from his favorite songs, telling it straight about everything from firing friends to poaching competitors, cultivating and sustaining a CEO mentality to knowing the right time to cash in. Filled with his trademark humor and straight talk, The Hard Thing About Hard Things is invaluable for veteran entrepreneurs as well as those aspiring to their own new ventures, drawing from Horowitz's personal and often humbling experiences.",
+                "amazon_link": "https://amzn.to/2DaRfiC"   
+            },
+            {
+                "info": "Gourmet Nutrition by John Berardi",
+                "book_cover":"/assets/images/bookpics/gourmet nutrition.jpg",
+                "description": "This is a cookbook, but one of the best for people that want to eat healthy, while not on any sort of fab diet. (Sarah’s Notes)",
+                "full_description": "From the creators of Precision Nutrition comes a cookbook for people who love to eat great food, but hate that after-dinner guilt. For those who love to eat with style, but hate to look \"indulgent.\" for those who love to entertain, but want to do it right. Enter Gourmet Nutrition: the cookbook for the fit food lover. We've taken the healthiest ingredients and whipped them into nearly 300 pages of delicious culinary creations that you can serve with confidence to the most discerning foodie -- or the most nitpicky nutritionist. We've included detailed cooking instructions and ideas for improvisation. And we've even photographed every recipe in beautiful color to show you just how appetizing healthy food can be. Gourmet Nutrition is the cookbook that's as friendly to your body as it is to your taste buds, and it's equally at home on your kitchen counter and your coffee table.",
+                "amazon_link": "https://amzn.to/2t7Icbo"   
+            },
+]
