@@ -1,6 +1,6 @@
 ---
 name: Jen Rubio
-title: Co-founder, Chief Branding Officer of Away 
+title: Co-founder and Chief Branding Officer of Away 
 person: jen_rubio
 image: ../assets/images/listicle/jen_rubio.jpeg
 bioattribution:  https://bondstreet.com/jen-rubio-interview/, https://www.crunchbase.com/organization/away-2#section-funding-rounds 

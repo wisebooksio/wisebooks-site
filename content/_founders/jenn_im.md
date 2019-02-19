@@ -1,6 +1,6 @@
 ---
 name: Jenn Im
-title: Founder of Eggie, and Clothes Encounters
+title: Founder of Eggie and Clothes Encounters
 person: jenn_im
 image: ../assets/images/listicle/jenn_im.jpg
 bioattribution: https://en.wikipedia.org/wiki/Jenn_Im 
