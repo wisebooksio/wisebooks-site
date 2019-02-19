@@ -1,0 +1,16 @@
+books: [
+    {
+        "info": "Letters to a Young Poet by Rainer Maria Rilke",
+        "book_cover":"/assets/images/bookpics/letters to a young poet.jpg",
+        "description": "“It is a collection of Rilke's correspondence to a young, aspiring artist and offers candid thoughts on what it means to be a creatives. It's a little overwrought, but full of sage advice -- every time I've read it, new pieces of advice jump out at me depending on what's going on in my life and career.” (Jen in Entrepreneur)",
+        "full_description": "Born in 1875, the great German lyric poet Rainer Maria Rilke published his first collection of poems in 1898 and went on to become renowned for his delicate depiction of the workings of the human heart. Drawn by some sympathetic note in his poems, young people often wrote to Rilke with their problems and hopes. From 1903 to 1908 Rilke wrote a series of remarkable responses to a young, would-be poet on poetry and on surviving as a sensitive observer in a harsh world. Those letters, still a fresh source of inspiration and insight, are accompanied here by a chronicle of Rilke's life that shows what he was experiencing in his own relationship to life and work when he wrote them.",
+        "amazon_link": "https://amzn.to/2DUrHV1"
+        },
+        {
+            "info": "The Giving Tree by Shel Silverstein",
+            "book_cover":"/assets/images/bookpics/giving tree.jpg",
+            "description": "“I think it's a great story about unconditional giving, but it's also a good reminder to not be that selfish little boy.” (Jen in Entrepreneur)",
+            "full_description": "Since it was first published fifty years ago, Shel Silverstein's poignant picture book for readers of all ages has offered a touching interpretation of the gift of giving and a serene acceptance of another's capacity to love in return. Shel Silverstein's incomparable career as a bestselling children's book author and illustrator began with Lafcadio, the Lion Who Shot Back. He is also the creator of picture books including A Giraffe and a Half, Who Wants a Cheap Rhinoceros?, The Missing Piece, The Missing Piece Meets the Big O, and the perennial favorite The Giving Tree, and of classic poetry collections such as Where the Sidewalk Ends, A Light in the Attic, Falling Up, Every Thing On It, Don't Bump the Glump!, and Runny Babbit.",
+            "amazon_link": "https://amzn.to/2NdBfP9"
+            }
+]

@@ -1,0 +1,58 @@
+books: [
+    {
+    "info": "The Box by Malcolm McLean",
+    "book_cover":"/assets/images/bookpics/the box marc levinson.jpg",
+    "description": "&quot;He’s one of us entrepreneurs who would absolutely be on your podcast if he would be alive right now because he spent the first money out of college on buying a truck. He started a trucking company and tried to get things shipped across the country or even to Europe and realized we can make the most efficient trucking system, or the train guys have the most efficient trains, and the boat guys have ships all over the world... (Tobi on the Tim Ferriss podcast)",
+    "full_description": "But getting something through multiple stations is impossible. You have to unload everything. So he ended up just buying a bunch of tankers from the US Navy, which had surplus tankers at the end of World War II and just came up with this idea of putting a shipping container together that you can put things in the factory in Maine and then ship them all the way to Berlin. And the moment he did that, the cost of sending a unit of goods went from, I think, $6 to $0.16. We all live in Malcolm’s world because the shipping container has been hugely influential in history. It’s like a lot of people talk about free trade agreements and globalization. In reality, globalization happens the moment a shipping container opens in a country. And it’s a fascinating, rather underexposed story. But what’s so cool about this is the reason why he put this off is because, again, the Vanderbilts and the train guys really loved the trains. And the boat guys loved the boats. And he was the only person who just cared about moving things. He wanted to solve the problem of moving things in the world and then, you come to better solutions. We need more of that kind of thing.” (Tobi on the Tim Ferriss Podcast)",
+    "amazon_link": "https://amzn.to/2TTqzYk"
+    },
+    {
+        "info": "High Output Management by Andy Grove",
+        "book_cover":"/assets/images/bookpics/high output management.jpg",
+        "description": "“So Andy’s book is unapologetically almost a how to manual, but kind of deconstructs the world of business into first principles. It’s like, ‘Here’s what matters. Here’s how to think about it. No one needs a degree. There’s a little bit of circumstantial contextual understanding that you just have to have.’ But basically, at the end of the day, making business is an engineering exercise, which is brilliant for me because that actually made the whole thing about becoming CEO significantly less scary to me because engineering I understand.”  (Tobi on the Tim Ferriss Podcast)",
+        "amazon_link": "https://amzn.to/2EdwJNM"   
+    },
+    {
+        "info": "Influence by Robert Cialdini",
+        "book_cover":"/assets/images/bookpics/influence.jpg",
+        "description": "“Influence was just the most mind-bending book you can imagine, because it essentially taught you always humans are flawed and influential and how, yes, computers are predictable. And you can deal with it.” (Tobi on the Tim Ferriss Podcast)",  
+        "full_description": "Influence, the classic book on persuasion, explains the psychology of why people say 'yes'—and how to apply these understandings. Dr. Robert Cialdini is the seminal expert in the rapidly expanding field of influence and persuasion. His thirty-five years of rigorous, evidence-based research along with a three-year program of study on what moves people to change behavior has resulted in this highly acclaimed book. You'll learn the six universal principles, how to use them to become a skilled persuader—and how to defend yourself against them. Perfect for people in all walks of life, the principles of Influence will move you toward profound personal change and act as a driving force for your success.",
+        "amazon_link": "https://amzn.to/2DJPczX"
+        },
+    {
+        "info": "Drive by Daniel Pink",
+        "book_cover":"/assets/images/bookpics/drive daniel pink.jpg",
+        "description": "Most people believe that the best way to motivate is with rewards like money—the carrot-and-stick approach. That's a mistake, says Daniel H. Pink (author of To Sell Is Human: The Surprising Truth About Motivating Others).",
+        "full_description": "In this provocative and persuasive new book, he asserts that the secret to high performance and satisfaction-at work, at school, and at home—is the deeply human need to direct our own lives, to learn and create new things, and to do better by ourselves and our world.",
+        "amazon_link": "https://amzn.to/2X9WVQX"
+    },
+    {
+        "info": "Mindset - Carol S. Dweck",
+        "book_cover":"/assets/images/bookpics/mindset.jpg",
+        "description": "“I’m a big fan of the book. It talks you through the theory. And what I’ve observed is even with a very, very high super successful executives who come to Shopify and have worked at Shopify for a very long time, they end up reading the book. And they say, 'You know what? I was actually fixed mindset on all of these three things. (Tobi on the Tim Ferriss podcast)", 
+        "full_description": "And it’s like it really irks me now.' It’s just really funny how it wakes you up to this reality that we kind of all have that. It’s not something you can completely overcome. But it’s something that just having the awareness is really powerful. And also, if you have to have reports in a company, even if that book does nothing for you, it will allow you to be a much better lead to most people because it’s just priming you to detect fixed mindset talk in other people. And pointing it out is hugely beneficial.” (Tobi on the Tim Ferriss podcast)",
+        "amazon_link": "https://amzn.to/2GNOQM2"
+        },
+    {
+        "info": "The Elements of Style by William Strunk",
+        "book_cover":"/assets/images/bookpics/elements of style.jpg",
+        "description": "“The most frequently gifted book is The Elements of Style because I like good writing.” - Tobias Lutke, Founder of Shopify",
+        "full_description": "The Elements of Style is a study guide for the development of writing style by William Strunk Jr., a professor of English at Cornell University. It was later finished by his student, Elwyn Brooks White. Now it is commonly known as “the study guide by Strunk and White”. In short, this book is for someone who wants to become a writer. The Elements of Style is some kind of examples’ collection of all kinds of styles of writing very different works. It comprises eight 'elementary rules of usage', ten 'elementary principles of composition', 'a few matters of form', a list of 49 'words and expressions commonly misused', and a list of 57 'words often misspelled'.",
+        "amazon_link": " https://amzn.to/2XaUQEc"
+    },
+    {
+        "info": "A Guide to the Good Life by William B. Irvine",
+        "book_cover":"/assets/images/bookpics/guide_to_good_life.jpg",
+        "description": "One of the great fears many of us face is that despite all our effort and striving, we will discover at the end that we have wasted our life. In A Guide to the Good Life, William B. Irvine plumbs the wisdom of Stoic philosophy, one of the most popular and successful schools of thought in ancient Rome, and shows how its insight and advice are still remarkably applicable to modern lives.",
+        "full_description": "In A Guide to the Good Life, Irvine offers a refreshing presentation of Stoicism, showing how this ancient philosophy can still direct us toward a better life. Using the psychological insights and the practical techniques of the Stoics, Irvine offers a roadmap for anyone seeking to avoid the feelings of chronic dissatisfaction that plague so many of us. Irvine looks at various Stoic techniques for attaining tranquility and shows how to put these techniques to work in our own life. As he does so, he describes his own experiences practicing Stoicism and offers valuable first-hand advice for anyone wishing to live better by following in the footsteps of these ancient philosophers. Readers learn how to minimize worry, how to let go of the past and focus our efforts on the things we can control, and how to deal with insults, grief, old age, and the distracting temptations of fame and fortune. We learn from Marcus Aurelius the importance of prizing only things of true value, and from Epictetus we learn how to be more content with what we have. Finally, A Guide to the Good Life shows readers how to become thoughtful observers of their own lives. If we watch ourselves as we go about our daily business and later reflect on what we saw, we can better identify the sources of distress and eventually avoid that pain in our life. By doing this, the Stoics thought, we can hope to attain a truly joyful life.",
+        "amazon_link": "https://amzn.to/2Nh7ixO"
+    },
+    {
+        "info": "The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga",
+        "book_cover":"/assets/images/bookpics/the courage to be disliked.jpg",
+        "description": "“It is probably the best book I’ve read in the last couple of years. [...] It’s an introduction to Adlerian psychology, which is sort of anti-Freud. [...] Clearly a student of Stoicism, but I think he took it further. His concept of the separation of tasks is probably – maybe that would be another thing I would put on a billboard. But I think it requires a little bit of context and explanation...(Tobi on the Tim Ferriss Podcast)",
+        "full_description": "[The concept of the separation of tasks] It is the basic idea of “It’s not your task to be liked. It’s your task to be likable, and it’s someone else’s task to like you or not. It’s up to them.” The biggest wedge between your psychology and someone else’s that could ever be driven into it. And I think, potentially, a more tangible way of getting people into this mindset than I think the stoics who came at it from a very high mindedness. It all makes sense. But I think what Adler does really well is he developed tangible tools to facilitate a lot of those kinds of outcomes with stoic but a sort of reasoning about it. So a fascinating book.” (Tobi on the Tim Ferriss Podcast)",
+        "amazon_link": "https://amzn.to/2IlKTjU"
+    },
+
+]

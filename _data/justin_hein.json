@@ -1,0 +1,15 @@
+books: [
+    {
+    "info": "Managing Humans: Biting and Humorous Tales of a Software Engineering Manager 3rd ed. Edition by Michael Lopp",
+    "book_cover":"/assets/images/bookpics/managing humans.jpg",
+    "description": "Read hilarious stories with serious lessons that Michael Lopp extracts from his varied and sometimes bizarre experiences as a manager at Apple, Pinterest, Palantir, Netscape, Symantec, Slack, and Borland. Many of the stories first appeared in primitive form in Lopp’s perennially popular blog, Rands in Repose. The Third Edition of Managing Humans contains a whole new season of episodes from the ongoing saga of Lopp's adventures in Silicon Valley, together with classic episodes remastered for high fidelity and freshness.",
+    "full_description": "Whether you're an aspiring manager, a current manager, or just wondering what the heck a manager does all day, there is a story in this book that will speak to you―and help you survive and prosper amid the general craziness of dysfunctional bright people caught up in the chase of riches and power. Scattered in repose among these manic misfits are managers, an even stranger breed of people who, through a mystical organizational ritual, have been given power over the futures and the bank accounts of many others.",
+    "amazon_link": "https://amzn.to/2EdyWsy",
+    },
+    {
+        "info": "Two Against the North by Farley Mowat",
+        "book_cover":"/assets/images/bookpics/two against the north.jpg",
+        "description": "No single book could represent such a singular, widely curious figure as Farley Mowat, but Lost in the Barrens, the classic adventure tale that has introduced his work to generations of Canadians, is an excellent place to start. Set in the icy North that has been Mowat's continuing source of inspiration, Lost in the Barrens is a thrilling example of the gift for storytelling that makes almost any story Mowat wants to tell worth a listen.",
+        "amazon_link": "https://amzn.to/2TNHYSi"
+    },
+]

@@ -1,0 +1,69 @@
+books: [
+    {
+        "info": "Untethered Soul by Michael Singer",
+        "book_cover":"/assets/images/bookpics/untethered soul.jpg",
+        "description": "I know I’m not the only one with that voice in my head that is constantly making commentary on life. Sometimes it’s pretty funny and helpful but the majority of the time, it’s just noise. Singer does a really good job of explaining that, that voice inside of your head is not you. He calls it your roommate and you are just listening to it. I like to re-read this book when I’m feeling anxious about my life or when I’m over thinking about something. I’ll just bust open a chapter and it really grounds me.&quot; - Jenn Im",
+        "amazon_link": "https://amzn.to/2Xgsqsy"
+    },
+    {
+        "info": "The four agreements by Dom Miguel Guiz",
+        "book_cover":"/assets/images/bookpics/the four agreements.jpg",
+        "description": "“This is a book I really wish was assigned in school because I feel like it would have made me a lot more centred and confident. It explains 4 rules that we should all live our lives by: (1) Be impeccable with your word, (2) Don’t take anything personally, (3) Don’t make assumptions, (4) Always try your best. I find that any life problem can be redirected to any of the four agreements.” - Jenn Im",
+        "amazon_link": "https://amzn.to/2N8xMS1"
+        },
+        {
+            "info": "The Power of Habit by Charles Duhigg",
+            "book_cover":"/assets/images/bookpics/the power of habit.jpg",
+            "description": "“Over 65% of the things you do in your day to day life is run on autopilot, aka your habits. So if you have positive habits that you can just daze throughout life and be productive without even trying. The author does a really thorough job of describing how habits are created. It is a chain reaction of three events:  (1) The queue, (2) The routine, (3) The reward. If you are looking to change a habit, it’s all about changing the routine.” - Jenn Im",
+            "amazon_link": "https://amzn.to/2N8ynmJ"
+            },
+            {
+                "info": "Dark Places by Gillian Flynn",
+                "book_cover":"/assets/images/bookpics/dark places.jpg",
+                "description": "“I was obsessed with thrillers last year and the queen of suspense. I read all of her books last year but my favourite one was by far, Dark Places.” - Jenn Im",
+                "full_description": "Libby Day was seven when her mother and two sisters were murdered in “The Satan Sacrifice of Kinnakee, Kansas.” She survived—and famously testified that her fifteen-year-old brother, Ben, was the killer. Twenty-five years later, the Kill Club—a secret society obsessed with notorious crimes—locates Libby and pumps her for details. They hope to discover proof that may free Ben. Libby hopes to turn a profit off her tragic history: She’ll reconnect with the players from that night and report her findings to the club—for a fee. As Libby’s search takes her from shabby Missouri strip clubs to abandoned Oklahoma tourist towns, the unimaginable truth emerges, and Libby finds herself right back where she started—on the run from a killer.",
+                "amazon_link": "https://amzn.to/2EfNEzb",
+            },
+            {
+                "info": "The Last Mrs Parrish by Liv Constantine",
+                "book_cover":"/assets/images/bookpics/the last mrs parrish.jpg",
+                "description": "“This is my gateway book that got me sucked into thrillers.” - Jenn Im",
+                "full_description": "Amber Patterson is fed up. She’s tired of being a nobody: a plain, invisible woman who blends into the background. She deserves more—a life of money and power like the one blond-haired, blue-eyed goddess Daphne Parrish takes for granted. To everyone in the exclusive town of Bishops Harbor, Connecticut, Daphne—a socialite and philanthropist—and her real-estate mogul husband, Jackson, are a couple straight out of a fairy tale. Amber’s envy could eat her alive . . . if she didn't have a plan. Amber uses Daphne’s compassion and caring to insinuate herself into the family’s life—the first step in a meticulous scheme to undermine her. Before long, Amber is Daphne’s closest confidante, traveling to Europe with the Parrishes and their lovely young daughters, and growing closer to Jackson. But a skeleton from her past may undermine everything that Amber has worked towards, and if it is discovered, her well-laid plan may fall to pieces. With shocking turns and dark secrets that will keep you guessing until the very end, The Last Mrs. Parrish is a fresh, juicy, and utterly addictive thriller from a diabolically imaginative talent.",
+                "amazon_link": "https://amzn.to/2V1jeWT",
+            },
+            {
+                "info": "Room by Emma Donoghue",
+                "book_cover":"/assets/images/bookpics/room.jpg",
+                "description": "“This is by far the most uniquely written book that I’ve ever read.” - Jenn Im",
+                "full_description": "To five-year-old-Jack, Room is the world. . . . It's where he was born, it's where he and his Ma eat and sleep and play and learn. At night, his Ma shuts him safely in the wardrobe, where he is meant to be asleep when Old Nick visits. Room is home to Jack, but to Ma it's the prison where she has been held for seven years. Through her fierce love for her son, she has created a life for him in this eleven-by-eleven-foot space. But with Jack's curiosity building alongside her own desperation, she knows that Room cannot contain either much longer. Room is a tale at once shocking, riveting, exhilarating--a story of unconquerable love in harrowing circumstances, and of the diamond-hard bond between a mother and her child.",
+                "amazon_link": "https://amzn.to/2TUgPx0",
+            },
+            {
+                "info": "Pachinko by Minjin Lee",
+                "book_cover":"/assets/images/bookpics/pachinko.jpg",
+                "description": "“It was one of those reads where after I read it, I couldn’t stop thinking about it. This was a historical fiction that takes place in Korea under Japanese rule. I think this book does a really good job of explaining what it was life over 4 generations.” - Jenn Im",
+                "full_description": "In the early 1900s, teenaged Sunja, the adored daughter of a crippled fisherman, falls for a wealthy stranger at the seashore near her home in Korea. He promises her the world, but when she discovers she is pregnant--and that her lover is married--she refuses to be bought. Instead, she accepts an offer of marriage from a gentle, sickly minister passing through on his way to Japan. But her decision to abandon her home, and to reject her son's powerful father, sets off a dramatic saga that will echo down through the generations. Richly told and profoundly moving, Pachinko is a story of love, sacrifice, ambition, and loyalty. From bustling street markets to the halls of Japan's finest universities to the pachinko parlors of the criminal underworld, Lee's complex and passionate characters--strong, stubborn women, devoted sisters and sons, fathers shaken by moral crisis--survive and thrive against the indifferent arc of history.",
+                "amazon_link": "https://amzn.to/2GuCaKE",
+            },
+            {
+                "info": "What I know For Sure by Oprah Winfrey",
+                "book_cover":"/assets/images/bookpics/what i know for sure.jpg",
+                "description": "“I fricken love Oprah and everything she stands for. This is a book of all the life lessons that she knows for sure. Whenever I’m feeling uninspired or unmotivated, I pick up this book.” - Jenn Im",
+                "full_description": "As a creative force, student of the human heart and soul, and champion of living the life you want, Oprah Winfrey stands alone. Over the years, she has made history with a legendary talk show - the highest-rated program of its kind, launched her own television network, become the nation's only African-American billionaire, and been awarded both an honorary degree by Harvard University and the Presidential Medal of Freedom. From all her experiences, she has gleaned life lessons―which, for fourteen years, she's shared in O, The Oprah Magazine's widely popular 'What I Know For Sure' column, a monthly source of inspiration and revelation.",
+                "amazon_link": "https://amzn.to/2UX1lIS",
+            },
+            {
+                "info": "Born a Crime by Trevor Noah",
+                "book_cover":"/assets/images/bookpics/born a crime.jpg",
+                "description": "“My mind completely changed when I heard his story on Oprah’s podcast.” - Jenn Im",
+                "full_description": "Trevor Noah, the funny guy who hosts The Daily Show, shares his remarkable story of growing up in South Africa, with a black South African mother and a white European father at a time when it was against the law for a mixed-race child like him to exist. But he did exist--and from the beginning, the often-misbehaved Trevor used his keen smarts and humor to navigate a harsh life under a racist government. This compelling memoir blends drama, comedy, and tragedy to depict the day-to-day trials that turned a boy into a young man. In a country where racism barred blacks from social, educational, and economic opportunity, Trevor surmounted staggering obstacles and created a promising future for himself, thanks to his mom's unwavering love and indomitable will. It's Trevor Noah: Born a Crime not only provides a fascinating and honest perspective on South Africa's racial history, but it will also astound and inspire young readers looking to improve their own lives.",
+                "amazon_link": "https://amzn.to/2GufVnU",
+            },
+            {
+                "info": "The Sun Does Shine by Anthony Ray Hinton",
+                "book_cover":"/assets/images/bookpics/the sun does shine.jpg",
+                "description": "“This memoir is the ultimate story of the underdog getting justice.” - Jenn Im",
+                "full_description": "In 1985, Anthony Ray Hinton was arrested and charged with two counts of capital murder in Alabama. Stunned, confused, and only twenty-nine years old, Hinton knew that it was a case of mistaken identity and believed that the truth would prove his innocence and ultimately set him free. But with no money and a different system of justice for a poor black man in the South, Hinton was sentenced to death by electrocution. He spent his first three years on Death Row at Holman State Prison in agonizing silence—full of despair and anger toward all those who had sent an innocent man to his death. But as Hinton realized and accepted his fate, he resolved not only to survive, but find a way to live on Death Row. For the next twenty-seven years he was a beacon—transforming not only his own spirit, but those of his fellow inmates, fifty-four of whom were executed mere feet from his cell. With the help of civil rights attorney and bestselling author of Just Mercy, Bryan Stevenson, Hinton won his release in 2015.",
+                "amazon_link": "https://amzn.to/2TOPvjW"
+            },
+]
