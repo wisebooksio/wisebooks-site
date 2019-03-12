@@ -29,7 +29,7 @@ books: [
                 },
                 {
                     "info": "My Years at GM - Alfred Sloan",
-                    "book_cover":"/assets/images/bookpics/my years at GM.jpg",
+                    "book_cover":"/assets/images/bookpics/my year with general motors.jpg",
                     "description": "My Years with General Motors became an instant bestseller when it was first published in 1963. It has since been used as a manual for managers, offering personal glimpses into the practice of the \"discipline of management\" by the man who perfected it. This is the story no other businessman could tell—a distillation of half a century of intimate leadership experience with a giant industry and an inside look at dramatic events and creative business management.",
                     "full_description":"Only a handful of business books have reached the status of a classic, having withstood the test of over fifty years' time. Even today, Bill Gates praises My Years with General Motors as the best book to read on business, and Business Week has named it the number one choice for its \"bookshelf of indispensable reading.\"",
                     "amazon_link": "https://amzn.to/2ETH5Bk"
