@@ -1,0 +1,38 @@
+books: [
+    {
+        "info": "The Innovator's Dilemma by Clayton Christensen",
+        "book_cover":"/assets/images/bookpics/innovators_dilemma.jpg",
+        "description": "This book is about how businesses get disrupted even though there are big competitors that could just wipe them clean. A Wall Street Journal and Businessweek bestseller. Named by Fast Company as one of the most influential leadership books in its Leadership Hall of Fame. An innovation classic. From Steve Jobs to Jeff Bezos, Clay Christensen’s work continues to underpin today’s most innovative leaders and organizations.",
+        "full_description": "In this classic bestseller—one of the most influential business books of all time—innovation expert Clayton Christensen shows how even the most outstanding companies can do everything right—yet still lose market leadership. Christensen explains why most companies miss out on new waves of innovation. No matter the industry, he says, a successful company with established products will get pushed aside unless managers know how and when to abandon traditional business practices. Offering both successes and failures from leading companies as a guide, The Innovator’s Dilemma gives you a set of rules for capitalizing on the phenomenon of disruptive innovation.",
+        "amazon_link": "https://amzn.to/2C5JZFd"
+        },
+    {
+        "info": "The Black Jacobins — C.L.R. James",
+        "book_cover":"/assets/images/bookpics/black jacobins.jpg",
+        "description": "This powerful, intensely dramatic book is the definitive account of the Haitian Revolution of 1794-1803, a revolution that began in the wake of the Bastille but became the model for the Third World liberation movements from Africa to Cuba. It is the story of the French colony of San Domingo, a place where the brutality of master toward slave was commonplace and ingeniously refined.",
+        "full_description":"And it is the story of a barely literate slave named Toussaint L'Ouverture, who led the black people of San Domingo in a successful struggle against successive invasions by overwhelming French, Spanish, and English forces and in the process helped form the first independent nation in the Caribbean.",
+        "amazon_link": "https://amzn.to/2EZ6aMu"
+        },
+        {
+            "info": "Only the Paranoid Survive - Andy Grove",
+            "book_cover":"/assets/images/bookpics/only the paranoid survive.jpg",
+            "description": "Under Andy Grove's leadership, Intel became the world's largest chip maker and one of the most admired companies in the world. In Only the Paranoid Survive, Grove reveals his strategy for measuring the nightmare moment every leader dreads--when massive change occurs and a company must, virtually overnight, adapt or fall by the wayside--in a new way.",
+            "full_description":"Grove calls such a moment a Strategic Inflection Point, which can be set off by almost anything: mega-competition, a change in regulations, or a seemingly modest change in technology. When a Strategic Inflection Point hits, the ordinary rules of business go out the window. Yet, managed right, a Strategic Inflection Point can be an opportunity to win in the marketplace and emerge stronger than ever. Grove underscores his message by examining his own record of success and failure, including how he navigated the events of the Pentium flaw, which threatened Intel's reputation in 1994, and how he has dealt with the explosions in growth of the Internet. The work of a lifetime, Only the Paranoid Survive is a classic of managerial and leadership skills.",
+            "amazon_link": "https://amzn.to/2tWYJ1Z"
+            },
+            {
+                "info": "Focus - Al Reis",
+                "book_cover":"/assets/images/bookpics/focus al ries.jpg",
+                "description": "What's the secret to a company's continued growth and prosperity? Internationally known marketing expert Al Ries has the answer: focus. His commonsense approach to business management is founded on the premise that long-lasting success depends on focusing on core products and eschewing the temptation to diversify into unrelated enterprises.",
+                "full_description":"Using real-world examples, Ries shows that in industry after industry, it is the companies that resist diversification, and focus instead on owning a category in consumers' minds, that dominate their markets. He offers solid guidance on how to get focused and how to stay focused, laying out a workable blueprint for any company's evolution that will increase market share and shareholder value while ensuring future success.",
+                "amazon_link": "https://amzn.to/2tUZkBw"
+                },
+                {
+                    "info": "My Years at GM - Alfred Sloan",
+                    "book_cover":"/assets/images/bookpics/my years at GM.jpg",
+                    "description": "My Years with General Motors became an instant bestseller when it was first published in 1963. It has since been used as a manual for managers, offering personal glimpses into the practice of the \"discipline of management\" by the man who perfected it. This is the story no other businessman could tell—a distillation of half a century of intimate leadership experience with a giant industry and an inside look at dramatic events and creative business management.",
+                    "full_description":"Only a handful of business books have reached the status of a classic, having withstood the test of over fifty years' time. Even today, Bill Gates praises My Years with General Motors as the best book to read on business, and Business Week has named it the number one choice for its \"bookshelf of indispensable reading.\"",
+                    "amazon_link": "https://amzn.to/2ETH5Bk"
+                    },           
+
+]

@@ -1,0 +1,115 @@
+---
+layout: listicle
+title: Venture Capitalists
+subtitle: Book Recommendations by Renowned Venture Capitalists
+allpeoplepics: /assets/images/allpeoplepics/ann_ko.jpg
+image: /assets/images/listicle/venture_capitalists.jpg
+description: Renowned VCs Marc Andreessen, Ann Miura-Ko, Chris Sacca, and Ben Horowitz recommend their favorite books.
+redirect_from:
+---
+
+<!-- Main -->
+<div id="listicle" class="alt">
+  <!-- One -->
+
+  <section id="listicle-intro">
+    <h1>Startup Book Recommendations by Venture Capitalists</h1>
+    <br />
+    <br />
+    <p>
+      Renowned VCs Marc Andreessen, Ann Miura-Ko, Chris Sacca, and Ben Horowitz
+      recommend their favorite books.
+    </p>
+  </section>
+
+  {% for venture_capitalist in site.venture_capitalists %}
+
+  <section id="listicle-bio">
+    <div class="bio-content">
+      <div class="profile">
+        <div class="profilepic">
+          <img src="{{ venture_capitalist.image }}" />
+        </div>
+        <div class="profilebio">
+          <h3>{{ venture_capitalist.name }}</h3>
+          <h4>{{ venture_capitalist.title }}</h4>
+        </div>
+      </div>
+      <p>{{ venture_capitalist.content | markdownify }}</p>
+      <details class="attribution">
+        <summary>Sources</summary> {% if venture_capitalist.bioattribution
+        %}Bio:{{ venture_capitalist.bioattribution }}{% endif %} {% if
+        venture_capitalist.bookattribution %}Books:
+        {{ venture_capitalist.bookattribution }}{% endif %} {% if
+        venture_capitalist.imageattribution %}Images:
+        {{ venture_capitalist.imageattribution }}{%endif%}
+      </details>
+    </div>
+  </section>
+
+  <section id="listicle-books">
+    <div class="booktile">
+      {% for book in site.data[venture_capitalist.person].books %}
+
+      <div class="book-card">
+        <span class="bookimage"
+          ><img src="{{ book.book_cover }}" alt="{{ book.info }}"
+        /></span>
+        <span class="descriptionbuy">
+          <p>{{ book.description }}</p>
+        </span>
+        <div class="bookbuttons">
+          <details>
+            <summary class="button small yellow readmore">Read More</summary>
+            <div class="expanded">
+              <p>{{ book.full_description }}</p>
+            </div>
+          </details>
+          <a href="{{ book.amazon_link }}" class="button small specialdark buy"
+            >Buy</a
+          >
+        </div>
+        <div class="border"></div>
+      </div>
+
+      {% endfor %}
+    </div>
+  </section>
+
+  {% endfor %} {% include recent-post.html %}
+
+  <section class="subscribe" id="mc-embed-signup">
+    <header class="major center"><h2>SUBSCRIBE & READ MORE</h2></header>
+    <div class="form-container">
+      <form
+        action="{{ site.mailchimp }}"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        class="validate"
+        target="_blank"
+        novalidate
+      >
+        <p>Want more books? Sign up for our newsletters.</p>
+        <div class="newsletter-box" id="mc_embed_signup_scroll">
+          <input
+            type="email"
+            name="EMAIL"
+            class="email-input"
+            id="mce-EMAIL"
+            value="Email address"
+            onfocus="if(this.value==this.defaultValue)this.value='';"
+            onblur="if(this.value=='')this.value=this.defaultValue;"
+          />
+          <input
+            type="submit"
+            value="Subscribe"
+            name="subscribe"
+            class="button"
+            id="mc-embedded-subscribe"
+          />
+        </div>
+      </form>
+    </div>
+  </section>
+</div>

@@ -1,0 +1,24 @@
+books: [
+    {
+        "info": "Feldthoughts by Brad Feld",
+        "book_cover":"/assets/images/bookpics/feldthoughts.jpg",
+        "description": "“A longtime friend and mentor, Brad at Feldthoughts, has done series over the years, where he breaks down each aspect of a term sheet, and how to understand it, and then deal documents, and this is what we think is important, these are things we think could go Copyright © 2007–2018 Tim Ferriss. All Rights Reserved. away. Josh Koppleman, his team has done a lot of work. We’ve now seen Y-Combinator, and the guys at Fenwick and West and Cooley, building templated documents that are really really watered down, and pro-entrepreneur – And, just kind of have taken out a lot of the legacy bullshit that didn’t need to be in those documents... -Chris Sacca on the Tim Ferriss Podcast",
+        "full_description": "...And so, there’s a lot of this learning that can happen now, without having to buy books, and without having to go to school, so that’s been fantastic. “ -Chris Sacca on the Tim Ferriss Podcast",
+        "amazon_link": "https://feld.com/"
+        },
+    {
+        "info": "Not Fade Away: A Short Life Well Lived by Peter Barton",
+        "book_cover":"/assets/images/bookpics/not fade away.jpg",
+        "description": "“It’s an exercise in, okay, what’s on the mind of the person who’s dying, and how is he thinking about the impact of his death on his family, on his friends, on his business partners, on his legacy, on the continuing responsibilities as a dad, even in the absence of – even though he’s passed on to the next life,... -Chris Sacca on the Tim Ferriss Podcast",
+        "full_description": "and it’s an entire exercise in perspectives, and I think that book will not only leave you feeling incredibly lucky for what we’ve got here, where we are, but at the same time, will sharpen that sense of, how do I put myself in somebody else’s shoes?”-Chris Sacca on the Tim Ferriss Podcast",
+        "amazon_link": "https://amzn.to/2NRPGZl"
+        },
+        {
+            "info": "How to Get Filthy Rich in Rising Asia by Mohsin Hamid",
+            "book_cover":"/assets/images/bookpics/how to get filthy rich in rising asia.jpg",
+            "description": "His first two novels established Mohsin Hamid as a radically inventive storyteller with his finger on the world’s pulse. How to Get Filthy Rich in Rising Asia meets that reputation—and exceeds it. The astonishing and riveting tale of a man’s journey from impoverished rural boy to corporate tycoon, it steals its shape from the business self-help books devoured by ambitious youths all over “rising Asia.”",
+            "full_description":"It follows its nameless hero to the sprawling metropolis where he begins to amass an empire built on that most fluid, and increasingly scarce, of goods: water. Yet his heart remains set on something else, on the pretty girl whose star rises along with his, their paths crossing and recrossing, a lifelong affair sparked and snuffed and sparked again by the forces that careen their fates along. How to Get Filthy Rich in Rising Asia is a striking slice of contemporary life at a time of crushing upheaval. Romantic without being sentimental, political without being didactic, and spiritual without being religious, it brings an unflinching gaze to the violence and hope it depicts. And it creates two unforgettable characters who find moments of transcendent intimacy in the midst of shattering change.",
+            "amazon_link": "https://amzn.to/2EMExFm"
+            },  
+
+]
