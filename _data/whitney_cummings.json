@@ -1,0 +1,23 @@
+books: [
+    {
+    "info": "Getting the Love You Want by Harville Hendrix",
+    "book_cover":"/assets/images/bookpics/getting the love you want.jpg",
+    "description": "“Love the book, hate the title. It’s a very illuminating exploration of how we’re attracted to people who have the negative qualities of our primary caretakers. It was very eye-opening given who I was gravitating to in my work and personal life...",
+    "full_description": "It’s helped me to make better relationship and hiring decisions, which ultimately saved me a lot of time and helped me to be way more efficient with my time. It’s been a game changer for my self-awareness and made me a better picker of employees and co-workers.” -Whitney Cummings, Award-Winning comedian and executive producer, quoted in Tribe of Mentors",
+    "amazon_link": "https://amzn.to/2uqekrq "
+    },
+    {
+        "info": "The Fantasy Bond by Robert W. Firestone",
+        "book_cover":"/assets/images/bookpics/fantasy bond.jpg",
+        "description": "“This book helped me to understand how psychological defenses work, which gave me the power to disarm mine and move into a more honest, productive way to handle conflict. It helps stop your childhood from getting in the way of your adulthood.” -Whitney Cummings, Award-Winning comedian and executive producer, quoted in Tribe of Mentors",
+        "amazon_link": "https://amzn.to/2UVjJSM"
+    },
+    {
+        "info": "The Female Brain by Louann Brizendine",
+        "book_cover":"/assets/images/bookpics/female brain.jpg",
+        "description": "“I was so into this book that I made a movie about it, because I think everyone should be required to understand how their neurochemical engine works, and how we can be a puppet of our primordial brain at times...",
+        "full_description": "It helped me to master a basic understanding of chemistry, hormones, and the amygdala, which has given me patience with myself and others. This is invaluable when I’m dealing with difficult decisions or conflict. It also gives me a huge sense of freedom to be able to delineate between a neurochemical reaction and a legitimate feeling.“ -Whitney Cummings, Award-Winning comedian and executive producer, quoted in Tribe of Mentors",
+        "amazon_link": " https://amzn.to/2YkwecS "
+    },
+
+]

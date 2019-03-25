@@ -1,0 +1,10 @@
+books: [
+    {
+    "info": "The Power of a Positive No by William Ury",
+    "book_cover":"/assets/images/bookpics/power of a positive no.jpg",
+    "description": "“It allowed me to understand the reasons why I was saying yes to things I did not want to do. More important, it gave me the tools for how to say no consistently and without guilt. Other books have allowed me to discover myself, guide myself to changing, but I would not have had the time to do that if I had not said no to time-sucking activities that I was accepted before.” -Muna Abusulayman, Muslim activist and businesswoman, quoted in Tribe of Mentors",
+    "amazon_link": "https://amzn.to/2Jxvwpb"
+    },
+
+
+]
