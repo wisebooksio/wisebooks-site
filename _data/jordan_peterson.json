@@ -16,7 +16,7 @@ books: [
     
     {
         "info": "Road To Wigan Pier – George Orwell",
-        "book_cover":"/assets/images/bookpics/ill have what shes having.jpg",
+        "book_cover":"/assets/images/bookpics/the road to wigan pier.jpg",
         "description": "In the 1930s Orwell was sent by a socialist book club to investigate the appalling mass unemployment in the industrial north of England. He went beyond his assignment to investigate the employed as well-”to see the most typical section of the English working class.” Foreword by Victor Gollancz.",
         "amazon_link": "https://amzn.to/2szNcoC"   
     },
