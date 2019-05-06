@@ -27,13 +27,6 @@ books: [
         "amazon_link": "https://amzn.to/2HReIa4",
     },
     {
-        "info": "Anil’s Ghost by Michael Ondaatje",
-        "book_cover":"/assets/images/bookpics/anils ghost.jpg",
-        "description": "Anil’s Ghost transports us to Sri Lanka, a country steeped in centuries of tradition, now forced into the late twentieth century by the ravages of civil war. Into this maelstrom steps Anil Tissera, a young woman born in Sri Lanka, educated in England and America, who returns to her homeland as a forensic anthropologist sent by an international human rights group to discover the source of the organized campaigns of murder engulfing the island. ",
-        "full_description": "What follows is a story about love, about family, about identity, about the unknown enemy, about the quest to unlock the hidden past–a story propelled by a riveting mystery. Unfolding against the deeply evocative background of Sri Lanka’s landscape and ancient civilization, Anil’s Ghost is a literary spellbinder–Michael Ondaatje’s most powerful novel yet.",
-        "amazon_link": "https://amzn.to/2HReIa4",
-    },
-    {
         "info": "One Hundred Years of Solitude by Gabriel García Márquez",
         "book_cover":"/assets/images/bookpics/one hundred years of solitude.jpg",
         "description": "One Hundred Years of Solitude tells the story of the rise and fall, birth and death of the mythical town of Macondo through the history of the Buendia family. Inventive, amusing, magnetic, sad, and alive with unforgettable men and women -- brimming with truth, compassion, and a lyrical magic that strikes the soul -- this novel is a masterpiece in the art of fiction.",

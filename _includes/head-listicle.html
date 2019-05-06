@@ -1,36 +1,46 @@
 <head>
-	<meta name="title" property="og:title" content="{{page.subtitle}}"/>
-	<meta name="image" property="og:image" content="{{site.baseurl}}{{page.image}}"/>
-	<meta name="description" property="og:description" content="{{page.description}}"/>
-	<meta name="twitter:title" content="{{page.subtitle}}"/>
-	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:description" content="{{page.description}}"/>
-	<meta name="twitter:image" content="{{site.baseurl}}{{page.image}}"/>
-	<link rel="canonical" href="{{page.canonical_url}}" />
-	
-	<title>{{page.subtitle}} | Wisebooks</title>
-	
-	<meta charset="utf-8" />
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css" />
-	<link rel="shortcut icon" href="/Favicon.png" />
-	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
+  <meta name="title" property="og:title" content="{{ page.subtitle }}" />
+  <meta
+    name="image"
+    property="og:image"
+    content="{{ site.baseurl }}{{ page.image }}"
+  />
+  <meta
+    name="description"
+    property="og:description"
+    content="{{ page.description }}"
+  />
+  <meta name="twitter:title" content="{{ page.subtitle }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="{{ page.description }}" />
+  <meta name="twitter:image" content="{{ site.baseurl }}{{ page.image }}" />
+  <link rel="canonical" href="{{ page.canonical_url }}" />
 
-	{% if site.tags != "" %}
-  		{% include collecttags.html %}
-	{% endif %}
+  <title>{{ page.subtitle }} | Wisebooks</title>
 
-    <meta name="description" content="{{page.description}}">
+  <meta charset="utf-8" />
 
-    <meta property="og:type" content="article"/>
-    <script type="application/ld+json">
-	
-		{% feed_meta %}
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, user-scalable=no"
+  />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+  <link rel="shortcut icon" href="/Favicon.png" />
+  <!--[if lte IE 9
+    ]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}"
+    /><!
+  [endif]-->
+  <!--[if lte IE 8
+    ]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}"
+    /><!
+  [endif]-->
+  <!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 
-		
-		{% include analytics.html %}
+  {% if site.tags != "" %} {% include collecttags.html %} {% endif %}
 
+  <meta name="description" content="{{ page.description }}" />
+
+  <meta property="og:type" content="article" />
+
+  {% include analytics.html %} {% feed_meta %}
 </head>
