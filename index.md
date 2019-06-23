@@ -1,10 +1,9 @@
 ---
 layout: home
 title: Book Recommendations by World-class People
-landing-title: Books recommended by smart people.
-landing-description: Join our 1,500+ readers. 
-landing-subdescription: Subscribe for bi-weekly bite-sized book recommendations.
-description: Free database of books recommended by world-class people. Subscribe for bi-weekly bite-sized book recommendations.
+landingtitle: Books recommended by smart people.
+landingdescription: Our newsletter list is currently closed. Thank you for your interest!
+description: Free database of books recommended by world-class people.
 image: null
 author: null
 ---
